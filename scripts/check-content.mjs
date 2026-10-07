@@ -1,6 +1,6 @@
 // 建置前的內容檢查：npm run check（npm run generate 會先跑）
 // 檢查 content/notes/*.yml：
-//   - slug 和檔名一致、沒有重複
+//   - slug 和檔名一致、沒有重複、不在 removed.yml（移除的組不應該再出現）
 //   - 沒隱藏的組：topic 在 topics.yml 裡、主標籤不在 excluded
 //   - type 是四種之一
 //   - 圖片與附件檔案存在於 public/
@@ -17,6 +17,8 @@ const TYPES = ['教學', '提問', '分析', '資源']
 
 const { topics, excluded = [] } = parse(readFileSync(path.join(ROOT, 'content/topics.yml'), 'utf8'))
 const topicNames = new Set(topics.map(t => t.name))
+const removedFile = path.join(ROOT, 'content/removed.yml')
+const removed = new Set(existsSync(removedFile) ? (parse(readFileSync(removedFile, 'utf8')).removed ?? []).map(r => String(r.slug)) : [])
 
 const errors = []
 const seen = new Set()
@@ -35,6 +37,7 @@ for (const file of readdirSync(NOTES).filter(f => f.endsWith('.yml'))) {
   }
   if (String(note.slug) !== file.replace(/\.yml$/, '')) err(`slug ${note.slug} 和檔名不一致`)
   if (seen.has(note.slug)) err(`slug ${note.slug} 重複`)
+  if (removed.has(String(note.slug))) err('這組在 removed.yml 裡，應該刪掉這個檔案')
   seen.add(note.slug)
   if (note.hidden) hidden++
   else quizCount += note.quiz?.length ?? 0

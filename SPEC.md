@@ -31,7 +31,7 @@
 | `teacher` | 主要發言者（Shawnnnn、Alina、nick_AJ 之中發言字數最多的） |
 | `channel`、`date`、`url` | 頻道、日期（台北時間）、跳回 Discord 的連結 |
 | `summary` | 重點，1-3 句 |
-| `hidden` | `true` 就不顯示 |
+| `hidden` | `true` 就不顯示（保留給暫時藏起來用；Kai 不要的組直接刪檔並記進 `removed.yml`） |
 | `quiz[]` | 選擇題 `{q, o[4], a, e}`（題目、選項、正解索引 0-3、解析），依 `../prompts/quiz.md` 由 agent 出題。沒有這個欄位 = 還沒出題（`npm run quiz-todo` 會列出來）；`[]` = 沒有可以考的 |
 | `messages[]` | `id`、`author`、`teacher`、`time`、`text`，可能有 `reply`（被回覆的訊息摘要，`inGroup` 表示可以跳過去）、`images[]`（`src`、`alt`）、`files[]`（`src`、`alt`、`name`） |
 
@@ -43,9 +43,13 @@
 
 歸主題的規則（`build-site.mjs` 產生新組時套用）：
 
-1. 主標籤（`tags` 第一個）在 `excluded` → `hidden: true`
-2. 否則 `topic` = 第一個在 `topics` 裡的標籤
-3. 都不在 → `hidden: true`
+1. slug 在 `content/removed.yml` → 不寫入
+2. 主標籤（`tags` 第一個）在 `excluded` → 不寫入
+3. 否則 `topic` = 第一個在 `topics` 裡的標籤；都不在 → 不寫入
+
+### 3.2.1 `content/removed.yml`
+
+Kai 移除的組（`slug`、`title`）。這些組的檔案和只有它們用到的圖片已經刪掉；`build-site.mjs` 看到就跳過，`npm run check` 發現它們又出現會報錯。
 
 畫面上的標籤只顯示 `topics` 裡有的。
 
@@ -99,6 +103,7 @@
 ## 修改紀錄
 
 - 2026-10-07：第一版。
+- 2026-10-07：隱藏的 86 組改成直接刪除（檔案與圖片），記進 `removed.yml`。
 - 2026-10-07：加「筆記」分頁（`/memos`）。
 - 2026-10-07：發佈到 GitHub Pages。
 - 2026-10-07：複習改成選擇題（`quiz` 欄位、`tn-quiz`）。

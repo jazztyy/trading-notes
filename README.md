@@ -34,9 +34,9 @@ public/img/、public/files/ 縮過的圖片與附件
 |---|---|
 | 改標題、重點、標籤 | 直接改 `content/notes/{slug}.yml` 的 `title`、`summary`、`tags` |
 | 換主題 | 改 `topic`（必須是 `content/topics.yml` 裡的 `name`） |
-| 不要顯示某一組 | `hidden: true`（不要刪檔，刪了下次更新會再產生） |
+| 移除某一組 | 刪掉 `content/notes/{slug}.yml`（和只有它用到的圖片），並把 slug、標題加到 `content/removed.yml`，下次更新才不會再產生回來 |
 | 刪掉一則無關的訊息 | 從 `messages` 移除那一則 |
 | 主題順序、說明 | 改 `content/topics.yml` |
-| 整個主題拿掉 | 從 `topics.yml` 的 `topics` 移到 `excluded`，再把主標籤是它的組設 `hidden: true`（`npm run check` 會列出來） |
+| 整個主題拿掉 | 從 `topics.yml` 的 `topics` 移到 `excluded`，再移除主標籤是它的組（`npm run check` 會列出來）；之後新的同類組不會寫入 |
 
 改完跑 `npm run check`。規格見 [SPEC.md](SPEC.md)，畫面規範見 [DESIGN.md](DESIGN.md)。
