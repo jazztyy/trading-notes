@@ -36,6 +36,6 @@ export default defineNuxtConfig({
   nitro: {
     preset: 'github_pages',
     // 主題頁與每組討論的頁面由首頁和主題頁的連結爬出來
-    prerender: { crawlLinks: true, routes: ['/', '/review', '/search'] },
+    prerender: { crawlLinks: true, routes: ['/', '/review', '/memos', '/search'] },
   },
 })

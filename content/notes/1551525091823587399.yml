@@ -9,7 +9,7 @@ channel: 一般
 date: "2026-09-21"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551525091823587399
 summary: Alina用新工具看台虹位置，低守257、273站穩可能再往上；Shawn不太會拉斐波。
-hidden: false
+hidden: true
 messages:
   - id: "1551525091823587399"
     author: Alina

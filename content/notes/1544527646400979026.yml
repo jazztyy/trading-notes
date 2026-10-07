@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-02"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544527646400979026
 summary: 下方有支撐時不知灌破或撐住，沒單就等方向；250不破高機率往上；摸底摸頂是左側逆勢，停損要跑得快。
-hidden: false
+hidden: true
 messages:
   - id: "1544527646400979026"
     author: Shawnnnn

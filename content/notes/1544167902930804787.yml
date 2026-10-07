@@ -9,7 +9,7 @@ channel: 一般
 date: "2026-09-01"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544167902930804787
 summary: 台股當多軍勝率較高；期貨多空成本相同容易多空雙巴，個股做空成本較高。
-hidden: false
+hidden: true
 messages:
   - id: "1544167902930804787"
     author: Shawnnnn

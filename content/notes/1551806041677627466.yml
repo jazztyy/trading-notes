@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-22"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551806041677627466
 summary: Shawnnnn/Alina：照策略參數無情停損，10月當參數乖寶寶；逆勢單少做。
-hidden: false
+hidden: true
 messages:
   - id: "1551806041677627466"
     author: Alina

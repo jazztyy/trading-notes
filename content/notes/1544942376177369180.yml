@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-03"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544942376177369180
 summary: Alina 在719支撐掛樂透單，破670就損；Shawnnnn 認為尾盤若拉回是外資清槓桿味道，停損放前低附近。
-hidden: false
+hidden: true
 messages:
   - id: "1544942376177369180"
     author: Alina

@@ -9,7 +9,7 @@ channel: 一般
 date: "2026-09-10"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1547611768996634704
 summary: Shawn 在日線標出支撐區，提醒若沒守住要小心，之後再次貼出供複習。
-hidden: false
+hidden: true
 messages:
   - id: "1547611768996634704"
     author: Shawnnnn

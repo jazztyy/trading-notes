@@ -1,0 +1,102 @@
+slug: "1557387038918053980"
+title: 下影線長短與成交量判讀多空力道
+type: 提問
+topic: 盤勢判讀
+tags:
+  - 盤勢判讀
+  - 進場時機
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-07"
+url: https://discord.com/channels/1542520115562545162/1557383436115910688/1557387038918053980
+summary: 急跌後收出的下影線很短，Alina 說代表多方承接力量不夠，可以再多看幾根；Shawnnnn 補充市場無法說死，但短下影線代表空方仍強。反過來說，若下影線長、成交量又大，代表買方很強、有很多人在低檔承接。
+hidden: false
+messages:
+  - id: "1557387038918053980"
+    author: Alina
+    teacher: true
+    time: "2026-10-07 21:40"
+    text: 有出量欸
+  - id: "1557387146355282044"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-07 21:40"
+    text: 下引線收的短短的
+  - id: "1557387296448188427"
+    author: Mikey
+    teacher: false
+    time: "2026-10-07 21:41"
+    text: 下引線短短的是什麼情況？
+  - id: "1557387561842778336"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-07 21:42"
+    text: 不覺得這很短嗎
+    reply:
+      id: "1557387296448188427"
+      author: Mikey
+      text: 下引線短短的是什麼情況？
+      inGroup: true
+    images:
+      - src: /img/1557387561842778336-image.jpg
+        alt: 微台 5 分 K 連續長黑後，最後一根只留很短的下影線（紅圈處），代表承接力道弱
+  - id: "1557387716923228221"
+    author: Mikey
+    teacher: false
+    time: "2026-10-07 21:42"
+    text: 會繼續跌的意思嗎？
+    reply:
+      id: "1557387561842778336"
+      author: Shawnnnn
+      text: 不覺得這很短嗎
+      inGroup: true
+  - id: "1557387813660655677"
+    author: Alina
+    teacher: true
+    time: "2026-10-07 21:43"
+    text: 表示多方力量不夠
+    reply:
+      id: "1557387716923228221"
+      author: Mikey
+      text: 會繼續跌的意思嗎？
+      inGroup: true
+  - id: "1557387892232421469"
+    author: Alina
+    teacher: true
+    time: "2026-10-07 21:43"
+    text: 但可以再看幾根
+  - id: "1557387908028305472"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-07 21:43"
+    text: 市場沒辦法說的那麼絕對，但就是代表空方還是很強
+    reply:
+      id: "1557387716923228221"
+      author: Mikey
+      text: 會繼續跌的意思嗎？
+      inGroup: true
+  - id: "1557388329471713401"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-07 21:45"
+    text: 如果今天是這樣然後量又很大代表買方很強有很多人接
+    images:
+      - src: /img/1557388329471713401-image.jpg
+        alt: Shawnnnn 舉例：K 棒在缺口 49353 附近留下長下影線，若再配合大量，代表買方承接強
+quiz:
+  - q: 急跌後最後一根 K 棒只留很短的下影線，Shawnnnn 怎麼解讀？
+    o:
+      - 代表賣壓已經出盡，可以準備反手做多
+      - 代表空方還是很強，但市場不能說得絕對
+      - 代表多空打平，接下來大概會橫盤整理
+      - 代表有大戶在低檔承接，跌勢即將結束
+    a: 1
+    e: Shawnnnn 說短下影線代表空方仍強，但市場沒辦法說死；Alina 也補充多方力量不夠、可以再多看幾根。
+  - q: 依 Shawnnnn 的說法，什麼情況代表買方很強、很多人在低檔接？
+    o:
+      - 下影線很短，同時成交量明顯縮小
+      - 收長黑 K，同時成交量明顯放大
+      - 下影線很長，同時成交量又很大
+      - 上影線很長，同時成交量又很大
+    a: 2
+    e: Shawnnnn 舉例 K 棒留下長下影線、量又很大時，代表買方很強、有很多人承接；短下影線則代表承接力道弱。

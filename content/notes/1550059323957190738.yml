@@ -9,7 +9,7 @@ channel: 一般
 date: "2026-09-17"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1550059323957190738
 summary: Shawnnnn 看下去要看385是否有撐，月均目前有撐。
-hidden: false
+hidden: true
 messages:
   - id: "1550059323957190738"
     author: Shawnnnn

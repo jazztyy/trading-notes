@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-13"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1548684484331966596
 summary: Shawn：日線仍多頭，單邊以做多勝率高；夜盤已到4小時K壓力，需防假突破；下週可能在兩條紅線間震盪，成本非46100以下者以短線為主；停損就不會大重傷。
-hidden: false
+hidden: true
 messages:
   - id: "1548684484331966596"
     author: Shawnnnn

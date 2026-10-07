@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-17"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1549986866437029969
 summary: Shawnnnn 在30分位置進場，說台指期難在判斷何時該耐心；盤整區沒量、插針多，不確定是否有效轉支撐時 Alina 選擇綁手。
-hidden: false
+hidden: true
 messages:
   - id: "1549986866437029969"
     author: Alina

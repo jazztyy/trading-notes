@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-03"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544988872763514901
 summary: nick_AJ 看壓力在464附近，462穩；5分K偏往上，除非有消息；沒有 TV 指標不敢加碼。
-hidden: false
+hidden: true
 messages:
   - id: "1544988872763514901"
     author: nick_AJ

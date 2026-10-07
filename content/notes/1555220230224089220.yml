@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-10-01"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555220230224089220
 summary: Alina 指出60K插針處為強撐（283、跳水位272），掛接單反彈約100點；nick 建議接兩口，一口賺一點先出、另一口設保本；Shawn 說接刀停損設180-200。
-hidden: false
+hidden: true
 messages:
   - id: "1555220230224089220"
     author: 維尼Ni🌻

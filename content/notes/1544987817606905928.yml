@@ -9,7 +9,7 @@ channel: 一般
 date: "2026-09-03"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544987817606905928
 summary: nick_AJ 常被保本單打掉（本來200點只拿60點），一口無法分批停利；建議獲利後設保本。Doobe/ROCH 討論盤整洗盤。
-hidden: false
+hidden: true
 messages:
   - id: "1544987817606905928"
     author: nick_AJ

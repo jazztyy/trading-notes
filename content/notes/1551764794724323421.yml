@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-22"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551764794724323421
 summary: Shawn：48500能否撐；30分K快線壓；Alina 以EMA200與撐壓觀察，昨日點位；一小時收盤漂亮回踩。
-hidden: false
+hidden: true
 messages:
   - id: "1551764794724323421"
     author: Shawnnnn

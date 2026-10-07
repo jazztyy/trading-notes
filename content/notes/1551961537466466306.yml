@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-22"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551961537466466306
 summary: Alina/ROCH：夜盤對稱N字，5分K完美回踩；留一口隔日。
-hidden: false
+hidden: true
 messages:
   - id: "1551961537466466306"
     author: Alina

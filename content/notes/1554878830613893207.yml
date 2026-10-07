@@ -9,7 +9,7 @@ channel: 一般
 date: "2026-09-30"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1554878830613893207
 summary: Impulse MACD 較複雜，常需搭配其他指標或多口數分批停利；KDJ 可只看 J 值，J<0 可試抄底；波段看大級別搭配 MACD、KD；指標不宜疊太多以免打架。
-hidden: false
+hidden: true
 messages:
   - id: "1554878830613893207"
     author: 維尼Ni🌻

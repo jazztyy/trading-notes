@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-14"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1548863697877868695
 summary: Shawn 以日線看個股6532的趨勢與回踩，波段以日線趨勢回踩或30分以上找進場。
-hidden: false
+hidden: true
 messages:
   - id: "1548863697877868695"
     author: Shawnnnn

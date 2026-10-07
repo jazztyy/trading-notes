@@ -9,7 +9,7 @@ channel: 一般
 date: "2026-09-03"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544991388268101633
 summary: Doobe 覺得微台比較好，小台容易卡住；nick 說是總資金量問題，蕭大把小台當微台打。
-hidden: false
+hidden: true
 messages:
   - id: "1544991388268101633"
     author: Doobe

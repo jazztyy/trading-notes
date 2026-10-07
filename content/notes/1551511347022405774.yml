@@ -9,7 +9,7 @@ channel: 一般
 date: "2026-09-21"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551511347022405774
 summary: 指數過壓力、趨勢盤；漲勢看撐不看壓，追多沒多久就上去；殺人誅心盤模式(嘎空再殺多)；Alina猜明天開高走低但不確定；注意9:30前出量與加權預估量。
-hidden: false
+hidden: true
 messages:
   - id: "1551511347022405774"
     author: Alina

@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-09"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1547096200518303834
 summary: Shawn 以1小時、30分K多方趨勢仍在，說明現在只是健康回檔。
-hidden: false
+hidden: true
 messages:
   - id: "1547096200518303834"
     author: Shawnnnn

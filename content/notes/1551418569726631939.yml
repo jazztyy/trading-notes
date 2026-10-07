@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-21"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551418569726631939
 summary: Mikey跟H大單失敗後錯過大單；nick說信任策略要堅持；用程式單遵守紀律，就算賠也是小賠。
-hidden: false
+hidden: true
 messages:
   - id: "1551418569726631939"
     author: Mikey

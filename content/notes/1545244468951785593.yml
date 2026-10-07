@@ -9,7 +9,7 @@ channel: 一般
 date: "2026-09-04"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1545244468951785593
 summary: Alina 看 45965 為多空交界、整數46000，沒守住可能再測45700；Shawnnnn 詢問交界位置。
-hidden: false
+hidden: true
 messages:
   - id: "1545244468951785593"
     author: Shawnnnn

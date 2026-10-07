@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-04"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1545103587695136818
 summary: Alina 掛單睡覺空400，隔天被嘎到600；夜盤拉高、日盤倒貨劇本應驗；程式單常在3-5點動作。
-hidden: false
+hidden: true
 messages:
   - id: "1545103587695136818"
     author: Alina

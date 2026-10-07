@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-10-01"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555174022524964934
 summary: nick 貼本日撐壓圖：黃金交叉轉向多頭，第一壓687，Mikey 說剛好是最高點；Shawn 提醒基準價有撐。
-hidden: false
+hidden: true
 messages:
   - id: "1555174022524964934"
     author: nick_AJ

@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-21"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551428980333215859
 summary: Alina持有封測族群(南茂/日月光/京元電/力成/頎邦)，現股可放、股期不敢；日月光紅K多天考慮賣；Shawn現股水位10%。
-hidden: false
+hidden: true
 messages:
   - id: "1551428980333215859"
     author: Alina

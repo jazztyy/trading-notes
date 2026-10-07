@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-16"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1549621407410036752
 summary: 宸提到碰到麥金利線在上升曲線中是好買點，盤前VIX與油會先跌；Alina 第一停利目標500；最近局勢不適合長抱，適合短打。
-hidden: false
+hidden: true
 messages:
   - id: "1549621407410036752"
     author: Alina

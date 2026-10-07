@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-16"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1549642757595865178
 summary: Shawnnnn 問依 BOS 順勢做、CHoCH 反向做勝率是否高；ROCH 認為 BOS（順勢）比 CHoCH 可信、CHoCH 僅輔助；Alina 說這類指標有滯後性，資訊太多反而影響判斷，偏好關鍵位、量能與裸K。
-hidden: false
+hidden: true
 messages:
   - id: "1549642757595865178"
     author: Alina

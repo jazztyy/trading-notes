@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-04"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1545297903076122684
 summary: Alina 三口多單在600先平一口、650/700掛單排隊分批出場，一分K碰線加碼；47400為關鍵大壓區；Shawnnnn 提醒不要跟趨勢做對，逆勢先等47000。
-hidden: false
+hidden: true
 messages:
   - id: "1545297903076122684"
     author: Alina

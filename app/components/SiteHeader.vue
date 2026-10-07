@@ -1,11 +1,12 @@
 <script setup lang="ts">
-// 頂部列：站名＋全站導覽（主題／複習／搜尋）＋深淺色切換。
+// 頂部列：站名＋全站導覽（主題／複習／筆記／搜尋）＋深淺色切換。
 // 導覽只用字色表示目前位置：選中金色、其他灰色。規格見 DESIGN.md「導覽」。
 const route = useRoute()
 
 const NAV = [
   { label: '主題', to: '/', match: (p: string) => p === '/' || p.startsWith('/t/') || p.startsWith('/n/') },
   { label: '複習', to: '/review', match: (p: string) => p.startsWith('/review') },
+  { label: '筆記', to: '/memos', match: (p: string) => p.startsWith('/memos') },
   { label: '搜尋', to: '/search', match: (p: string) => p.startsWith('/search') },
 ]
 

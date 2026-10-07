@@ -9,7 +9,7 @@ channel: 一般
 date: "2026-09-14"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1548965848671060051
 summary: 討論部分喊單者不停損、區間無限放大（無限金幣凹單戰術）、不說多空；提醒有期貨分析師牌照還需簽投顧契約才能帶單，非法帶單可檢舉；Shawnnnn 提醒追隨大神的痛點是無法每次跟到、不知道何時出場，主張自己復盤。
-hidden: false
+hidden: true
 messages:
   - id: "1548965848671060051"
     author: Shawnnnn

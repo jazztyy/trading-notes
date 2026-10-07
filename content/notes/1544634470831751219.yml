@@ -9,7 +9,7 @@ channel: 一般
 date: "2026-09-02"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544634470831751219
 summary: nick_AJ、Doobe用AI寫TV策略，但訊號仍不準(Doobe寫了26版)；可把程式碼丟給AI修改，但要搭配回測；AI比人眼不精確。
-hidden: false
+hidden: true
 messages:
   - id: "1544634470831751219"
     author: nick_AJ

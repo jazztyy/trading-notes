@@ -11,7 +11,7 @@ channel: 一般
 date: "2026-09-03"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1545087545581240370
 summary: Alina 預期夜盤漲、日盤跌（金融股被買、前次類似隔天不佳、週五空軍日）；宸認為外資不會好心；皮特問空單300點停損是否太保守，Alina 認為300點已不算保守，Shawnnnn 自己停損抓約40點。
-hidden: false
+hidden: true
 messages:
   - id: "1545087545581240370"
     author: 宸

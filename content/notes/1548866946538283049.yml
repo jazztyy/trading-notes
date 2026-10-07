@@ -9,7 +9,7 @@ channel: 一般
 date: "2026-09-14"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1548866946538283049
 summary: 查到外資空單持倉成本約44892，Shawn 提醒該口數是所有月份加總，並非全為近月。
-hidden: false
+hidden: true
 messages:
   - id: "1548866946538283049"
     author: 維尼Ni🌻

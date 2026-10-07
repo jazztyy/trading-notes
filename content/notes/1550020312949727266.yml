@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-09-17"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1550020312949727266
 summary: Alina 大範圍壓力46945、交界46580、支撐45955，持續練習配合一關一關壓力支撐；她停損設很寬，因為用前面獲利做擔保（但提醒成本差樂透失敗）；Shawnnnn 看壓力46710。
-hidden: false
+hidden: true
 messages:
   - id: "1550020312949727266"
     author: Alina

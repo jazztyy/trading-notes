@@ -9,7 +9,7 @@ channel: 一般
 date: "2026-08-28"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1542801743526629447
 summary: Shawnnnn用Pine語法讓線依趨勢變色(橘黃代表震盪、趨勢未出現)；nick_AJ設計黃底多軍、粉紅底空軍、黑底盤整，K棒下箭頭為進場訊號。
-hidden: false
+hidden: true
 messages:
   - id: "1542801743526629447"
     author: Shawnnnn

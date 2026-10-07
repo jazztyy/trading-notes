@@ -10,7 +10,7 @@ channel: 一般
 date: "2026-10-02"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555568902631591987
 summary: Shawnnnn夜盤看1分K在49096進多（自評進場不算漂亮），之後只要出現一根有利K棒就把停損移到保本。
-hidden: false
+hidden: true
 messages:
   - id: "1555568902631591987"
     author: Shawnnnn

@@ -9,7 +9,7 @@ channel: 一般
 date: "2026-09-24"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1552497300172050493
 summary: Alina：新盛力不要追紅、買綠安全，紅K第三天一定要跑；晶技、南茂冤魂多股性差；BBU概念股（3211、4931、6781）可慢慢布局，附BBU懶人包連結；觀察標的含金像電、欣銓、台虹、聯發科、台耀。
-hidden: false
+hidden: true
 messages:
   - id: "1552497300172050493"
     author: Alina

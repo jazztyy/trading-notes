@@ -9,7 +9,7 @@ channel: 一般
 date: "2026-09-21"
 url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551419083084533833
 summary: Alina看30分K參數本月勝率不錯、做到小賠大賺；10月打算完全照參數。
-hidden: false
+hidden: true
 messages:
   - id: "1551419083084533833"
     author: Alina
