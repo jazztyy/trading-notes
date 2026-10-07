@@ -1,0 +1,123 @@
+slug: "1547992472360063068"
+title: 三角收斂：突破後回踩再進場
+type: 教學
+topic: 盤整震盪
+tags:
+  - 盤整震盪
+  - 進場時機
+  - 停損停利
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-11"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1547992472360063068
+summary: Shawn：三角收斂不要急著下單，等出方向後回踩再試單，停損好設；停損設在起漲低點約44點，勝率較高。
+hidden: false
+messages:
+  - id: "1547992472360063068"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-11 23:29"
+    text: 這邊也分享一下我想有些人應該也知道這個東西
+    images:
+      - src: /img/1547992472360063068-image.jpg
+        alt: 微台2分K三角收斂，突破後回踩的買進點(黃箭頭)
+  - id: "1547992517889368185"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-11 23:29"
+    text: 反正就是收斂後突破回踩去進單
+  - id: "1547992539162873917"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-11 23:29"
+    text: 我不知道 求教學
+  - id: "1547992650794270801"
+    author: YOU
+    teacher: false
+    time: "2026-09-11 23:30"
+    text: 三角收斂是嘛
+  - id: "1547992675318243329"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-11 23:30"
+    text: 對
+    reply:
+      id: "1547992650794270801"
+      author: YOU
+      text: 三角收斂是嘛
+      inGroup: true
+  - id: "1547992745451462708"
+    author: YOU
+    teacher: false
+    time: "2026-09-11 23:30"
+    text: 出方向 回踩試單
+  - id: "1547992770700902401"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-11 23:30"
+    text: 就是三角收斂不要急著下單，看他出方向後的回踩去試試看
+    reply:
+      id: "1547992539162873917"
+      author: 維尼Ni🌻
+      text: 我不知道 求教學
+      inGroup: true
+  - id: "1547992821271634112"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-11 23:30"
+    text: 停損也好設
+  - id: "1547993060766654545"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-11 23:31"
+    text: 加減看看哈哈哈反正這個剛好2分K紅線位置差不多
+    reply:
+      id: "1547992874535227424"
+      author: YOU
+      text: S大 反應好快 我沒注意到這個
+      inGroup: false
+  - id: "1547993091242332292"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-11 23:31"
+    text: 勝率會高一些
+  - id: "1547995399405441126"
+    author: ChengHsun
+    teacher: false
+    time: "2026-09-11 23:41"
+    text: 請問停損是設下方那條上升趨勢線嗎？
+    reply:
+      id: "1547992821271634112"
+      author: Shawnnnn
+      text: 停損也好設
+      inGroup: true
+  - id: "1547995697461334167"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-11 23:42"
+    text: 我會設定在這邊起漲的低點這樣大概44點而已
+    reply:
+      id: "1547995399405441126"
+      author: ChengHsun
+      text: 請問停損是設下方那條上升趨勢線嗎？
+      inGroup: true
+    images:
+      - src: /img/1547995697461334167-image.jpg
+        alt: 突破後回踩進場，停損至起漲低點約-44點
+quiz:
+  - q: 遇到三角收斂時，Shawnnnn 建議怎麼進場？
+    o:
+      - 在收斂區內先試單，等突破再加碼
+      - 不要急著下單，等出方向後的回踩再去試單
+      - 一突破收斂區就馬上追價進場
+      - 收斂時多空各掛一張，突破後砍掉反向單
+    a: 1
+    e: Shawnnnn 說三角收斂不要急著下單，看它出方向後的回踩去試試看，停損好設、勝率也會高一些。
+  - q: 三角收斂突破回踩進場後，Shawnnnn 把停損設在哪裡？
+    o:
+      - 下方那條上升趨勢線
+      - 收斂區的上緣
+      - 這一段起漲的低點
+      - 固定抓進場價下方 100 點
+    a: 2
+    e: 被問到是否設在上升趨勢線時，Shawnnnn 說他會設在起漲的低點，這樣大概 44 點而已。

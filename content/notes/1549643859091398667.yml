@@ -1,0 +1,107 @@
+slug: "1549643859091398667"
+title: Shawnnnn 回踩進場規劃與停損計算
+type: 教學
+topic: 進場時機
+tags:
+  - 進場時機
+  - 停損停利
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-16"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1549643859091398667
+summary: Shawnnnn 展示回踩區間（紅色與綠色中間為進倉價45941），若回來停損約55點；午盤無波動先出場，下午晚上重新規劃；支撐看45990再下去45739。
+hidden: false
+messages:
+  - id: "1549643859091398667"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 12:51"
+    text: 這裡撐住先看46095
+  - id: "1549643988057718837"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 12:51"
+    text: 900停損
+  - id: "1549650373449617489"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 13:17"
+    text: 不先賭下午 我多單要先出場
+  - id: "1549650853604884562"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 13:19"
+    text: 但現在這鳥樣 下午晚上在重新規劃
+  - id: "1549651377855275098"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 13:21"
+    text: 可是這回踩好有意思
+    images:
+      - src: /img/1549651377855275098-image.jpg
+        alt: 30分K圖，藍色下降趨勢線被突破後回踩（紅圈）
+  - id: "1549652073417801781"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 13:24"
+    text: 下午在看會不會回來~有回來我會嘗試
+  - id: "1549652086004916284"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 13:24"
+    text: ""
+    images:
+      - src: /img/1549652086004916284-image.jpg
+        alt: 30分K圖，TV倉位工具：目標301、停損55、風報比5.47，進倉價45,941
+  - id: "1549652135388385351"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 13:24"
+    text: 有回來的話停損大概55點而已
+  - id: "1549660556271820843"
+    author: Annahui
+    teacher: false
+    time: "2026-09-16 13:57"
+    text: 回來這個框框的下緣嗎
+    reply:
+      id: "1549652086004916284"
+      author: Shawnnnn
+      text: ""
+      inGroup: true
+  - id: "1549660674110656513"
+    author: Annahui
+    teacher: false
+    time: "2026-09-16 13:58"
+    text: 會放到半夜的fomc嗎？
+  - id: "1549661961724100709"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 14:03"
+    text: 紅色跟綠色中間是進倉價位(45941)，這個我還沒進，剛剛看沒啥波動030就先出掉了，我要看他有沒有回來再進
+    reply:
+      id: "1549660556271820843"
+      author: Annahui
+      text: 回來這個框框的下緣嗎
+      inGroup: true
+  - id: "1549679031950123079"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 15:11"
+    text: 目前支撐看45990再下去看45739
+quiz:
+  - q: 午盤看起來沒什麼波動時，Shawnnnn 怎麼處理手上的多單？
+    o:
+      - 續抱到下午，看收盤前有沒有發動再決定
+      - 加碼一口拉低成本，等下午表態
+      - 不先賭下午，先出場，下午晚上再重新規劃
+      - 把停損拉到成本價，讓單子繼續跑
+    a: 2
+    e: Shawnnnn 說「不先賭下午，我多單要先出場」，盤勢沒波動就先出，下午晚上再重新規劃。
+  - q: 突破下降趨勢線後的回踩，Shawnnnn 打算怎麼進場？
+    o:
+      - 突破當下直接市價追進，停損設在趨勢線下
+      - 已經先進場，等回踩到趨勢線時再加碼一口
+      - 等跌破支撐後反手做空
+      - 先出場觀望，等價格回到規劃的進倉價再進
+    a: 3
+    e: 他說進倉價 45941 那筆還沒進，要看價格有沒有回來再進，回來的話停損只要約 55 點。

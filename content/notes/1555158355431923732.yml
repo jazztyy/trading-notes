@@ -1,0 +1,35 @@
+slug: "1555158355431923732"
+title: 線密集時不要亂進多
+type: 教學
+topic: 盤整震盪
+tags:
+  - 盤整震盪
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-01"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555158355431923732
+summary: Shawn 提醒線太密集、趨勢不明確時不要進多。
+hidden: false
+messages:
+  - id: "1555158355431923732"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 18:04"
+    text: 維尼你看線很密集就不要亂進多
+    images:
+      - src: /img/1555158355431923732-image.jpg
+        alt: K線圖：均線密集糾結區
+  - id: "1555158388902461543"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 18:04"
+    text: 趨勢沒很明確
+quiz:
+  - q: Shawnnnn 提醒維尼，什麼情況下不要亂進多？
+    o:
+      - 價格剛站上均價線、量還沒放大時
+      - 線很密集、趨勢沒有很明確時
+      - MACD 剛翻紅、還在零軸下時
+      - 價格離 EMA200 太遠、乖離過大時
+    a: 1
+    e: Shawnnnn 說「線很密集就不要亂進多」，因為趨勢沒很明確。

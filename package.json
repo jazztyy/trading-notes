@@ -1,0 +1,29 @@
+{
+  "name": "trading-notes",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "node scripts/check-content.mjs && nuxt generate",
+    "preview": "nuxt preview",
+    "typecheck": "nuxt typecheck",
+    "postinstall": "nuxt prepare",
+    "check": "node scripts/check-content.mjs",
+    "quiz-todo": "node scripts/quiz-todo.mjs"
+  },
+  "dependencies": {
+    "@nuxt/content": "^3.16.1",
+    "@nuxt/ui": "^4.11.2",
+    "@vueuse/nuxt": "^15.0.0",
+    "better-sqlite3": "^13.0.3",
+    "nuxt": "^4.5.2",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@iconify-json/lucide": "^1.2.140",
+    "typescript": "^5.9.3",
+    "vue-tsc": "^3.3.11",
+    "yaml": "^2.9.1"
+  }
+}

@@ -1,0 +1,126 @@
+slug: "1550346056993210439"
+title: 噴出缺口後等回踩進場、進場位置看出場位置
+type: 教學
+topic: 進場時機
+tags:
+  - 進場時機
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-18"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1550346056993210439
+summary: 噴出後先獲利等回踩，沒單別亂追；進場位置要先看出場位置好不好，不好就不進；耐心反向就變凹單；快速漲跌一段後休息是正常的。
+hidden: false
+messages:
+  - id: "1550346056993210439"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-18 11:21"
+    text: 標準圖，拉出去有回來
+    images:
+      - src: /img/1550346056993210439-image.jpg
+        alt: 15分K微台：均線上BUY訊號後拉出去再回踩，標準回踩進場圖
+  - id: "1550346205408788502"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-18 11:22"
+    text: 對 考量基本 就又進去了
+    reply:
+      id: "1550346056993210439"
+      author: Shawnnnn
+      text: 標準圖，拉出去有回來
+      inGroup: true
+  - id: "1550347402404298884"
+    author: Annahui
+    teacher: false
+    time: "2026-09-18 11:27"
+    text: 師父回踩進單了嗎
+    reply:
+      id: "1550346056993210439"
+      author: Shawnnnn
+      text: 標準圖，拉出去有回來
+      inGroup: true
+  - id: "1550347474735206472"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-18 11:27"
+    text: 對
+  - id: "1550347537997889537"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-18 11:27"
+    text: 我剛底部空手等方向
+  - id: "1550347606109200445"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-18 11:27"
+    text: 噴出去就是要開始關注
+  - id: "1550347941338677378"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-18 11:29"
+    text: 應該噴出去就要先獲利
+  - id: "1550347950729723966"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-18 11:29"
+    text: 等回踩
+  - id: "1550351865060003881"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-18 11:44"
+    text: 耐心很重要
+  - id: "1550351921511141377"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-18 11:45"
+    text: 反向的耐心就變凹單了
+  - id: "1550352205117259827"
+    author: Alina
+    teacher: true
+    time: "2026-09-18 11:46"
+    text: 所以後來盡量在點位附近進場
+  - id: "1550352310755008533"
+    author: Alina
+    teacher: true
+    time: "2026-09-18 11:46"
+    text: 比較好抓筍
+  - id: "1550352812842418198"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-18 11:48"
+    text: 真的要這樣，進場的位置就要去看出場位置好不好
+  - id: "1550352852541771837"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-18 11:48"
+    text: 如果出場位置不好乾脆不要進
+  - id: "1550360650402889821"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-18 12:19"
+    text: 沒單先別亂追，有回踩都是機會
+    images:
+      - src: /img/1550360650402889821-image.jpg
+        alt: 微台15分K：前壓47410、缺口47102，BUY訊號後紅K回踩均線的標註
+  - id: "1550362009894129705"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-18 12:25"
+    text: 要記得快速上漲或下跌一段就會休息是正常的，現在不是跟去年到今年年初一樣看到噴隨便進去都可以吃一大段的行情
+quiz:
+  - q: 依 Shawnnnn 的說法，決定要不要進場前要先看什麼？
+    o:
+      - 對應的出場位置好不好，不好就乾脆不要進
+      - 當下成交量有沒有放大，沒放量就不要進
+      - 這筆單能不能一次賺到一大段才值得進
+      - 其他老師有沒有喊同方向，有才跟著進
+    a: 0
+    e: Shawnnnn 說「進場的位置就要去看出場位置好不好，如果出場位置不好乾脆不要進」。
+  - q: 價格噴出去之後，手上沒單的人 Shawnnnn 建議怎麼做？
+    o:
+      - 趁動能強立刻追進，避免錯過
+      - 反向做空，賭噴出後一定拉回
+      - 不要亂追，等回踩，有回踩都是機會
+      - 改看 1 分 K 找最早的進場點
+    a: 2
+    e: 他說「沒單先別亂追，有回踩都是機會」，並提醒快速漲跌一段後休息是正常的，現在不是看到噴隨便進都能吃一大段的行情。

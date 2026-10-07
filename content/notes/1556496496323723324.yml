@@ -1,0 +1,135 @@
+slug: "1556496496323723324"
+title: Q姊目標價50262的斐波算法
+type: 教學
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 盤勢判讀
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-05"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1556496496323723324
+summary: Shawnnnn拆解Q姊目標價：日K前高48946減回測低點47630得1316，加回區間高點得50262；Alina指出這是斐波延伸2倍目標，回檔0.618位置為47630+1316×0.618≈48443。Shawnnnn認為回踩0.382最好，Alina則說0.382是無腦多位置，應先守0.618，回到0.786就會進單。
+hidden: false
+messages:
+  - id: "1556496496323723324"
+    author: YOU
+    teacher: false
+    time: "2026-10-05 10:41"
+    text: ""
+    images:
+      - src: /img/1556496496323723324-IMG_0824.jpg
+        alt: 計算機截圖：1316+48946=50262、813.288+47630=48443（0.618回檔位）
+  - id: "1556507662969995358"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-05 11:25"
+    text: 我目前只知道第一個就是日K高點跟回測後的低點相減後，加上區間的高點為目標價
+    reply:
+      id: "1556496496323723324"
+      author: YOU
+      text: ""
+      inGroup: true
+    images:
+      - src: /img/1556507662969995358-image.jpg
+        alt: 微台日K：標出前壓48946與回測低點47630
+  - id: "1556507692615475261"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-05 11:25"
+    text: 第二個比較難解
+  - id: "1556510180601110610"
+    author: Alina
+    teacher: true
+    time: "2026-10-05 11:35"
+    text: 1316*0.618，斐波
+    reply:
+      id: "1556507692615475261"
+      author: Shawnnnn
+      text: 第二個比較難解
+      inGroup: true
+  - id: "1556511277269127209"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-05 11:40"
+    text: 那Q姊有一部份策略就是用匪波
+    images:
+      - src: /img/1556511277269127209-image.jpg
+        alt: 微台日K斐波：0=47630、0.382=48133、0.618=48443、1=48946前壓、1.618=49759、2=50262
+  - id: "1556511313537007619"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-05 11:40"
+    text: 2就是他的目標價
+  - id: "1556511329643143189"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-05 11:40"
+    text: "50262"
+  - id: "1556511386006323343"
+    author: Alina
+    teacher: true
+    time: "2026-10-05 11:40"
+    text: 對，我剛剛看起來邏輯是
+  - id: "1556511454537187459"
+    author: Alina
+    teacher: true
+    time: "2026-10-05 11:40"
+    text: 延伸目標
+    reply:
+      id: "1556511329643143189"
+      author: Shawnnnn
+      text: "50262"
+      inGroup: true
+  - id: "1556511539060801567"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-05 11:41"
+    text: 對
+    reply:
+      id: "1556511454537187459"
+      author: Alina
+      text: 延伸目標
+      inGroup: true
+  - id: "1556511578357235733"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-05 11:41"
+    text: 但有踩0.382是最好
+  - id: "1556511915499327529"
+    author: Alina
+    teacher: true
+    time: "2026-10-05 11:42"
+    text: 這是無腦多位置🤣
+    reply:
+      id: "1556511578357235733"
+      author: Shawnnnn
+      text: 但有踩0.382是最好
+      inGroup: true
+  - id: "1556512150485471353"
+    author: Alina
+    teacher: true
+    time: "2026-10-05 11:43"
+    text: 但應該先守618為主
+  - id: "1556512762220257302"
+    author: Alina
+    teacher: true
+    time: "2026-10-05 11:46"
+    text: 不用0.382、給我0.786那個位置我就進單🤣
+quiz:
+  - q: Shawnnnn 拆解 Q 姊目標價的第一個算法是？
+    o:
+      - 日 K 高點加上回測低點，再除以 2
+      - 日 K 高點減回測低點的差，乘 0.618 加回低點
+      - 日 K 高點減回測低點的差，加上區間高點
+      - 前一日收盤價加上當日振幅
+    a: 2
+    e: Shawnnnn 說是日 K 高點跟回測後低點相減（1316），加上區間高點（48946）得到目標價；Alina 指出這就是斐波延伸 2 倍。
+  - q: 談到回檔位置時，Alina 的看法是？
+    o:
+      - 一定要等回到 0.382 才進場做多
+      - 先守 0.618，回到 0.786 她就會進單
+      - 跌破 0.618 代表目標價失效，不能做多
+      - 斐波回檔不準，只看目標價就好
+    a: 1
+    e: Shawnnnn 認為踩 0.382 最好，Alina 說那是無腦多位置，應先守 0.618 為主，給她 0.786 就進單。

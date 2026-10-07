@@ -1,0 +1,136 @@
+slug: "1556538529583206493"
+title: 看不懂的盤空手與跟單要筆筆跟
+type: 教學
+topic: 交易心態
+tags:
+  - 交易心態
+  - 程式交易
+teacher: nick_AJ
+channel: 一般
+date: "2026-10-05"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1556538529583206493
+summary: nick_AJ被嘎空手，Shawnnnn肯定這代表沒有在看不懂的盤面亂下單。關於跟喊單：任何人都有不準的時候、要統計勝率；Shawnnnn與nick_AJ強調要跟就要筆筆都跟（同程式單），挑單跟多半挑到輸的，回撤時就是考驗信仰的時候。
+hidden: false
+messages:
+  - id: "1556538529583206493"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-05 13:28"
+    text: 今日也是被嘎空手
+  - id: "1556545039197540393"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-05 13:54"
+    text: 那也很棒~代表你沒有在看不懂的盤面亂下單
+    reply:
+      id: "1556538529583206493"
+      author: nick_AJ
+      text: 今日也是被嘎空手
+      inGroup: true
+  - id: "1556545108000903201"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-05 13:54"
+    text: 真的 雖然一度很像做空
+  - id: "1556545140917534752"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-05 13:54"
+    text: 但是也感覺會被嘎上去
+  - id: "1556545250871353347"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-05 13:55"
+    text: 因為散戶應該跟我一樣想法😂
+    reply:
+      id: "1556545108000903201"
+      author: nick_AJ
+      text: 真的 雖然一度很像做空
+      inGroup: true
+  - id: "1556576538588221491"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-05 15:59"
+    text: 會有不準的時候才正常
+  - id: "1556576577490395158"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-05 15:59"
+    text: 總是要校正回歸
+  - id: "1556576781706989660"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-05 16:00"
+    text: 跟我們設計的程式一樣 回測數據看看才知道有沒有料😎 😂
+  - id: "1556578990498648166"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-05 16:09"
+    text: 可以統計一下他的勝率
+    reply:
+      id: "1556576569554632735"
+      author: "99"
+      text: 亂喊
+      inGroup: false
+  - id: "1556580163477831701"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-05 16:13"
+    text: 這種要跟就要筆筆都跟
+  - id: "1556580262501023755"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-05 16:14"
+    text: 不然的話就會常發生怎麼我跟都輸
+  - id: "1556580274828218431"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-05 16:14"
+    text: 對 就是跟程式單一樣
+    reply:
+      id: "1556580163477831701"
+      author: Shawnnnn
+      text: 這種要跟就要筆筆都跟
+      inGroup: true
+  - id: "1556580309510918266"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-05 16:14"
+    text: 不可以害怕
+  - id: "1556580423310643302"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-05 16:14"
+    text: 如果挑單跟 多半都會挑到輸的
+  - id: "1556580583222550538"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-05 16:15"
+    text: 對
+    reply:
+      id: "1556580274828218431"
+      author: nick_AJ
+      text: 對 就是跟程式單一樣
+      inGroup: true
+  - id: "1556580639015436350"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-05 16:15"
+    text: 回撤的時候就是考驗信仰的時候了
+quiz:
+  - q: 對於跟別人的喊單，Shawnnnn 和 nick_AJ 的建議是？
+    o:
+      - 只挑自己有把握的單跟，降低風險
+      - 連輸兩次就停止跟單
+      - 跟單時把停損設得比喊單者更緊
+      - 要跟就筆筆都跟，像程式單一樣不挑單
+    a: 3
+    e: Shawnnnn 說要跟就要筆筆都跟，不然常發生「怎麼我跟都輸」；nick_AJ 補充挑單跟多半會挑到輸的。
+  - q: nick_AJ 被嘎空手時，Shawnnnn 為什麼說「那也很棒」？
+    o:
+      - 因為空手就不會被收手續費
+      - 代表他沒有在看不懂的盤面亂下單
+      - 因為隔天一定會有更好的進場點
+      - 代表他的空單停損設得很好
+    a: 1
+    e: Shawnnnn 說空手代表沒有在看不懂的盤面亂下單。

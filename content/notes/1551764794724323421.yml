@@ -1,0 +1,156 @@
+slug: "1551764794724323421"
+title: 台指期當日觀察與點位（零散）
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 盤勢判讀
+teacher: Alina
+channel: 一般
+date: "2026-09-22"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551764794724323421
+summary: Shawn：48500能否撐；30分K快線壓；Alina 以EMA200與撐壓觀察，昨日點位；一小時收盤漂亮回踩。
+hidden: false
+messages:
+  - id: "1551764794724323421"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-22 09:19"
+    text: 台指期看48500有沒有撐
+  - id: "1551786710092873828"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 10:46"
+    text: 又回來了
+    images:
+      - src: /img/1551786710092873828-image.jpg
+        alt: 價格下穿支撐出量的K線圖
+  - id: "1551797781625180211"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 11:30"
+    text: 很想學撐壓判斷XD
+  - id: "1551801392039989321"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 11:44"
+    text: 微台我的長這樣
+    images:
+      - src: /img/1551801392039989321-image.jpg
+        alt: 微台K線與EMA200
+  - id: "1551801591986782219"
+    author: Mikey
+    teacher: false
+    time: "2026-09-22 11:45"
+    text: 女神的350一到就彈耶
+  - id: "1551802129696432159"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-22 11:47"
+    text: 怎麼有辦法這麼會算撐壓
+  - id: "1551802326203760780"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 11:48"
+    text: 沒錯，我目前功力只到算整天大範圍 XDDD
+  - id: "1551802440603533483"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 11:48"
+    text: 很想知道他們盤中怎麼抓XD點位都很準
+  - id: "1551802493976051833"
+    author: ROCH
+    teacher: false
+    time: "2026-09-22 11:49"
+    text: 感覺是劃線派
+  - id: "1551802560044863559"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 11:49"
+    text: 有可能，畫框抓區間
+    reply:
+      id: "1551802493976051833"
+      author: ROCH
+      text: 感覺是劃線派
+      inGroup: true
+  - id: "1551807985196466186"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 12:10"
+    text: 往下一關一關破
+    images:
+      - src: /img/1551807985196466186-image.jpg
+        alt: 價格一關一關往下破的K線圖
+  - id: "1551808081292300380"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 12:11"
+    text: 去找交界吧🤣
+  - id: "1551808134467555339"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 12:11"
+    text: 才有機會找低接點
+  - id: "1551873535943639190"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 16:31"
+    text: 一路溜滑梯下去
+    images:
+      - src: /img/1551873535943639190-image.jpg
+        alt: 一路溜滑梯下殺的K線圖
+  - id: "1551873602188484690"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 16:31"
+    text: 不知道有沒有機會去摸著支撐
+  - id: "1551874376113070180"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-22 16:34"
+    text: ""
+    images:
+      - src: /img/1551874376113070180-Screenshot_20260922_163424_TradingView.jpg
+        alt: TV 圖，顯示支撐與壓力相距約1400點
+  - id: "1551874448116944938"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-22 16:35"
+    text: 支撐跟壓力居然有1400點
+  - id: "1551874590308040806"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 16:35"
+    text: 對，要看前一天振福落差
+  - id: "1551874616174182465"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 16:35"
+    text: 震幅大就會大
+  - id: "1551875092567425145"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 16:37"
+    text: 好彈
+  - id: "1551964867018231959"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:34"
+    text: 聯電也跟著往上很棒
+quiz:
+  - q: nick_AJ 發現當天支撐跟壓力相距很大，Alina 怎麼解釋？
+    o:
+      - 看前一天的振幅，前一天震幅大撐壓就拉大
+      - 當天開盤跳空太大，撐壓距離才會被拉開
+      - 代表多空力道懸殊，當天容易走單邊行情
+      - 是用的週期太大，換小週期就會縮小
+    a: 0
+    e: Alina 說撐壓距離要看前一天的振幅落差，前一天震幅大，算出來的撐壓範圍就會大。
+  - q: 盤勢一關一關往下破時，Alina 建議去哪裡找低接機會？
+    o:
+      - 等跌破所有支撐後再追空
+      - 去找交界位置，才有機會找低接點
+      - 看 1 分 K 出現長紅就馬上接
+      - 直接掛在當日最低點附近等成交
+    a: 1
+    e: Alina 看價格一關一關往下破時說「去找交界吧」，在交界才有機會找低接點。

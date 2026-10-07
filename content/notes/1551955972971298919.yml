@@ -1,0 +1,186 @@
+slug: "1551955972971298919"
+title: 尾盤賣出/隔日買回（先賣再撿）的價差做法
+type: 教學
+topic: 進場時機
+tags:
+  - 進場時機
+  - 盤勢判讀
+teacher: Alina
+channel: 一般
+date: "2026-09-22"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551955972971298919
+summary: Alina：夜盤開高時，日盤易開高走低，可開盤先賣庫存、尾盤撿回，現股賣無借券壓力；開盤15分鐘鎖漲就不動，倒貨氛圍就跟；成本好的股票適用，隔日沖有抬轎的很適合；也可用股期（如聯電）。創高盤通常拉回。
+hidden: false
+messages:
+  - id: "1551955972971298919"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 21:58"
+    text: 不過夜盤開高好處是日盤開高走低可以吃豆腐
+  - id: "1551956078428954779"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 21:59"
+    text: 如果有庫存的股票可以開盤開高先賣，尾盤買回吃價差
+  - id: "1551956145499803679"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 21:59"
+    text: 留倉也不損失中間下跌那段
+  - id: "1551956178546983073"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 21:59"
+    text: 現股賣也沒有借券壓力
+  - id: "1551956375452786801"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:00"
+    text: 算是吃作空豆腐
+    reply:
+      id: "1551956078428954779"
+      author: Alina
+      text: 如果有庫存的股票可以開盤開高先賣，尾盤買回吃價差
+      inGroup: true
+  - id: "1551956471216865362"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-22 22:00"
+    text: 通常這樣做 會怕買不回來嗎
+    reply:
+      id: "1551956078428954779"
+      author: Alina
+      text: 如果有庫存的股票可以開盤開高先賣，尾盤買回吃價差
+      inGroup: true
+  - id: "1551956633779961988"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:01"
+    text: 如果他開盤15分鐘就鎖漲我就不動
+  - id: "1551956682714779710"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:01"
+    text: 如果有倒貨氛圍我就會跟著
+  - id: "1551956719188451334"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:01"
+    text: 然後盤中看狀況撿回
+  - id: "1551956753195864116"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:02"
+    text: 前提是我成本好的股票 XDD
+  - id: "1551956793134026905"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:02"
+    text: 成本高的我可能賣了就賣了哈哈
+  - id: "1551956886256091227"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-22 22:02"
+    text: 成本好的賣一部分這樣嗎
+    reply:
+      id: "1551956753195864116"
+      author: Alina
+      text: 前提是我成本好的股票 XDD
+      inGroup: true
+  - id: "1551956918774534186"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:02"
+    text: 不過我自己的習慣是，如果是我覺得很OK的股票，即使賣飛，我也會願意追高買回
+    reply:
+      id: "1551956471216865362"
+      author: nick_AJ
+      text: 通常這樣做 會怕買不回來嗎
+      inGroup: true
+  - id: "1551957040102899813"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:03"
+    text: 一張才有彈性XD
+  - id: "1551957152279695431"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:03"
+    text: 所以你要觀察他XD 有的股票就是有那個鳥性在
+    reply:
+      id: "1551957052253933580"
+      author: nick_AJ
+      text: 他越來越貴也怕賣了買不回來惹XD
+      inGroup: false
+  - id: "1551957243753267292"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:04"
+    text: 或者他已經紅k很多天
+  - id: "1551957287504187454"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:04"
+    text: 還有就是隔日沖
+  - id: "1551957343456067675"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:04"
+    text: 隔日沖有加入抬轎的就很適合這樣做
+  - id: "1551957411475099670"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-22 22:04"
+    text: 不過一開始都會開高到貨就是了
+  - id: "1551957461743706222"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:04"
+    text: 就先賣尾盤撿
+  - id: "1551957584758575145"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:05"
+    text: 我最近有這樣來回撿聯電股期玩
+  - id: "1551957819597652008"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:06"
+    text: 而且他也是全，晚上也可以賣
+    reply:
+      id: "1551957584758575145"
+      author: Alina
+      text: 我最近有這樣來回撿聯電股期玩
+      inGroup: true
+  - id: "1551958297819746375"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:08"
+    text: 之外就是創高盤通常都會拉回，我就也會這樣做
+    reply:
+      id: "1551956078428954779"
+      author: Alina
+      text: 如果有庫存的股票可以開盤開高先賣，尾盤買回吃價差
+      inGroup: true
+  - id: "1551958784312610877"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 22:10"
+    text: 聯電我今天尾盤撿161股期，現在163 XD
+quiz:
+  - q: 用庫存「開盤先賣、尾盤買回」時，若開盤 15 分鐘就鎖漲，Alina 怎麼做？
+    o:
+      - 照原計畫先賣出，尾盤再撿回來
+      - 加碼買進，跟著漲停
+      - 不動；有倒貨氛圍才會跟著賣
+      - 改用股期放空避險
+    a: 2
+    e: Alina 說開盤 15 分鐘就鎖漲她就不動，有倒貨氛圍才跟著賣、盤中再撿回。
+  - q: Alina 說這種先賣再撿回的做法，前提或適合的情況是什麼？
+    o:
+      - 成本好的股票，或有隔日沖抬轎的股票
+      - 成本高、想早點解套的股票
+      - 剛突破前高、量能持續放大的強勢股
+      - 夜盤開低、日盤預期開低的時候
+    a: 0
+    e: Alina 說前提是成本好的股票，成本高的賣了就賣了；有隔日沖加入抬轎的也很適合。

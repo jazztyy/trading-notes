@@ -1,0 +1,95 @@
+slug: "1544159268368809984"
+title: 開盤爆量觀察與第一單
+type: 教學
+topic: 進場時機
+tags:
+  - 進場時機
+  - 盤勢判讀
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-01"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544159268368809984
+summary: 當天2分K第一單6分鐘賺100點；爆量要保守，看開盤後一小時的1小時K與過去開盤比量；量縮後約10:20-10:30表態，先掛價格警示。
+hidden: false
+messages:
+  - id: "1544159268368809984"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 09:37"
+    text: ""
+    images:
+      - src: /img/1544159268368809984-image.jpg
+        alt: 2分K圖：當日第一單賺100點
+  - id: "1544159318574637129"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 09:37"
+    text: 今天2分K的第一單
+  - id: "1544159364242345984"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 09:38"
+    text: 6分鐘100點就拿下了
+  - id: "1544162760668094566"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 09:51"
+    text: 要注意今天相較前幾天爆比較多量，目前量開始減少，如果繼續震盪大概10:20-10:30會表態方向現在就是先掛價格警示讓價格跑
+    images:
+      - src: /img/1544162760668094566-image.jpg
+        alt: K線圖：量縮震盪，預期10:20-10:30表態
+  - id: "1544163318829293649"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 09:53"
+    text: 如何觀察爆量我自己是9:45開盤後一小時我就去看一下1小時K跟過去開盤比
+  - id: "1544163331034710048"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 09:53"
+    text: ""
+    images:
+      - src: /img/1544163331034710048-image.jpg
+        alt: 1小時K量能與過去開盤比較
+  - id: "1544163625755738142"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 09:54"
+    text: 應該很明顯跟過去幾天開盤一小時比多蠻多量的，爆量對我來說是要稍微注意的事情
+    reply:
+      id: "1544163331034710048"
+      author: Shawnnnn
+      text: ""
+      inGroup: true
+  - id: "1544164032473469058"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-01 09:56"
+    text: 爆量是不是方向就會更明顯？
+  - id: "1544165000367575102"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 10:00"
+    text: 對~但已經爆那麼大量了我就會觀察一下是不是可能回測深一點，
+  - id: "1544165045234171904"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 10:00"
+    text: 所以我遇到爆大量的時候會保守一些
+quiz:
+  - q: 遇到開盤爆大量時，Shawnnnn 的態度是？
+    o:
+      - 爆量代表方向明確，要加大口數追進
+      - 爆量時一律不交易
+      - 會保守一些，觀察是否可能回測比較深
+      - 爆量後一定反轉，要反向操作
+    a: 2
+    e: Shawnnnn 說爆量方向會比較明顯，但已經爆那麼大量就會觀察是否回測深一點，所以會保守一些。
+  - q: Shawnnnn 怎麼觀察當天是否爆量？
+    o:
+      - 看2分K開盤第一根的成交量是否特別大
+      - 開盤一小時後看1小時K，和前幾天同時段比
+      - 看前一天夜盤總成交量，跟平常比較
+      - 看日線成交量是否超過5日均量來判斷
+    a: 1
+    e: Shawnnnn 說開盤後一小時他會去看1小時K，跟過去幾天開盤的量比較。

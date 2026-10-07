@@ -1,0 +1,273 @@
+slug: "1554868997021896715"
+title: Alina 的 EMA12/20/200 雙線＋EMA200 判斷法
+type: 教學
+topic: 指標設定
+tags:
+  - 指標設定
+  - 撐壓點位
+teacher: Alina
+channel: 一般
+date: "2026-09-30"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1554868997021896715
+summary: Alina 用雙線（EMA12/20）搭配 EMA200 當多空分水嶺：雙線在EMA200上偏多、下偏空；上穿標準就進多、回踩加碼、雙線靠近出場；貼很近／很黏不做；主要看5分，可設上下穿200通知。
+hidden: false
+messages:
+  - id: "1554868997021896715"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 22:54"
+    text: 順便發問 為什麼艾琳娜會看EMA200這條線呢
+    reply:
+      id: "1554863683367075983"
+      author: Alina
+      text: 我自己是點位、雙線&EMA200
+      inGroup: false
+  - id: "1554869263301349387"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:55"
+    text: 我忘了我在哪看到的策略，他是EMA12、20、200搭配著判斷
+    reply:
+      id: "1554868997021896715"
+      author: nick_AJ
+      text: 順便發問 為什麼艾琳娜會看EMA200這條線呢
+      inGroup: true
+  - id: "1554869347330170905"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:55"
+    text: EMA12、20其實跟師父兩條線對起來差不多
+  - id: "1554869381765533778"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:55"
+    text: 所以後來我就加EMA200
+  - id: "1554869518981922867"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:56"
+    text: 然後我就復盤用他的使用方法，覺得判斷勝率還行，所以我就續用了
+  - id: "1554869609033769101"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:56"
+    text: 這條線有點像多空分水嶺
+    reply:
+      id: "1554868997021896715"
+      author: nick_AJ
+      text: 順便發問 為什麼艾琳娜會看EMA200這條線呢
+      inGroup: true
+  - id: "1554869831462031464"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:57"
+    text: 輔助我判斷兩條線不知道怎麼進場的時候用
+    reply:
+      id: "1554869609033769101"
+      author: Alina
+      text: 這條線有點像多空分水嶺
+      inGroup: true
+  - id: "1554869911254339645"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:57"
+    text: 還有很黏的時候不要做
+    reply:
+      id: "1554869831462031464"
+      author: Alina
+      text: 輔助我判斷兩條線不知道怎麼進場的時候用
+      inGroup: true
+  - id: "1554870065546006651"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:58"
+    text: ""
+    images:
+      - src: /img/1554870065546006651-IMG_3524.jpg
+        alt: Alina 節錄他人策略的K線圖（雙線與EMA200）
+  - id: "1554870153899151360"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 22:58"
+    text: 具體的話 可以稍微說明怎麼輔助判斷嗎
+    images:
+      - src: /img/1554870153899151360-image.jpg
+        alt: 5分K台指期圖，含雙線與橘色EMA200，多個策略指標訊號
+  - id: "1554870194608807957"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:59"
+    text: 大概這個用意我猜🤣 我也是節錄別人策略
+    reply:
+      id: "1554870065546006651"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1554870415602614363"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 22:59"
+    text: 老大的雙線在上面就放心做多 反過來就放心做空這樣嗎
+    reply:
+      id: "1554870153899151360"
+      author: nick_AJ
+      text: 具體的話 可以稍微說明怎麼輔助判斷嗎
+      inGroup: true
+  - id: "1554870666128400477"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:00"
+    text: 對
+  - id: "1554870689847320636"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:01"
+    text: ""
+    images:
+      - src: /img/1554870689847320636-IMG_3526.jpg
+        alt: K線圖紅圈標示上穿EMA200進多與雙線靠近出場位置
+  - id: "1554870841274146966"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 23:01"
+    text: 很黏就像這邊對嗎
+    images:
+      - src: /img/1554870841274146966-image.jpg
+        alt: nick 標示雙線很黏的位置，Alina 說明左側空點漂亮
+  - id: "1554870934756917420"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:01"
+    text: 像這個上穿很標準我就會進多，中間回踩因為都離200下穿有距離所以我都會加多，然後雙線很靠近我就會出場
+    reply:
+      id: "1554870689847320636"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1554871003329466421"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:02"
+    text: 像中間就是很黏
+    reply:
+      id: "1554870841274146966"
+      author: nick_AJ
+      text: 很黏就像這邊對嗎
+      inGroup: true
+  - id: "1554871023478902877"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:02"
+    text: 可以選擇別做
+  - id: "1554871080244486246"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:02"
+    text: 有時候會貼著的也不做
+  - id: "1554871188776419415"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:02"
+    text: 像左邊那個空點很漂亮
+    reply:
+      id: "1554870841274146966"
+      author: nick_AJ
+      text: 很黏就像這邊對嗎
+      inGroup: true
+  - id: "1554871231994531861"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:03"
+    text: 往上碰到都可以加空
+  - id: "1554871270619750401"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 23:03"
+    text: 這個也蠻有趣的 回頭來看 用來抓轉折似乎很好用
+  - id: "1554871292967002183"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:03"
+    text: 對
+  - id: "1554871442313711668"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 23:03"
+    text: 艾琳娜通常會用幾分K來看呢
+  - id: "1554871450836533381"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:04"
+    text: 唯一要注意就是很貼不要做
+  - id: "1554871480041611346"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:04"
+    text: 5分
+  - id: "1554871528418443295"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:04"
+    text: 不過有時候會看大級別
+  - id: "1554871563978023033"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:04"
+    text: 雙線在上還在下
+  - id: "1554871596555178037"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:04"
+    text: 主要5分為主
+  - id: "1554871677832269985"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:04"
+    text: 他可以輔助我繼續捏著甚至加單
+    reply:
+      id: "1554871605648425002"
+      author: nick_AJ
+      text: 搞不好可以少錯過一些大行情XD
+      inGroup: false
+  - id: "1554872340838351020"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:07"
+    text: 可以設個上穿200跟下穿200通知
+    reply:
+      id: "1554871506452877383"
+      author: nick_AJ
+      text: 感覺可以做一個轉折的通知
+      inGroup: false
+  - id: "1554872501455036467"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 23:08"
+    text: 是黃金交叉
+  - id: "1554872535412252721"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:08"
+    text: 對🤣
+    reply:
+      id: "1554872501455036467"
+      author: nick_AJ
+      text: 是黃金交叉
+      inGroup: true
+quiz:
+  - q: 用雙線搭配 EMA200 時，Alina 的進出場方式是？
+    o:
+      - 雙線一碰 EMA200 就反向進場，停損抓前高
+      - 上穿標準就進多，回踩加多，雙線很靠近時出場
+      - 上穿後等第三次回踩才進場，之後抱到收盤
+      - 雙線交叉就出場，進場時不用看 EMA200
+    a: 1
+    e: Alina 說上穿很標準就進多，中間回踩離 200 有距離就加多，雙線很靠近時出場。
+  - q: Alina 說用這套方法唯一要注意的是什麼？
+    o:
+      - 只能在日盤使用，夜盤的訊號不準
+      - EMA200 要換成 EMA100 反應才夠快
+      - 雙線和 EMA200 很貼很黏時不要做
+      - 一定要搭配 MACD 同向確認才進場
+    a: 2
+    e: Alina 說唯一要注意就是很貼、很黏的時候不要做。

@@ -1,0 +1,91 @@
+slug: "1542801743526629447"
+title: 自製趨勢顏色指標與多空底色
+type: 分析
+topic: 指標設定
+tags:
+  - 指標設定
+teacher: Shawnnnn
+channel: 一般
+date: "2026-08-28"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1542801743526629447
+summary: Shawnnnn用Pine語法讓線依趨勢變色(橘黃代表震盪、趨勢未出現)；nick_AJ設計黃底多軍、粉紅底空軍、黑底盤整，K棒下箭頭為進場訊號。
+hidden: false
+messages:
+  - id: "1542801743526629447"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 15:43"
+    text: 我無聊試試看TV語法
+  - id: "1542801756046491718"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 15:43"
+    text: ""
+    images:
+      - src: /img/1542801756046491718-image.jpg
+        alt: K線圖：依趨勢變色的線
+  - id: "1542801776267235348"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 15:43"
+    text: 這樣會更好判斷趨勢嗎
+  - id: "1542801869200564276"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 15:43"
+    text: 橘黃色就是比較震盪趨是還沒出來
+  - id: "1542802022569611276"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 15:44"
+    text: ""
+    images:
+      - src: /img/1542802022569611276-image.jpg
+        alt: K線圖：顏色較淡處為趨勢中
+  - id: "1542802386974937098"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 15:45"
+    text: 意思是顏色比較淡的就是落於趨勢中嗎
+  - id: "1542802469799723080"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 15:46"
+    text: 對哈哈
+  - id: "1542810819069222914"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 16:19"
+    text: ""
+    images:
+      - src: /img/1542810819069222914-1787905148929.jpg
+        alt: nick_AJ設計的TV指標：黃底多軍/粉紅空軍/黑底盤整，箭頭為進場訊號
+  - id: "1542811039140151406"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 16:20"
+    text: 這個是目前設計的版本 黃底色的部分就是多軍階段 粉紅底色就是空軍階段 黑底就是盤整
+  - id: "1542811174918168616"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 16:20"
+    text: K棒下面的箭頭就是進場訊號（但這都是測試可以先忽略）
+  - id: "1542812321439682660"
+    author: Alina
+    teacher: true
+    time: "2026-08-28 16:25"
+    text: 很不錯欸~底色用色塊這樣更好判斷了
+    reply:
+      id: "1542811039140151406"
+      author: nick_AJ
+      text: 這個是目前設計的版本 黃底色的部分就是多軍階段 粉紅底色就是空軍階段 黑底就是盤整
+      inGroup: true
+quiz:
+  - q: 在 Shawnnnn 試做的趨勢變色線裡，橘黃色代表什麼？
+    o:
+      - 多頭趨勢已經確立，可做多
+      - 空頭趨勢正在加速下跌
+      - 比較震盪，趨勢還沒出來
+      - 進場訊號已經出現了
+    a: 2
+    e: Shawnnnn 說橘黃色就是比較震盪、趨勢還沒出來；顏色較淡的則是落在趨勢中。

@@ -1,0 +1,139 @@
+slug: "1544913641156120647"
+title: 2分K藍線下彎可否激進做空；多週期衝突時怎麼取捨
+type: 提問
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+  - 進場時機
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-03"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544913641156120647
+summary: 雪碧問2分K藍線下彎是否可激進做空，Shawnnnn 回可以並分享7分K與2分K進出場位置。nick 問偏多但上方有壓力還做不做，Shawnnnn：看線的人不管壓力，策略多可能互相矛盾少做單，也可能幫忙過濾；可看各週期但不要跳來跳去，7分K看2分K容易亂。
+hidden: false
+messages:
+  - id: "1544913641156120647"
+    author: 雪碧$$
+    teacher: false
+    time: "2026-09-03 11:35"
+    text: 2分K 是不是 藍色下彎，激進派 可以空?
+  - id: "1544913724203077693"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 11:35"
+    text: 7分K&2分K進出場位置供大家參考
+    images:
+      - src: /img/1544913724203077693-image.jpg
+        alt: 微台K圖，用方框與箭頭標示7分K/2分K的進出場位置與損益(-276、-200、+65)
+  - id: "1544913885189115975"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 11:36"
+    text: 可以呀
+    reply:
+      id: "1544913641156120647"
+      author: 雪碧$$
+      text: 2分K 是不是 藍色下彎，激進派 可以空?
+      inGroup: true
+  - id: "1544914076818219109"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 11:36"
+    text: 我藍線326陪你進進看
+    reply:
+      id: "1544913641156120647"
+      author: 雪碧$$
+      text: 2分K 是不是 藍色下彎，激進派 可以空?
+      inGroup: true
+  - id: "1544914210604060763"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 11:37"
+    text: 現在是328等等看
+  - id: "1544914802772549683"
+    author: Mikey
+    teacher: false
+    time: "2026-09-03 11:39"
+    text: 現在算多單方向嗎？
+  - id: "1544914931919355934"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 11:40"
+    text: 是
+    reply:
+      id: "1544914802772549683"
+      author: Mikey
+      text: 現在算多單方向嗎？
+      inGroup: true
+  - id: "1544915725653901392"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 11:43"
+    text: 現在這種盤面看起來偏多但是知道壓力會在上方的盤是老大還會做單嗎
+  - id: "1544916706093174834"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 11:47"
+    text: 如果你會自己判斷壓力那可能就不會去做，但如果只看線做事就不會去管什麼壓力支撐，所以我才說有時候策略多不一定好也不一定壞，壞的地方就是有可能會打架矛盾導致少做單，好的話也有可能幫助你判斷該筆不能做或是逆勢做反向賺錢，市場沒有那麼的絕對，對我來說看的太多對我的操作會很不舒服，然後雖然我都說可以看各個周期，但千萬不要跳來跳去，一下看5一下看2一下看7，如果你有能耐那沒問題的!
+    reply:
+      id: "1544915725653901392"
+      author: nick_AJ
+      text: 現在這種盤面看起來偏多但是知道壓力會在上方的盤是老大還會做單嗎
+      inGroup: true
+  - id: "1544916811211083886"
+    author: Annahui
+    teacher: false
+    time: "2026-09-03 11:47"
+    text: 不是訊號誒是我看他的線而已
+    reply:
+      id: "1544916641308217354"
+      author: ROCH
+      text: 7K哪有訊號XD
+      inGroup: false
+  - id: "1544917508975370280"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 11:50"
+    text: 7分也有碰到沒錯
+    reply:
+      id: "1544916811211083886"
+      author: Annahui
+      text: 不是訊號誒是我看他的線而已
+      inGroup: true
+  - id: "1544919485889380423"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 11:58"
+    text: 越短週期反應越快但我還是會同步搭配下大週期
+  - id: "1544919593246527558"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 11:58"
+    text: 所以不要做7分看2分
+  - id: "1544919641242079293"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 11:59"
+    text: 很棒
+    reply:
+      id: "1544919485889380423"
+      author: nick_AJ
+      text: 越短週期反應越快但我還是會同步搭配下大週期
+      inGroup: true
+quiz:
+  - q: "Shawnnnn 雖然說可以看各週期，但特別提醒什麼？"
+    o:
+      - 週期越多越好，要全部週期對齊才進場
+      - 只能看1分K，大週期的訊號都太慢了
+      - 千萬不要跳來跳去，不要做7分看2分
+      - 每天都要換一個新週期，避免被洗盤
+    a: 2
+    e: "他說可以看各週期，但千萬不要一下看5一下看2一下看7，所以不要做7分看2分。"
+  - q: "關於同時用很多策略，Shawnnnn 的看法是？"
+    o:
+      - 策略越多越準，訊號互相確認一定要多加幾個
+      - 策略多一定不好，會互相打架，只能留一個用
+      - 只要把壓力支撐加進去，策略之間就不會矛盾
+      - 不一定好壞，可能打架少做單，也可能幫忙過濾
+    a: 3
+    e: "Shawnnnn 說策略多可能互相矛盾導致少做單，也可能幫你判斷該筆不能做；他自己看太多會不舒服。"

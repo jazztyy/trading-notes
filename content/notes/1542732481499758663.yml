@@ -1,0 +1,115 @@
+slug: "1542732481499758663"
+title: 先看1小時K趨勢，再用2分K做單邊
+type: 教學
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+  - 進場時機
+teacher: Shawnnnn
+channel: 一般
+date: "2026-08-28"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1542732481499758663
+summary: 只做單邊的方法：先用1小時K判斷明顯趨勢(看收K後完整K棒、是否守住)，再到2分K找同方向進場點，勝率較高；1小時洗盤時仍要抓好停利停損。
+hidden: false
+messages:
+  - id: "1542732481499758663"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:08"
+    text: 如果真的有人覺得多空多空做很累
+  - id: "1542732551003574282"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:08"
+    text: 我這邊也提供一個方法先只做一邊
+  - id: "1542732851840032838"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 11:09"
+    text: 好耶
+  - id: "1542733118111219752"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:10"
+    text: ""
+    images:
+      - src: /img/1542733118111219752-image.jpg
+        alt: 1小時K圖，箭頭標示明顯趨勢
+  - id: "1542733163221090405"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:10"
+    text: 這是一小時K
+  - id: "1542733242371940452"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:11"
+    text: 圖片中的箭頭應該是很明顯的趨勢吧?
+  - id: "1542733317382864927"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:11"
+    text: 那就再那一段去做2分K那段的趨勢
+  - id: "1542733337477652511"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:11"
+    text: 勝率會高一些
+  - id: "1542733618953060472"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:12"
+    text: 就以現在時間點來看一小時K，現在還在多頭上彎，那我就去找2分K的地方做多就好
+  - id: "1542733793670987816"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:13"
+    text: ""
+    images:
+      - src: /img/1542733793670987816-image.jpg
+        alt: 1小時K圖：目前仍有守住的多頭上彎
+  - id: "1542733856871030844"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:13"
+    text: 目前的1小時K就是有再守
+  - id: "1542733922750963783"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:13"
+    text: 然後1小時K就請看收K後的完整K棒
+  - id: "1542734021153394749"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:14"
+    text: ""
+    images:
+      - src: /img/1542734021153394749-image.jpg
+        alt: 1小時K圖：盤勢較洗的一段
+  - id: "1542734170407702629"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:14"
+    text: 那這段的1小時K就很洗你要去找2分K做單也一定可以找到位置，但你就是要停利停損要抓好
+  - id: "1542734194621292544"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 11:14"
+    text: 收到··~就是先看大時區方向，再決定2分k的方向
+quiz:
+  - q: 覺得多空來回做很累的人，Shawnnnn 提供的「只做一邊」方法是？
+    o:
+      - 先看2分K定方向，再到1小時K找同方向的進場點
+      - 只做開盤第一根K棒的方向，之後同方向進場
+      - 先看1小時K的趨勢，再到2分K找同方向進場點
+      - 只做多不做空，空單訊號出現時一律不碰
+    a: 2
+    e: Shawnnnn 說先看1小時K的趨勢，例如還在多頭上彎就去2分K找做多的位置，勝率會高一些。
+  - q: 依 Shawnnnn 的做法，判斷1小時K時要看哪一根K棒？
+    o:
+      - 收K後的完整K棒
+      - 正在跑的即時K棒
+      - 前一天收盤的那根K棒
+      - 當下成交量最大的K棒
+    a: 0
+    e: Shawnnnn 特別提醒1小時K請看收K後的完整K棒，不要看還沒收完的。

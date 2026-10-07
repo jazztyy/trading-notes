@@ -1,0 +1,99 @@
+slug: "1544631298507804752"
+title: 下跌放量是否有支撐
+type: 提問
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+  - 停損停利
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-02"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544631298507804752
+summary: Annahui問2分K出量是否打支撐；回答：下跌放量節奏要下去，要支撐需大量長下影；可看日K白線/藍線是否守住；策略為順勢不做逆勢。
+hidden: false
+messages:
+  - id: "1544631298507804752"
+    author: Annahui
+    teacher: false
+    time: "2026-09-02 16:53"
+    text: |-
+      這根兩分K出量
+      想請問尚恩師傅 是不是有打支撐的感覺？
+  - id: "1544631413951701042"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:53"
+    text: 打支撐?
+  - id: "1544631435271610429"
+    author: ROCH
+    teacher: false
+    time: "2026-09-02 16:53"
+    text: 沒有吧
+  - id: "1544631480645582900"
+    author: ROCH
+    teacher: false
+    time: "2026-09-02 16:54"
+    text: 要下去的節奏，下跌放量
+  - id: "1544631493379358770"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:54"
+    text: 現在很兇應該不會看到有支撐
+  - id: "1544631528078839909"
+    author: Annahui
+    teacher: false
+    time: "2026-09-02 16:54"
+    text: ""
+    images:
+      - src: /img/1544631528078839909-image.jpg
+        alt: 2分K出量圖
+  - id: "1544631581363408918"
+    author: ROCH
+    teacher: false
+    time: "2026-09-02 16:54"
+    text: 要支撐可能要大量加一根tbar
+  - id: "1544631716017348628"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 16:54"
+    text: 要支撐感覺至少要反轉吧
+  - id: "1544631745318625341"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:55"
+    text: 你想要看支撐你可以去看一下日K的白線或藍線
+    images:
+      - src: /img/1544631745318625341-image.jpg
+        alt: 日K圖：白線/藍線支撐
+  - id: "1544631769402179664"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:55"
+    text: 看有沒有守
+  - id: "1544631962587627531"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:55"
+    text: 我的策略就是順勢交易，不會做逆勢交易，你可以用自己的方式摸摸看底或頂，但就是要停損
+  - id: "1544632018673864745"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:56"
+    text: 我今天就有做逆勢交易
+quiz:
+  - q: "2分K下跌時出大量，群組怎麼解讀？"
+    o:
+      - 量大代表進入盤整，多空都先不要做
+      - 出量代表有人在接，可以準備進場抄底
+      - 出量後一定會有反彈，可以先搶反彈
+      - 下跌放量是要下去的節奏，看不到支撐
+    a: 3
+    e: "ROCH 說這是要下去的節奏、下跌放量，Shawnnnn 也說現在很兇應該不會看到支撐；要支撐可能得大量加T Bar。"
+  - q: "想找支撐時，Shawnnnn 建議看什麼？"
+    o:
+      - 日K的白線或藍線有沒有守
+      - 2分K的前低有沒有被跌破
+      - 成交量最大的那根K的低點
+      - 15分K的紅線有沒有守住
+    a: 0
+    e: "Shawnnnn 說想看支撐可以去看日K的白線或藍線有沒有守；他的策略是順勢，逆勢摸底要停損。"

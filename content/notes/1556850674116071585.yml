@@ -1,0 +1,48 @@
+slug: "1556850674116071585"
+title: 用比較圖工具挑選存股ETF
+type: 資源
+topic: 資金與風險
+tags:
+  - 資金與風險
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-06"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1556850674116071585
+summary: 有人問幫小孩存股買什麼，Shawnnnn 分享 YP-Finance 的比較圖工具（tool.yp-finance.com/stockcompare），可以比較 ETF 的報酬與波動；他提醒要同類型比：配息型跟配息型、指數型跟指數型、主動型跟主動型比。
+hidden: true
+messages:
+  - id: "1556850674116071585"
+    author: Mikey
+    teacher: false
+    time: "2026-10-06 10:08"
+    text: 想問大家幫小孩存股都買什麼？有人買009816嗎？
+  - id: "1556853893986779247"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-06 10:21"
+    text: 你可以把你想要買的加入比較圖去看看https://tool.yp-finance.com/stockcompare
+    reply:
+      id: "1556850674116071585"
+      author: Mikey
+      text: 想問大家幫小孩存股都買什麼？有人買009816嗎？
+      inGroup: true
+  - id: "1556855039602204743"
+    author: Mikey
+    teacher: false
+    time: "2026-10-06 10:26"
+    text: 這網站好酷
+    reply:
+      id: "1556853893986779247"
+      author: Shawnnnn
+      text: 你可以把你想要買的加入比較圖去看看https://tool.yp-finance.com/stockcompare
+      inGroup: true
+  - id: "1556855820635869255"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-06 10:29"
+    text: 但是你就是要配息的跟配息的比，指數型的跟指數型的比，主動型的跟主動型的比
+    reply:
+      id: "1556855039602204743"
+      author: Mikey
+      text: 這網站好酷
+      inGroup: true

@@ -1,0 +1,130 @@
+slug: "1554674376777924701"
+title: 當沖/短線搭配籌碼：選股流程
+type: 教學
+topic: 籌碼消息
+tags:
+  - 籌碼消息
+teacher: Alina
+channel: 一般
+date: "2026-09-30"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1554674376777924701
+summary: Alina：先從技術面挑均線順向，再看籌碼；每天掃外資買超、有無厲害大哥分點並看分點成本，再看族群金流（領頭羊漲則買其他）；當沖最好有留倉準備，單純打台指期較簡單。
+hidden: false
+messages:
+  - id: "1554674376777924701"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 10:00"
+    text: 我想學當沖
+  - id: "1554674659159711797"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 10:02"
+    text: 但我當沖也很常輸XD
+    reply:
+      id: "1554674376777924701"
+      author: Shawnnnn
+      text: 我想學當沖
+      inGroup: true
+  - id: "1554674858531487816"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 10:02"
+    text: 很難，最好是要有留倉的準備 XD
+  - id: "1554674912843661403"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 10:03"
+    text: 我每次留不了的都賠錢
+  - id: "1554674969378820227"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 10:03"
+    text: 然後放隔日其實都可以賺
+  - id: "1554675107241267251"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 10:03"
+    text: 我現在會搭配籌碼做，比較穩
+    reply:
+      id: "1554674376777924701"
+      author: Shawnnnn
+      text: 我想學當沖
+      inGroup: true
+  - id: "1554675150488731840"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 10:04"
+    text: 看分點?
+  - id: "1554675172789850185"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 10:04"
+    text: 只是現股做多很常輸
+  - id: "1554675258911367275"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 10:04"
+    text: 對
+    reply:
+      id: "1554675150488731840"
+      author: Shawnnnn
+      text: 看分點?
+      inGroup: true
+  - id: "1554675353275072564"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 10:04"
+    text: 看分點真的會準唷
+  - id: "1554675513631449252"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 10:05"
+    text: 通常也是先從技術面挑均線順向，再看籌碼
+  - id: "1554675567402688563"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 10:05"
+    text: 然後每天稍微掃一下外資買的東西
+  - id: "1554675598738194525"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 10:05"
+    text: 再看有沒有厲害的大哥分點
+  - id: "1554675628303720522"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 10:05"
+    text: 看一下分點的成本
+  - id: "1554675757505056829"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 10:06"
+    text: 還有族群金流
+  - id: "1554675912090583146"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 10:07"
+    text: 有時候會看族群金流，有的族群會是很團結的，如果有哪個領頭羊漲上去，就是買其他的
+  - id: "1554676126398423101"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 10:07"
+    text: 還是打台指期單純一點
+quiz:
+  - q: Alina 搭配籌碼選股的順序是？
+    o:
+      - 先看外資買超名單，再看技術面
+      - 先從技術面挑均線順向，再看籌碼
+      - 先看族群新聞題材，再看分點進出
+      - 只看大哥分點成本，不看技術面
+    a: 1
+    e: Alina 說通常先從技術面挑均線順向，再看籌碼：掃外資買超、厲害大哥分點與成本、族群金流。
+  - q: Alina 說看族群金流時，有的族群很團結，該怎麼用？
+    o:
+      - 領頭羊漲上去後就去買同族群的其他股
+      - 領頭羊漲上去後就去放空領頭羊本身
+      - 等全族群都漲起來確認團結後才進場
+      - 只買族群裡漲幅最多的那一檔強勢股
+    a: 0
+    e: Alina 說團結的族群如果領頭羊漲上去，就是去買其他的。

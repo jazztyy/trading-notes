@@ -1,0 +1,55 @@
+slug: "1544684756669571082"
+title: TV訊號設快訊提醒
+type: 提問
+topic: 指標設定
+tags:
+  - 指標設定
+  - 程式交易
+teacher: nick_AJ
+channel: 一般
+date: "2026-09-02"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544684756669571082
+summary: JJ問怎麼把策略進場設快訊，nick_AJ截圖示範在設定的位置。
+hidden: true
+messages:
+  - id: "1544684756669571082"
+    author: JJ
+    teacher: false
+    time: "2026-09-02 20:25"
+    text: 想問要怎麼把它的進場設快訊呢
+  - id: "1544684779394433064"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 20:25"
+    text: ""
+    images:
+      - src: /img/1544684779394433064-Screenshot_20260902_202540_TradingView.jpg
+        alt: 手機TV截圖：訊號提示進場
+  - id: "1544684787694968883"
+    author: JJ
+    teacher: false
+    time: "2026-09-02 20:25"
+    text: 一直找不到這選項
+  - id: "1544684908021288961"
+    author: JJ
+    teacher: false
+    time: "2026-09-02 20:26"
+    text: 我快訊提醒中好像沒得選
+  - id: "1544685046588383344"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 20:26"
+    text: ""
+    images:
+      - src: /img/1544685046588383344-Screenshot_20260902_202647_TradingView.jpg
+        alt: 手機TV截圖：設定快訊的選項位置
+  - id: "1544685069350735912"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 20:26"
+    text: 這邊
+    reply:
+      id: "1544684908021288961"
+      author: JJ
+      text: 我快訊提醒中好像沒得選
+      inGroup: true

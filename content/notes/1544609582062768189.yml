@@ -1,0 +1,177 @@
+slug: "1544609582062768189"
+title: 7分K與多週期選擇
+type: 分析
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-02"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544609582062768189
+summary: Shawnnnn發現7分K當天好用(短線看1/2/5/7/15/30)，看當天盤勢哪個週期有反應(如開盤半小時1小時後觀察)；7分線價格差異小，2分K距離白線遠時快到再掛；7分K也會洗，可換週期。
+hidden: false
+messages:
+  - id: "1544609582062768189"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 15:27"
+    text: 今天是7分K的局(?
+    images:
+      - src: /img/1544609582062768189-image.jpg
+        alt: 7分K圖：當天適用7分K
+  - id: "1544616722471059537"
+    author: Annahui
+    teacher: false
+    time: "2026-09-02 15:55"
+    text: |-
+      剛剛切換7分 做到這根 100點 好香
+      謝謝尚恩師傅
+    reply:
+      id: "1544609582062768189"
+      author: Shawnnnn
+      text: 今天是7分K的局(?
+      inGroup: true
+  - id: "1544617662389157908"
+    author: Annahui
+    teacher: false
+    time: "2026-09-02 15:59"
+    text: |-
+      這兩天我發現要有耐心等
+      點位沒到真的不要追
+  - id: "1544617813795409950"
+    author: Annahui
+    teacher: false
+    time: "2026-09-02 15:59"
+    text: 我剛剛就是跟著白線掛單
+  - id: "1544617885710688256"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:00"
+    text: 不錯喔 就是等待就對了球來在打
+    reply:
+      id: "1544617662389157908"
+      author: Annahui
+      text: 這兩天我發現要有耐心等 點位沒到真的不要追
+      inGroup: true
+  - id: "1544617889150140486"
+    author: Annahui
+    teacher: false
+    time: "2026-09-02 16:00"
+    text: 成交手機會通知 再來盯盤
+  - id: "1544618066082668555"
+    author: Annahui
+    teacher: false
+    time: "2026-09-02 16:00"
+    text: |-
+      到了停損點就是按下去
+      一波就停利
+  - id: "1544618153064136754"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:01"
+    text: 7分鐘的線價格差異不會太大，但如果你是用2分K距離白線還有點距離的話最好快到在掛
+    reply:
+      id: "1544617889150140486"
+      author: Annahui
+      text: 成交手機會通知 再來盯盤
+      inGroup: true
+  - id: "1544618347361075200"
+    author: Annahui
+    teacher: false
+    time: "2026-09-02 16:01"
+    text: 我剛剛是用7分K👍
+    reply:
+      id: "1544618153064136754"
+      author: Shawnnnn
+      text: 7分鐘的線價格差異不會太大，但如果你是用2分K距離白線還有點距離的話最好快到在掛
+      inGroup: true
+  - id: "1544619608324055090"
+    author: ROCH
+    teacher: false
+    time: "2026-09-02 16:06"
+    text: 7分k又能進了
+  - id: "1544624575525163038"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 16:26"
+    text: ""
+    images:
+      - src: /img/1544624575525163038-Screenshot_20260902_162625_TradingView.jpg
+        alt: 手機TV截圖：7分K線一直黏著白線走
+  - id: "1544624609221935175"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 16:26"
+    text: 感覺7分有點黏
+  - id: "1544624632844386354"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 16:26"
+    text: 一直黏著白線走
+  - id: "1544624934393876521"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:28"
+    text: 我短線會看1.2.5.7.15.30
+    reply:
+      id: "1544624274898288751"
+      author: nick_AJ
+      text: 肖恩大怎麼會發現七分 哈哈哈
+      inGroup: false
+  - id: "1544625041679847485"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 16:28"
+    text: 1 -15可以理解
+  - id: "1544625043777134592"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:28"
+    text: 會看一下那天盤勢哪一個周期比較有反應
+  - id: "1544625068829573231"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 16:28"
+    text: 怎麼會突然有7
+  - id: "1544625242310184960"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:29"
+    text: 那時候會周期翻來翻去覺得7分K蠻特別的
+  - id: "1544625628114853918"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 16:30"
+    text: 這邊的比較有反應 怎麼樣的圖面你會覺得是比較有反應呢？
+    reply:
+      id: "1544625043777134592"
+      author: Shawnnnn
+      text: 會看一下那天盤勢哪一個周期比較有反應
+      inGroup: true
+  - id: "1544625786928111616"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:31"
+    text: 例如開盤半小時1小時後去觀察
+  - id: "1544625938094891118"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:32"
+    text: 但不要說看7分進2分出這樣，如果你可以這麼進階那沒問題的哈哈哈
+quiz:
+  - q: "Shawnnnn 怎麼決定當天用哪個週期？"
+    o:
+      - 固定只看7分K，不管盤勢都不換週期
+      - 用7分K找方向進場、再用2分K出場
+      - 前一天哪個週期賺錢，今天就用哪個
+      - 開盤半小時、一小時後看哪個週期較有反應
+    a: 3
+    e: "Shawnnnn 短線會看1/2/5/7/15/30，開盤半小時、一小時後看那天哪個週期比較有反應；也提醒不要看7分進2分出。"
+  - q: "用2分K、價格離白線還有段距離時，Shawnnnn 建議怎麼掛單？"
+    o:
+      - "直接市價追進"
+      - "價格快到白線時再掛"
+      - "先掛在白線，成交再說"
+      - "改掛在紅線比較安全"
+    a: 1
+    e: "他說7分線價格差異不大，但2分K離白線還有距離時，最好快到了再掛。"

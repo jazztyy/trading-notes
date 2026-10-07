@@ -1,0 +1,85 @@
+slug: "1544728316211105942"
+title: 7分K掛紅線與停損50點
+type: 分析
+topic: 指標設定
+tags:
+  - 指標設定
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-02"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544728316211105942
+summary: Shawnnnn在7分K下彎時掛紅線，獲利80點；Jessie停損設50，Shawnnnn說停損設好不怕，怎麼虧都比凹單少。
+hidden: false
+messages:
+  - id: "1544728316211105942"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 23:18"
+    text: "@Jessie 剛剛你說7分K下彎"
+  - id: "1544728378500841493"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 23:19"
+    text: 那時候掛紅線現在獲利80點了
+  - id: "1544728588446597201"
+    author: Jessie
+    teacher: false
+    time: "2026-09-02 23:19"
+    text: 但剛剛進的話
+  - id: "1544728640556765204"
+    author: Jessie
+    teacher: false
+    time: "2026-09-02 23:20"
+    text: 應該會打止損
+  - id: "1544728681950347316"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 23:20"
+    text: 就要看你止損設幾點了
+  - id: "1544728718038138930"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 23:20"
+    text: 你都設多少
+  - id: "1544728753723154432"
+    author: Jessie
+    teacher: false
+    time: "2026-09-02 23:20"
+    text: "50"
+  - id: "1544728847507918949"
+    author: Jessie
+    teacher: false
+    time: "2026-09-02 23:20"
+    text: 下一隻k進的話好像比較安全
+  - id: "1544728891535392769"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 23:21"
+    text: 50的話還沒到呀
+    images:
+      - src: /img/1544728891535392769-image.jpg
+        alt: 7分K圖：50點停損尚未觸及
+  - id: "1544729098046406808"
+    author: Jessie
+    teacher: false
+    time: "2026-09-02 23:21"
+    text: 因為我原先是想白線進
+  - id: "1544729180820738129"
+    author: Jessie
+    teacher: false
+    time: "2026-09-02 23:22"
+    text: 但我看破紅線不敢🤣
+  - id: "1544729325486477423"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 23:22"
+    text: 喔喔~止損設好都不要害怕 怎麼虧都不會比凹單虧的多
+quiz:
+  - q: "Jessie 怕破紅線不敢進場時，Shawnnnn 怎麼回應？"
+    o:
+      - 應該等下一根K確認不破紅線再進比較安全
+      - 破紅線就代表方向錯，不進場才是對的
+      - 止損設好就不要怕，虧損不會比凹單多
+      - 止損要設得比50點更寬，才不會一下被洗掉
+    a: 2
+    e: "Shawnnnn 說止損設好都不要害怕，怎麼虧都不會比凹單虧得多。"

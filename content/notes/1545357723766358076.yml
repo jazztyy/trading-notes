@@ -1,0 +1,63 @@
+slug: "1545357723766358076"
+title: 夜盤壓力位與順勢加倉(FOMO)做法
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 進場時機
+teacher: Alina
+channel: 一般
+date: "2026-09-04"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1545357723766358076
+summary: Alina 看夜盤47231壓力、47400不易過；做法是先上單，價位拉開靠近線再加倉，並搭配訊號確認；Doobe 提29500破則轉弱、29540站穩可續攻。
+hidden: false
+messages:
+  - id: "1545357723766358076"
+    author: Alina
+    teacher: true
+    time: "2026-09-04 16:59"
+    text: 我今天看的到去摸一下47400大壓嗎
+  - id: "1545357990301794324"
+    author: Annahui
+    teacher: false
+    time: "2026-09-04 17:00"
+    text: 今天晚上有非農
+  - id: "1545419153328963656"
+    author: Doobe
+    teacher: false
+    time: "2026-09-04 21:03"
+    text: 小娜29500破了就可能轉弱，29540站穩就有機會繼續攻
+  - id: "1545429977007394846"
+    author: Alina
+    teacher: true
+    time: "2026-09-04 21:46"
+    text: 壓力大概47231，要摸一下吧
+  - id: "1545430099242000532"
+    author: Alina
+    teacher: true
+    time: "2026-09-04 21:47"
+    text: 47400我是覺得不會過
+  - id: "1545430395515047937"
+    author: Alina
+    teacher: true
+    time: "2026-09-04 21:48"
+    text: 點數有拉開，我追加了哈哈
+  - id: "1545435962887241728"
+    author: Alina
+    teacher: true
+    time: "2026-09-04 22:10"
+    text: 先上，點數拉開靠近線就加倉
+  - id: "1545436187504676944"
+    author: Alina
+    teacher: true
+    time: "2026-09-04 22:11"
+    text: 之外搭配信號確認一下
+quiz:
+  - q: Alina 說明她順勢加倉的做法是？
+    o:
+      - 一開始就重倉進場，價格拉開後再分批出場
+      - 先上單，點數拉開靠近線再加倉，並搭配訊號確認
+      - 等價格突破前面的大壓力後，再一次追價加倉
+      - 價格往不利方向走時往下攤平，拉低平均成本
+    a: 1
+    e: Alina 說「先上，點數拉開靠近線就加倉」，另外要搭配信號確認；她不是攤平虧損單，也不是等突破才追。

@@ -1,0 +1,114 @@
+slug: "1552493878035091558"
+title: 追空/空單遲疑變燃料與限價單
+type: 分析
+topic: 進場時機
+tags:
+  - 進場時機
+  - 停損停利
+teacher: Alina
+channel: 一般
+date: "2026-09-24"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1552493878035091558
+summary: Alina：空單遲疑一秒都是燃料，吃碰壓回彈要快回補；掛限價空240（TV 5分壓力）吃100點，下方可能回彈處不賭。
+hidden: false
+messages:
+  - id: "1552493878035091558"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 09:36"
+    text: 遲疑一秒都是燃料
+  - id: "1552494011376336907"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 09:36"
+    text: 本來就是想吃到壓力回彈
+  - id: "1552500640607895665"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 10:03"
+    text: 我空但我應該也會回補很快 XD
+    reply:
+      id: "1552500537746915339"
+      author: 宸
+      text: 我有空 被嘎了哈
+      inGroup: false
+  - id: "1552500670765207625"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 10:03"
+    text: 遲疑會變燃料
+  - id: "1552500736129241089"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 10:03"
+    text: 吃碰壓被壓回豆腐
+  - id: "1552501773976207502"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 10:07"
+    text: 哈哈我空240
+    reply:
+      id: "1552501597475442851"
+      author: YOU
+      text: 245沒空到 可惡!
+      inGroup: false
+  - id: "1552501964506534010"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 10:08"
+    text: 我是掛限價 XD
+  - id: "1552502071595638908"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 10:08"
+    text: 我怕變燃料
+  - id: "1552502296351350875"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 10:09"
+    text: 我就抓TV 5分這個壓力試單哈哈
+    images:
+      - src: /img/1552502296351350875-image.jpg
+        alt: Alina 的TV 5分K圖，標示壓力位試空
+  - id: "1552502354396450887"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 10:10"
+    text: 掛一個喜歡的數字哈哈
+    reply:
+      id: "1552502296351350875"
+      author: Alina
+      text: 我就抓TV 5分這個壓力試單哈哈
+      inGroup: true
+  - id: "1552502639277641781"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 10:11"
+    text: 我回補了啦 XD
+  - id: "1552502847097274389"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 10:12"
+    text: 往下都是碰到可能會回彈的XD 不賭
+    reply:
+      id: "1552502296351350875"
+      author: Alina
+      text: 我就抓TV 5分這個壓力試單哈哈
+      inGroup: true
+quiz:
+  - q: Alina 空在壓力位時為什麼用限價單？
+    o:
+      - 限價單手續費比市價單便宜，成本較低
+      - 可以避免急拉時被系統強制平倉出場
+      - 市價單在夜盤不能用，只能掛限價單
+      - 遲疑一秒都會變燃料，先掛好就不會錯過
+    a: 3
+    e: Alina 說「遲疑一秒都是燃料」，她怕變燃料，所以抓 TV 5 分壓力先掛限價試空。
+  - q: Alina 空到壓力回落後，為什麼很快就回補？
+    o:
+      - 本來只想吃碰壓回落那段，往下都可能回彈
+      - 因為價格已經碰到她事先設好的停損點
+      - 因為空單不能留過夜，收盤前要先平掉
+      - 因為 MACD 翻正，代表空方力道結束
+    a: 0
+    e: 她說本來就是想吃碰壓被壓回的豆腐，往下碰到的都是可能回彈的位置，所以不賭、快回補。

@@ -1,0 +1,97 @@
+slug: "1544634470831751219"
+title: 用AI(龍蝦)寫TV策略/指標
+type: 分析
+topic: 指標設定
+tags:
+  - 指標設定
+teacher: nick_AJ
+channel: 一般
+date: "2026-09-02"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544634470831751219
+summary: nick_AJ、Doobe用AI寫TV策略，但訊號仍不準(Doobe寫了26版)；可把程式碼丟給AI修改，但要搭配回測；AI比人眼不精確。
+hidden: false
+messages:
+  - id: "1544634470831751219"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 17:05"
+    text: |-
+      目前還在測試寫策略讓程式通知
+      但是目前AI還是沒有人眼精確 Db可以請龍蝦AI幫妳寫一個可以用在TV上面的策略 然後再把他貼上去就會有那個訊號了
+    reply:
+      id: "1544633361861976075"
+      author: Doobe
+      text: 看起來還不錯呀
+      inGroup: false
+  - id: "1544634590843375636"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 17:06"
+    text: 只是那個訊號還是沒有很準目前我覺得 可能還沒找到好的參數吧
+  - id: "1544635287454490634"
+    author: Doobe
+    teacher: false
+    time: "2026-09-02 17:09"
+    text: 我有試著寫，真的不準🤣
+  - id: "1544635402952904756"
+    author: Doobe
+    teacher: false
+    time: "2026-09-02 17:09"
+    text: 目前寫了26個版本（修正）還是很不準🤣
+  - id: "1544635441351892992"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 17:09"
+    text: 對啊 很頭痛 該進去的時候不進去不該進去的時候一直進去🤣 😂
+  - id: "1544636126076215377"
+    author: Doobe
+    teacher: false
+    time: "2026-09-02 17:12"
+    text: ""
+    images:
+      - src: /img/1544636126076215377-IMG_0113.jpg
+        alt: Doobe自寫策略最後一版的TV截圖
+  - id: "1544636262382837761"
+    author: Doobe
+    teacher: false
+    time: "2026-09-02 17:13"
+    text: 目前最後一版是這樣還是很奇怪
+  - id: "1544685238075134073"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 20:27"
+    text: 自己改的啊~
+  - id: "1544685266848055297"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 20:27"
+    text: 拿刀程式碼之後就丟給龍蝦
+  - id: "1544685286402031686"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 20:27"
+    text: 請他改
+  - id: "1544685327770329098"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 20:28"
+    text: 但是改完不一定是比較好 哈哈哈
+  - id: "1544685374331420762"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 20:28"
+    text: 要搭配回測數據看看
+  - id: "1544686823262003262"
+    author: Alina
+    teacher: true
+    time: "2026-09-02 20:33"
+    text: 龍蝦寫參數還不錯
+quiz:
+  - q: "nick_AJ 用 AI 修改 TV 策略程式碼後，提醒還要做什麼？"
+    o:
+      - 直接上線實單小口測試看看
+      - 多改幾版，直到訊號變得夠多
+      - 搭配回測數據看是否真的比較好
+      - 交給別人用人眼逐一確認訊號
+    a: 2
+    e: "nick_AJ 說丟給龍蝦改完不一定比較好，要搭配回測數據看看。"

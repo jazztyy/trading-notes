@@ -1,0 +1,40 @@
+slug: "1544988872763514901"
+title: 盤後壓力位與五分K判讀
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 多週期判斷
+teacher: nick_AJ
+channel: 一般
+date: "2026-09-03"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544988872763514901
+summary: nick_AJ 看壓力在464附近，462穩；5分K偏往上，除非有消息；沒有 TV 指標不敢加碼。
+hidden: false
+messages:
+  - id: "1544988872763514901"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 16:34"
+    text: 壓力我看是在464那邊 應該462穩穩 （吧🧐
+  - id: "1544989500642562120"
+    author: Doobe
+    teacher: false
+    time: "2026-09-03 16:36"
+    text: 不知道這裡在醞釀往上還是往下
+  - id: "1544989780536987709"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 16:37"
+    text: 五分K來看是偏往上吧 除非有啥消息
+  - id: "1544990053699428372"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 16:38"
+    text: 沒有TV指標我都不敢加😂
+    reply:
+      id: "1544989755651919872"
+      author: 維尼Ni🌻
+      text: 好想加 又怕死 不堪承受
+      inGroup: false
+quiz: []

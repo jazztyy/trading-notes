@@ -1,0 +1,146 @@
+slug: "1557288564318937129"
+title: 10/7 夜盤撐壓與跳水位停損
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 停損停利
+teacher: nick_AJ
+channel: 一般
+date: "2026-10-07"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1557288564318937129
+summary: nick_AJ 轉貼 A 大的做多點位：49864～49894 進場、目標 50011，停損自設；並貼出 10/7 夜盤撐壓（本盤 L1 49842、跳水位 49773，夜盤即時跳水位 49848），建議停損設在跳水位 773。有人問為什麼停損放跳水位，他回答跌破就會加速下殺。後來跳水位稍有支撐，49781～49849 平台以上看 A 大的多方，結果區間後來還是被跌破。
+hidden: false
+messages:
+  - id: "1557288564318937129"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-07 15:08"
+    text: |-
+      空手的
+      49864-49894
+      目標50011
+      自設停損
+  - id: "1557288581884543058"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-07 15:08"
+    text: 那個A大
+  - id: "1557289725318930492"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-07 15:13"
+    text: ""
+    images:
+      - src: /img/1557289725318930492-Screenshot_20261007_151249_TradingView.jpg
+        alt: 九大點位表：本盤 H1 50117、L1 49842、跳水位 49773、L2/L3 49704；夜盤即時跳水位 49848
+  - id: "1557289737587531808"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-07 15:13"
+    text: 更新夜盤撐壓
+  - id: "1557289819233718314"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-07 15:13"
+    text: 這是做多啊
+    reply:
+      id: "1557288564318937129"
+      author: nick_AJ
+      text: 空手的 49864-49894 目標50011 自設停損
+      inGroup: true
+  - id: "1557294250591256617"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-07 15:31"
+    text: 損可以設773
+    reply:
+      id: "1557289725318930492"
+      author: nick_AJ
+      text: ""
+      inGroup: true
+  - id: "1557294287748861993"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-07 15:31"
+    text: 目前下去也沒有太遠
+  - id: "1557299453222854718"
+    author: Mikey
+    teacher: false
+    time: "2026-10-07 15:52"
+    text: 新手發問，為什麼是設跳水位停損啊？
+    reply:
+      id: "1557294250591256617"
+      author: nick_AJ
+      text: 損可以設773
+      inGroup: true
+  - id: "1557299932640182394"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-07 15:53"
+    text: 因為要跳水了🤣
+  - id: "1557300887670489169"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-07 15:57"
+    text: 不給跳水
+  - id: "1557301487074410517"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-07 16:00"
+    text: 跳水位稍有支撐
+  - id: "1557301646982389861"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-07 16:00"
+    text: |-
+      49781-49849平台
+      以上A大
+  - id: "1557306936062648391"
+    author: Mikey
+    teacher: false
+    time: "2026-10-07 16:21"
+    text: 區間有撐耶
+    reply:
+      id: "1557301646982389861"
+      author: nick_AJ
+      text: 49781-49849平台 以上A大
+      inGroup: true
+  - id: "1557319094896697347"
+    author: Mikey
+    teacher: false
+    time: "2026-10-07 17:10"
+    text: |-
+      Adam：
+
+      如果
+      49781-49849平台
+      反彈不過
+      目標
+      L1:49902
+      L2:49958
+      高機率回測49556-49650
+  - id: "1557335205906227274"
+    author: Mikey
+    teacher: false
+    time: "2026-10-07 18:14"
+    text: |-
+      相信A大抓的區間結果也被貫穿QQ
+      應該等訊號確定有出來再跟著進單才對
+quiz:
+  - q: Mikey 問為什麼做多的停損要設在跳水位，nick_AJ 的理由是？
+    o:
+      - 跳水位是當天最低點，不可能跌破
+      - 跌破跳水位就會加速下殺，不能讓它跳水
+      - 跳水位剛好是保本的位置
+      - 跳水位離進場最遠，停損最不容易被掃
+    a: 1
+    e: nick_AJ 說「因為要跳水了…不給跳水」，跌破跳水位就容易加速下殺，所以停損放這裡。
+  - q: A 大抓的區間最後被貫穿，Mikey 事後的反省是？
+    o:
+      - 應該等訊號確定有出來再跟著進單
+      - 停損應該設得更寬一點才不被洗
+      - 應該在區間內加碼攤平降低成本
+      - 應該反向操作喊單者給的點位
+    a: 0
+    e: Mikey 說區間也被貫穿，應該等訊號確定有出來再跟著進單才對。

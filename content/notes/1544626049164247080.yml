@@ -1,0 +1,61 @@
+slug: "1544626049164247080"
+title: 個股分類觀察清單
+type: 資源
+topic: 盤勢判讀
+tags:
+  - 盤勢判讀
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-02"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544626049164247080
+summary: Shawnnnn分享自己整理的個股分類觀察清單，丟連結即可分享；台股即時數據需另買。
+hidden: true
+messages:
+  - id: "1544626049164247080"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:32"
+    text: 你們有人會想要這個個股分類嗎這是我自己整理的
+    images:
+      - src: /img/1544626049164247080-image.jpg
+        alt: 個股分類觀察清單截圖
+  - id: "1544626369474994186"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 16:33"
+    text: 這個怎麼分享@？
+  - id: "1544626588510064681"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 16:34"
+    text: 肖恩大的意思是要跟我們分享他的觀察清單
+  - id: "1544626980379426816"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:36"
+    text: 沒有 那個要的另外自己買
+    reply:
+      id: "1544626643300130866"
+      author: ROCH
+      text: 台股即時數據嗎
+      inGroup: false
+  - id: "1544627013850238977"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:36"
+    text: 我是想說有人如果有在買個股
+  - id: "1544627040219570206"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:36"
+    text: 要觀察可以分類
+  - id: "1544627104405258250"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 16:36"
+    text: 丟連結就可以
+    reply:
+      id: "1544626369474994186"
+      author: nick_AJ
+      text: 這個怎麼分享@？
+      inGroup: true

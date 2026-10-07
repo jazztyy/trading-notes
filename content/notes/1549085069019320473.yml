@@ -1,0 +1,203 @@
+slug: "1549085069019320473"
+title: 模擬單 vs 實戰心態與截圖筆記復盤法
+type: 教學
+topic: 復盤回測
+tags:
+  - 復盤回測
+  - 交易心態
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-14"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1549085069019320473
+summary: 討論用 TV 練習單與實戰差很多（真金白銀心態、資金大小影響）；Shawnnnn 分享用截圖加註進場依據與防守點位做筆記，日K趨勢盤與震盪盤分開記錄，持續3-5個月會進步，並以『沒有被灌破』作為回踩進場重點。
+hidden: false
+messages:
+  - id: "1549085069019320473"
+    author: YOU
+    teacher: false
+    time: "2026-09-14 23:51"
+    text: 你們會用TV打練習單看看嗎
+  - id: "1549085277807714316"
+    author: YOU
+    teacher: false
+    time: "2026-09-14 23:51"
+    text: 不知道是不是因為真金白銀 心態會被綁住還是怎樣
+  - id: "1549085605726527571"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 23:53"
+    text: 一定會呀~
+    reply:
+      id: "1549085277807714316"
+      author: YOU
+      text: 不知道是不是因為真金白銀 心態會被綁住還是怎樣
+      inGroup: true
+  - id: "1549085716569522330"
+    author: Alina
+    teacher: true
+    time: "2026-09-14 23:53"
+    text: 模擬單測程式真的都可以「無情」下單機器
+  - id: "1549085757187035157"
+    author: Alina
+    teacher: true
+    time: "2026-09-14 23:53"
+    text: 真金白銀做不到無情🤣
+  - id: "1549085873046556795"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 23:54"
+    text: 但凹單倒是可以很無情
+    reply:
+      id: "1549085757187035157"
+      author: Alina
+      text: 真金白銀做不到無情🤣
+      inGroup: true
+  - id: "1549086236034211881"
+    author: Alina
+    teacher: true
+    time: "2026-09-14 23:55"
+    text: 我覺得光微台小台心情都不一樣了
+  - id: "1549086303314780242"
+    author: Alina
+    teacher: true
+    time: "2026-09-14 23:55"
+    text: 重點還是風險可承受範圍
+  - id: "1549086840210854050"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 23:58"
+    text: 資金大小的操作差很多
+  - id: "1549086908297257062"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 23:58"
+    text: 所以我現在還是在操作微台
+  - id: "1549090372968259595"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 00:12"
+    text: 我以前會這樣做筆記
+  - id: "1549090388953006231"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 00:12"
+    text: ""
+    images:
+      - src: /img/1549090388953006231-image.jpg
+        alt: 筆記截圖：拉上引線後未跌破起漲紅K低點，可進場做多、防守起漲紅K低點，並框出成交量
+  - id: "1549090467742752829"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 00:12"
+    text: 把看到的圖截圖下來解釋一下當時進場依據跟防守點位
+  - id: "1549090501041455166"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 00:12"
+    text: 存下來後三不五時看一下
+  - id: "1549090597871296712"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 00:12"
+    text: 看久就大概會記得，但是很多細節也還是要常複習
+  - id: "1549090650186711121"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 00:13"
+    text: 這樣精實的紀錄3-5個月會進步不少
+  - id: "1549090750170402868"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 00:13"
+    text: 尤其是日K的趨勢盤跟震盪盤都要記錄，因為狀況差很多
+  - id: "1549092404072677468"
+    author: Annahui
+    teacher: false
+    time: "2026-09-15 00:20"
+    text: 真的回來這裡了
+    reply:
+      id: "1549084091213676605"
+      author: Shawnnnn
+      text: 如果我真要下單我可能會想要買560停損設500
+      inGroup: false
+  - id: "1549092844864671995"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 00:21"
+    text: 剛好到藍線附近也是平常可以進場的點
+    reply:
+      id: "1549092404072677468"
+      author: Annahui
+      text: 真的回來這裡了
+      inGroup: true
+  - id: "1549092855048306788"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 00:21"
+    text: ""
+    images:
+      - src: /img/1549092855048306788-image.jpg
+        alt: TV 倉位工具：目標100點、停損60點、風報比1.67
+  - id: "1549093524354629805"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 00:24"
+    text: 像這個我就也可以做成筆記
+    images:
+      - src: /img/1549093524354629805-image.jpg
+        alt: 筆記截圖：壓力帶下緣沒被強勢灌破、回到EMA附近可嘗試進場，停損抓起漲紅K
+  - id: "1549093594697048115"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 00:24"
+    text: 下次遇到就知道怎麼面對了
+  - id: "1549093745939709953"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 00:25"
+    text: 重點是在沒有被灌破這幾個字
+    reply:
+      id: "1549093524354629805"
+      author: Shawnnnn
+      text: 像這個我就也可以做成筆記
+      inGroup: true
+  - id: "1549100264504426587"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 00:51"
+    text: ""
+    images:
+      - src: /img/1549100264504426587-image.jpg
+        alt: 2分K圖，紅圈標示等待回踩測試的位置
+  - id: "1549100302421065910"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 00:51"
+    text: 要熬夜的 看會不會回踩測試
+  - id: "1549100319756255347"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 00:51"
+    text: 有回踩就進場
+  - id: "1549265680006651927"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 11:48"
+    text: 我之前讀一本忘記叫啥的書 他就說每個人只要單純把過去對帳單攤出來扣掉凹單的單子績效其實都不錯
+quiz:
+  - q: Shawnnnn 分享他以前怎麼做交易筆記？
+    o:
+      - 每天記錄損益數字，月底再統計勝率和賺賠比
+      - 把喊單老師的點位抄下來，事後對照準不準
+      - 只記錄虧損的單，逐筆找出犯錯的原因
+      - 截圖寫下進場依據和防守點位，趨勢盤震盪盤都記
+    a: 3
+    e: Shawnnnn 會把圖截下來，解釋當時的進場依據跟防守點位，三不五時複習；趨勢盤和震盪盤狀況差很多，都要記錄，精實記錄 3-5 個月會進步不少。
+  - q: 在壓力帶下緣回到 EMA 附近嘗試進場的筆記中，Shawnnnn 說重點是哪幾個字？
+    o:
+      - 「量能放大」
+      - 「沒有被灌破」
+      - 「突破前高」
+      - 「連續紅 K」
+    a: 1
+    e: Shawnnnn 說這張筆記的重點在「沒有被灌破」這幾個字，沒被強勢灌破、回踩有撐才進場，停損抓起漲紅 K。

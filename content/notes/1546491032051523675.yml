@@ -1,0 +1,55 @@
+slug: "1546491032051523675"
+title: 下降趨勢中的反彈與突破判斷
+type: 分析
+topic: 盤勢判讀
+tags:
+  - 盤勢判讀
+teacher: Alina
+channel: 一般
+date: "2026-09-07"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1546491032051523675
+summary: Alina 認為走勢為下降階梯，碰到彈一下再往下，需看是否突破下降趨勢線才轉多。
+hidden: false
+messages:
+  - id: "1546491032051523675"
+    author: Alina
+    teacher: true
+    time: "2026-09-07 20:03"
+    text: ""
+    images:
+      - src: /img/1546491032051523675-IMG_2529.jpg
+        alt: Alina 標示下降趨勢的走勢圖
+  - id: "1546491051366293595"
+    author: Alina
+    teacher: true
+    time: "2026-09-07 20:03"
+    text: 看起來是下降趨勢
+  - id: "1546491251111624754"
+    author: Alina
+    teacher: true
+    time: "2026-09-07 20:04"
+    text: 可能是下降的樓梯，碰到彈一下，然後再往下
+  - id: "1546491558252122183"
+    author: Alina
+    teacher: true
+    time: "2026-09-07 20:05"
+    text: 短多的點，但如果空在比較高點位的應該可以觀察一下
+  - id: "1546491992022843415"
+    author: Alina
+    teacher: true
+    time: "2026-09-07 20:07"
+    text: 看看有沒有突破下降趨勢
+    reply:
+      id: "1546491558252122183"
+      author: Alina
+      text: 短多的點，但如果空在比較高點位的應該可以觀察一下
+      inGroup: true
+quiz:
+  - q: Alina 看到下降樓梯的走勢時，認為要觀察什麼來判斷是否轉多？
+    o:
+      - 碰到支撐彈一下就可以轉多看
+      - 等成交量放大到超過前一波高點
+      - 看有沒有突破下降趨勢線
+      - 看 1 分 K 是否先出現買進訊號
+    a: 2
+    e: Alina 認為下降樓梯是碰到彈一下再往下，反彈只是短多，要看有沒有突破下降趨勢才算轉多。

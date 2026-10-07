@@ -1,0 +1,67 @@
+slug: "1548866946538283049"
+title: 外資期貨未平倉成本怎麼看
+type: 分析
+topic: 籌碼消息
+tags:
+  - 籌碼消息
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-14"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1548866946538283049
+summary: 查到外資空單持倉成本約44892，Shawn 提醒該口數是所有月份加總，並非全為近月。
+hidden: false
+messages:
+  - id: "1548866946538283049"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-14 09:24"
+    text: 外豬空單價45xxx,又要無痛轉倉了嗎
+  - id: "1548867061680308345"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-14 09:24"
+    text: 查到了44892
+  - id: "1548867860615536651"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 09:27"
+    text: 9月的嗎
+    reply:
+      id: "1548867061680308345"
+      author: 維尼Ni🌻
+      text: 查到了44892
+      inGroup: true
+  - id: "1548869068440731649"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-14 09:32"
+    text: 他們的持倉成本
+    reply:
+      id: "1548867788179771394"
+      author: Annahui
+      text: 外豬空單在這？
+      inGroup: false
+  - id: "1548869411006316626"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 09:34"
+    text: 但這個要注意，他85000口不是全部都近月的
+  - id: "1548869446544662579"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 09:34"
+    text: 有些是遠月的
+  - id: "1548869476047396865"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 09:34"
+    text: 他是所有月份做加總
+quiz:
+  - q: 看外資期貨空單的口數與持倉成本時，Shawnnnn 提醒要注意什麼？
+    o:
+      - 那個口數是所有月份加總，不全是近月
+      - 那個口數只算近月，遠月要另外查
+      - 持倉成本每天都會被自動轉倉歸零
+      - 只有夜盤的部位才會算進口數
+    a: 0
+    e: Shawnnnn 說那 85000 口不是全部都近月的，有些是遠月，是所有月份做加總。

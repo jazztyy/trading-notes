@@ -1,0 +1,54 @@
+slug: "1548959294240727043"
+title: 月結算週留倉風險
+type: 分析
+topic: 下單工具
+tags:
+  - 下單工具
+  - 盤勢判讀
+teacher: nick_AJ
+channel: 一般
+date: "2026-09-14"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1548959294240727043
+summary: 結算前要注意轉倉；nick_AJ 多次被結算壓低搞到由賺變賠，Shawnnnn 結算日波動大有賺就好，結算日容易被玩。
+hidden: true
+messages:
+  - id: "1548959294240727043"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-14 15:31"
+    text: 對也 剩兩天就結算了
+  - id: "1548959322854391911"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-14 15:31"
+    text: 如果要抱波段的
+  - id: "1548959348301238384"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-14 15:31"
+    text: 要注意下10月的了
+  - id: "1548959466005860403"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-14 15:31"
+    text: 做多就被壓低結算😢
+  - id: "1548959564588781660"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-14 15:32"
+    text: 每次都從賺上千點變成差點賠錢或賠錢
+  - id: "1548959656913936395"
+    author: wenwen0128.
+    teacher: false
+    time: "2026-09-14 15:32"
+    text: 這週月結算 大家要轉倉的可以提前～
+  - id: "1549608057682530389"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 10:29"
+    text: 對，結算日很容易被玩
+    reply:
+      id: "1549607981191266315"
+      author: Shawnnnn
+      text: 真的 我今天的想法就是因為波動可能比較大所以有賺就好
+      inGroup: false

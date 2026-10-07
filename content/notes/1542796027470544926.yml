@@ -1,0 +1,149 @@
+slug: "1542796027470544926"
+title: 用TradingView重播功能覆盤
+type: 教學
+topic: 復盤回測
+tags:
+  - 復盤回測
+teacher: Shawnnnn
+channel: 一般
+date: "2026-08-28"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1542796027470544926
+summary: Shawnnnn每天用TV重播覆盤；步驟：週期先轉到日線→按重播→選要重播的日期(在下方)→調回2分K並設定每次跳幾分K。
+hidden: false
+messages:
+  - id: "1542796027470544926"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 15:20"
+    text: 請問肖恩大大有今日做單記要嗎🤩
+  - id: "1542796083262918746"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 15:20"
+    text: 想要來復盤看看
+  - id: "1542796764627869696"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 15:23"
+    text: 哈哈哈應該沒有吧看你有什麼問題就問呀
+  - id: "1542796806407200802"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 15:23"
+    text: 我覆盤都是自己用TV的重播功能覆盤
+  - id: "1542935481249955870"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:34"
+    text: 覆盤也很重要，周末可以用TV的重播功能覆盤
+  - id: "1542935497825845258"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:34"
+    text: 會使用嗎?
+  - id: "1542935954338222174"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:36"
+    text: 你先將週期轉到天，按重播
+  - id: "1542935967546085386"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:36"
+    text: ""
+    images:
+      - src: /img/1542935967546085386-image.jpg
+        alt: TradingView重播功能介面
+  - id: "1542936257624281179"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-08-29 00:37"
+    text: ""
+    images:
+      - src: /img/1542936257624281179-20260829_003736.jpg
+        alt: 手機TV畫面：詢問是否為重播
+  - id: "1542936332970623117"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-08-29 00:38"
+    text: 這個嗎
+  - id: "1542936773938647062"
+    author: ROCH
+    teacher: false
+    time: "2026-08-29 00:39"
+    text: 點重播
+    reply:
+      id: "1542936257624281179"
+      author: 維尼Ni🌻
+      text: ""
+      inGroup: true
+  - id: "1542937135261159454"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:41"
+    text: 然後去選一個你要重播的日子
+  - id: "1542937504888528977"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:42"
+    text: 然後調回2分K底下可以選一次跳幾分K，選一次一分鐘
+    images:
+      - src: /img/1542937504888528977-image.jpg
+        alt: 重播時設定每次跳幾分K的選單
+  - id: "1542937508105560105"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-08-29 00:42"
+    text: 怎麼選日子？看不出來有日期選
+    reply:
+      id: "1542937135261159454"
+      author: Shawnnnn
+      text: 然後去選一個你要重播的日子
+      inGroup: true
+  - id: "1542937695913910372"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-08-29 00:43"
+    text: 喔喔。找到了
+  - id: "1542938234722582568"
+    author: YOU
+    teacher: false
+    time: "2026-08-29 00:45"
+    text: 請問你在哪裡看到~ 我找不到...
+    reply:
+      id: "1542937508105560105"
+      author: 維尼Ni🌻
+      text: 怎麼選日子？看不出來有日期選
+      inGroup: true
+  - id: "1542938282676199555"
+    author: YOU
+    teacher: false
+    time: "2026-08-29 00:45"
+    text: 日子的
+  - id: "1542938461273723030"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-08-29 00:46"
+    text: ""
+    reply:
+      id: "1542938234722582568"
+      author: YOU
+      text: 請問你在哪裡看到~ 我找不到...
+      inGroup: true
+    images:
+      - src: /img/1542938461273723030-20260829_004624.jpg
+        alt: 手機TV畫面：日期選擇位置
+  - id: "1542938728333574204"
+    author: YOU
+    teacher: false
+    time: "2026-08-29 00:47"
+    text: 有了 原來在下面
+quiz:
+  - q: 依 Shawnnnn 教的 TradingView 重播覆盤步驟，第一步要做什麼？
+    o:
+      - 直接在2分K按重播，再往回拉到想看的日期
+      - 先把週期轉到日線，再按重播
+      - 先把每次跳幾分K設成5分鐘
+      - 先切到1小時K找趨勢段再按重播
+    a: 1
+    e: Shawnnnn 說先將週期轉到天、按重播、選要重播的日子，再調回2分K並設定一次跳一分鐘。

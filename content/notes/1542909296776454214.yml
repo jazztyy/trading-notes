@@ -1,0 +1,154 @@
+slug: "1542909296776454214"
+title: 示範：459進場後停損50點、停利70點與設警示
+type: 教學
+topic: 停損停利
+tags:
+  - 停損停利
+  - 下單工具
+  - 進場時機
+teacher: Shawnnnn
+channel: 一般
+date: "2026-08-28"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1542909296776454214
+summary: 假設459進場，先設停損(抓前面引線約50點)、停利(引線附近70點)，在停損停利附近設價格警示，響了再回來看；盤整15-25分鐘(7-13根K)或白線往反方向彎就先離場，小損20-30點即可；TV不串券商，不顯示部位。
+hidden: true
+messages:
+  - id: "1542909296776454214"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:50"
+    text: 好現在我們都沒單
+  - id: "1542909335288549397"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:50"
+    text: 我們就來看看剛剛459進現在要怎麼看
+  - id: "1542909368142663811"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:50"
+    text: 先設停損位置
+  - id: "1542909601295372390"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:51"
+    text: ""
+    images:
+      - src: /img/1542909601295372390-image.jpg
+        alt: K線圖：459進場，標示停損停利位置
+  - id: "1542909646376009801"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:52"
+    text: 我就抓前面比較多引線的地方大概50點
+  - id: "1542909775736610959"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:52"
+    text: 停利我就抓前面引線附近70點
+  - id: "1542910137344466974"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:54"
+    text: 然後現在就是讓他跑
+  - id: "1542910156222763219"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:54"
+    text: ""
+    images:
+      - src: /img/1542910156222763219-image.jpg
+        alt: K線圖：持有過程中讓單子跑，並設警示
+  - id: "1542910189718478988"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:54"
+    text: 停利停損附近掛個警示
+  - id: "1542910217518317588"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:54"
+    text: 警示響了回來看
+  - id: "1542910240922673263"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:54"
+    text: 現在就做自己的事情
+  - id: "1542910528320569496"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:55"
+    text: 然後過個15-25分鐘都沒有警示那勢必就是在盤整2分K大概已經跑了7-13跟K棒了
+  - id: "1542910588881997938"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:55"
+    text: 有時候你會發現白線慢慢往你做的反方向彎了
+  - id: "1542910602970796112"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:55"
+    text: 那你就先離場
+  - id: "1542910643231920259"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:56"
+    text: 也不用一定要到40點停損
+  - id: "1542910670230659184"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:56"
+    text: 可能小損個20-30點而已
+  - id: "1542910688706568212"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:56"
+    text: 不會痛的
+  - id: "1542911076528824331"
+    author: YOU
+    teacher: false
+    time: "2026-08-28 22:57"
+    text: 請問s大 這個怎麼設定 剛接觸 介面沒有到很熟幾口倉也能更改嗎(看金額是2口的樣子)
+    reply:
+      id: "1542910156222763219"
+      author: Shawnnnn
+      text: ""
+      inGroup: true
+  - id: "1542911892736188526"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 23:01"
+    text: 那個是肖恩大自己的下單畫面
+    reply:
+      id: "1542911790646689893"
+      author: YOU
+      text: 怕沒看到再問一下@@
+      inGroup: false
+  - id: "1542912006569328720"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 23:01"
+    text: ""
+    images:
+      - src: /img/1542912006569328720-image.jpg
+        alt: TradingView畫面：僅有圖表，不顯示倉位與停損
+  - id: "1542912031194091580"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 23:01"
+    text: TV的畫面只會有這樣
+  - id: "1542912055219323011"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:01"
+    text: 對那個是TV的介面
+  - id: "1542912103097311273"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:01"
+    text: 不是下單軟體我TV沒有串券商
+  - id: "1542912112261603369"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 23:01"
+    text: 不會顯示艙位跟停損

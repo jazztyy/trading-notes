@@ -1,0 +1,142 @@
+slug: "1542926554005246113"
+title: 反彈單與有量才玩
+type: 教學
+topic: 進場時機
+tags:
+  - 進場時機
+  - 停損停利
+teacher: Shawnnnn
+channel: 一般
+date: "2026-08-28"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1542926554005246113
+summary: Shawnnnn示範在46055進46112出；搶反彈停利不能太大；激進派觀察白線快到再掛，反彈猛時可掛EMA價位；線沒上彎仍是空單；不給機會就不追，訓練耐心。
+hidden: false
+messages:
+  - id: "1542926554005246113"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:59"
+    text: 剛剛示範的那根後面還有機會我就有進
+    images:
+      - src: /img/1542926554005246113-image.jpg
+        alt: K線圖：後面還有機會進場一口
+  - id: "1542926584766267534"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:59"
+    text: 但一口而已
+  - id: "1542926961356054608"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:00"
+    text: 快打到了有可能會反彈
+    images:
+      - src: /img/1542926961356054608-image.jpg
+        alt: K線圖：快打到支撐可能反彈
+  - id: "1542927350856159242"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:02"
+    text: 觀察
+    reply:
+      id: "1542927170203287572"
+      author: ROCH
+      text: 直接下去了
+      inGroup: false
+  - id: "1542927473220788284"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:02"
+    text: 手癢的可以做多看看
+  - id: "1542928028018016408"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:05"
+    text: 搶反彈我不會看那麼遠
+  - id: "1542928055981445120"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:05"
+    text: 我有賺就很爽了
+  - id: "1542928142761730140"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:05"
+    text: 剛剛46055進46112出
+  - id: "1542928769801654342"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:08"
+    text: 現在有量當然可以繼續玩啊
+  - id: "1542928876261351456"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:08"
+    text: 激進派就是觀察白線
+  - id: "1542928893017591989"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:08"
+    text: 現在先不要掛
+  - id: "1542928918028226751"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:08"
+    text: 還沒到
+  - id: "1542928939113127976"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:08"
+    text: 快到在掛
+  - id: "1542929096697188452"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:09"
+    text: 這種反彈也要稍微注意有時候會猛猛一根上去那可能就要掛EMA那價位
+  - id: "1542929282328825916"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:10"
+    text: 但現在要玩停利點就不會很大了喔
+  - id: "1542929427309138011"
+    author: Annahui
+    teacher: false
+    time: "2026-08-29 00:10"
+    text: 線沒有上彎 所以還是空單 對嗎
+  - id: "1542929476168454144"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:10"
+    text: 對
+  - id: "1542929900632277112"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:12"
+    text: 對~但以往我可能會追單
+  - id: "1542929931598700605"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:12"
+    text: 然後她等等又會上來
+  - id: "1542930059008934058"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 00:13"
+    text: 訓練耐心
+quiz:
+  - q: 搶反彈單時，Shawnnnn 的停利態度是？
+    o:
+      - 搶反彈要抱到前高才出場
+      - 停利不會看太遠，有賺就很爽了
+      - 搶反彈一定要2R以上才值得做
+      - 搶反彈不設停利，抱到反手訊號
+    a: 1
+    e: Shawnnnn 說搶反彈他不會看那麼遠，有賺就很爽；現在玩的話停利點也不會很大。
+  - q: 激進派觀察白線準備掛單時，Shawnnnn 提醒什麼？
+    o:
+      - 提早先掛好等，避免價格來了來不及成交
+      - 改用市價單直接追，不要等價格回到白線
+      - 快到再掛；反彈很猛時可能要改掛EMA價位
+      - 只要白線還沒上彎，就反過來改做多
+    a: 2
+    e: Shawnnnn 說還沒到先不要掛、快到再掛；反彈有時猛猛一根上去，那就要掛EMA那價位。

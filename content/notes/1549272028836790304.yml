@@ -1,0 +1,181 @@
+slug: "1549272028836790304"
+title: 期貨均價線指標用法（日均/月均判斷多空）
+type: 教學
+topic: 指標設定
+tags:
+  - 指標設定
+  - 盤勢判讀
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-15"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1549272028836790304
+summary: Shawnnnn 寫了期貨均價線指標（已傳資料交換區），用法：先判斷目前是多方或空方並順勢做，均價線只是參考位置，逆勢單接近均價要跑很快；加上當月均線後，當日均穿過月均基本上盤勢為空方。
+hidden: false
+messages:
+  - id: "1549272028836790304"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 12:13"
+    text: 你們有人會去看均價線嗎
+  - id: "1549272045173473330"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 12:13"
+    text: ""
+    images:
+      - src: /img/1549272045173473330-image.jpg
+        alt: 5分K台指期，加上青色虛線均價線
+  - id: "1549272111263121460"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 12:14"
+    text: 再寫一個均價線
+  - id: "1549272158688124959"
+    author: ROCH
+    teacher: false
+    time: "2026-09-15 12:14"
+    text: 期貨還有均價線XD
+    reply:
+      id: "1549272045173473330"
+      author: Shawnnnn
+      text: ""
+      inGroup: true
+  - id: "1549272174291062785"
+    author: ROCH
+    teacher: false
+    time: "2026-09-15 12:14"
+    text: 個股會看
+  - id: "1549272199993491537"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 12:14"
+    text: 有欸
+  - id: "1549272615817052268"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 12:16"
+    text: 傳到資料交換區了
+  - id: "1549272645168795659"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 12:16"
+    text: 那個比較沒啥問題
+  - id: "1549272667549601794"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 12:16"
+    text: 可以直接用
+  - id: "1549277678945705984"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 12:36"
+    text: ""
+    images:
+      - src: /img/1549277678945705984-image.jpg
+        alt: 2分K圖，價格跌破均價線（灌破）後走空
+  - id: "1549277716597968987"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 12:36"
+    text: 灌破啦~~
+  - id: "1549281064214863905"
+    author: YOU
+    teacher: false
+    time: "2026-09-15 12:49"
+    text: 師傅想問你 TV介面的一些標示&操作 你都怎麼學的 是看教學片嗎
+  - id: "1549282133137297409"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-15 12:54"
+    text: 意思是均價線會小彈一下嗎
+    reply:
+      id: "1549277681843961907"
+      author: Shawnnnn
+      text: 又到了
+      inGroup: false
+  - id: "1549283101501562903"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 12:57"
+    text: 標示是指什麼呀?操作就是賠出心得找到一個適合自己的方法哈哈哈哈，教學我是網路也是會亂看呀
+    reply:
+      id: "1549281064214863905"
+      author: YOU
+      text: 師傅想問你 TV介面的一些標示&操作 你都怎麼學的 是看教學片嗎
+      inGroup: true
+  - id: "1549283309190910076"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 12:58"
+    text: 不一定!可是他就是一個參考位置，我如果有看到快到均價我就會做逆勢單一樣要跑很快
+    reply:
+      id: "1549282133137297409"
+      author: 維尼Ni🌻
+      text: 意思是均價線會小彈一下嗎
+      inGroup: true
+  - id: "1549286432793694208"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 13:11"
+    text: ""
+    images:
+      - src: /img/1549286432793694208-image.jpg
+        alt: 2分K圖，均價線下偏空；黃圈為做空進場、紅圈為停損點
+  - id: "1549286725199597610"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 13:12"
+    text: 就是判斷一下現在是多方還空方，你就照著做，很明顯這段前面都是空頭，到了就做空，紅色圈就是可能要停損
+  - id: "1549294483982524506"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 13:43"
+    text: 更新一版多了當月，你可以自己決定要不要顯示出來
+    images:
+      - src: /img/1549294483982524506-image.jpg
+        alt: 均價線指標設定視窗：可勾選顯示當日均價線、當月均價線
+  - id: "1549295308448600095"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 13:46"
+    text: 這樣就有另一種方式可以解讀趨勢行情了，當日均也穿過月均那基本上盤勢就是空方了
+    images:
+      - src: /img/1549295308448600095-image.jpg
+        alt: 2分K圖，圈出當日均價線下穿當月均價線，代表盤勢轉空方
+  - id: "1549295459502260288"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 13:47"
+    text: 剩下要靠自己去復盤了
+  - id: "1549295559255400509"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 13:47"
+    text: 如果覺得雜訊太多你要單純看策略做事也是可以
+  - id: "1549296033794625559"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-15 13:49"
+    text: 這個很重要的感覺
+    reply:
+      id: "1549295308448600095"
+      author: Shawnnnn
+      text: 這樣就有另一種方式可以解讀趨勢行情了，當日均也穿過月均那基本上盤勢就是空方了
+      inGroup: true
+quiz:
+  - q: 依 Shawnnnn 的說法，期貨均價線指標該怎麼用？
+    o:
+      - 價格碰到均價線一定會反彈，可直接重倉逆勢
+      - 價格在均價線上就做空、線下就做多
+      - 先判斷多空照著做，均價線只是參考位置
+      - 只要價格穿過均價線就立刻反手
+    a: 2
+    e: Shawnnnn 說均價線是一個參考位置，先判斷多空照著做；如果快到均價做逆勢單，也一樣要跑很快。
+  - q: 加上當月均價線後，Shawnnnn 說出現什麼情況基本上盤勢就是空方？
+    o:
+      - 當日均價線下穿當月均價線
+      - 當月均價線上穿當日均價線
+      - 價格碰到當月均價線後反彈
+      - 當日均價線和當月均價線黏在一起
+    a: 0
+    e: Shawnnnn 說當日均也穿過月均，那基本上盤勢就是空方了，這是解讀趨勢的另一種方式。

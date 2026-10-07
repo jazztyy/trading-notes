@@ -1,0 +1,143 @@
+slug: "1544923812875735150"
+title: 中午12點後非結算日期貨變安靜；13:02/16:00 爆量時間點觀察
+type: 分析
+topic: 盤勢判讀
+tags:
+  - 盤勢判讀
+teacher: nick_AJ
+channel: 一般
+date: "2026-09-03"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544923812875735150
+summary: nick_AJ 與 wenwen 觀察：每天固定時間（約12:45、13:02，近期夜間16:00左右）會有大量成交的程式單動作，時間比點位重要，但時間會改須持續記錄，可搭配老大動能模式提高勝率。
+hidden: false
+messages:
+  - id: "1544923812875735150"
+    author: wenwen0128.
+    teacher: false
+    time: "2026-09-03 12:15"
+    text: 12.之後不是結算日 期貨好像就不怎麼動了
+  - id: "1544924124961308852"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 12:16"
+    text: 可能要看時間前陣子觀察是12點45最近是13點02
+    reply:
+      id: "1544923812875735150"
+      author: wenwen0128.
+      text: 12.之後不是結算日 期貨好像就不怎麼動了
+      inGroup: true
+  - id: "1544924169639174205"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 12:17"
+    text: 會有較大波動
+  - id: "1544937488383086632"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 13:10"
+    text: 今天也是1302分發動
+  - id: "1544937538236588064"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 13:10"
+    text: 剛剛忘了去下單🤣
+  - id: "1544937640472879145"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 13:10"
+    text: 不錯的觀察
+    reply:
+      id: "1544937488383086632"
+      author: nick_AJ
+      text: 今天也是1302分發動
+      inGroup: true
+  - id: "1544982107447885864"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 16:07"
+    text: ""
+    images:
+      - src: /img/1544982107447885864-Screenshot_20260903_160710.jpg
+        alt: 手機看盤台指近全5分?圖，16:04出現一根爆量長紅K（成交量407），用來示範程式單發動時間點
+  - id: "1544982117581328424"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 16:07"
+    text: 發動時間點
+  - id: "1544982155950817421"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 16:07"
+    text: 近期的話 都是1600左右
+  - id: "1544982202859913246"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 16:07"
+    text: 今天慢三分
+  - id: "1544982314705231912"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 16:08"
+    text: 時間比點位重要
+  - id: "1544982386398339132"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 16:08"
+    text: 每天在固定幾個時間點會有大量成交量出現
+  - id: "1544982432132894770"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 16:08"
+    text: 可以抓準時間下去做
+  - id: "1544982474109616199"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 16:08"
+    text: 目前看回測蠻準的
+  - id: "1544982626857914458"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 16:09"
+    text: 猜看看 然後搭配老大的動能模式
+  - id: "1544982928147349624"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 16:10"
+    text: 其實那些時間點就是很明顯的程式單在動作
+  - id: "1544982967179415603"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 16:10"
+    text: 但是他們時間都會改
+  - id: "1544982998359871528"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 16:10"
+    text: 所以只能持續記錄
+  - id: "1544985729250369546"
+    author: Doobe
+    teacher: false
+    time: "2026-09-03 16:21"
+    text: 時間點位這個是什麼？目前有哪幾個時間點
+  - id: "1545099692113924170"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 23:54"
+    text: 程式單都會在3-5點的時候搞
+quiz:
+  - q: "nick_AJ 觀察大量成交的程式單時，認為什麼比點位重要？"
+    o:
+      - "成交量大小"
+      - "時間"
+      - "外資籌碼"
+      - "均線方向"
+    a: 1
+    e: "nick_AJ 說每天固定幾個時間點會有大量成交，時間比點位重要，可以抓準時間去做。"
+  - q: "nick_AJ 為什麼說程式單發動時間「只能持續記錄」？"
+    o:
+      - "因為每天都在同一分鐘"
+      - "因為只有結算日才有"
+      - "因為回測不準"
+      - "因為他們的時間都會改"
+    a: 3
+    e: "nick_AJ 說那些時間點是程式單在動作，但時間都會改（如12:45變13:02），所以只能持續記錄。"

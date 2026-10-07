@@ -1,0 +1,202 @@
+slug: "1551419046128390155"
+title: 30分K參數+5分/2分找進場(帝王策略)與TP訊號
+type: 教學
+topic: 程式交易
+tags:
+  - 程式交易
+  - 多週期判斷
+  - 進場時機
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-21"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551419046128390155
+summary: 帝王策略：用1小時/30分K看趨勢，用小分K(5或2分)找進場點做單邊，訊號幫忙視覺化；第四口確定反轉才出、無自動停利；設快訊照參數、不頻繁交易；開兩個圖表對照最清楚；第一次碰5分K線進場、趨勢不明則不進。
+hidden: true
+messages:
+  - id: "1551419046128390155"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 10:25"
+    text: 我看30分k參數已經TP2
+  - id: "1551419083084533833"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 10:25"
+    text: 30分k這個月勝率挺不錯
+  - id: "1551419131671347324"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 10:25"
+    text: 做到小賠大賺
+  - id: "1551420578429149257"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 10:31"
+    text: 30分TP3了~厲害!!
+    images:
+      - src: /img/1551420578429149257-image.jpg
+        alt: 30分K參數圖：訊號達TP3
+  - id: "1551421091451244554"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 10:33"
+    text: 周五凌晨
+    images:
+      - src: /img/1551421091451244554-image.jpg
+        alt: 30分K參數：週五凌晨進場訊號位置
+  - id: "1551421486076530779"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 10:35"
+    text: 30搭配5或2
+  - id: "1551421544943845438"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 10:35"
+    text: 我也是這樣
+    reply:
+      id: "1551421486076530779"
+      author: Shawnnnn
+      text: 30搭配5或2
+      inGroup: true
+  - id: "1551421622886600746"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 10:35"
+    text: 照參數不錯呀等訊號然後看進場機會
+    reply:
+      id: "1551421470972973182"
+      author: ROCH
+      text: 你不需要
+      inGroup: false
+  - id: "1551421765123842101"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 10:36"
+    text: 對，設快訊照參數
+  - id: "1551432557449715783"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 11:19"
+    text: 剛好在看帝王的策略
+  - id: "1551432958408261702"
+    author: 雪碧$$
+    teacher: false
+    time: "2026-09-21 11:20"
+    text: 疑?  我的帝王五分K是空捏?
+    reply:
+      id: "1551432557449715783"
+      author: Shawnnnn
+      text: 剛好在看帝王的策略
+      inGroup: true
+  - id: "1551433020618047502"
+    author: 雪碧$$
+    teacher: false
+    time: "2026-09-21 11:20"
+    text: ""
+    images:
+      - src: /img/1551433020618047502-image.jpg
+        alt: 帝王5分K參數畫面
+  - id: "1551433171357143061"
+    author: Annahui
+    teacher: false
+    time: "2026-09-21 11:21"
+    text: 我的沒出訊號噎
+    reply:
+      id: "1551432958408261702"
+      author: 雪碧$$
+      text: 疑? 我的帝王五分K是空捏?
+      inGroup: true
+  - id: "1551433208065949827"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 11:21"
+    text: 喔喔不是我是在看帝王的策略就是30搭配5，然後5剛好準備去踩線
+    reply:
+      id: "1551433020618047502"
+      author: 雪碧$$
+      text: ""
+      inGroup: true
+  - id: "1551433383303979028"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 11:22"
+    text: ""
+    images:
+      - src: /img/1551433383303979028-image.jpg
+        alt: Shawn並排圖表，30分搭配5分K踩線進場示意
+  - id: "1551433465432510505"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 11:22"
+    text: 有用平版就是最好開兩個圖表這樣很清楚
+  - id: "1551433610308096051"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 11:23"
+    text: 基本上帝王的策略就是我之前說的你要用1小時K或是30分K去看趨勢然後用小分K的去找進場點做單邊
+  - id: "1551433678406688941"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 11:23"
+    text: 只是帝王幫大家把訊號弄出來更容易觀察
+  - id: "1551439619780911167"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 11:47"
+    text: 沒關係如果我不是第一跟碰到5分K的線進場 我到剛剛也不會進
+  - id: "1551439636629422151"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 11:47"
+    text: 因為趨勢就不明
+  - id: "1551516944035745793"
+    author: Kai
+    teacher: false
+    time: "2026-09-21 16:54"
+    text: 帝王策略的第四口我記得設定是沒有設定自動停利～
+  - id: "1551518207301394453"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 16:59"
+    text: 印象這一口是確定反轉才會出
+    reply:
+      id: "1551516944035745793"
+      author: Kai
+      text: 帝王策略的第四口我記得設定是沒有設定自動停利～
+      inGroup: true
+  - id: "1551518262070878259"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 16:59"
+    text: 看他可以走多遠的那一口
+    reply:
+      id: "1551518207301394453"
+      author: Alina
+      text: 印象這一口是確定反轉才會出
+      inGroup: true
+  - id: "1551520651234381837"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-21 17:09"
+    text: 對 原始設計是這樣的
+    reply:
+      id: "1551518207301394453"
+      author: Alina
+      text: 印象這一口是確定反轉才會出
+      inGroup: true
+  - id: "1551520701406777345"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-21 17:09"
+    text: 所以很常看到同步反手空
+  - id: "1551587328093589526"
+    author: ROCH
+    teacher: false
+    time: "2026-09-21 21:34"
+    text: 30分k訊號也空了
+  - id: "1551587645275119637"
+    author: "99"
+    teacher: false
+    time: "2026-09-21 21:35"
+    text: 平多進空了

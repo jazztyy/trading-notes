@@ -1,0 +1,438 @@
+slug: "1554863142260178995"
+title: 復盤與策略一致性：維尼的 EMA50 白線進場檢討
+type: 教學
+topic: 復盤回測
+tags:
+  - 復盤回測
+  - 進場時機
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-30"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1554863142260178995
+summary: 維尼多次在 EMA50（白線）失敗，大家建議先分清手癢單與策略單、策略只擇一使用、固定順勢方向統計勝率，復盤至少一個月含震盪與趨勢盤；圖表縮放會改變均線斜率觀感。
+hidden: false
+messages:
+  - id: "1554863142260178995"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:31"
+    text: 你遇到瓶頸就上來問問大家
+  - id: "1554863441267654750"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:32"
+    text: 之外降低交易次數
+  - id: "1554863478391439371"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:32"
+    text: 然後找到自己適合的方式
+  - id: "1554863683367075983"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:33"
+    text: 我自己是點位、雙線&EMA200
+    reply:
+      id: "1554863478391439371"
+      author: Alina
+      text: 然後找到自己適合的方式
+      inGroup: true
+  - id: "1554863784382697593"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:33"
+    text: 我會盡量抓自己知道怎麼筍的位置進
+    reply:
+      id: "1554863455331164201"
+      author: 維尼Ni🌻
+      text: 現在都是不凹單然後狂吃筍，要設150點才比較好嗎
+      inGroup: false
+  - id: "1554863918701215827"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:34"
+    text: 我的問題在我很難判斷筍🤣 所以盡量進在我可以判斷的
+  - id: "1554864015065489631"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:34"
+    text: 先不考慮設幾點損~你可以跟我說你覺得是策略問題還是心態問題嗎
+    reply:
+      id: "1554863455331164201"
+      author: 維尼Ni🌻
+      text: 現在都是不凹單然後狂吃筍，要設150點才比較好嗎
+      inGroup: false
+  - id: "1554864357056454867"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 22:35"
+    text: 看線覺得是多頭應該能接，結果接了又一直下去洗....等智慧單筍完後又爆噴到500
+  - id: "1554864528775184425"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 22:36"
+    text: 我覺得是我判斷跟心態都有問題
+    reply:
+      id: "1554864015065489631"
+      author: Shawnnnn
+      text: 先不考慮設幾點損~你可以跟我說你覺得是策略問題還是心態問題嗎
+      inGroup: true
+  - id: "1554864627094126613"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:36"
+    text: 那你可以把今天的進出場的位置畫出來嗎
+  - id: "1554864670190469173"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 22:37"
+    text: 還是我只適合右側交易嗎
+  - id: "1554865027461419090"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:38"
+    text: 我自己也是喜歡右側交易，只是我是等回踩去試單
+  - id: "1554865057320665200"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:38"
+    text: 我覺得可以先把今天進場位置抓出來～復盤看看
+  - id: "1554865199520030741"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 22:39"
+    text: 對 有個圖表分析聊天區
+    reply:
+      id: "1554864627094126613"
+      author: Shawnnnn
+      text: 那你可以把今天的進出場的位置畫出來嗎
+      inGroup: true
+  - id: "1554865451752886383"
+    author: Kai
+    teacher: false
+    time: "2026-09-30 22:40"
+    text: 感覺可以先想想進出場是不是同個策略 還是很常 fomo 或是停損後馬上想賺回來又下單
+  - id: "1554865643021533296"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 22:40"
+    text: ""
+    images:
+      - src: /img/1554865643021533296-20260930_223958.jpg
+        alt: 維尼5分K進出場標示圖（箭頭為進出場、白線EMA50）
+  - id: "1554865737062031361"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:41"
+    text: 恩恩要區分自己是手癢單還是策略單，那如果真的照策略走了還連續虧了5-6筆，那這時候要區分你是策略有問題還是只有今天有問題?這個很重要
+  - id: "1554865841454186560"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 22:41"
+    text: 左箭頭踩白線進的，長下影線那根出的，智慧單掰了
+  - id: "1554865843706269748"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:41"
+    text: 如果只有今天有問題那就是今天的盤勢不適合你而已
+  - id: "1554865948639502447"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:42"
+    text: 大谷翔平就算是神他也是有低潮的時候
+  - id: "1554866038129041448"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:42"
+    text: 所以你要先去區分一下是策略在今天有問題還是一直都有問題
+  - id: "1554866250243375176"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:43"
+    text: 箭頭第一個是進場第二個離場嗎
+    reply:
+      id: "1554865643021533296"
+      author: 維尼Ni🌻
+      text: ""
+      inGroup: true
+  - id: "1554866264193634315"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:43"
+    text: 這是幾分K
+  - id: "1554866269046439997"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 22:43"
+    text: 對
+  - id: "1554866280610406401"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 22:43"
+    text: 五分
+  - id: "1554866284708106413"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:43"
+    text: 你的策略是甚麼
+  - id: "1554866426593149012"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 22:44"
+    text: 想說多方站上白線回去，搶個短多
+  - id: "1554866741123874867"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 22:45"
+    text: 追高有不敢，踩個白線接總不置於死，結果掰了
+  - id: "1554866765161431063"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:45"
+    text: 你白線是甚麼指標?
+  - id: "1554866912909860966"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 22:46"
+    text: EMA50
+    reply:
+      id: "1554866765161431063"
+      author: Shawnnnn
+      text: 你白線是甚麼指標?
+      inGroup: true
+  - id: "1554867219450699816"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:47"
+    text: 現在都是看踩EMA50進單嗎
+  - id: "1554867431674089484"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 22:48"
+    text: 順便配個H的點位和你的溫開水兩線
+    reply:
+      id: "1554867219450699816"
+      author: Shawnnnn
+      text: 現在都是看踩EMA50進單嗎
+      inGroup: true
+  - id: "1554867696489725965"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 22:49"
+    text: 這條比較像是最後的反彈機會，如果前面線都接不住，剩這條接
+    reply:
+      id: "1554867219450699816"
+      author: Shawnnnn
+      text: 現在都是看踩EMA50進單嗎
+      inGroup: true
+  - id: "1554867799292252211"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:49"
+    text: 如果我是你，我答案是我會很錯亂
+  - id: "1554867887515373610"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 22:49"
+    text: 在這條接損比較不痛，相對的，也吃不到大段
+  - id: "1554868054473576490"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:50"
+    text: 那是事後看，才覺得吃不到大段
+    reply:
+      id: "1554867887515373610"
+      author: 維尼Ni🌻
+      text: 在這條接損比較不痛，相對的，也吃不到大段
+      inGroup: true
+  - id: "1554868240315064332"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:51"
+    text: 我覺得你可以先擇一使用就好
+    reply:
+      id: "1554867431674089484"
+      author: 維尼Ni🌻
+      text: 順便配個H的點位和你的溫開水兩線
+      inGroup: true
+  - id: "1554868466820063403"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:52"
+    text: 資訊越多是會讓人越不知道怎麼處理
+  - id: "1554868695547781181"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:53"
+    text: 你可以先觀察看看你單純用起來是H大的比較舒服勝率較高還是我分享的方法
+  - id: "1554868768025608233"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:53"
+    text: 但這要你花時間復盤
+  - id: "1554868967955239055"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 22:54"
+    text: 對，隨便挑個一天用一種策略試看看判斷有沒有跟你期望一樣
+  - id: "1554869177741873153"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 22:55"
+    text: 可以的話盡量一個月啦🤣 因為你一定要有震盪盤跟趨勢盤
+  - id: "1554871836683141173"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 23:05"
+    text: 箭頭是做空進場點，想說前一根大綠K，穩了，然後碰到白線我就翻車了
+    images:
+      - src: /img/1554871836683141173-1790780563203.jpg
+        alt: 維尼做空進場圖：大綠K後碰白線被反向
+  - id: "1554873106978308200"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:10"
+    text: 你如果要照你的EMA50策略走，你就要一致~
+  - id: "1554873313107378267"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:11"
+    text: 你不能說今天順勢在白線做多，明天逆勢也在白線做多
+  - id: "1554873442547933225"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:11"
+    text: 你應該是要看如果我都在順勢白線做多會怎樣
+  - id: "1554873528912715837"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:12"
+    text: 然後去看勝率
+  - id: "1554873593152671765"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:12"
+    text: 如果你跳來跳去的話這樣你的策略會失真
+  - id: "1554873633137098823"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:12"
+    text: 你會不知道說到底有沒有用
+  - id: "1554873647787937904"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 23:12"
+    text: 逆勢單真的不好做 真的要做就是超短打跑這樣吧
+  - id: "1554873739462578309"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 23:13"
+    text: 但應該還是要向老大說的先單一策略 然後只做一個方向
+  - id: "1554873851165409344"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 23:13"
+    text: 會比較能去比較出進出場的位置差別
+  - id: "1554875000530407494"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:18"
+    text: ""
+    images:
+      - src: /img/1554875000530407494-image.jpg
+        alt: Shawn 標示僅看EMA50的順勢做多位置
+  - id: "1554875126208667759"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:18"
+    text: 你這樣看先不論線是不是平的我們也不看其他條線，就只看你設定的EMA50
+  - id: "1554875227131871283"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:19"
+    text: 上去下來之後碰白線都應該要做多
+  - id: "1554875293473439795"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:19"
+    text: 先不說平的可不可以做
+  - id: "1554875397387325490"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 23:19"
+    text: 所以我昨天做空是錯的，今天做多也翻車是因為沒注意他走平了嗎
+  - id: "1554875429763027117"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:19"
+    text: 你昨天那單是做空，為什麼你會做空，是你覺得說前面都綠K了我白線做空
+  - id: "1554875477854916609"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:20"
+    text: 你今天這單做多，沒啥毛病
+  - id: "1554875522981433436"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:20"
+    text: 剛好到停損點就停損也沒問題
+  - id: "1554875547560190063"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:20"
+    text: 這一筆是正確的交易
+  - id: "1554875589180006483"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:20"
+    text: 但昨天的你就跟今天的你打架了
+  - id: "1554875789504286874"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:21"
+    text: 今天做多不用怪自己，因為你就是按照你的策略走沒關係，線平的可不可以做在於其次
+  - id: "1554876070002688001"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:22"
+    text: 還有一點是你最好版面的大小要一致，因為TV你怎麼拉都可以改變線條的斜率🤣
+  - id: "1554876294951477289"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:23"
+    text: ""
+    images:
+      - src: /img/1554876294951477289-image.jpg
+        alt: 同一張圖拉扁與正常比例，說明版面縮放會影響均線斜率觀感
+  - id: "1554876312131346463"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:23"
+    text: 這兩張是一樣的圖
+  - id: "1554876356385574923"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:23"
+    text: 一個扁的一個正常的
+  - id: "1554876412861743137"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:23"
+    text: 扁的你怎麼看都是平的🤣
+quiz:
+  - q: 維尼昨天在 EMA50 做空、今天在 EMA50 做多，Shawnnnn 認為問題在哪？
+    o:
+      - 今天那單停損設太小，才會被洗出場
+      - EMA50 本身不適合台指期，要換別條線
+      - 應該改用 1 分 K 進場，位置會更精準
+      - 策略不一致，要固定做順勢才看得出勝率
+    a: 3
+    e: Shawnnnn 說不能今天順勢做多、明天逆勢做，跳來跳去策略會失真；今天那單照策略停損是正確的交易。
+  - q: Shawnnnn 建議復盤盡量做一個月，理由是？
+    o:
+      - 一個月才夠算出平均停損點數
+      - 一定要涵蓋震盪盤跟趨勢盤
+      - 一個月後指標參數才會穩定
+      - 月初和月底的盤性不同
+    a: 1
+    e: Shawnnnn 說可以的話盡量一個月，因為一定要有震盪盤跟趨勢盤。

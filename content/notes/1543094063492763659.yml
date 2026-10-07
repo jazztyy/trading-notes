@@ -1,0 +1,106 @@
+slug: "1543094063492763659"
+title: 策略可用於個股、期貨與其他商品
+type: 教學
+topic: 指標設定
+tags:
+  - 指標設定
+teacher: Shawnnnn
+channel: 一般
+date: "2026-08-29"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1543094063492763659
+summary: 此策略可用於個股波段(日/小時)、當沖(2-3分K)、石油債券加密貨幣；個股即時資料需另買，灰點標的可免費看即時；個股當沖成本高，建議先從一微台練功。
+hidden: false
+messages:
+  - id: "1543094063492763659"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 11:04"
+    text: 其實這套你要去做個股波段、個股當沖、其他金融商品石油、債券、加密貨幣都可以拿來使用唷
+  - id: "1543094216828260392"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 11:05"
+    text: 個股波段週期一天的 一小時的
+    images:
+      - src: /img/1543094216828260392-image.jpg
+        alt: 個股波段日線與小時線圖
+  - id: "1543094265377333269"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 11:05"
+    text: 當沖的
+    images:
+      - src: /img/1543094265377333269-image.jpg
+        alt: 個股當沖圖
+  - id: "1543094366011133984"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 11:06"
+    text: 都可以參考自己去覆盤，因為我只做指期沒時間做那麼多東西
+  - id: "1543094389830586389"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 11:06"
+    text: 挑一個自己喜歡的方式
+  - id: "1543094439461920869"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 11:06"
+    text: 不用什麼都要會~會一個就很厲害了
+  - id: "1543097485948362823"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-08-29 11:18"
+    text: 個股當沖一樣看2分k嗎？
+    reply:
+      id: "1543094265377333269"
+      author: Shawnnnn
+      text: 當沖的
+      inGroup: true
+  - id: "1543097653821182024"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 11:19"
+    text: 2分3分都可以
+  - id: "1543097727502651404"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 11:19"
+    text: 但是個股及時數據又要另外買
+  - id: "1543097802454728785"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 11:19"
+    text: 會有幾隻標的是可以免費看及時數據的
+  - id: "1543097941365882940"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 11:20"
+    text: 灰色點點就是可以及時數據
+    images:
+      - src: /img/1543097941365882940-image.jpg
+        alt: TV標的旁灰色點點代表可看即時數據
+  - id: "1543098002137415780"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 11:20"
+    text: 個股當沖成本也比較高
+  - id: "1543098006759546921"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 11:20"
+    text: 我也不太建議
+  - id: "1543098073293525183"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-29 11:20"
+    text: 先從一微台練功
+quiz:
+  - q: 關於這套方法用在個股當沖，Shawnnnn 的看法是？
+    o:
+      - 只能用在台指期，個股的K棒結構和節奏都不適用
+      - 可用2、3分K，但數據另買、成本較高，先練微台
+      - 個股當沖要改用日線和1小時K，2分K雜訊太多
+      - 個股當沖成本比期貨低，最適合新手先從這練
+    a: 1
+    e: Shawnnnn 說個股當沖2分3分都可以，但即時數據要另外買、當沖成本也比較高，他不太建議，先從一微台練功。

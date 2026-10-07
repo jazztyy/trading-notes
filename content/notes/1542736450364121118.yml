@@ -1,0 +1,111 @@
+slug: "1542736450364121118"
+title: 進場用限價單與出場停利抓法
+type: 教學
+topic: 進場時機
+tags:
+  - 進場時機
+  - 停損停利
+  - 下單工具
+teacher: Shawnnnn
+channel: 一般
+date: "2026-08-28"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1542736450364121118
+summary: Shawnnnn進場多用限價單避免市價滑點，沒掛到就算；第一口先賺80-100點求安心，後面抓當日前高或前低；也可50點50點撈小利。
+hidden: false
+messages:
+  - id: "1542736450364121118"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:23"
+    text: 今天目前兩口微台
+    images:
+      - src: /img/1542736450364121118-image.jpg
+        alt: 當日兩口微台獲利截圖
+  - id: "1542736822197821470"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:25"
+    text: 這是今天進場離場點位畫給大家看
+    images:
+      - src: /img/1542736822197821470-image.jpg
+        alt: Shawnnnn畫出當日進出場點位的K線圖
+  - id: "1542737255997636678"
+    author: 梅西
+    teacher: false
+    time: "2026-08-28 11:27"
+    text: 太強了吧，你這是參考帝王哥的策略下單嗎?
+    reply:
+      id: "1542736450364121118"
+      author: Shawnnnn
+      text: 今天目前兩口微台
+      inGroup: true
+  - id: "1542737390186012764"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:27"
+    text: 我是看自己的線，帝王那個我還沒研究
+    reply:
+      id: "1542737255997636678"
+      author: 梅西
+      text: 太強了吧，你這是參考帝王哥的策略下單嗎?
+      inGroup: true
+  - id: "1542737706398785586"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:28"
+    text: 如果只是想要賺零用錢的50點50點撈也是會很多唷
+    images:
+      - src: /img/1542737706398785586-image.jpg
+        alt: 50點50點撈小利的交易示意圖
+  - id: "1542737731753476196"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 11:28"
+    text: 肖恩你進場是限單嗎
+  - id: "1542737773491126322"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 11:29"
+    text: 還是都範圍市價
+  - id: "1542737807439700079"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:29"
+    text: 對~不太會市價滑點怕太多
+  - id: "1542737863626727515"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:29"
+    text: 有掛到就掛到沒有就算了
+  - id: "1542737887047716905"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:29"
+    text: 2分K的機會很多
+  - id: "1542738182662266961"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:30"
+    text: 出場我第一單喜歡先獲利80-100點，讓我安心，後面的我會抓當日前高或是前低
+  - id: "1542738248684539975"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:31"
+    text: 有時候我賺個30點其實我也很爽了
+quiz:
+  - q: Shawnnnn 進場多用限價單而不用市價單，理由是什麼？
+    o:
+      - 限價單手續費比較便宜，長期能省成本
+      - 怕市價單滑點太多，沒掛到就算了
+      - 限價單成交速度比市價快，不怕追不到
+      - 市價單在夜盤無法使用，只能掛限價
+    a: 1
+    e: Shawnnnn 說不太用市價是怕滑點太多，有掛到就掛到、沒有就算了，因為2分K的機會很多。
+  - q: Shawnnnn 出場停利的習慣是？
+    o:
+      - 所有口數都抱到出現反手訊號才一起出場
+      - 第一口固定賺150點出場，其餘抱到600點
+      - 第一單先賺80-100點，其餘抓當日前高前低
+      - 每口都固定50點停利，不看當日前高前低
+    a: 2
+    e: Shawnnnn 說第一單喜歡先賺80-100點讓自己安心，後面的抓當日前高或前低；150/330/600是帝王策略的分層方式。

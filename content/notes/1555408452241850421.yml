@@ -1,0 +1,84 @@
+slug: "1555408452241850421"
+title: 雙線在EMA200上只做短空、拉回加多
+type: 教學
+topic: 盤勢判讀
+tags:
+  - 盤勢判讀
+  - 進場時機
+teacher: nick_AJ
+channel: 一般
+date: "2026-10-02"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555408452241850421
+summary: Alina：白線與橘線都在EMA200之上時，空單都只是短空（吃壓力壓回而已）；均線漂亮上穿且離EMA200有距離時，每次壓回都可以拉回加多，賣飛也能補票，但後段要小心乖離。nick_AJ：趨勢沒轉向前都可以看著撐壓凹多。
+hidden: false
+messages:
+  - id: "1555408452241850421"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 10:37"
+    text: 雙線都在EMA200上，空都只是短空喔
+  - id: "1555408504792162318"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 10:38"
+    text: 吃壓力壓回豆腐那種
+  - id: "1555408615324655690"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 10:38"
+    text: ""
+    images:
+      - src: /img/1555408615324655690-Screenshot_20261002_103820_TradingView.jpg
+        alt: 台指期5分K：白線、橘線在藍色EMA200之上上揚，多週期儀表板1分到1小時全數偏多
+  - id: "1555408750188306494"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 10:39"
+    text: 沒轉向前 都可以繼續看著撐壓凹多
+  - id: "1555411627489370133"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 10:50"
+    text: 這線型，每個壓回都可以拉回加多
+    reply:
+      id: "1555408615324655690"
+      author: nick_AJ
+      text: ""
+      inGroup: true
+  - id: "1555411697370533919"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 10:50"
+    text: 很漂亮的上穿，而且離EMA200都有距離
+  - id: "1555411826571739238"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 10:51"
+    text: 賣飛都還可以補票再上車
+    reply:
+      id: "1555411627489370133"
+      author: Alina
+      text: 這線型，每個壓回都可以拉回加多
+      inGroup: true
+  - id: "1555411920297795605"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 10:51"
+    text: 不過後面可能就要找小心乖離
+quiz:
+  - q: Alina 認為白線和橘線都在 EMA200 之上時，空單應該怎麼看？
+    o:
+      - 是趨勢反轉訊號，可以抱長空
+      - 都只是短空，吃壓力壓回而已
+      - 完全不能做空，只能觀望
+      - 要等跌破白線就加碼空
+    a: 1
+    e: Alina 說雙線都在 EMA200 上，空都只是短空，吃壓力壓回豆腐那種。
+  - q: 均線漂亮上穿、離 EMA200 有距離時，Alina 提醒後段要小心什麼？
+    o:
+      - 成交量萎縮
+      - 均價線下彎
+      - 乖離過大
+      - 跌破 EMA200
+    a: 2
+    e: Alina 說這種線型每個壓回都可以加多、賣飛也能補票，但後面可能要小心乖離。

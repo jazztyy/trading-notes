@@ -1,0 +1,46 @@
+slug: "1547096200518303834"
+title: 1小時K趨勢與回檔判讀
+type: 分析
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+  - 盤勢判讀
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-09"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1547096200518303834
+summary: Shawn 以1小時、30分K多方趨勢仍在，說明現在只是健康回檔。
+hidden: false
+messages:
+  - id: "1547096200518303834"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-09 12:07"
+    text: 一小時k 30分k多方的趨勢還在供參
+    reply:
+      id: "1547092551595466812"
+      author: 宸
+      text: 不知道要不要跑了哈哈
+      inGroup: false
+  - id: "1547096235851259934"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-09 12:08"
+    text: ""
+    images:
+      - src: /img/1547096235851259934-IMG_1095.jpg
+        alt: 手機TradingView微台1小時K，含均線與買賣訊號及成交量
+  - id: "1547096274397040711"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-09 12:08"
+    text: 現在只是健康的回檔
+quiz:
+  - q: Shawnnnn 判斷這次下跌「只是健康的回檔」，依據是什麼？
+    o:
+      - 2 分 K 已經出現買進訊號，可以接多單
+      - 1 小時和 30 分 K 的多方趨勢還在
+      - 成交量萎縮到前一天的一半以下，賣壓不大
+      - 價格已經跌到日 K 的支撐區，下面有撐
+    a: 1
+    e: Shawnnnn 說一小時 K、30 分 K 多方的趨勢還在，所以現在只是健康的回檔。

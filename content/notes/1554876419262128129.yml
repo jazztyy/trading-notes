@@ -1,0 +1,215 @@
+slug: "1554876419262128129"
+title: 停損怎麼設：固定點數、前高前低、發動點
+type: 教學
+topic: 停損停利
+tags:
+  - 停損停利
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-30"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1554876419262128129
+summary: 停損建議：先用能承受的固定點數（如50點）復盤；進階用起漲/起跌點或前高前低做停損，若停損太遠（如70點）就放棄這單；停損好學、停利較難。
+hidden: false
+messages:
+  - id: "1554876419262128129"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 23:23"
+    text: 所以想說損設寬我是不是不用這麼揪結，但又覺得又損大的我會心痛
+    reply:
+      id: "1554875789504286874"
+      author: Shawnnnn
+      text: 今天做多不用怪自己，因為你就是按照你的策略走沒關係，線平的可不可以做在於其次
+      inGroup: false
+  - id: "1554876687840190465"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:24"
+    text: 好，設損這問題就要回歸你身上
+  - id: "1554876725085733025"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:24"
+    text: 就看你幾點會痛
+  - id: "1554876789237751811"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:25"
+    text: 如果今天連續損4-5筆的點數你會痛就縮小
+  - id: "1554876818694213713"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 23:25"
+    text: 今天一微500塊也痛
+  - id: "1554876889427087592"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 23:25"
+    text: 只做3單，一單就五百，現在在檢討
+  - id: "1554877049875992759"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:26"
+    text: 那你就要縮小
+  - id: "1554877184881987625"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:26"
+    text: 或是進階一點像Alina說的去找你想要的停損點，如果你想要停損的位置比較遠那就別做這單了
+  - id: "1554877438675386479"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 23:27"
+    text: |-
+      我看的話 我是認為算向上但有點要盤整的趨勢(15分 30分 60分) 
+      這單其實我覺得進的還行吧 只是剛剛好就被那個回踩點到這樣(他下去不算多)
+
+      另外就是可以自己抓一個區間 我看八弟貼的H大區間 感覺也可以拿來使用 或是女神開示的區間
+    reply:
+      id: "1554874171698319413"
+      author: Shawnnnn
+      text: 你說這邊嗎
+      inGroup: false
+  - id: "1554877752694276248"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 23:29"
+    text: 我自己是就會等靠近那些區間的頭或尾 趨勢出來才找機會進場 然後就設定那個頭或尾做停損(這樣就可以做到比較好的損益比)
+  - id: "1554877810999427345"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 23:29"
+    text: 但是這個前提是那個區間要有準啦XD
+  - id: "1554877866972422215"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 23:29"
+    text: 這兩天看起來還蠻準的0.0
+  - id: "1554878059113484309"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 23:30"
+    text: 他給的算準 所以我才想踩白線接，免得我中間亂接，結果下去60點，我損設50點
+    reply:
+      id: "1554877438675386479"
+      author: nick_AJ
+      text: 我看的話 我是認為算向上但有點要盤整的趨勢(15分 30分 60分) 這單其實我覺得進的還行吧 只是剛剛好就被那個回踩點
+      inGroup: true
+  - id: "1554878245302960249"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 23:31"
+    text: 對 這種只算是很可惜的單 我是覺得還行 畢竟我也是賺$4 塊達人...
+    reply:
+      id: "1554878059113484309"
+      author: 維尼Ni🌻
+      text: 他給的算準 所以我才想踩白線接，免得我中間亂接，結果下去60點，我損設50點
+      inGroup: true
+  - id: "1554878257310998649"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:31"
+    text: 補充一下，假設我都是白線進單的人，停損我都喜歡抓起漲跌低點或起跌點高點的人，這單要損70超過我預期了，那我這單就不能做
+    reply:
+      id: "1554877184881987625"
+      author: Shawnnnn
+      text: 或是進階一點像Alina說的去找你想要的停損點，如果你想要停損的位置比較遠那就別做這單了
+      inGroup: true
+    images:
+      - src: /img/1554878257310998649-image.jpg
+        alt: TV 期貨多空工具圖：停損71點(風險報酬比1.13)，示範停損過遠不做
+  - id: "1554878333630677113"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:31"
+    text: 那這單才55點停損我可以接受那我就做
+    images:
+      - src: /img/1554878333630677113-image.jpg
+        alt: 同類圖：停損55點可接受就做
+  - id: "1554878458117759210"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:31"
+    text: 停損還算好學，停利比較難
+  - id: "1554878583963648001"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 23:32"
+    text: 對 還有抓前高或前低來設損的部分 我也會用到 這個很實用
+    reply:
+      id: "1554878257310998649"
+      author: Shawnnnn
+      text: 補充一下，假設我都是白線進單的人，停損我都喜歡抓起漲跌低點或起跌點高點的人，這單要損70超過我預期了，那我這單就不能做
+      inGroup: true
+  - id: "1554878606323482675"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 23:32"
+    text: 這段我就看不懂了
+    reply:
+      id: "1554878257310998649"
+      author: Shawnnnn
+      text: 補充一下，假設我都是白線進單的人，停損我都喜歡抓起漲跌低點或起跌點高點的人，這單要損70超過我預期了，那我這單就不能做
+      inGroup: true
+  - id: "1554878837467389984"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:33"
+    text: 你是指看不懂什麼是起跌點起漲點嗎~
+  - id: "1554878956371579014"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 23:33"
+    text: 老大的黃線就是這個趨勢的發動點 他追進去的位置在下面的黑點框框那邊 然後就設定停損的位置那個趨勢的發動位置高點或低點的地方
+    reply:
+      id: "1554878606323482675"
+      author: 維尼Ni🌻
+      text: 這段我就看不懂了
+      inGroup: true
+  - id: "1554879127448850564"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:34"
+    text: 就是小島說的發動位置
+  - id: "1554879406558674949"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:35"
+    text: 你也可以先不用管甚麼是起漲點起跌點沒關係，你可以先單純的看你幾點承受的了
+  - id: "1554879461709578261"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 23:35"
+    text: 類似我們股票說的前高位置(做空的話 被嘎過前高 就要停損) 或前低位置(做多的話 跌過前低 就要停損)
+    reply:
+      id: "1554878606323482675"
+      author: 維尼Ni🌻
+      text: 這段我就看不懂了
+      inGroup: true
+  - id: "1554879916669935627"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:37"
+    text: 那你復盤先用固定點數停損就好
+  - id: "1554880008579981403"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:38"
+    text: 例如都50點
+quiz:
+  - q: Shawnnnn 以起漲/起跌點設停損時，如果這單停損要 70 點，超過預期怎麼辦？
+    o:
+      - 停損縮到 50 點照做
+      - 先進場，停損改用智慧單移動
+      - 減少口數照做
+      - 這單就不做
+    a: 3
+    e: Shawnnnn 說想要的停損位置比較遠、超過預期（例如 70 點）就別做；55 點可接受才做。
+  - q: 對還看不懂起漲點、起跌點的人，Shawnnnn 建議復盤時先怎麼設停損？
+    o:
+      - 先用固定點數停損，例如都 50 點
+      - 先用前一天振幅的一半當停損點數
+      - 先不設停損，觀察走勢再決定出場
+      - 用 EMA50 當停損，跌破才出場
+    a: 0
+    e: Shawnnnn 說可以先不管起漲起跌點，單純看自己幾點承受得了，復盤先用固定點數例如 50 點。

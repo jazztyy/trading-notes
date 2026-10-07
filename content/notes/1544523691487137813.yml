@@ -1,0 +1,44 @@
+slug: "1544523691487137813"
+title: 短打手續費占比
+type: 提問
+topic: 下單工具
+tags:
+  - 下單工具
+  - 資金與風險
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-02"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544523691487137813
+summary: 梅西問短打微台手續費是否吃掉很多；Shawnnnn：微台來回約40元，各人追求點數或固定金額不同；震幅小時吃30-60點快進快出。
+hidden: true
+messages:
+  - id: "1544523691487137813"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 09:45"
+    text: 進場點每天都有 停利點反而比較難
+  - id: "1544523811926310962"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 09:46"
+    text: 我會看盤勢如果今天震幅不大我就會吃個30-60點快進快出
+  - id: "1544525158524387468"
+    author: 梅西
+    teacher: false
+    time: "2026-09-02 09:51"
+    text: 可是這樣交易成本 會不會被手續費吃掉很多
+  - id: "1544525193328722000"
+    author: 梅西
+    teacher: false
+    time: "2026-09-02 09:51"
+    text: 如果打微台的話
+  - id: "1544527446504640632"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 10:00"
+    text: 會唷我微台成本來回大概40元，但每個人想追求的就不一樣~有的人追求點數要多，有的人是追求固定金額獲利
+    reply:
+      id: "1544525158524387468"
+      author: 梅西
+      text: 可是這樣交易成本 會不會被手續費吃掉很多
+      inGroup: true

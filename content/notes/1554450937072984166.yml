@@ -1,0 +1,109 @@
+slug: "1554450937072984166"
+title: 多單操作例：5分K沿線與回踩進場
+type: 分析
+topic: 進場時機
+tags:
+  - 進場時機
+  - 多週期判斷
+teacher: Alina
+channel: 一般
+date: "2026-09-29"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1554450937072984166
+summary: Alina 看5分K沿5MA做多，開盤在交界上、雙線在EMA200上偏多，推播第一壓平倉成交；夜盤噴出強勢，高點接近H3；回踩才是進場點，不追高。
+hidden: false
+messages:
+  - id: "1554450937072984166"
+    author: Alina
+    teacher: true
+    time: "2026-09-29 19:13"
+    text: 今天看起來5分k沿線做多
+  - id: "1554451099870822501"
+    author: Alina
+    teacher: true
+    time: "2026-09-29 19:13"
+    text: 080我有進一口
+  - id: "1554451885308510289"
+    author: Alina
+    teacher: true
+    time: "2026-09-29 19:16"
+    text: 想說開在交界上，然後兩條線也都在EMA200上，應該就是偏多看
+  - id: "1554463957950005280"
+    author: Alina
+    teacher: true
+    time: "2026-09-29 20:04"
+    text: 好好笑，賣完就想空🤣
+  - id: "1554464011200897105"
+    author: Alina
+    teacher: true
+    time: "2026-09-29 20:05"
+    text: 剛掛19:15推播的第一🦆48396平倉成交了
+  - id: "1554464074291740752"
+    author: Alina
+    teacher: true
+    time: "2026-09-29 20:05"
+    text: ""
+    images:
+      - src: /img/1554464074291740752-IMG_3451.jpg
+        alt: Alina 5分K沿5MA上行並於推播壓力位平倉的截圖
+  - id: "1554464302046519310"
+    author: Alina
+    teacher: true
+    time: "2026-09-29 20:06"
+    text: 沿著5分k5ma走的超漂亮
+    reply:
+      id: "1554464074291740752"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1554464516316864614"
+    author: Alina
+    teacher: true
+    time: "2026-09-29 20:07"
+    text: 不過那些點位挺適合盤中抓進場
+  - id: "1554464526819139608"
+    author: Alina
+    teacher: true
+    time: "2026-09-29 20:07"
+    text: 還不錯
+  - id: "1554465386550923334"
+    author: Alina
+    teacher: true
+    time: "2026-09-29 20:10"
+    text: 1分看起來也還行，守均線慢慢疊上去
+    images:
+      - src: /img/1554465386550923334-IMG_3455.jpg
+        alt: 1分K守均線慢慢疊上去
+  - id: "1554498292065374310"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-29 22:21"
+    text: 目前又要遇到第一個壓力
+  - id: "1554498491987009657"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-29 22:22"
+    text: 如果是開盤點位已經要到H3了48661
+  - id: "1554498736225259542"
+    author: Alina
+    teacher: true
+    time: "2026-09-29 22:22"
+    text: 來掛一個505平，看看會不會到
+  - id: "1554504435965628507"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-29 22:45"
+    text: 總是要回採一下吧
+  - id: "1554504570359648357"
+    author: 宸
+    teacher: false
+    time: "2026-09-29 22:46"
+    text: 強到我真的不敢摸頭XD 等等又一跟上去
+quiz:
+  - q: Alina 當天為什麼偏多看？
+    o:
+      - 因為夜盤收長紅，早盤又開高走高
+      - 因為 MACD 剛翻正，動能轉為偏多
+      - 因為價格回測 EMA200 沒破就彈起
+      - 因為開在交界上，兩線都在 EMA200 上
+    a: 3
+    e: Alina 說開在交界上、兩條線都在 EMA200 上，所以偏多看，並沿著 5 分 K 5MA 做多。

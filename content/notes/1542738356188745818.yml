@@ -1,0 +1,68 @@
+slug: "1542738356188745818"
+title: 心態與停損：報復性下單
+type: 分析
+topic: 交易心態
+tags:
+  - 交易心態
+  - 停損停利
+teacher: Shawnnnn
+channel: 一般
+date: "2026-08-28"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1542738356188745818
+summary: Shawnnnn分享以前虧損凹單、報復性下單是毀滅的開始，停損仍是關鍵。
+hidden: false
+messages:
+  - id: "1542738356188745818"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 11:31"
+    text: 還是心態問題....不貪
+  - id: "1542738408030605352"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:31"
+    text: 對..最後都是心態問題
+  - id: "1542738447855386645"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 11:31"
+    text: 策略百百種
+  - id: "1542738496593068124"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:32"
+    text: 我以前虧損凹單就會報復性下單
+  - id: "1542738522086182952"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:32"
+    text: 那就是毀滅的開始
+  - id: "1542739051608801351"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 11:34"
+    text: 別人的手我就沒辦法控制了XD之前有人報我單我還是虧錢，策略也一樣，我相信有的人一定會用的比我更好，也有人還是會虧損的
+    reply:
+      id: "1542738534350458921"
+      author: 梅西
+      text: 2口微台 一直亂按 暈倒
+      inGroup: false
+  - id: "1542739185021100074"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 11:34"
+    text: 沒錯，停損還是關鍵
+    reply:
+      id: "1542739051608801351"
+      author: Shawnnnn
+      text: 別人的手我就沒辦法控制了XD之前有人報我單我還是虧錢，策略也一樣，我相信有的人一定會用的比我更好，也有人還是會虧損的
+      inGroup: true
+quiz:
+  - q: Shawnnnn 回顧自己以前的虧損經驗，認為什麼是「毀滅的開始」？
+    o:
+      - 策略太多、一直換策略
+      - 只做單邊不做雙向
+      - 獲利時太早停利
+      - 虧損凹單後報復性下單
+    a: 3
+    e: Shawnnnn 說他以前虧損凹單就會報復性下單，那就是毀滅的開始，最後都是心態問題。

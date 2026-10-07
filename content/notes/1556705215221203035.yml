@@ -1,0 +1,134 @@
+slug: "1556705215221203035"
+title: 資訊太多時只看一套策略
+type: 教學
+topic: 交易心態
+tags:
+  - 交易心態
+  - 程式交易
+teacher: nick_AJ
+channel: 一般
+date: "2026-10-06"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1556705215221203035
+summary: JJ困擾群組資訊太多、多空都有人說。nick_AJ提醒回歸初心，參數來自Shawnnnn無私分享，進單看趨勢與程式；要篩選自己認為有用的，不要被其他影響。Shawnnnn說看誰的策略操作起來舒服；nick_AJ指出跟多位喊單者，很可能每次都跟到輸的那次；喊單者有避險部位，只做期貨跟單會很虧。
+hidden: false
+messages:
+  - id: "1556705215221203035"
+    author: JJ
+    teacher: false
+    time: "2026-10-06 00:30"
+    text: 但是他有避險單沒有教
+  - id: "1556705240110203023"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-06 00:30"
+    text: 還是要記得回歸一下初心 參數其實來自老大的策略無私分享 進單還是可以看看趨勢跟程式怎麼說
+  - id: "1556705268681805948"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-06 00:30"
+    text: 對 他有避險
+  - id: "1556705293465821268"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-06 00:31"
+    text: 所以只做期貨會很虧
+  - id: "1556705329616785439"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-06 00:31"
+    text: 他搞不好自己大部位在權值股
+    reply:
+      id: "1556705215221203035"
+      author: JJ
+      text: 但是他有避險單沒有教
+      inGroup: true
+  - id: "1556705955427651607"
+    author: JJ
+    teacher: false
+    time: "2026-10-06 00:33"
+    text: 可是我覺得我的問題是資訊太多
+  - id: "1556706017503613123"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-06 00:33"
+    text: 其實大家應該都是
+    reply:
+      id: "1556705955427651607"
+      author: JJ
+      text: 可是我覺得我的問題是資訊太多
+      inGroup: true
+  - id: "1556706044317540354"
+    author: "99"
+    teacher: false
+    time: "2026-10-06 00:34"
+    text: 那我跟你說
+    reply:
+      id: "1556705955427651607"
+      author: JJ
+      text: 可是我覺得我的問題是資訊太多
+      inGroup: true
+  - id: "1556706062982185102"
+    author: "99"
+    teacher: false
+    time: "2026-10-06 00:34"
+    text: 你就 看參數就好
+  - id: "1556706073056907315"
+    author: "99"
+    teacher: false
+    time: "2026-10-06 00:34"
+    text: 其他都不要理
+  - id: "1556706090924646513"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-06 00:34"
+    text: 所以要篩選出自己認為有用的
+  - id: "1556706122990223391"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-06 00:34"
+    text: 不要被其他的的影響
+  - id: "1556706170092265593"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-06 00:34"
+    text: 你就看誰的策略你操作起來舒服呀
+  - id: "1556706290275713215"
+    author: "99"
+    teacher: false
+    time: "2026-10-06 00:35"
+    text: 這些人勝率可能都有50%
+  - id: "1556706382437416991"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-06 00:35"
+    text: 但是很有可能每次跟都跟到輸的那次
+  - id: "1556706396756647937"
+    author: "99"
+    teacher: false
+    time: "2026-10-06 00:35"
+    text: |-
+      但你在不同時間選擇到不同的見解
+      如果當下那個人是反的
+      那你就掰了
+  - id: "1556706617330892911"
+    author: "99"
+    teacher: false
+    time: "2026-10-06 00:36"
+    text: 目前勝率最高的還是程式單 毫無感情只有邏輯
+quiz:
+  - q: JJ 覺得群組資訊太多、多空都有人說，nick_AJ 和 Shawnnnn 怎麼建議？
+    o:
+      - 多跟幾個人的喊單，分散單一來源風險
+      - 篩選自己覺得有用的，看誰的策略順手
+      - 多空意見各半時就兩邊都各下一口
+      - 只看人數最多的那一方意見跟著做
+    a: 1
+    e: nick_AJ 說要篩選出自己認為有用的、不要被其他影響；Shawnnnn 說看誰的策略操作起來舒服。
+  - q: 為什麼 Shawnnnn 說只做期貨去跟那位喊單者會很虧？
+    o:
+      - 因為期貨手續費和稅比股票高很多
+      - 因為喊單者實際上都是在做選擇權
+      - 因為喊單者有避險部位，跟單者沒有
+      - 因為期貨只能做夜盤，波動太大
+    a: 2
+    e: JJ 提到他有避險單沒教，Shawnnnn 說「他有避險，所以只做期貨會很虧」。

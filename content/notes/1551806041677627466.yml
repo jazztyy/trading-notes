@@ -1,0 +1,53 @@
+slug: "1551806041677627466"
+title: 策略參數單紀律與中秋後績效
+type: 分析
+topic: 交易心態
+tags:
+  - 交易心態
+  - 程式交易
+teacher: Alina
+channel: 一般
+date: "2026-09-22"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551806041677627466
+summary: Shawnnnn/Alina：照策略參數無情停損，10月當參數乖寶寶；逆勢單少做。
+hidden: false
+messages:
+  - id: "1551806041677627466"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 12:03"
+    text: 我10月來當參數乖寶寶
+  - id: "1551806304455098461"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 12:04"
+    text: 照參數就要跟他一樣無情停損
+  - id: "1552546292809605242"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-24 13:04"
+    text: 中秋後來照參數打了
+  - id: "1552546823883726909"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 13:06"
+    text: +1，10月來當參數乖寶寶XD
+    reply:
+      id: "1552546292809605242"
+      author: Shawnnnn
+      text: 中秋後來照參數打了
+      inGroup: true
+  - id: "1554512830571749407"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-29 23:19"
+    text: 我今天只有這單是逆勢單
+quiz:
+  - q: Shawnnnn 和 Alina 說 10 月要「當參數乖寶寶」，指的是什麼？
+    o:
+      - 參數要每天依當天盤勢重新調整再打
+      - 只在參數訊號和自己看法一致時才進場
+      - 照策略參數走，停損到了就停，逆勢單少做
+      - 參數只拿來參考，進出場還是看盤感
+    a: 2
+    e: 兩人說要照參數打、照參數就要無情停損，Shawnnnn 也提到當天只有一單是逆勢單。

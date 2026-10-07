@@ -1,0 +1,72 @@
+slug: "1544175498081337484"
+title: 5分碰紅線反彈與15分K回測空間
+type: 分析
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+  - 盤勢判讀
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-01"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544175498081337484
+summary: Shawnnnn：5分K碰到紅線隨時反彈，15分K仍有回測空間；2分K為綠線可期待但線很靠近。
+hidden: false
+messages:
+  - id: "1544175498081337484"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 10:42"
+    text: ""
+    images:
+      - src: /img/1544175498081337484-image.jpg
+        alt: 5分K圖碰紅線
+  - id: "1544175523251490978"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 10:42"
+    text: 5分碰到紅線隨時反彈
+  - id: "1544175624514576444"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 10:42"
+    text: 先說沒有一定~市場永遠是對的
+    reply:
+      id: "1544175523251490978"
+      author: Shawnnnn
+      text: 5分碰到紅線隨時反彈
+      inGroup: true
+  - id: "1544175764696469625"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 10:43"
+    text: 15分K也還有很多空間可以回測
+    images:
+      - src: /img/1544175764696469625-image.jpg
+        alt: 15分K圖尚有回測空間
+  - id: "1544176657408073799"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 10:46"
+    text: 兩分K現在是綠線你還是可以期待一下
+    images:
+      - src: /img/1544176657408073799-image.jpg
+        alt: 2分K綠線圖
+  - id: "1544176788668944444"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 10:47"
+    text: 可是線很靠近
+    reply:
+      id: "1544176657408073799"
+      author: Shawnnnn
+      text: 兩分K現在是綠線你還是可以期待一下
+      inGroup: true
+quiz:
+  - q: "Shawnnnn 說「5分碰到紅線隨時反彈」後，馬上補充了什麼？"
+    o:
+      - "先說沒有一定，市場永遠是對的"
+      - "碰紅線一定要反手做多"
+      - "要等15分K也碰紅線才算數"
+      - "碰紅線代表趨勢已經反轉"
+    a: 0
+    e: "Shawnnnn 補充「先說沒有一定～市場永遠是對的」，碰紅線只是可能反彈，不是保證。"

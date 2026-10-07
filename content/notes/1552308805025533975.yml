@@ -1,0 +1,228 @@
+slug: "1552308805025533975"
+title: 9大點位推播機器人：更新邏輯與使用
+type: 資源
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 程式交易
+teacher: nick_AJ
+channel: 一般
+date: "2026-09-23"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1552308805025533975
+summary: nick_AJ 做出 DC 推播機器人，開盤用前一盤H/L/C推算，盤中每半小時/每小時微調（用30分K分配點位），收盤價為原始資料不動；實測日夜盤點位多次命中。以開盤數字為準，僅作參考，純數學公式未搭配量。
+hidden: true
+messages:
+  - id: "1552308805025533975"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-23 21:20"
+    text: 機器人推播點位到48095
+  - id: "1552309387517759489"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-23 21:23"
+    text: 還在測試中~不過我也有反推出那個公式 它確實盤中會有些微調沒錯
+  - id: "1552309535778283562"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-23 21:23"
+    text: 目前我是設定日夜盤開盤各推播一次這樣
+  - id: "1552309566983634956"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-23 21:24"
+    text: 才不會一直跳很煩XD
+  - id: "1552310385502195823"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-23 21:27"
+    text: 一直沒上去開盤的交接區48336
+  - id: "1552317188180811869"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-23 21:54"
+    text: 原本的038跳水到了欸
+  - id: "1552324182723928175"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 22:22"
+    text: 他滾動調整會不會就在這時刻？有新低會新高出現的時候🤔
+    reply:
+      id: "1552323234735718472"
+      author: nick_AJ
+      text: 沒點位了Q
+      inGroup: false
+  - id: "1552324398407622707"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-23 22:22"
+    text: ""
+    images:
+      - src: /img/1552324398407622707-image.jpg
+        alt: TV 指標表格：本盤與下一盤(依後盤推算)9大點位，淺色字為滾動微調值
+  - id: "1552324429223301273"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-23 22:23"
+    text: 看後面淺色字
+  - id: "1552324862997958737"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 22:24"
+    text: 有料!!
+  - id: "1552340904327516252"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-23 23:28"
+    text: 雖然目前這個稱壓沒有搭配量只是單純的數學公式 可能還是略顯不足
+  - id: "1552341327788638293"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-23 23:30"
+    text: 這裡
+    reply:
+      id: "1552324398407622707"
+      author: nick_AJ
+      text: ""
+      inGroup: true
+  - id: "1552341598933884989"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-23 23:31"
+    text: 目前我設定 推播區半小時會更新一次最新微調數據 如果想看的人可以去那邊看看
+  - id: "1552341992850333817"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-23 23:32"
+    text: 但是它邏輯就是用目前的位置(30分K)去分配到其他點位這樣 所以就大概參考就好~
+  - id: "1552347479687823441"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-23 23:54"
+    text: 一直變 原本的位置就不好判斷破幾次
+    reply:
+      id: "1552341598933884989"
+      author: nick_AJ
+      text: 目前我設定 推播區半小時會更新一次最新微調數據 如果想看的人可以去那邊看看
+      inGroup: true
+  - id: "1552347852653469720"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-23 23:56"
+    text: 對 所以還是要以開盤那個數字為準
+  - id: "1552347995222052995"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-23 23:56"
+    text: 因為開盤的數據是用前一個日盤或是夜盤去推算的
+  - id: "1552348202273865731"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-23 23:57"
+    text: close的原始數據是收盤價，所那個不要動
+  - id: "1552348465109930046"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-23 23:58"
+    text: 但這樣他算起來會有點奇怪😂  在原本的版本他那個收盤價不會動嗎
+  - id: "1552351906175783024"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-24 00:12"
+    text: 原始版本收盤都不動，依當日收盤為主
+  - id: "1552355301095768189"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-24 00:25"
+    text: 好的🧐 那我再微調微調
+  - id: "1552502364253196320"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-24 10:10"
+    text: 感謝維尼 目前日夜盤的點位都有對上了
+  - id: "1552577934940966913"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-24 15:10"
+    text: 夜盤的機器人有點問題 看來要再微調下
+  - id: "1552580552123752471"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-24 15:20"
+    text: 關鍵位指的是支撐或壓力嗎
+  - id: "1552580648449876080"
+    author: Kai
+    teacher: false
+    time: "2026-09-24 15:21"
+    text: 對 但怕會很干擾哈哈
+  - id: "1552581135333203969"
+    author: Kai
+    teacher: false
+    time: "2026-09-24 15:23"
+    text: 不過最直觀還是跟你一樣直接放 tv 不然開 dc 看圖片我自己覺得有點麻煩哈
+  - id: "1552582629906194515"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-24 15:29"
+    text: 其實有圖片提醒還不錯
+    reply:
+      id: "1552581135333203969"
+      author: Kai
+      text: 不過最直觀還是跟你一樣直接放 tv 不然開 dc 看圖片我自己覺得有點麻煩哈
+      inGroup: true
+  - id: "1554331560642224149"
+    author: Alina
+    teacher: true
+    time: "2026-09-29 11:18"
+    text: 推播撐壓還行欸，剛掛了682接多XD
+  - id: "1554337545062580278"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-29 11:42"
+    text: 很不錯耶 他就是依據當下的點位做肥波那汽計算
+    reply:
+      id: "1554331560642224149"
+      author: Alina
+      text: 推播撐壓還行欸，剛掛了682接多XD
+      inGroup: true
+  - id: "1554338049335369792"
+    author: Alina
+    teacher: true
+    time: "2026-09-29 11:44"
+    text: 對，抓點位附近進單安全
+  - id: "1554657313816846436"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 08:53"
+    text: ""
+    images:
+      - src: /img/1554657313816846436-image0.jpg
+        alt: 9大點位機器人推播：9/30夜盤計算的下一日盤點位
+  - id: "1554697144642838585"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 11:31"
+    text: ""
+    images:
+      - src: /img/1554697144642838585-Screenshot_20260930_113116_Discord.jpg
+        alt: 機器人盤中每小時測試推播的9大點位（09:45、10:45）
+  - id: "1554702739215220827"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 11:53"
+    text: 這個就是用夜盤算的今日撐壓
+    reply:
+      id: "1554657313816846436"
+      author: nick_AJ
+      text: ""
+      inGroup: true
+  - id: "1554702815354687509"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-30 11:53"
+    text: 這邊每小時會更新一次最新的撐壓（參考用）
+    reply:
+      id: "1554697144642838585"
+      author: nick_AJ
+      text: ""
+      inGroup: true

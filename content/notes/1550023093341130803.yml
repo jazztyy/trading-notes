@@ -1,0 +1,108 @@
+slug: "1550023093341130803"
+title: Alina 30分K參數指標與麥金利週期設定
+type: 資源
+topic: 指標設定
+tags:
+  - 指標設定
+  - 多週期判斷
+teacher: Alina
+channel: 一般
+date: "2026-09-17"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1550023093341130803
+summary: Alina 以『參數』指標的30分K（偶爾15分）訊號作參考，出現TP2/TP3、進空；討論麥金利(McGinley)週期是否改成5或6，改一次應適用所有分K。
+hidden: true
+messages:
+  - id: "1550023093341130803"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 13:58"
+    text: 剛剛30分k參數也是進空
+  - id: "1550023177143582792"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 13:58"
+    text: 最近30分k績效感覺還行
+  - id: "1550023263864885345"
+    author: 好扯
+    teacher: false
+    time: "2026-09-17 13:59"
+    text: 你的30分K進空？
+  - id: "1550023291840893029"
+    author: 好扯
+    teacher: false
+    time: "2026-09-17 13:59"
+    text: ""
+    images:
+      - src: /img/1550023291840893029-IMG_4907.jpg
+        alt: 手機TV 30分K，McGinley Dynamic 反手策略診斷面板（勝率57.2%、PF 1.12）與TP/進出場標記
+  - id: "1550023415325265932"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 13:59"
+    text: 對阿
+    images:
+      - src: /img/1550023415325265932-image.jpg
+        alt: 30分K圖，策略訊號：TP1/TP2/TP3、平多進空、平空進多，BOS/CHoCH標示
+  - id: "1550023639779246162"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 14:00"
+    text: 麥利金週期有改6嗎 ?
+    images:
+      - src: /img/1550023639779246162-image.jpg
+        alt: 指標設定視窗：McGinley Dynamic週期6、緩衝帶ATR週期14、倍數0.15
+  - id: "1550023811121021029"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 14:01"
+    text: 好像要手動改6
+  - id: "1550025355132276790"
+    author: 好扯
+    teacher: false
+    time: "2026-09-17 14:07"
+    text: 是每個分K都要改是嗎～
+    reply:
+      id: "1550023811121021029"
+      author: Alina
+      text: 好像要手動改6
+      inGroup: true
+  - id: "1550025559462125612"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 14:08"
+    text: 疑，改過應該適用所有分k才對
+  - id: "1550025590214754415"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 14:08"
+    text: 不過參數我主要參考30分
+  - id: "1550025714437197886"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 14:08"
+    text: 偶爾看15分
+  - id: "1550025801884504095"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 14:09"
+    text: 再小我就沒有參考參數了
+  - id: "1550030257141055599"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-17 14:26"
+    text: 不是改5嗎 ，
+    reply:
+      id: "1550023639779246162"
+      author: Alina
+      text: 麥利金週期有改6嗎 ?
+      inGroup: true
+  - id: "1550033035091513485"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 14:37"
+    text: 疑 ? 是嗎，不過差1 應該還好
+    reply:
+      id: "1550030257141055599"
+      author: 維尼Ni🌻
+      text: 不是改5嗎 ，
+      inGroup: true

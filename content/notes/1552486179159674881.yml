@@ -1,0 +1,105 @@
+slug: "1552486179159674881"
+title: 盤中看盤：均價線、下降趨勢線、區間
+type: 分析
+topic: 進場時機
+tags:
+  - 進場時機
+  - 交易心態
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-24"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1552486179159674881
+summary: Shawn 以均價線/下降趨勢線/5分MA判斷壓力與支撐：均價壓、碰均價線測試、48000不再破；多空分水嶺黏著不易判斷；大週期高檔震盪仍偏多。
+hidden: false
+messages:
+  - id: "1552486179159674881"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-24 09:05"
+    text: 均價壓
+  - id: "1552493438656585779"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-24 09:34"
+    text: 250感覺是中間價格部分，比較沒有在區間上下緣
+  - id: "1552493624246272061"
+    author: YOU
+    teacher: false
+    time: "2026-09-24 09:35"
+    text: 我看60/60  15/240 壓大概都在那邊
+  - id: "1552493862180749322"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-24 09:36"
+    text: 裸K可能就是看起跌點這部分
+  - id: "1552499997189349486"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-24 10:00"
+    text: ""
+    images:
+      - src: /img/1552499997189349486-image.jpg
+        alt: Shawn 的圖，標出下降趨勢線
+  - id: "1552500025651634186"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-24 10:00"
+    text: 下降趨勢線稍微注意一下
+  - id: "1552502971147751456"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-24 10:12"
+    text: 碰均價線測試
+    images:
+      - src: /img/1552502971147751456-image.jpg
+        alt: 碰均價線測試的5分K圖
+  - id: "1552503190367371305"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-24 10:13"
+    text: 我自己看就是今天48000不要再破就好了
+  - id: "1552514433589313626"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-24 10:58"
+    text: 趨勢線還在
+    images:
+      - src: /img/1552514433589313626-image.jpg
+        alt: 趨勢線仍在的K線圖
+  - id: "1554394921874624524"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-29 15:30"
+    text: ""
+    images:
+      - src: /img/1554394921874624524-image.jpg
+        alt: 價格到下降趨勢線的K線圖
+  - id: "1554394937984819231"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-29 15:30"
+    text: 到下降趨勢線了
+  - id: "1554396807675510856"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-29 15:37"
+    text: 大週期高檔震盪其實還是偏多
+  - id: "1554760009869566003"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 15:41"
+    text: 看可不可以先突破下降趨勢線
+  - id: "1554761551280611329"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 15:47"
+    text: 5分 55ma站穩
+quiz:
+  - q: 盤中價格被下降趨勢線壓著時，Shawnnnn 怎麼看大方向？
+    o:
+      - 趨勢線還壓著就代表全面轉空，偏空做
+      - 大週期高檔震盪仍偏多，看能否先突破下降線
+      - 只看 5 分 K 的方向，大週期不重要
+      - 等跌破均價線再決定方向，先不預設多空
+    a: 1
+    e: Shawnnnn 說大週期高檔震盪其實還是偏多，要看能不能先突破下降趨勢線、5 分 55MA 站穩。

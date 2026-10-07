@@ -1,0 +1,121 @@
+slug: "1549336258868809769"
+title: 9/15 台指盤勢：壓力區、灰色帶與近月位置
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 盤勢判讀
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-15"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1549336258868809769
+summary: Alina/Shawnnnn 分析10月合約壓力728-762、45670支撐、45978目標；Alina 定義『灰色帶』為突破的壓力能否轉為支撐、方向不明的雙巴區，停損要放大；Shawnnnn 45680進、防守45630。
+hidden: false
+messages:
+  - id: "1549336258868809769"
+    author: Alina
+    teacher: true
+    time: "2026-09-15 16:29"
+    text: 如果到晚上沒站穩675以上我就要偏空做了
+  - id: "1549356174938345496"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 17:48"
+    text: 目前壓力728-762
+  - id: "1549356228080312323"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 17:48"
+    text: 10月的
+  - id: "1549363777798012958"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 18:18"
+    text: ""
+    images:
+      - src: /img/1549363777798012958-image.jpg
+        alt: 2分K圖，指標壓力帶與青色均價線，價格撐在45,740附近
+  - id: "1549363852259364865"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 18:18"
+    text: 看有沒有撐住
+  - id: "1549378177082720377"
+    author: Alina
+    teacher: true
+    time: "2026-09-15 19:15"
+    text: 看看有沒有機會往近月46050邁進站穩
+  - id: "1549378870724272211"
+    author: Alina
+    teacher: true
+    time: "2026-09-15 19:18"
+    text: 沒量站穩我可能就會在那位置附近想空
+  - id: "1549388760477605990"
+    author: Alina
+    teacher: true
+    time: "2026-09-15 19:57"
+    text: 灰色帶我給的停損空間大一點，因為好洗
+  - id: "1549390122351591445"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-15 20:03"
+    text: 灰色帶是什麼
+  - id: "1549390678839132201"
+    author: Alina
+    teacher: true
+    time: "2026-09-15 20:05"
+    text: 我自己的定義🤣 就是突破的壓力能不能有效轉為支撐，方向還不算明確的灰色地帶
+  - id: "1549390725979049985"
+    author: Alina
+    teacher: true
+    time: "2026-09-15 20:05"
+    text: 白話一點可以說是雙巴帶
+  - id: "1549390834254880779"
+    author: Alina
+    teacher: true
+    time: "2026-09-15 20:06"
+    text: 多空不明
+  - id: "1549423510961791078"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 22:15"
+    text: 45670看有沒有撐(10月)
+  - id: "1549423963740831818"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 22:17"
+    text: 有撐的話看會不會到45978
+  - id: "1549426890333356055"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 22:29"
+    text: 防守再45648
+  - id: "1549427061561495683"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 22:29"
+    text: 45680進
+  - id: "1549427269620072551"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 22:30"
+    text: 調整到45630
+    reply:
+      id: "1549426890333356055"
+      author: Shawnnnn
+      text: 防守再45648
+      inGroup: true
+  - id: "1549427710751809588"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 22:32"
+    text: 第一階段先看45750再來45800
+quiz:
+  - q: Alina 說的「灰色帶」是什麼？她在灰色帶怎麼設停損？
+    o:
+      - 價格剛突破壓力就確認轉多的區域，停損可以設小一點
+      - 突破的壓力能否轉支撐、多空不明的雙巴帶，停損給大一點
+      - 均線走平、價格來回整理的區間，停損固定抓 15 點
+      - 日 K 跳空缺口所在的區間，停損設在缺口的另一側
+    a: 1
+    e: Alina 定義灰色帶是突破的壓力能不能有效轉為支撐、方向不明確的雙巴帶，因為好洗，她給的停損空間大一點。

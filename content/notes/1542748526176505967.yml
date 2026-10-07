@@ -1,0 +1,120 @@
+slug: "1542748526176505967"
+title: 勝率與1R/盈虧比的定義
+type: 教學
+topic: 資金與風險
+tags:
+  - 資金與風險
+teacher: Shawnnnn
+channel: 一般
+date: "2026-08-28"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1542748526176505967
+summary: Shawnnnn覆盤約7成勝率，連續虧損3-5筆約300點；ROCH解釋1R為固定停損點數(例停損50、盈利50為1R，100為2R)。
+hidden: false
+messages:
+  - id: "1542748526176505967"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 12:11"
+    text: 但我真的也是會虧損的我大概有過連續虧損3-5筆60點
+  - id: "1542748563992477786"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 12:12"
+    text: 大概300點
+  - id: "1542748617633439864"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 12:12"
+    text: 這時候就會開始懷疑了XD
+  - id: "1542748663246360616"
+    author: Doobe
+    teacher: false
+    time: "2026-08-28 12:12"
+    text: 勝率高就可以了吧
+  - id: "1542748734067179620"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 12:12"
+    text: 策略難的是一直重複
+  - id: "1542748785447534643"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 12:12"
+    text: 很多人這樣就會否定那個策略
+    reply:
+      id: "1542748617633439864"
+      author: Shawnnnn
+      text: 這時候就會開始懷疑了XD
+      inGroup: true
+  - id: "1542748793722765352"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 12:12"
+    text: 我覆盤三個月勝率大概平均7成
+  - id: "1542748831324700693"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 12:13"
+    text: 至少1R
+  - id: "1542748901717835837"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 12:13"
+    text: 風報比我沒有算唷!
+  - id: "1542748960291160084"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 12:13"
+    text: 有時候我獲利30點不對就跑
+  - id: "1542748977131159573"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 12:13"
+    text: 所以連1R都沒有
+  - id: "1542749065681305600"
+    author: Doobe
+    teacher: false
+    time: "2026-08-28 12:14"
+    text: 1R是什麼意思
+  - id: "1542749164537122836"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 12:14"
+    text: 1RR 就是盈虧比1:1
+    reply:
+      id: "1542749065681305600"
+      author: Doobe
+      text: 1R是什麼意思
+      inGroup: true
+  - id: "1542749192693350400"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 12:14"
+    text: 2RR就是1:2
+  - id: "1542749246988492801"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 12:14"
+    text: 假設固定停損50   那盈利50就是1R
+  - id: "1542749263711174676"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 12:14"
+    text: 100就是2R
+quiz:
+  - q: 依 ROCH 的解釋，固定停損50點時，獲利100點是幾R？
+    o:
+      - 0.5R
+      - 1R
+      - 2R
+      - 5R
+    a: 2
+    e: ROCH 說固定停損50時盈利50是1R、盈利100就是2R，R是以停損點數為單位。
+  - q: 被問到風報比時，Shawnnnn 怎麼說？
+    o:
+      - 沒有算，有時賺30點不對就跑，連1R都沒有
+      - 他堅持每單至少要有2R，不到就不進場
+      - 他只看勝率，覆盤勝率不到7成就不做
+      - "他固定1:1風報比，停損停利都設60點"
+    a: 0
+    e: Shawnnnn 說風報比他沒有算，有時獲利30點不對就跑，所以連1R都沒有；他覆盤三個月勝率約7成。

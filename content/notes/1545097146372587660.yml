@@ -1,0 +1,82 @@
+slug: "1545097146372587660"
+title: 急漲急跌錯過進場：看1分K、掛價格警示
+type: 教學
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+  - 下單工具
+teacher: nick_AJ
+channel: 一般
+date: "2026-09-03"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1545097146372587660
+summary: Shawnnnn：急漲急跌沒耐心等進場就看1分K；不想盯盤可用券商軟體價格警示（到價會叫）；nick 打算寫程式提醒，並提到22:57出現異常量K棒。
+hidden: true
+messages:
+  - id: "1545097146372587660"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 23:44"
+    text: 就可能要看1分K
+  - id: "1545097274613432442"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 23:44"
+    text: 急漲急跌沒耐心想要等進場機會就是看1分
+  - id: "1545097420868948068"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 23:45"
+    text: 掛警示就可以做自己的事啦
+    reply:
+      id: "1545097268187758612"
+      author: nick_AJ
+      text: 對 但是就要依直盯著
+      inGroup: false
+  - id: "1545097481845481492"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 23:45"
+    text: 打電動動沒注意到2257的異常量K棒\
+  - id: "1545097623583723570"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 23:46"
+    text: 就嘎上去了
+    images:
+      - src: /img/1545097623583723570-image.jpg
+        alt: 22:57前後異常量K棒導致價格急拉的圖（依發言）
+  - id: "1545097706685468764"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 23:46"
+    text: 那種警示@@?
+    reply:
+      id: "1545097420868948068"
+      author: Shawnnnn
+      text: 掛警示就可以做自己的事啦
+      inGroup: true
+  - id: "1545098289840390185"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 23:48"
+    text: 我是用券商軟體的價格警示
+    reply:
+      id: "1545097706685468764"
+      author: nick_AJ
+      text: 那種警示@@?
+      inGroup: true
+  - id: "1545098314918268979"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 23:49"
+    text: 到價就會叫
+  - id: "1545098465556697158"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 23:49"
+    text: 價格掛突破區間的價格?
+  - id: "1545098715365117982"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 23:50"
+    text: 突然想到可以叫程式提醒🧐  明天抽空來寫一個小工具試試

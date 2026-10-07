@@ -1,0 +1,66 @@
+slug: "1551441337096863814"
+title: 盤整黏住/磨成撐、K棒顏色勝率觀察
+type: 分析
+topic: 盤整震盪
+tags:
+  - 盤整震盪
+  - 盤勢判讀
+teacher: Alina
+channel: 一般
+date: "2026-09-21"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551441337096863814
+summary: 磨磨磨變撐；若按此收盤，下一交易日交界上移至478XX。Shawn：紅K超過前高機會較多、做多勝率高，綠K來得急快、易賺大波；高檔連續多根紅K有人反向思考。
+hidden: false
+messages:
+  - id: "1551441337096863814"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 11:53"
+    text: 磨磨磨變撐
+    images:
+      - src: /img/1551441337096863814-image.jpg
+        alt: 台指走勢圖：價格磨整後轉為支撐
+  - id: "1551441700566859877"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 11:55"
+    text: 按這樣收，下一個交易日的交界就會上移到478XX
+  - id: "1551510751288627263"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 16:29"
+    text: 在下去就第5跟紅k欸，有這麼好的事嗎 XD
+  - id: "1551510905559318539"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 16:30"
+    text: 紅K比較有超過的情況
+  - id: "1551510929269588099"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 16:30"
+    text: 綠K比較沒有
+  - id: "1551510974723530753"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 16:30"
+    text: 所以做多勝率高就是這樣
+  - id: "1551511347022405774"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 16:32"
+    text: 不負責任猜測，衝破壓力摸個48600讓你以為要創高，明天在開高走低回到支撐
+  - id: "1551511452861599785"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 16:32"
+    text: 但是綠K主要都是來的又急又快所以比較好賺到大波的
+quiz:
+  - q: Shawnnnn 怎麼比較紅 K 和綠 K 的特性？
+    o:
+      - 紅 K 較會超過前面、做多勝率高；綠 K 急又快、好賺大波
+      - 紅 K 急又快、好賺大波；綠 K 較會超過前面、做空勝率高
+      - 紅 K 和綠 K 勝率差不多，關鍵只看當下量能大小
+      - 連續紅 K 出現後一定會反轉，所以做空勝率較高
+    a: 0
+    e: 他說紅 K 比較有超過的情況、所以做多勝率高；但綠 K 主要來得又急又快，比較好賺到大波。

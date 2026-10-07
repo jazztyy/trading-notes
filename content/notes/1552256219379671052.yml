@@ -1,0 +1,77 @@
+slug: "1552256219379671052"
+title: 多空打架區間與觀察點
+type: 分析
+topic: 盤整震盪
+tags:
+  - 盤整震盪
+  - 盤勢判讀
+teacher: Alina
+channel: 一般
+date: "2026-09-23"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1552256219379671052
+summary: Alina：多空分水嶺黏著難看；EMA與均線貼近時多做多錯，手腳要快；上有壓下有撐可區間操作。
+hidden: false
+messages:
+  - id: "1552256219379671052"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 17:52"
+    text: 不過如果再沖一次搞不好有機會衝過
+  - id: "1552257300595613738"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 17:56"
+    text: 上有壓下有撐，區間來玩玩 XD
+    images:
+      - src: /img/1552257300595613738-image.jpg
+        alt: 區間操作示意圖
+  - id: "1552536416687357982"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 12:25"
+    text: 小尷尬，多空分水嶺🤣  還是有往上突破的可能
+    images:
+      - src: /img/1552536416687357982-image.jpg
+        alt: Alina 多空分水嶺K線圖
+  - id: "1552536510400692356"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 12:25"
+    text: 黏著看不出有沒有要下穿
+  - id: "1552537802388938805"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 12:30"
+    text: 支撐有守
+    reply:
+      id: "1552536416687357982"
+      author: Alina
+      text: 小尷尬，多空分水嶺🤣 還是有往上突破的可能
+      inGroup: true
+  - id: "1552537887944212513"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 12:31"
+    text: 這位置感覺容易多做多錯 XDD
+  - id: "1552538417190150196"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 12:33"
+    text: 救回不下穿了 XD
+    images:
+      - src: /img/1552538417190150196-image.jpg
+        alt: 價格救回不下穿的K線圖，標壓力紅線
+  - id: "1552538778399285259"
+    author: Alina
+    teacher: true
+    time: "2026-09-24 12:34"
+    text: 要空我可能掛壓力紅色那看看🤣
+quiz:
+  - q: 價格黏在多空分水嶺、看不出要不要下穿時，Alina 怎麼看？
+    o:
+      - 容易多做多錯，改成上壓下撐的區間操作
+      - 代表即將噴出，應提早押方向、順勢加碼
+      - 以收盤在分水嶺上或下來決定當天多空
+      - 分水嶺已失效，改看更小週期的均線方向
+    a: 0
+    e: Alina 說黏著看不出方向、這位置容易多做多錯，上有壓下有撐就區間來玩，要空可掛在壓力那。

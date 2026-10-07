@@ -1,0 +1,125 @@
+slug: "1551420674038440008"
+title: 心態：不追高、等訊號、只賺認知內的錢
+type: 教學
+topic: 交易心態
+tags:
+  - 交易心態
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-21"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551420674038440008
+summary: 99：錯過一次波段等下次程式單訊號，不必每個都賺；Alina：忍住手指、沒好位置不硬上；Shawn：賺到認知外的是幸運會賠回去，拉高賣飛沒關係、不糾結賣最高買最低；摸頭停損要設好。
+hidden: false
+messages:
+  - id: "1551420674038440008"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 10:31"
+    text: 我在忍住我的手指，沒好位置就不要硬上哈哈
+    reply:
+      id: "1551420400678993934"
+      author: nick_AJ
+      text: 同上
+      inGroup: false
+  - id: "1551420829928005643"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 10:32"
+    text: 沒錯
+  - id: "1551423890985713777"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-21 10:44"
+    text: 感謝提醒 害我想摸頭空 哈哈哈
+    reply:
+      id: "1551423366269903000"
+      author: Shawnnnn
+      text: 然後不要有人說48000覺得現在還有5.60點可以吃一些點數就貿然進去，因為我以前就是這種人然後就吃筍
+      inGroup: false
+  - id: "1551423970383888496"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 10:44"
+    text: 停損設好就可以 XD
+    reply:
+      id: "1551423890985713777"
+      author: 維尼Ni🌻
+      text: 感謝提醒 害我想摸頭空 哈哈哈
+      inGroup: true
+  - id: "1551435576954060911"
+    author: "99"
+    teacher: false
+    time: "2026-09-21 11:31"
+    text: 我就沒做多 我可以錯過一次波段 等下次程式單訊號這樣
+    reply:
+      id: "1551427965408124980"
+      author: Mikey
+      text: 想問99今天一路漲訊號有辦法跟單嗎？
+      inGroup: false
+  - id: "1551435768881217597"
+    author: "99"
+    teacher: false
+    time: "2026-09-21 11:31"
+    text: 但如果等等出現平多進空
+  - id: "1551435805199835137"
+    author: "99"
+    teacher: false
+    time: "2026-09-21 11:32"
+    text: 我就會下單了
+  - id: "1551435933763641365"
+    author: "99"
+    teacher: false
+    time: "2026-09-21 11:32"
+    text: 反正每天都有賺錢的機會
+  - id: "1551435972300767233"
+    author: "99"
+    teacher: false
+    time: "2026-09-21 11:32"
+    text: 不用一定每個都賺到 太難了
+  - id: "1551436074281209877"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 11:33"
+    text: 99你心態很正確
+  - id: "1551436278652866701"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 11:33"
+    text: 我自己要學習就是不要硬做，忍住手指XD
+  - id: "1551611468955263100"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 23:10"
+    text: 只能賺到認知內的錢
+  - id: "1551611529776861317"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 23:10"
+    text: 賺到認知外的都是幸運不是你的實力
+  - id: "1551611541718048899"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 23:10"
+    text: 要搞清楚
+  - id: "1551612608442794056"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 23:14"
+    text: 拉高賣飛也沒關係有賺到才是真的賺到，不要糾結在賣最高買最低這種地方，不然做交易你會很痛苦
+quiz:
+  - q: 一路大漲但沒有程式單訊號時，99 怎麼做，Shawnnnn 怎麼評價？
+    o:
+      - 錯過這次波段，等下次訊號；Shawnnnn 說心態正確
+      - 手動追多補上這段行情；Shawnnnn 說操作要靈活
+      - 先放空等回檔再進；Shawnnnn 說這樣太冒險
+      - 調整參數讓訊號提早出現；Shawnnnn 說可以試試
+    a: 0
+    e: 99 說可以錯過一次波段、等下次程式單訊號，不用每個都賺到；Shawnnnn 回「99 你心態很正確」。
+  - q: Shawnnnn 怎麼看「拉高賣飛」這件事？
+    o:
+      - 賣飛代表停利設太近，要拉大目標
+      - 應該分批出場，避免整筆都賣在相對低點
+      - 有賺到才是真的賺到，不必糾結賣在最高
+      - 賣飛後應該再追回來，避免錯過行情
+    a: 2
+    e: 他說「拉高賣飛也沒關係，有賺到才是真的賺到」，只能賺認知內的錢，認知外的是幸運不是實力。

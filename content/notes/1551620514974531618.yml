@@ -1,0 +1,105 @@
+slug: "1551620514974531618"
+title: TradingView 策略（McGinley反手+4口分批）空單狀態顯示異常
+type: 提問
+topic: 程式交易
+tags:
+  - 程式交易
+  - 多週期判斷
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-21"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551620514974531618
+summary: 討論 TV 策略右上角狀態窗與圖面空單不一致；重開或調參數後空單消失。Shawn 推測策略只給訊號、非真實市價單成交，故影響不大，建議用30分K看趨勢、5分K以下找進場點，等整根K收完再判斷。
+hidden: true
+messages:
+  - id: "1551620514974531618"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-21 23:45"
+    text: ""
+    images:
+      - src: /img/1551620514974531618-image.jpg
+        alt: TradingView 小台30分K，策略指標面板顯示持有多單、勝率/績效統計與進出場標記
+  - id: "1551620547203436676"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-21 23:46"
+    text: 剛剛好像看到分享說有BUG
+  - id: "1551620667852456039"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-21 23:46"
+    text: 我剛剛要確認但一直沒跳右上角那個狀態窗
+  - id: "1551620784622014596"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-21 23:47"
+    text: 有時候會沒有那個狀態窗 過一陣子又會自己出現
+  - id: "1551620854050455683"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 23:47"
+    text: 有~我是有發現維尼說的那個
+  - id: "1551620991619174573"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 23:47"
+    text: 重開或是重改策略參數在調整回來就會跳不一樣
+  - id: "1551621192203501649"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 23:48"
+    text: ""
+    images:
+      - src: /img/1551621192203501649-IMG_2929.jpg
+        alt: Alina 的策略畫面，無空單（對照用）
+  - id: "1551621242409189437"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 23:48"
+    text: 應該是說我原本也是跟帝王的一樣有空單
+  - id: "1551621275120828551"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 23:48"
+    text: 但是我重開那筆空單就不見了
+  - id: "1551625446846894101"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-22 00:05"
+    text: 對 我的也是，重開就裝沒事的綠茶參數
+    reply:
+      id: "1551621275120828551"
+      author: Shawnnnn
+      text: 但是我重開那筆空單就不見了
+      inGroup: true
+  - id: "1551626461067083799"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-22 00:09"
+    text: 我有幾次懷疑我眼睛是不是看盤看太久壞掉了明明印象中是做空了 怎麼回來他又是繼續多
+  - id: "1551626756501405796"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-22 00:10"
+    text: 我有在想是因為他只是給訊號，但她不是真的取當下的市價單，所以才會有這種情況發生
+  - id: "1551626933475868835"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-22 00:11"
+    text: 因為你程式交易不可能同一根掛了又出，出了又掛，訊號打下去就是下去了，你真的要停損就是下一根後面的事情了
+  - id: "1551627130482204693"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-22 00:12"
+    text: 但因為我想說這是給大家看訊號不是真的要程式交易所以影響應該不會太大
+  - id: "1551627438298243123"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-22 00:13"
+    text: 但原則就是拿30分K去看趨勢，5分K以下找進場點都是沒問題的
+  - id: "1551627848824004722"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-22 00:15"
+    text: 現在就是你先等整根跑完去看看合不合理，合理的話你就用5K去找進場點吧~

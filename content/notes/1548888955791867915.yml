@@ -1,0 +1,149 @@
+slug: "1548888955791867915"
+title: Alina 的關鍵點位與日內交界做法
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 停損停利
+teacher: Alina
+channel: 一般
+date: "2026-09-14"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1548888955791867915
+summary: Alina 以自己抓的關鍵位（如45383、45300）判斷多頭結構是否破壞，破了就停損；每天抓壓力/交界/支撐，交界上偏多、交界下偏空，在點位附近進場比較好抓停損，中間區間不做。
+hidden: false
+messages:
+  - id: "1548888955791867915"
+    author: Alina
+    teacher: true
+    time: "2026-09-14 10:51"
+    text: 希望可以回到交界46136左右
+  - id: "1548889064847966208"
+    author: Alina
+    teacher: true
+    time: "2026-09-14 10:52"
+    text: ""
+    images:
+      - src: /img/1548889064847966208-IMG_2748.jpg
+        alt: 微台期202610 買進對帳單，成交價45,480與45,600各1口
+  - id: "1548889191834845277"
+    author: Alina
+    teacher: true
+    time: "2026-09-14 10:52"
+    text: 破45383的時候心涼一大截
+  - id: "1548891659629236225"
+    author: Alina
+    teacher: true
+    time: "2026-09-14 11:02"
+    text: 我就是抓我自己心裡的關鍵點位然後大概換算10月整數
+    reply:
+      id: "1548890949353082901"
+      author: 維尼Ni🌻
+      text: 你點位很讚餒
+      inGroup: false
+  - id: "1548891799639167028"
+    author: Alina
+    teacher: true
+    time: "2026-09-14 11:03"
+    text: 如果忙完發現沒收往上就表示多頭結構破壞，我會停損
+  - id: "1548891907093041193"
+    author: Alina
+    teacher: true
+    time: "2026-09-14 11:03"
+    text: 這是我內心覺得不能破的關鍵位哈哈
+    reply:
+      id: "1548889191834845277"
+      author: Alina
+      text: 破45383的時候心涼一大截
+      inGroup: true
+  - id: "1548892326263263243"
+    author: Alina
+    teacher: true
+    time: "2026-09-14 11:05"
+    text: 最差45300
+  - id: "1548988938419572797"
+    author: Alina
+    teacher: true
+    time: "2026-09-14 17:29"
+    text: 走了，我看開盤交界720守不住我就走了
+    reply:
+      id: "1548988715165290559"
+      author: Annahui
+      text: 你多單走了嗎
+      inGroup: false
+  - id: "1548989136478806068"
+    author: Alina
+    teacher: true
+    time: "2026-09-14 17:29"
+    text: 這裡(這是9月位置)，最差45300
+    reply:
+      id: "1548889191834845277"
+      author: Alina
+      text: 破45383的時候心涼一大截
+      inGroup: true
+  - id: "1548989303206453329"
+    author: Alina
+    teacher: true
+    time: "2026-09-14 17:30"
+    text: 這邊跌破就算破壞多頭結構
+  - id: "1548989783252934687"
+    author: Alina
+    teacher: true
+    time: "2026-09-14 17:32"
+    text: 但我跟早上一樣在差不多位置有掛10月接多哈哈
+  - id: "1549249442266484888"
+    author: Alina
+    teacher: true
+    time: "2026-09-15 10:44"
+    text: 點位我只看自己的抓關鍵位，中間就是區間震盪
+  - id: "1549265365027131437"
+    author: Alina
+    teacher: true
+    time: "2026-09-15 11:47"
+    text: 我就是抓一天交界支撐壓力，交界上偏多做，交界下偏空做
+  - id: "1549265442768429110"
+    author: Alina
+    teacher: true
+    time: "2026-09-15 11:47"
+    text: 應該算今天交界位，我抓720位置
+    reply:
+      id: "1549264960113348630"
+      author: Alina
+      text: 讚讚，我剛剛也是在支撐位左右進多單
+      inGroup: false
+  - id: "1549265448435056691"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 11:47"
+    text: 你可能照你策略走不要凹單也一定是賺不少
+  - id: "1549265573534236674"
+    author: Alina
+    teacher: true
+    time: "2026-09-15 11:48"
+    text: 點位附近進，比較好抓停損哈哈
+    reply:
+      id: "1549265442768429110"
+      author: Alina
+      text: 應該算今天交界位，我抓720位置
+      inGroup: true
+  - id: "1549265872793636895"
+    author: Alina
+    teacher: true
+    time: "2026-09-15 11:49"
+    text: 像今天壓力大概在46319、交界45720、支撐45247 (支撐雖然這個位置，但我不希望到這，因為我不想看到破383)
+quiz:
+  - q: Alina 的多單遇到她心中「不能破的關鍵位」被跌破，她怎麼處理？
+    o:
+      - 在關鍵位下方加碼，攤平多單的平均成本
+      - 先不動，等下一個支撐位看會不會反彈
+      - 沒收回去就視為多頭結構破壞，停損出場
+      - 改看更大週期，大週期沒破就繼續抱
+    a: 2
+    e: Alina 說如果忙完發現沒收往上，就表示多頭結構破壞，她會停損。
+  - q: Alina 每天抓壓力、交界、支撐後，怎麼決定做單？
+    o:
+      - 交界上偏空做、交界下偏多做，中間區間來回做
+      - 交界上偏多、交界下偏空，點位附近進好抓停損
+      - 只在壓力和支撐中間進場，成交機會最多
+      - 不管交界，只看兩線訊號決定多空
+    a: 1
+    e: Alina 說交界上偏多做、交界下偏空做，點位附近進比較好抓停損，中間就是區間震盪。

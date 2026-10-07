@@ -1,0 +1,193 @@
+slug: "1542905706485784576"
+title: 策略精髓：白線(激進)與藍線(保守)進場
+type: 教學
+topic: 進場時機
+tags:
+  - 進場時機
+  - 停損停利
+  - 指標設定
+teacher: Shawnnnn
+channel: 一般
+date: "2026-08-28"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1542905706485784576
+summary: 策略為單向行情順勢拉回時進場；白線較激進、藍線較保守；上彎才做多、下彎做空；兩線貼近則觀望，可改掛EMA價格；停損可抓前面綠K高點約45點或固定60點。
+hidden: false
+messages:
+  - id: "1542905706485784576"
+    author: YOU
+    teacher: false
+    time: "2026-08-28 22:36"
+    text: s大想請問 兩條線如果都是明確趨勢 重疊&上圖的樣子展開的 兩個做單起來會有差嗎 你的經驗覺得呢~
+  - id: "1542905849075212439"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:37"
+    text: 重疊是甚麼~
+    reply:
+      id: "1542905706485784576"
+      author: YOU
+      text: s大想請問 兩條線如果都是明確趨勢 重疊&上圖的樣子展開的 兩個做單起來會有差嗎 你的經驗覺得呢~
+      inGroup: true
+  - id: "1542906059541192834"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:37"
+    text: 給我一張圖我看一下
+  - id: "1542906069230166086"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 22:37"
+    text: 盤整的時候才會水平粘在一起？
+  - id: "1542907011702718525"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:41"
+    text: 這策略就是不會讓你去追多跟追空，停損也相較好抓，假設我剛停利點抓在前低附近我想要賺160點左右，結果沒到往上走了我就抓個前面綠K的最高價也可以大概45點，或是固定點數60點都OK
+    images:
+      - src: /img/1542907011702718525-image.jpg
+        alt: K線圖：停利抓前低附近、停損抓綠K最高價
+  - id: "1542907306608435320"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:42"
+    text: 喜歡頻繁交易的現在也可以掛白線藍線試單，但我現在不會想要進場還不夠開
+    images:
+      - src: /img/1542907306608435320-image.jpg
+        alt: K線圖：喜歡頻繁交易者可掛白藍線試單
+  - id: "1542907371527872613"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:43"
+    text: 快到在掛當時的藍白線價格
+  - id: "1542907884650631299"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-08-28 22:45"
+    text: |-
+      我重點複習：
+      1.白藍線分開時較安全
+      2.開盤前後及下午垃圾時間不進場
+      3.開盤後40分鐘觀望可進場試單
+  - id: "1542907891260981278"
+    author: YOU
+    teacher: false
+    time: "2026-08-28 22:45"
+    text: 我找不到很貼的線... 一張圖線比較開 一張相對貼緊一點
+    images:
+      - src: /img/1542907891260981278-image.jpg
+        alt: 兩張圖：YOU找的線較開與較貼的範例
+  - id: "1542907934256791552"
+    author: Jessie
+    teacher: false
+    time: "2026-08-28 22:45"
+    text: 掛白線是多對嗎？ 我很怕我沒理解對
+    reply:
+      id: "1542907306608435320"
+      author: Shawnnnn
+      text: 喜歡頻繁交易的現在也可以掛白線藍線試單，但我現在不會想要進場還不夠開
+      inGroup: true
+  - id: "1542907977621831841"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 22:45"
+    text: 不是~~~~
+    reply:
+      id: "1542907934256791552"
+      author: Jessie
+      text: 掛白線是多對嗎？ 我很怕我沒理解對
+      inGroup: true
+  - id: "1542908056336203887"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-08-28 22:45"
+    text: 看上彎才能多
+    reply:
+      id: "1542907934256791552"
+      author: Jessie
+      text: 掛白線是多對嗎？ 我很怕我沒理解對
+      inGroup: true
+  - id: "1542908059624407141"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 22:45"
+    text: 白線是激進派，藍線想對保守
+  - id: "1542908250297597963"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-08-28 22:46"
+    text: 白色也能空 看趨勢向上還向下
+  - id: "1542908306488696863"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 22:46"
+    text: 現在2分k是上揚趨勢，想多做單就白色進多
+  - id: "1542908314483163177"
+    author: Kai
+    teacher: false
+    time: "2026-08-28 22:46"
+    text: 可以看這裡 https://discord.com/channels/1542520115562545162/1542754296767184906 有講解
+    reply:
+      id: "1542908153639735428"
+      author: Jessie
+      text: 救命哦
+      inGroup: false
+  - id: "1542908421228208158"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:47"
+    text: 這裡很密就觀望
+    reply:
+      id: "1542907891260981278"
+      author: YOU
+      text: 我找不到很貼的線... 一張圖線比較開 一張相對貼緊一點
+      inGroup: true
+    images:
+      - src: /img/1542908421228208158-image.jpg
+        alt: K線圖：此處線很密，觀望
+  - id: "1542908822283362344"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 22:48"
+    text: 現在要啊
+  - id: "1542908913815527555"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 22:49"
+    text: 下去的時候白色也是空單進場點
+  - id: "1542909020082282576"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:49"
+    text: 但現在跟EMA很近你也可以掛EMA的價格
+  - id: "1542909059227717722"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 22:49"
+    text: 這個策略就是單向行情順勢拉回的時候進場
+  - id: "1542909103943450644"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 22:49"
+    text: 最理想的狀態
+    reply:
+      id: "1542909059227717722"
+      author: ROCH
+      text: 這個策略就是單向行情順勢拉回的時候進場
+      inGroup: true
+quiz:
+  - q: 關於白線和藍線，群組裡的說明何者正確？
+    o:
+      - 白線只用來做多，藍線只用來做空，不能混用
+      - 白線激進、藍線保守，看線上彎做多、下彎做空
+      - 白線較保守、藍線較激進，兩條都上彎才做多
+      - 掛白線就是做多，掛藍線就是做空，不看方向
+    a: 1
+    e: ROCH 說白線是激進派、藍線相對保守；維尼補充要看上彎才能多，白線也能空，看趨勢方向。
+  - q: 停利沒到、價格反向時，Shawnnnn 舉例停損可以怎麼抓？
+    o:
+      - 抓前面綠K最高價（約45點）或固定60點
+      - 一律抓當日開盤價，跌破開盤價就出場
+      - 抓到前低附近，約160點才停損出場
+      - 等兩條線交叉、確認趨勢反轉後再停損出場
+    a: 0
+    e: Shawnnnn 說可以抓前面綠K的最高價，大概45點，或是固定點數60點都OK；160點是他原本想賺的停利。

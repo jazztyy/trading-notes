@@ -1,0 +1,32 @@
+# 主題的順序與說明（大致由基礎到進階）。每組討論的 topic 必須是這裡的 name。
+# excluded：主標籤（tags 第一個）是這些的組一律隱藏。其他組歸到第一個在 topics 裡的標籤，都不在就隱藏。
+topics:
+  - name: 指標設定
+    desc: TradingView 指標的參數、顏色與版面設定
+  - name: 進場時機
+    desc: 什麼時候進場、限價還是市價、追單與回踩
+  - name: 停損停利
+    desc: 停損放哪裡、停利怎麼抓、分批出場
+  - name: 多週期判斷
+    desc: 大週期定方向、小週期找進場
+  - name: 撐壓點位
+    desc: 撐壓怎麼畫、怎麼用，前高前低與關鍵價
+  - name: 盤整震盪
+    desc: 盤整時怎麼辨識、要不要做
+  - name: 盤勢判讀
+    desc: 開盤、量能與趨勢的整體判斷
+  - name: 資金與風險
+    desc: 口數、資金控管與風險承受
+  - name: 交易心態
+    desc: 紀律、情緒與面對虧損
+  - name: 復盤回測
+    desc: 怎麼復盤、怎麼回測策略
+  - name: 籌碼消息
+    desc: 籌碼、新聞與消息面
+teachers:
+  - Shawnnnn
+  - Alina
+  - nick_AJ
+excluded:
+  - 下單工具
+  - 程式交易

@@ -1,0 +1,101 @@
+slug: "1544964776982224978"
+title: TV 指標當機／報價停止更新與資料缺漏
+type: 提問
+topic: 指標設定
+tags:
+  - 指標設定
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-03"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544964776982224978
+summary: 下午 TradingView 價格停止跳動、指標失效，大家重整無效；ROCH 說只剩1、5、15分K。晚上修好後資料只從6點開始，Kai 推測遺失資料尚未合併，缺漏期間參數與訊號不準。
+hidden: true
+messages:
+  - id: "1544964776982224978"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 14:58"
+    text: 可是為啥我的價格怪怪
+    images:
+      - src: /img/1544964776982224978-image.jpg
+        alt: 富邦5分K微台圖 SMA55 與價量累計圖，Shawnnnn 問為什麼價格怪怪
+  - id: "1544965424301482044"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 15:01"
+    text: 除權息的關係嗎
+  - id: "1544965444644118550"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 15:01"
+    text: 求解
+  - id: "1544966418012049419"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 15:04"
+    text: 你們TV有在動嗎
+  - id: "1544966450379362385"
+    author: YOU
+    teacher: false
+    time: "2026-09-03 15:05"
+    text: 沒動
+  - id: "1544966453306851339"
+    author: ROCH
+    teacher: false
+    time: "2026-09-03 15:05"
+    text: 沒有
+  - id: "1544966490774573116"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 15:05"
+    text: 那應該他當機了
+  - id: "1544966964307435620"
+    author: ROCH
+    teacher: false
+    time: "2026-09-03 15:07"
+    text: 但是有有1 5 15分k
+  - id: "1544968050846076949"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 15:11"
+    text: 印象中大概3個小時
+  - id: "1545014498107330630"
+    author: Kai
+    teacher: false
+    time: "2026-09-03 18:16"
+    text: tv 好了
+  - id: "1545014781394821133"
+    author: Alina
+    teacher: true
+    time: "2026-09-03 18:17"
+    text: 但數據就從6點多開始
+  - id: "1545014807412088893"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 18:17"
+    text: 有了但是從6點開始????
+  - id: "1545014852878078002"
+    author: YOU
+    teacher: false
+    time: "2026-09-03 18:17"
+    text: 三點都不見
+  - id: "1545015043916169297"
+    author: Kai
+    teacher: false
+    time: "2026-09-03 18:18"
+    text: 應該是遺失的資料還沒 merge 回來 哈哈
+  - id: "1545015081882882110"
+    author: YOU
+    teacher: false
+    time: "2026-09-03 18:18"
+    text: 這樣參數不准對吧
+  - id: "1545015094046621737"
+    author: Alina
+    teacher: true
+    time: "2026-09-03 18:18"
+    text: 這樣訊號應該也沒辦法參考
+  - id: "1545015136035799111"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 18:18"
+    text: 對~

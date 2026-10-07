@@ -1,0 +1,105 @@
+slug: "1549070234164535370"
+title: 以前低防守進場、停損與市場永遠是對的
+type: 教學
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 進場時機
+  - 停損停利
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-14"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1549070234164535370
+summary: Shawnnnn 說明做多可靠前低防守，離前低遠就等更好價位；上去有機會補缺口；市場永遠是對的，只能設停損；另一個簡單觀察是日K連續綠K根數（第四根）。
+hidden: false
+messages:
+  - id: "1549070234164535370"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 22:52"
+    text: 現在做多也很好防守
+  - id: "1549070464423432306"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 22:52"
+    text: 前低就在那很好守
+  - id: "1549070535856623727"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 22:53"
+    text: 如果覺得現在離前低很遠那就等更好的價格再進也OK
+  - id: "1549070679721386166"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-14 22:53"
+    text: 測三次了不會一路下嗎
+  - id: "1549070735102705739"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 22:54"
+    text: 現在防守100點上去還有機會可以補缺口點數比較多
+  - id: "1549070914782494761"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 22:54"
+    text: 都有可能~市場永遠是對的，你只能設定停損
+    reply:
+      id: "1549070679721386166"
+      author: 維尼Ni🌻
+      text: 測三次了不會一路下嗎
+      inGroup: true
+  - id: "1549071327783166004"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 22:56"
+    text: 我還有一個簡單觀察就是觀察日K有幾根綠K
+  - id: "1549071341645467678"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 22:56"
+    text: ""
+    images:
+      - src: /img/1549071341645467678-image.jpg
+        alt: 日K圖含SMA5/10/20/60/120與價量累計圖，標出44278壓力區
+  - id: "1549071374210048001"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-14 22:56"
+    text: 目前是第四根
+  - id: "1549431255966158901"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 22:46"
+    text: 今天到明天早盤如果還是收黑K那就是第五根
+  - id: "1549431290313441342"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-15 22:46"
+    text: 發生連續五根機率很低
+  - id: "1549453958823551088"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-16 00:16"
+    text: 害我想現在進多了
+    reply:
+      id: "1549431290313441342"
+      author: Shawnnnn
+      text: 發生連續五根機率很低
+      inGroup: true
+quiz:
+  - q: Shawnnnn 說現在做多好防守，但如果覺得價格離前低很遠，他建議怎麼做？
+    o:
+      - 等更好的價格再進也 OK
+      - 直接進場，停損設在前低下方即可
+      - 先進一半，離前低近再補另一半
+      - 改做空單，等回到前低再翻多
+    a: 0
+    e: Shawnnnn 說前低就在那很好守，如果覺得現在離前低很遠，那就等更好的價格再進也 OK。
+  - q: Shawnnnn 分享的另一個簡單觀察是看什麼？
+    o:
+      - 日 K 成交量連續三天放大，代表要轉向
+      - 日 K 連續幾根綠 K，連五根的機率很低
+      - 日 K 連續三次測試同一個低點沒破
+      - 2 分 K 連續幾根紅 K，連五根就要反轉
+    a: 1
+    e: Shawnnnn 說可以觀察日 K 有幾根綠 K，當時是第四根，發生連續五根的機率很低。

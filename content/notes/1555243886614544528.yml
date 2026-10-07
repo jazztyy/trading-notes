@@ -1,0 +1,154 @@
+slug: "1555243886614544528"
+title: 趨勢結構判斷：漲多跌少／跌多漲少
+type: 教學
+topic: 盤勢判讀
+tags:
+  - 盤勢判讀
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-01"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555243886614544528
+summary: Shawn 教單看K棒：趨勢向上是漲多跌少，反之跌多漲少；結構改變即趨勢轉變（H大10:55喊多前出現漲多跌少），突破後回踩是機會；空方仍占優勢時別逆勢。
+hidden: false
+messages:
+  - id: "1555243886614544528"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 23:43"
+    text: 維尼你可以看一下橘色跟紫色箭頭差異在哪嗎
+    images:
+      - src: /img/1555243886614544528-image.jpg
+        alt: K線圖：橘色/紫色箭頭對比漲多跌少 vs 跌多漲少
+  - id: "1555244606138880167"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 23:46"
+    text: 橘色上漲或下跌都很順是連貫的？紫色是狗啃？跟凱基信義隔日沖一樣渣？
+  - id: "1555244854240354425"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 23:47"
+    text: 簡單看就是橘色漲多跌少漲多跌少，紫色是跌多漲少跌多漲少
+  - id: "1555244878072385687"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 23:47"
+    text: 這就是趨勢改變了
+  - id: "1555245245825024112"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 23:49"
+    text: 我們看一下H大神麼時候喊多的
+  - id: "1555245266053890141"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 23:49"
+    text: 我不確定他是不是這樣看
+  - id: "1555245298027339879"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 23:49"
+    text: ""
+    images:
+      - src: /img/1555245298027339879-image.jpg
+        alt: 早上多單K線圖：框起處漲多不再漲少，趨勢開始轉變
+  - id: "1555245341442314261"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 23:49"
+    text: 本來前面是跌多漲少
+  - id: "1555245424774746226"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 23:50"
+    text: 我框起來的那段開始漲多不再是漲少了
+  - id: "1555245461072519179"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 23:50"
+    text: 這就是趨勢開始要變了
+  - id: "1555245536783634607"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 23:50"
+    text: 框起來大概是10:25-10:50
+  - id: "1555245814182449295"
+    author: YOU
+    teacher: false
+    time: "2026-10-01 23:51"
+    text: h 10.55左右喊的
+    reply:
+      id: "1555245592345837730"
+      author: 維尼Ni🌻
+      text: 我看看訊息時間
+      inGroup: false
+  - id: "1555245927084593316"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 23:52"
+    text: 恩恩那就差不多是確定結構開始改變跟大家說轉多了
+    reply:
+      id: "1555245814182449295"
+      author: YOU
+      text: h 10.55左右喊的
+      inGroup: true
+  - id: "1555247672795992195"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 23:59"
+    text: 以前提到的突破後回踩就是一個機會我就會觀察看看
+    images:
+      - src: /img/1555247672795992195-image.jpg
+        alt: 突破後回踩示意圖
+  - id: "1555247841352351815"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 23:59"
+    text: 這個好深奧
+    reply:
+      id: "1555247672795992195"
+      author: Shawnnnn
+      text: 以前提到的突破後回踩就是一個機會我就會觀察看看
+      inGroup: true
+  - id: "1555247876639031389"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 23:59"
+    text: 反正現在目前就是空方是優勢
+  - id: "1555247922369532027"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 23:59"
+    text: 順勢交易🤣
+    reply:
+      id: "1555247841352351815"
+      author: 維尼Ni🌻
+      text: 這個好深奧
+      inGroup: true
+  - id: "1555247972433010689"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:00"
+    text: 還沒有翻轉
+  - id: "1555254279453933650"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 00:25"
+    text: 結構有點在變了
+quiz:
+  - q: Shawnnnn 教單看 K 棒判斷趨勢，趨勢向上的結構是？
+    o:
+      - 漲跌幅度差不多、來回震盪
+      - 跌多漲少，一路往下
+      - 漲多跌少，一段一段往上
+      - 每根都是長紅 K、沒有回檔
+    a: 2
+    e: Shawnnnn 說橘色是漲多跌少、紫色是跌多漲少，結構從跌多漲少變成漲多跌少就是趨勢開始轉變。
+  - q: 看到結構開始改變、突破後出現回踩，Shawnnnn 怎麼看待？
+    o:
+      - 代表假突破，應該反手放空
+      - 是一個機會，他會觀察看看
+      - 趨勢已確定，直接加碼滿倉
+      - 要等日 K 確認後才能考慮
+    a: 1
+    e: Shawnnnn 說「以前提到的突破後回踩就是一個機會我就會觀察看看」，但當時空方仍有優勢，不急著逆勢。

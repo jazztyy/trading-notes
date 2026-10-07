@@ -1,0 +1,261 @@
+slug: "1550071454727405619"
+title: 在交界叉點出場與反手：Alina 的夜盤點位邏輯
+type: 教學
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 停損停利
+  - 下單工具
+teacher: Alina
+channel: 一般
+date: "2026-09-17"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1550071454727405619
+summary: Alina 解釋用點位邏輯進出：站不穩壓力就停損；離交界近、風報比好才加入；選離停損好抓的方向做，夾在中間不做；設關鍵價通知取代智慧單；停損後位置仍在交界上就反手多；nick_AJ 補充先果斷進場再同步設損才能參與行情；壓力位置加20點追加。
+hidden: false
+messages:
+  - id: "1550071454727405619"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 17:10"
+    text: 看來沒有想踩交界了~吃竹筍囉
+  - id: "1550071757644374107"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 17:11"
+    text: 與交界最近的距離可惡哈哈
+    images:
+      - src: /img/1550071757644374107-image.jpg
+        alt: 小圖：價格回測藍色支撐區（交界位）後轉撐
+  - id: "1550071805077753876"
+    author: Annahui
+    teacher: false
+    time: "2026-09-17 17:11"
+    text: 我以為600就差不多了 你會出耶
+  - id: "1550071940952363140"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 17:12"
+    text: 回座位700了
+  - id: "1550072019704487986"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 17:12"
+    text: 果然還是要看著 XD
+  - id: "1550072300475523145"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 17:13"
+    text: 如果我看著的話我可能會出在650左右這位置吃筍
+  - id: "1550072339537068033"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 17:14"
+    text: 就是交叉那裡
+  - id: "1550072675546832998"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 17:15"
+    text: 對，我就會放棄觀察筍出
+  - id: "1550072851019595837"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 17:16"
+    text: 而且接近交界位也轉撐了
+    reply:
+      id: "1550071757644374107"
+      author: Alina
+      text: 與交界最近的距離可惡哈哈
+      inGroup: true
+  - id: "1550073003780603905"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 17:16"
+    text: 晚點再來看看，今日第一單出師不利XD
+  - id: "1550116143346491443"
+    author: Kai
+    teacher: false
+    time: "2026-09-17 20:08"
+    text: 該減碼 但趨勢回來要再上車（？
+  - id: "1550116436947771479"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 20:09"
+    text: 沒把握就是做單邊等上車機會
+  - id: "1550150095654224032"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:23"
+    text: ""
+    images:
+      - src: /img/1550150095654224032-IMG_2845.jpg
+        alt: TV 2分K，多週期趨勢狀態表（1分K至日線皆偏多），CHoCH與藍色支撐區
+  - id: "1550150214617272482"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:23"
+    text: 想說踩下去那裡量看起來不錯
+  - id: "1550150393625845831"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:24"
+    text: 這次壓力加20點追加哈哈
+    reply:
+      id: "1550038215652540449"
+      author: Alina
+      text: 大範圍抓壓46945、交界46580、撐45955，再看看等等開在什麼位置
+      inGroup: false
+  - id: "1550150575017037876"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-17 22:24"
+    text: ""
+    images:
+      - src: /img/1550150575017037876-image.jpg
+        alt: 同組TV 2分K，紅箭頭標示第一根進場K線
+  - id: "1550150949711126643"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:26"
+    text: 既夜盤開盤抓交界筍有差，這次都加個幾十點哈哈
+    reply:
+      id: "1550071757644374107"
+      author: Alina
+      text: 與交界最近的距離可惡哈哈
+      inGroup: true
+  - id: "1550151213851611147"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:27"
+    text: 第一根，成交965
+    reply:
+      id: "1550150575017037876"
+      author: nick_AJ
+      text: ""
+      inGroup: true
+  - id: "1550151372337451070"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:28"
+    text: 我是用點位邏輯，如果後續走勢線不對就筍
+    reply:
+      id: "1550151213851611147"
+      author: Alina
+      text: 第一根，成交965
+      inGroup: true
+  - id: "1550151431590248479"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:28"
+    text: 例如站不穩壓力往下
+  - id: "1550151586016403577"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:28"
+    text: 大範圍點位比較好判斷進場跟出場
+  - id: "1550151650402897931"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:29"
+    text: 也是撐壓一關一關
+  - id: "1550151882910208032"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:30"
+    text: 今天筍完反手多也是因為位置都在交界上
+  - id: "1550151929861115955"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:30"
+    text: 往上看跟往下看風報比
+  - id: "1550151979030810777"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:30"
+    text: 就加入多軍
+  - id: "1550152187722604645"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:31"
+    text: 如果最後在交界站不穩就筍
+    reply:
+      id: "1550151882910208032"
+      author: Alina
+      text: 今天筍完反手多也是因為位置都在交界上
+      inGroup: true
+  - id: "1550152233553891361"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:31"
+    text: 就是設關鍵價通知哈哈
+  - id: "1550152285907058739"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:31"
+    text: 因為我的新光好像沒有智慧單
+  - id: "1550152504506065057"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:32"
+    text: 我也是看完後發現他沒有要再去交界的意思就筍了
+  - id: "1550153627123982550"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-17 22:37"
+    text: 看來還是要先果斷進場
+  - id: "1550153652990120087"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-17 22:37"
+    text: 再同步設損
+  - id: "1550153684762108020"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-17 22:37"
+    text: 比較能參與到
+  - id: "1550153886483095574"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:38"
+    text: 但要看當下位置
+  - id: "1550153997988397159"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:38"
+    text: 如果已經很靠近壓力離交界遠我就會保守一點
+  - id: "1550154381733658755"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-17 22:40"
+    text: YES 關鍵還是那個稱壓要判斷的準確
+    reply:
+      id: "1550153997988397159"
+      author: Alina
+      text: 如果已經很靠近壓力離交界遠我就會保守一點
+      inGroup: true
+  - id: "1550154386796445918"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:40"
+    text: 找離哪邊停損好抓的方向做
+  - id: "1550154440990789785"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 22:40"
+    text: 不然加在中間我都被巴
+quiz:
+  - q: Alina 停損出場後為什麼反手做多？
+    o:
+      - 停損後情緒不甘心，想把虧損賺回來
+      - 30 分 K 參數已經翻多，照訊號進場做多
+      - 價格已經遠離交界，追強勢比較安全
+      - 還在交界上，比較上下的風報比後加入多軍
+    a: 3
+    e: 她說「今天筍完反手多也是因為位置都在交界上」，看往上和往下的風報比才加入多軍；如果最後在交界站不穩就停損。
+  - q: nick_AJ 說要先果斷進場再同步設損，Alina 補充了什麼條件？
+    o:
+      - 要看位置，很靠近壓力、離交界遠就保守一點
+      - 一定要等 K 棒收盤確認後才能進場下單
+      - 停損要設在進場價下方固定 50 點不變
+      - 只有開盤第一根才適合果斷進場
+    a: 0
+    e: Alina 說「但要看當下位置，如果已經很靠近壓力離交界遠我就會保守一點」，要找離停損好抓的方向做，夾在中間容易被巴。

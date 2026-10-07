@@ -1,0 +1,292 @@
+slug: "1555248696797434007"
+title: 黃金交叉＋EMA200：標準型態與順勢加碼
+type: 教學
+topic: 指標設定
+tags:
+  - 指標設定
+  - 進場時機
+teacher: nick_AJ
+channel: 一般
+date: "2026-10-02"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555248696797434007
+summary: nick 整理：黃金交叉須上穿EMA200才算標準，上去後可一路做多、回踩可加碼；兩線貼近（死於盤）不做；Alina 補充在EMA200上偏多看，轉折分批停利；區間上下緣進場較好判斷；實際獲利仍需復盤。
+hidden: false
+messages:
+  - id: "1555248696797434007"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 00:03"
+    text: 目前還沒黃金交叉 整體還是稍微偏空看 但是如果能突破400就有機會回到多頭區(可搭配剛剛的推播資訊使用)
+    images:
+      - src: /img/1555248696797434007-image.jpg
+        alt: 5分K圖：尚未黃金交叉，多空交界369
+  - id: "1555248754951721153"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:03"
+    text: 對
+    reply:
+      id: "1555248696797434007"
+      author: nick_AJ
+      text: 目前還沒黃金交叉 整體還是稍微偏空看 但是如果能突破400就有機會回到多頭區(可搭配剛剛的推播資訊使用)
+      inGroup: true
+  - id: "1555248809804570655"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 00:03"
+    text: 目前多空交界在369
+    reply:
+      id: "1555248696797434007"
+      author: nick_AJ
+      text: 目前還沒黃金交叉 整體還是稍微偏空看 但是如果能突破400就有機會回到多頭區(可搭配剛剛的推播資訊使用)
+      inGroup: true
+  - id: "1555249030538203219"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:04"
+    text: 我覺得要穩點的做法就是真的交叉做
+  - id: "1555249065208582337"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:04"
+    text: 中間可以放棄
+  - id: "1555249094694535283"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:04"
+    text: 吃一段大的就夠了
+  - id: "1555249236273139813"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 00:05"
+    text: 本來交易次數就是越少期望值會越好
+  - id: "1555249240345673819"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:05"
+    text: 通常要往上碰到EMA200也會被壓制一下
+  - id: "1555249270809039022"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-02 00:05"
+    text: 一直在看黃金叉哪 可以圈起來給我這個愚者看嗎
+    reply:
+      id: "1555248696797434007"
+      author: nick_AJ
+      text: 目前還沒黃金交叉 整體還是稍微偏空看 但是如果能突破400就有機會回到多頭區(可搭配剛剛的推播資訊使用)
+      inGroup: true
+  - id: "1555250012466847794"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 00:08"
+    text: ""
+    images:
+      - src: /img/1555250012466847794-image.jpg
+        alt: 黃金交叉三種型態標示：標準／右側需穿過橘線／中間盤整難做
+  - id: "1555250274162184325"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 00:09"
+    text: 左邊黃色框框就是標準的黃金交叉 上去就可以一路做多 右邊要等他往黃色件頭上灣 穿過橘線之後 才可以說是黃金交叉 可以進場做多這樣
+  - id: "1555250399446044806"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-02 00:09"
+    text: 金色線是200ma?
+  - id: "1555250420836995146"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 00:09"
+    text: 對
+  - id: "1555250644418433098"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:10"
+    text: 那條也能視為多空分水嶺的概念
+  - id: "1555251394162729103"
+    author: Mikey
+    teacher: false
+    time: "2026-10-02 00:13"
+    text: |-
+      意思是穿越200MA的黃金交叉點順勢做勝率較高嗎？
+      好酷耶又學到一招
+  - id: "1555251827564609577"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:15"
+    text: 對，在上偏多看、在下偏空看
+    reply:
+      id: "1555251394162729103"
+      author: Mikey
+      text: 意思是穿越200MA的黃金交叉點順勢做勝率較高嗎？ 好酷耶又學到一招
+      inGroup: true
+  - id: "1555251922447892632"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:15"
+    text: 直穿那種最漂亮
+  - id: "1555252017004421131"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:16"
+    text: 像這黃圈上穿後，往下踩都可以加多
+    reply:
+      id: "1555250012466847794"
+      author: nick_AJ
+      text: ""
+      inGroup: true
+  - id: "1555252103981695071"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:16"
+    text: 輔助自己判斷現在是逆勢還是順勢
+  - id: "1555252158721425490"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:16"
+    text: 但很貼很黏不要做喔
+    reply:
+      id: "1555252099267170375"
+      author: 維尼Ni🌻
+      text: 我放進我圖了 站上無腦多
+      inGroup: false
+  - id: "1555252212345733302"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:17"
+    text: 中間那段，除非你很靈活🤣
+    reply:
+      id: "1555250012466847794"
+      author: nick_AJ
+      text: ""
+      inGroup: true
+  - id: "1555252435461869659"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:17"
+    text: 黃圈那站上，雙線離黃線都還有距離，所以過程跌都不用怕，甚至可以加，我自己是這樣做
+    reply:
+      id: "1555250012466847794"
+      author: nick_AJ
+      text: ""
+      inGroup: true
+  - id: "1555252539975409829"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:18"
+    text: 我的加碼單都是這種長相才順勢加
+  - id: "1555252629628522640"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:18"
+    text: 然後轉折你就可以分批停利
+  - id: "1555252683168948334"
+    author: Mikey
+    teacher: false
+    time: "2026-10-02 00:18"
+    text: 借用小島的圖，紅框的地方是不是藍、白線太黏就先不要做單比較安全？
+    images:
+      - src: /img/1555252683168948334-IMG_9140.jpg
+        alt: Mikey 套圖：紅框處藍白線太黏不宜做單
+  - id: "1555252856116744333"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:19"
+    text: 對，而且兩線也很黏
+    reply:
+      id: "1555252683168948334"
+      author: Mikey
+      text: 借用小島的圖，紅框的地方是不是藍、白線太黏就先不要做單比較安全？
+      inGroup: true
+  - id: "1555252928799842358"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 00:19"
+    text: 說這麼多還是回到那句 自己要去復盤你想學的策略，你知道怎麼操作是一回事，復盤有沒有獲利停損放哪又是另一回事
+  - id: "1555253024186962081"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 00:20"
+    text: 對 很難做 但是也會有人就是在裡面上下洗
+    reply:
+      id: "1555252856116744333"
+      author: Alina
+      text: 對，而且兩線也很黏
+      inGroup: true
+  - id: "1555253283482898546"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:21"
+    text: 這種時候，除非有抓出規律的區間，不然就是觀察就好
+    reply:
+      id: "1555253024186962081"
+      author: nick_AJ
+      text: 對 很難做 但是也會有人就是在裡面上下洗
+      inGroup: true
+  - id: "1555253308233486367"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 00:21"
+    text: 所以還是要看自己認為的進場點 是不是能勇敢進場 還有能不能確實的拿到獲利(真的賣才是最難的)
+  - id: "1555253441872269475"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 00:21"
+    text: 通常會是這樣 看出規律了 但是他已經三次了 這時候心裡就會想 還會第四次嗎?
+    reply:
+      id: "1555253283482898546"
+      author: Alina
+      text: 這種時候，除非有抓出規律的區間，不然就是觀察就好
+      inGroup: true
+  - id: "1555253585132920993"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:22"
+    text: 所以要抓自己知道筍的位置進
+    reply:
+      id: "1555253441872269475"
+      author: nick_AJ
+      text: 通常會是這樣 看出規律了 但是他已經三次了 這時候心裡就會想 還會第四次嗎?
+      inGroup: true
+  - id: "1555253847063273654"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:23"
+    text: 區間上下緣進比較好判斷🤣
+  - id: "1555253951543255292"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:23"
+    text: 那你可以加一條EMA200輔助
+    reply:
+      id: "1555253367431757835"
+      author: Mikey
+      text: 我只看藍白線被巴到頭掉下來了，現在不敢高估自己的智商
+      inGroup: false
+  - id: "1555254279265189942"
+    author: Mikey
+    teacher: false
+    time: "2026-10-02 00:25"
+    text: 200EMA這條線感覺我看得懂，感謝你們分享🙏🏻
+    reply:
+      id: "1555253951543255292"
+      author: Alina
+      text: 那你可以加一條EMA200輔助
+      inGroup: true
+quiz:
+  - q: 依 nick_AJ 的整理，什麼樣的黃金交叉才算標準、可以一路做多？
+    o:
+      - 兩線在 EMA200 下方交叉就算
+      - 兩線貼著 EMA200 來回糾結時交叉
+      - 交叉後往上穿過 EMA200（橘線）才算
+      - 只要 MACD 同步翻紅就算
+    a: 2
+    e: nick_AJ 說右邊那種要等往上彎、穿過橘線（EMA200）之後才能說是黃金交叉，進場做多。
+  - q: 雙線站上 EMA200 且離它還有距離時，Alina 自己怎麼處理回檔？
+    o:
+      - 回檔就先全部出場，等再站穩再進
+      - 回檔不用怕，甚至往下踩可以加多
+      - 回檔時反手做空吃一段
+      - 回檔只能觀望，不能加碼
+    a: 1
+    e: Alina 說黃圈站上後雙線離 EMA200 還有距離，過程跌都不用怕、甚至可以加；但兩線很貼很黏時不要做。

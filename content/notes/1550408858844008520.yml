@@ -1,0 +1,64 @@
+slug: "1550408858844008520"
+title: 期貨結算與週末留倉風險、凹單
+type: 分析
+topic: 程式交易
+tags:
+  - 程式交易
+  - 復盤回測
+teacher: Alina
+channel: 一般
+date: "2026-09-18"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1550408858844008520
+summary: Alina上週五留倉週一傻眼，之後週五日內結；結算週與台積除息易先殺多再嘎空；凹單在結算前糾結；大台/小台/微台部位依把握度調整。
+hidden: true
+messages:
+  - id: "1550408858844008520"
+    author: 宸
+    teacher: false
+    time: "2026-09-18 15:31"
+    text: 但完全不想留過假日XD
+  - id: "1550408917786566728"
+    author: Alina
+    teacher: true
+    time: "2026-09-18 15:31"
+    text: 上禮拜五我留倉，禮拜一傻眼
+  - id: "1550408995779379214"
+    author: Alina
+    teacher: true
+    time: "2026-09-18 15:31"
+    text: 害我這禮拜都維持日內結 XD
+  - id: "1550409034178367612"
+    author: 宸
+    teacher: false
+    time: "2026-09-18 15:31"
+    text: XD 我星期五真的都平 除非之前凹單才有可能留哈
+  - id: "1550409042202206259"
+    author: Alina
+    teacher: true
+    time: "2026-09-18 15:32"
+    text: 而且那時候一直測關鍵位真的很討厭
+  - id: "1550409470163689493"
+    author: 宸
+    teacher: false
+    time: "2026-09-18 15:33"
+    text: 主要結算加台積除息
+  - id: "1550409498676563999"
+    author: Alina
+    teacher: true
+    time: "2026-09-18 15:33"
+    text: 想到我42000那邊做空一路嘎到結算
+  - id: "1550464851929862177"
+    author: Alina
+    teacher: true
+    time: "2026-09-18 19:13"
+    text: 把握就小台加
+  - id: "1550464938361757768"
+    author: Alina
+    teacher: true
+    time: "2026-09-18 19:14"
+    text: 但我大賠也是小台，小台一直攤
+  - id: "1550464976446038127"
+    author: Alina
+    teacher: true
+    time: "2026-09-18 19:14"
+    text: 現在沒把握就微台

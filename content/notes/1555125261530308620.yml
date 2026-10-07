@@ -1,0 +1,368 @@
+slug: "1555125261530308620"
+title: 看盤週期：2分 vs 5分K、雙線＋EMA200、60分強撐位
+type: 教學
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+  - 指標設定
+teacher: Alina
+channel: 一般
+date: "2026-10-01"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555125261530308620
+summary: Shawn 習慣看2分K，進場機會多但易被洗；Alina 的三個點位（交界/撐壓）與雙線不拉回直穿就偏空；60分K大量插針代表主力守的強撐位，兩條線區間可做，區間跌破就會下到下一區間。
+hidden: false
+messages:
+  - id: "1555125261530308620"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 15:52"
+    text: 師傅，現在空方適，理論碰白我就空死他嗎
+    images:
+      - src: /img/1555125261530308620-20261001_155144.jpg
+        alt: 維尼5分K圖，問空方碰白線是否可空
+  - id: "1555129148635086939"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:08"
+    text: 你這幾分阿
+    reply:
+      id: "1555125261530308620"
+      author: 維尼Ni🌻
+      text: 師傅，現在空方適，理論碰白我就空死他嗎
+      inGroup: true
+  - id: "1555129224296136756"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:08"
+    text: 5分還沒碰白線你就要注意一點
+  - id: "1555129267669438525"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:08"
+    text: 我是都看2分所以已經進場空了
+  - id: "1555129564861042690"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:09"
+    text: ""
+    images:
+      - src: /img/1555129564861042690-IMG_3558.jpg
+        alt: Alina 的K線圖：雙線往下找EMA200偏空
+  - id: "1555129621811568684"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:09"
+    text: 雙線有要往下找ema200
+  - id: "1555129674898866217"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:10"
+    text: 偏空
+  - id: "1555129746591842409"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:10"
+    text: 看支撐給不給力
+  - id: "1555130021113503835"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:11"
+    text: 283支撐
+  - id: "1555130175933648921"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:12"
+    text: 要撐住，再往下就不好看
+    reply:
+      id: "1555130021113503835"
+      author: Alina
+      text: 283支撐
+      inGroup: true
+  - id: "1555130581074055311"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 16:13"
+    text: 我都5分，看兩分逃的比較快嗎
+    reply:
+      id: "1555129267669438525"
+      author: Shawnnnn
+      text: 我是都看2分所以已經進場空了
+      inGroup: true
+  - id: "1555130703052668939"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:14"
+    text: 看你呀~我自己習慣看2分
+  - id: "1555130726150578187"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-01 16:14"
+    text: 更新夜盤撐壓
+  - id: "1555130752205590559"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-01 16:14"
+    text: ""
+    images:
+      - src: /img/1555130752205590559-Screenshot_20261001_161349_TradingView.jpg
+        alt: 更新夜盤撐壓位的TradingView截圖
+  - id: "1555130848062345217"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:14"
+    text: 2分進場機會多 遇到洗盤你被洗的次數也多，你要有能耐遇到洗盤就盡量別進場
+  - id: "1555130960675213312"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:15"
+    text: 我慣用三個點的是這個
+    images:
+      - src: /img/1555130960675213312-IMG_3560.jpg
+        alt: 手機TV微台5分K，標示今日交界位48569與今日支撐48283，含雙線/SMC標記
+  - id: "1555131199830233091"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:16"
+    text: 但如果雙線沒有拉回直穿
+  - id: "1555131211909701675"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:16"
+    text: 就偏空喔
+  - id: "1555131242226122796"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:16"
+    text: 就是搶一個反彈
+  - id: "1555131314007576607"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:16"
+    text: 看起來要直直插下去
+    reply:
+      id: "1555130960675213312"
+      author: Alina
+      text: 我慣用三個點的是這個
+      inGroup: true
+  - id: "1555131669600542761"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:18"
+    text: 2分很適合看殺深的反彈到哪裡結束，我喜歡這種做空
+    images:
+      - src: /img/1555131669600542761-image.jpg
+        alt: Shawn 2分K做空圖：深殺後反彈結束位置
+  - id: "1555135148968906778"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:31"
+    text: 這個現行空方長相了
+  - id: "1555135300009992303"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:32"
+    text: ""
+    images:
+      - src: /img/1555135300009992303-IMG_3561.jpg
+        alt: 60分K圖：標示強撐位，大量插針
+  - id: "1555135343223640097"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:32"
+    text: 不過60分看可以注意強撐位
+  - id: "1555135383875100743"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:32"
+    text: 就是一堆插針的那個
+  - id: "1555135561830895687"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:33"
+    text: 要多可以在那個位置
+    reply:
+      id: "1555135343223640097"
+      author: Alina
+      text: 不過60分看可以注意強撐位
+      inGroup: true
+  - id: "1555135685567057981"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:34"
+    text: 空方成本不美麗的可能也要小心，怕又有一根拉上去那種情況
+  - id: "1555135765342589011"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:34"
+    text: 邏輯要守啦
+    reply:
+      id: "1555135300009992303"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1555136599019491459"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:37"
+    text: 現在看起來就在那區間上下等突破
+    reply:
+      id: "1555135300009992303"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1555136756880506923"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:38"
+    text: 我打到線就平倉🤣
+  - id: "1555136842217816135"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:38"
+    text: 除非一根大紅k拉上去
+  - id: "1555136919518580758"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:38"
+    text: 但4小時是順勢笑死
+    images:
+      - src: /img/1555136919518580758-image.jpg
+        alt: 4小時線仍為順勢的圖
+  - id: "1555137123663749172"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:39"
+    text: ""
+    images:
+      - src: /img/1555137123663749172-IMG_3562.jpg
+        alt: 60分K圖：多處插針代表主力守撐
+  - id: "1555137180891091014"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:39"
+    text: 這邊你有看到很多插針嗎
+  - id: "1555137206086139959"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:40"
+    text: 表示主力有要守
+  - id: "1555137230471700503"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:40"
+    text: 無形的手撐
+  - id: "1555137262834950215"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 16:40"
+    text: 有 ，謝謝教學
+  - id: "1555137291196825693"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:40"
+    text: 上面頭頂無形的手壓
+  - id: "1555137303226228767"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 16:40"
+    text: 那47800也是嗎
+  - id: "1555137356376580259"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:40"
+    text: 兩條線區間可以做
+  - id: "1555137504141647966"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 16:41"
+    text: 原來看60分k，學到了，47800和48263呀
+    reply:
+      id: "1555137206086139959"
+      author: Alina
+      text: 表示主力有要守
+      inGroup: true
+  - id: "1555138150471569479"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:43"
+    text: 底大概在48200、高就485xx那
+    reply:
+      id: "1555137504141647966"
+      author: 維尼Ni🌻
+      text: 原來看60分k，學到了，47800和48263呀
+      inGroup: true
+  - id: "1555138178342592615"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:43"
+    text: 今天就有突破高
+  - id: "1555138199041474666"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:43"
+    text: 只是還沒穩定
+  - id: "1555138227999080499"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:44"
+    text: 所以回踩也還健康
+  - id: "1555138302036938843"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:44"
+    text: 所以破200沒收針就醜掉了
+    reply:
+      id: "1555138150471569479"
+      author: Alina
+      text: 底大概在48200、高就485xx那
+      inGroup: true
+  - id: "1555138473625657374"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:45"
+    text: 你就看兩個大區間上面那區間跌破基本上就很醜，可能要下去整理更久，除非有事件不然需要時間
+    images:
+      - src: /img/1555138473625657374-image.jpg
+        alt: 兩個大區間框，上方區間跌破則偏弱
+  - id: "1555138487332769945"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:45"
+    text: 就會跑下去那個區間
+    reply:
+      id: "1555137123663749172"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1555138510535532615"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:45"
+    text: 沒錯👍🏼
+    reply:
+      id: "1555138473625657374"
+      author: Shawnnnn
+      text: 你就看兩個大區間上面那區間跌破基本上就很醜，可能要下去整理更久，除非有事件不然需要時間
+      inGroup: true
+  - id: "1555138547432820808"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:45"
+    text: 畫框框
+quiz:
+  - q: Shawnnnn 說看 2 分 K 的優缺點是？
+    o:
+      - 訊號比較少但比較準
+      - 適合抱波段，不適合當沖
+      - 進場機會多，但遇到洗盤被洗的次數也多
+      - 跟 5 分 K 差不多，只是習慣問題
+    a: 2
+    e: Shawnnnn 說 2 分進場機會多，遇到洗盤被洗的次數也多，要有能耐遇到洗盤盡量別進場。
+  - q: Alina 在 60 分 K 上怎麼找強撐位？
+    o:
+      - 找一堆插針的位置，表示主力有要守
+      - 找成交量最小的 K 棒
+      - 找 EMA200 與價格最近的點
+      - 找連續三根紅 K 的起點
+    a: 0
+    e: Alina 說 60 分 K 一堆插針的位置是強撐位，表示主力有要守，要多可以在那個位置。

@@ -1,0 +1,120 @@
+slug: "1557246524910469191"
+title: 中午急殺不算賣壓重
+type: 分析
+topic: 盤勢判讀
+tags:
+  - 盤勢判讀
+  - 盤整震盪
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-07"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1557246524910469191
+summary: 10/7 中午期貨急殺，Shawnnnn 判斷這不算賣壓重，比較像是部分獲利出場；看下殺的量，後面還有機會再噴。剛漲完一段本來就需要整理，可以重新等好位置，市場沒有一定，都只是機率。
+hidden: false
+messages:
+  - id: "1557246524910469191"
+    author: Annahui
+    teacher: false
+    time: "2026-10-07 12:21"
+    text: 這中午賣壓嗎
+  - id: "1557246532871389197"
+    author: Annahui
+    teacher: false
+    time: "2026-10-07 12:21"
+    text: 好扯
+  - id: "1557246879320776795"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-07 12:23"
+    text: 你說個股嗎
+    reply:
+      id: "1557246524910469191"
+      author: Annahui
+      text: 這中午賣壓嗎
+      inGroup: true
+  - id: "1557247996423442525"
+    author: Annahui
+    teacher: false
+    time: "2026-10-07 12:27"
+    text: 期貨啊
+    reply:
+      id: "1557246879320776795"
+      author: Shawnnnn
+      text: 你說個股嗎
+      inGroup: true
+  - id: "1557248285021044747"
+    author: Annahui
+    teacher: false
+    time: "2026-10-07 12:28"
+    text: |-
+      嘿呀 本來想說可以去150
+      結果
+    reply:
+      id: "1557248100593041409"
+      author: Mikey
+      text: 上班族無腦多才對
+      inGroup: false
+  - id: "1557248330139172985"
+    author: Annahui
+    teacher: false
+    time: "2026-10-07 12:28"
+    text: 一個速度被打保本
+  - id: "1557248454973980764"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-07 12:29"
+    text: 期貨這樣不算賣壓重的
+    reply:
+      id: "1557247996423442525"
+      author: Annahui
+      text: 期貨啊
+      inGroup: true
+  - id: "1557248603465064521"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-07 12:29"
+    text: 我是覺得可以理解成部份出場獲利
+  - id: "1557248694926057546"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-07 12:30"
+    text: 這種下來的量感覺還有機會噴
+  - id: "1557248946215067713"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-07 12:31"
+    text: 就觀察看看吧~市場沒有一定
+  - id: "1557248957015662623"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-07 12:31"
+    text: 都只是機率
+  - id: "1557249006843723858"
+    author: Annahui
+    teacher: false
+    time: "2026-10-07 12:31"
+    text: 重新再等
+  - id: "1557249064989491202"
+    author: Annahui
+    teacher: false
+    time: "2026-10-07 12:31"
+    text: 等看看有沒有好位置
+  - id: "1557249145155096667"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-07 12:32"
+    text: 對~現在就要整理一下
+  - id: "1557249192047550477"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-07 12:32"
+    text: 因為剛剛已經噴一段了
+quiz:
+  - q: 中午期貨急殺，Shawnnnn 為什麼判斷不算賣壓重？
+    o:
+      - 因為價格還在 EMA200 之上沒跌破
+      - 因為法人當天在現貨是買超的
+      - 因為跌幅沒有超過 100 點的門檻
+      - 看下殺量像部分獲利出場，後面還有機會噴
+    a: 3
+    e: Shawnnnn 說可以理解成部分出場獲利，這種下來的量感覺還有機會噴；剛噴一段本來就要整理。

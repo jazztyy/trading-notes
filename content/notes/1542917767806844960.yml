@@ -1,0 +1,89 @@
+slug: "1542917767806844960"
+title: 程式訊號與手動進場位置比較
+type: 提問
+topic: 進場時機
+tags:
+  - 進場時機
+  - 程式交易
+teacher: nick_AJ
+channel: 一般
+date: "2026-08-28"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1542917767806844960
+summary: YOU詢問下引線多時停損是否要收緊，Shawnnnn示範可拉到某處；nick_AJ比對程式sell訊號與Shawnnnn白線進場位置相同；倉位最左邊才是建倉位置。
+hidden: false
+messages:
+  - id: "1542917767806844960"
+    author: YOU
+    teacher: false
+    time: "2026-08-28 23:24"
+    text: 這邊打了蠻多的下引線 止損會建議在抓緊一點嗎
+  - id: "1542918009142640680"
+    author: YOU
+    teacher: false
+    time: "2026-08-28 23:25"
+    text: 做空的話 (沒單哈哈~ 還在學習)
+  - id: "1542918219965272104"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:26"
+    text: 我可能會想要拉到這
+    images:
+      - src: /img/1542918219965272104-image.jpg
+        alt: K線圖：停損可拉到的位置
+  - id: "1542918461611704484"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 23:27"
+    text: 肖恩大是在箭頭sell那個位置進空單嗎
+  - id: "1542918703153160253"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 23:28"
+    text: 倉位最左邊那個才是建倉位置
+    reply:
+      id: "1542918461611704484"
+      author: nick_AJ
+      text: 肖恩大是在箭頭sell那個位置進空單嗎
+      inGroup: true
+  - id: "1542918738301558875"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 23:28"
+    text: sell那個是程式訊號
+  - id: "1542918885915758712"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 23:28"
+    text: 了解 肖恩大的進單位置跟我程式進場的位置依樣XD
+  - id: "1542918908569452635"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:28"
+    text: 白線地方才是我進場位置
+    reply:
+      id: "1542918461611704484"
+      author: nick_AJ
+      text: 肖恩大是在箭頭sell那個位置進空單嗎
+      inGroup: true
+  - id: "1542918988118630521"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 23:29"
+    text: ""
+    images:
+      - src: /img/1542918988118630521-image.jpg
+        alt: K線圖：程式訊號與進場位置，紫色箭頭標示
+  - id: "1542919319535620229"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 23:30"
+    text: 依樣的位置
+quiz:
+  - q: nick_AJ 問 Shawnnnn 是否在箭頭 sell 的位置進空單，得到的回答是？
+    o:
+      - 是，sell 箭頭就是 Shawnnnn 的進場點
+      - sell 是程式訊號，Shawnnnn 的進場位置在白線
+      - sell 是停損位置，進場在藍線
+      - Shawnnnn 是在 EMA25 追空進場
+    a: 1
+    e: ROCH 說 sell 是程式訊號、倉位最左邊才是建倉位置；Shawnnnn 說白線的地方才是他的進場位置。

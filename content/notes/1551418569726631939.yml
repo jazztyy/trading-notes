@@ -1,0 +1,68 @@
+slug: "1551418569726631939"
+title: 跟H大單與低勝率心態、程式單
+type: 分析
+topic: 交易心態
+tags:
+  - 交易心態
+  - 程式交易
+teacher: nick_AJ
+channel: 一般
+date: "2026-09-21"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551418569726631939
+summary: Mikey跟H大單失敗後錯過大單；nick說信任策略要堅持；用程式單遵守紀律，就算賠也是小賠。
+hidden: false
+messages:
+  - id: "1551418569726631939"
+    author: Mikey
+    teacher: false
+    time: "2026-09-21 10:23"
+    text: H大，剛好他誤判的時候跟到，跟單失敗我就去做別的事情轉換心情，然後就錯過他後面喊的大單🤣
+    reply:
+      id: "1551417913368379474"
+      author: Shawnnnn
+      text: 跟誰單XD
+      inGroup: false
+  - id: "1551418652505546813"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-21 10:23"
+    text: 畢竟沒有人勝率100%但他勝率還真的挺高
+    reply:
+      id: "1551418569726631939"
+      author: Mikey
+      text: H大，剛好他誤判的時候跟到，跟單失敗我就去做別的事情轉換心情，然後就錯過他後面喊的大單🤣
+      inGroup: true
+  - id: "1551418794155581441"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-21 10:24"
+    text: 就是跟我們自己寫的程式一樣吧 哈哈哈
+  - id: "1551418888854446171"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-21 10:24"
+    text: 要相信就要堅持信 😆 不然就會一直被扒來吧去
+  - id: "1551608094872838326"
+    author: "99"
+    teacher: false
+    time: "2026-09-21 22:56"
+    text: 沒事 現在有程式單
+  - id: "1551608126787158117"
+    author: "99"
+    teacher: false
+    time: "2026-09-21 22:56"
+    text: 嚴格遵守紀律
+  - id: "1551608175558660118"
+    author: "99"
+    teacher: false
+    time: "2026-09-21 22:56"
+    text: 就算賠也是小賠
+quiz:
+  - q: Mikey 跟單剛好遇到誤判、之後錯過大單，nick_AJ 怎麼看？
+    o:
+      - 跟單本來就不可靠，誤判一次就該改回靠自己判斷
+      - 沒人勝率 100%，要信就堅持，不然會被扒來扒去
+      - 誤判後應該立刻停止，改跟勝率更高的人的單
+      - 應該等對方連續喊對好幾次，確認穩定再跟
+    a: 1
+    e: nick_AJ 說沒人勝率 100%，就像自己寫的程式一樣，「要相信就要堅持信，不然就會一直被扒來扒去」。

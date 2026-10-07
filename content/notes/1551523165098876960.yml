@@ -1,0 +1,109 @@
+slug: "1551523165098876960"
+title: 死貓跳、均線糾結季線下彎與個股形態
+type: 分析
+topic: 盤勢判讀
+tags:
+  - 盤勢判讀
+teacher: Alina
+channel: 一般
+date: "2026-09-21"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551523165098876960
+summary: Alina看載板股形態均線糾結、季線下彎，等死貓跳一根拉季線；聯電磨完大量區；Shawn問死貓跳型態是否為尾巴一大根。
+hidden: false
+messages:
+  - id: "1551523165098876960"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 17:19"
+    text: 現在這個位階好防守
+    reply:
+      id: "1551523062753529918"
+      author: Alina
+      text: 我還買國巨欸 XDDDD
+      inGroup: false
+  - id: "1551523228088926219"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 17:19"
+    text: 均線糾結，季線下彎，應該要來一根才對
+  - id: "1551601290545602665"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 22:29"
+    text: ""
+    images:
+      - src: /img/1551601290545602665-IMG_2924.jpg
+        alt: 個股日K：載板股均線糾結、季線下彎的形態
+  - id: "1551601315988242563"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 22:29"
+    text: 這形態感覺等死貓跳一根
+  - id: "1551601741416505375"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 22:31"
+    text: 死貓跳是這樣尾巴一大根的意思嗎
+    images:
+      - src: /img/1551601741416505375-image.jpg
+        alt: Shawn貼出的K線圖：問死貓跳型態
+  - id: "1551601851991072879"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 22:31"
+    text: 進去蹲等他翹尾巴
+  - id: "1551601921863852074"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 22:32"
+    text: 均線糾結好防守
+  - id: "1551601989958504449"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 22:32"
+    text: 至少一根去拉一下季線
+  - id: "1551602104580309002"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 22:32"
+    text: ""
+    images:
+      - src: /img/1551602104580309002-IMG_2923.jpg
+        alt: 聯電K線圖：大量區已磨完
+  - id: "1551602154740129805"
+    author: Alina
+    teacher: true
+    time: "2026-09-21 22:33"
+    text: 聯電也是磨完大量區了
+  - id: "1551605166011322516"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-21 22:44"
+    text: 現在就想無腦多了。等什麼160
+    reply:
+      id: "1551602104580309002"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1551608924313092238"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 22:59"
+    text: ""
+    images:
+      - src: /img/1551608924313092238-1280.jpg
+        alt: Shawn貼出用於複習的K線型態圖
+  - id: "1551608940981125181"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-21 22:59"
+    text: 來這張圖復習
+quiz:
+  - q: Alina 為什麼覺得載板股現在這個位階好防守？
+    o:
+      - 因為已經跌破季線，下檔空間有限不怕跌
+      - 因為成交量創新高，代表有主力進駐
+      - 因為均線糾結，進去蹲等它翹尾巴拉季線
+      - 因為法人連續買超，籌碼面相對安定
+    a: 2
+    e: 她說「均線糾結好防守」，形態上季線下彎、等死貓跳一根，至少拉一下季線。

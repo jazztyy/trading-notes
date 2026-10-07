@@ -1,0 +1,42 @@
+slug: "1556933259915694084"
+title: 10/6 夜盤九大點位撐壓
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+teacher: nick_AJ
+channel: 一般
+date: "2026-10-06"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1556933259915694084
+summary: nick_AJ 貼出 10/6 夜盤撐壓表（日盤 H/L/C 50194/49720/50060）：H1 50263、多空交界 50006、L1 49789、跳水位 49705；依夜盤即時值算的第一壓力在 50151（盤中說第一壓看 263），晚上回頭看覺得點位有參考價值。
+hidden: false
+messages:
+  - id: "1556933259915694084"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-06 15:36"
+    text: 更新夜盤撐壓
+    images:
+      - src: /img/1556933259915694084-Screenshot_20261006_153625_TradingView.jpg
+        alt: 台指期 5 分 K 加九大點位表：本盤 H1 50263、多空交界 50006、L1 49789、跳水位 49705，另列夜盤即時點位
+  - id: "1556935728150351913"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-06 15:46"
+    text: 昨天忙著打電動忘了傳😂
+  - id: "1556935903237378049"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-06 15:47"
+    text: 第一壓看263
+  - id: "1557007199694225518"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-06 20:30"
+    text: 還是有料🫡
+    reply:
+      id: "1556935903237378049"
+      author: nick_AJ
+      text: 第一壓看263
+      inGroup: true
+quiz: []

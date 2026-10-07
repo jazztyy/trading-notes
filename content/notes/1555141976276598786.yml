@@ -1,0 +1,253 @@
+slug: "1555141976276598786"
+title: 多單被壓制與 30分/1小時線判斷
+type: 分析
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+  - 指標設定
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-01"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555141976276598786
+summary: Shawn 說多單被30M/1小時線壓制不要亂多，MACD色塊判斷歧異；多指標易互相打架，建議先看兩條線，沒穩寧可空手；每人選自己順手的方法。
+hidden: false
+messages:
+  - id: "1555141976276598786"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:59"
+    text: 有多單的就要注意，現在就是有被壓制住
+    images:
+      - src: /img/1555141976276598786-image.jpg
+        alt: K線圖：多單被壓制的位置
+  - id: "1555142088017051699"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:59"
+    text: 要提早獲利沒問題要繼續等也沒問題，看你自己怎樣舒服
+  - id: "1555142211673264209"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 16:59"
+    text: 我看MACD轉綠想多了
+    reply:
+      id: "1555141976276598786"
+      author: Shawnnnn
+      text: 有多單的就要注意，現在就是有被壓制住
+      inGroup: true
+  - id: "1555142393412718613"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 17:00"
+    text: 轉綠是多嗎🤔
+  - id: "1555142399502843985"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:00"
+    text: 你可以試試看，你的MACD也會有贏的時候
+  - id: "1555142474593206343"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:00"
+    text: 不知道她綠色是漲多跌
+    reply:
+      id: "1555142393412718613"
+      author: Alina
+      text: 轉綠是多嗎🤔
+      inGroup: true
+  - id: "1555142517778026537"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 17:01"
+    text: 我的轉綠是多
+  - id: "1555142724213149827"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 17:01"
+    text: 但我看還在零軸下，算是反彈多
+  - id: "1555142834963615765"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:02"
+    text: 現在還是被壓制住呀不要亂多
+  - id: "1555142848343449621"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:02"
+    text: 是我我不會多
+  - id: "1555142879238950925"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:02"
+    text: 還有一個均價
+  - id: "1555143698096980059"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 17:05"
+    text: 那個壓制我不太懂 要站上藍線嗎
+    reply:
+      id: "1555142834963615765"
+      author: Shawnnnn
+      text: 現在還是被壓制住呀不要亂多
+      inGroup: true
+  - id: "1555144047633502321"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 17:07"
+    text: 就是他要突破，要多嘗試幾次
+    reply:
+      id: "1555143698096980059"
+      author: 維尼Ni🌻
+      text: 那個壓制我不太懂 要站上藍線嗎
+      inGroup: true
+  - id: "1555144053920628758"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:07"
+    text: 就是看30M或1小時的線
+    reply:
+      id: "1555143698096980059"
+      author: 維尼Ni🌻
+      text: 那個壓制我不太懂 要站上藍線嗎
+      inGroup: true
+    images:
+      - src: /img/1555144053920628758-image.jpg
+        alt: 30分/1小時線壓制示意圖
+  - id: "1555144268455219261"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:08"
+    text: 我還是覺得你看太多東西會亂掉
+  - id: "1555144584588169227"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:09"
+    text: 我還沒穩定的狀況下不可能同時看布林又看均線壓力又看MACD又看兩條線又看裸K
+  - id: "1555144847713640460"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 17:10"
+    text: 對，因為有時候策略會打架
+    reply:
+      id: "1555144584588169227"
+      author: Shawnnnn
+      text: 我還沒穩定的狀況下不可能同時看布林又看均線壓力又看MACD又看兩條線又看裸K
+      inGroup: true
+  - id: "1555144900541161474"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 17:10"
+    text: ""
+    images:
+      - src: /img/1555144900541161474-20261001_171027.jpg
+        alt: 維尼站上藍線但白線未上的圖
+  - id: "1555144911278309387"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 17:10"
+    text: 不是每個時候都會是每一個策略剛剛都都符合
+  - id: "1555144960423239733"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 17:10"
+    text: 如果都符合就是無腦做下去就對了
+  - id: "1555145095957708841"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 17:11"
+    text: 像這樣 是能接還是不能  目前站上藍線，但白線還沒上去
+  - id: "1555145262794674207"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 17:12"
+    text: 穩一點的話要等白線上去是嗎
+  - id: "1555145370852528203"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:12"
+    text: 你現在圖上有布林有兩條線你要用哪一個?
+  - id: "1555145549114511412"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-01 17:13"
+    text: 精準卡到跳水線就回彈
+    images:
+      - src: /img/1555145549114511412-Screenshot_20261001_171220_TradingView.jpg
+        alt: TV截圖：精準卡到跳水線回彈，均線糾結
+  - id: "1555145682778726462"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:13"
+    text: 靠夭喔哈哈哈哈沒有什麼穩不穩，只有你自己知道穩不穩
+    reply:
+      id: "1555145527606378518"
+      author: 維尼Ni🌻
+      text: 穩的那個。哈哈哈哈
+      inGroup: false
+  - id: "1555145711887056997"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 17:13"
+    text: 先別管布林，先看兩線就是暫時別接嗎
+  - id: "1555145822054780951"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:14"
+    text: 一定有人覺得我分享的兩條線很糞他操作就是虧錢，也一定有人操作起來是賺錢的
+  - id: "1555145864086036481"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:14"
+    text: 你要看你自己操作起來哪個舒服
+  - id: "1555145968184205405"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:14"
+    text: 對阿目前5分當然不能接呀
+    reply:
+      id: "1555145711887056997"
+      author: 維尼Ni🌻
+      text: 先別管布林，先看兩線就是暫時別接嗎
+      inGroup: true
+  - id: "1555146145209258046"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-01 17:15"
+    text: 另外看這些線目前糾結中 確實也不適合進去
+    reply:
+      id: "1555145549114511412"
+      author: nick_AJ
+      text: 精準卡到跳水線就回彈
+      inGroup: true
+  - id: "1555146173378068522"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 17:15"
+    text: 了解，兩條線邏輯是沒穩前寧可空手，站上再進
+  - id: "1555146588366839821"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:17"
+    text: 現在5分K兩條都還很靠近
+    reply:
+      id: "1555146173378068522"
+      author: 維尼Ni🌻
+      text: 了解，兩條線邏輯是沒穩前寧可空手，站上再進
+      inGroup: true
+quiz:
+  - q: 維尼看到 MACD 轉綠想做多，但 Shawnnnn 判斷多單「被壓制」時是看什麼？
+    o:
+      - 5 分 K 的 MACD 是否在零軸之上
+      - 布林通道上軌有沒有被突破
+      - 30 分或 1 小時的線有沒有壓在上方
+      - 當天均價線和開盤價的距離
+    a: 2
+    e: Shawnnnn 說壓制「就是看 30M 或 1 小時的線」，被壓住時不要亂多；MACD 顏色多空大家定義還不一樣。
+  - q: 對於同時看布林、均線壓力、MACD、兩條線和裸 K，Shawnnnn 的看法是？
+    o:
+      - 指標越多越能互相確認，勝率會越高
+      - 還沒穩定前不要同時看那麼多，先選順手的
+      - 只要 MACD 和兩條線同向就可以無腦進場
+      - 新手應該先學布林，再慢慢加入其他指標
+    a: 1
+    e: Shawnnnn 說還沒穩定前不可能同時看那麼多，Alina 也補充策略會互相打架；要選自己操作起來舒服的方法。

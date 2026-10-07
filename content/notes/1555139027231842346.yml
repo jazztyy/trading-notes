@@ -1,0 +1,89 @@
+slug: "1555139027231842346"
+title: 區間突破路徑與 60MA 支撐壓力
+type: 教學
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 多週期判斷
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-01"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555139027231842346
+summary: Shawn 畫出新區間的可能走法（黃線新區間、橘線回踩前高壓力測試後續噴），並建議看60分K的60MA作大支撐壓力，疊加水平線可信度更高。
+hidden: false
+messages:
+  - id: "1555139027231842346"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:47"
+    text: 相同你可以去想一下未來的走勢，如果下次有多一個區間你就知道怎麼做了，黃線就是新的區間，橘色線有可能是上去之後回踩前高壓力測試後繼續噴
+    images:
+      - src: /img/1555139027231842346-image.jpg
+        alt: 微台1小時圖：多個區間框與預期走勢路徑，前壓48918
+  - id: "1555140097538789417"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 16:51"
+    text: 這個好難...我連進場位都還沒摸清
+    reply:
+      id: "1555139027231842346"
+      author: Shawnnnn
+      text: 相同你可以去想一下未來的走勢，如果下次有多一個區間你就知道怎麼做了，黃線就是新的區間，橘色線有可能是上去之後回踩前高壓力
+      inGroup: true
+  - id: "1555140247011196949"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:52"
+    text: 那你也可以看大家常看的60分K的60MA
+  - id: "1555140364749246465"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 16:52"
+    text: 通常會是大支撐點位嗎
+    reply:
+      id: "1555140247011196949"
+      author: Shawnnnn
+      text: 那你也可以看大家常看的60分K的60MA
+      inGroup: true
+  - id: "1555140483997761548"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 16:53"
+    text: 60分可以參考，畢竟大級別
+  - id: "1555140853163499540"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:54"
+    text: ""
+    images:
+      - src: /img/1555140853163499540-image.jpg
+        alt: 60MA與橘色支撐壓力線示意圖
+  - id: "1555140883513479249"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:54"
+    text: 這樣看得懂嗎
+  - id: "1555140940643967047"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:54"
+    text: 橘色線是支撐壓力的地方
+  - id: "1555141134127464499"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:55"
+    text: 單純看黃色線(60MA)沒問題，我多畫橘色線出來是又再更加強支撐/壓力了
+  - id: "1555141202721120299"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 16:55"
+    text: 可信度會再+++
+quiz:
+  - q: Shawnnnn 看 60 分 K 的 60MA 當支撐壓力時，為什麼又多畫橘色水平線？
+    o:
+      - 因為 60MA 在 60 分 K 不準
+      - 橘色線是停利目標
+      - 用來取代 60MA
+      - 60MA 再疊上支撐壓力水平線，可信度更高
+    a: 3
+    e: Shawnnnn 說單看 60MA 沒問題，多畫橘色支撐壓力線是再加強支撐／壓力，可信度更高。

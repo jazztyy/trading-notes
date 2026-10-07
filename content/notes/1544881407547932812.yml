@@ -1,0 +1,82 @@
+slug: "1544881407547932812"
+title: 找適用週期、2分碰綠線與兩線乖離
+type: 教學
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+  - 進場時機
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-03"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544881407547932812
+summary: Shawnnnn問當天開盤一小時哪個週期適用；2分K碰綠線勝率較好；兩條線太開(乖離過大)要等；連續做對不要膨脹，做好停損；7K配合帝王訊號且線沒交叉上彎。
+hidden: false
+messages:
+  - id: "1544881407547932812"
+    author: ROCH
+    teacher: false
+    time: "2026-09-03 09:27"
+    text: 我剛才也在那邊想空，但是想說等等哈哈哈
+  - id: "1544888803225768018"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 09:56"
+    text: 但要提醒有時候連續做對就不要膨脹了，還是要做好停損🤣 不要把獲利一下就輸完
+  - id: "1544891420442230806"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 10:06"
+    text: 不管當天有沒有進單的人，開盤一小時觀察什麼周期比較好適用
+  - id: "1544891507331436545"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 10:07"
+    text: 來大家說說看目前比較好適用的是哪幾個
+  - id: "1544892338805940334"
+    author: Annahui
+    teacher: false
+    time: "2026-09-03 10:10"
+    text: |-
+      7k 
+      我早上的320空點 剛好是搭配帝王的出訊號
+      再加上 線也沒有要交叉上彎
+  - id: "1544892714049339461"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 10:12"
+    text: 今天2分K碰綠線做的勝率會比較好
+    reply:
+      id: "1544892095913791632"
+      author: Doobe
+      text: 2分k這根算嗎
+      inGroup: false
+  - id: "1544893120703893575"
+    author: Annahui
+    teacher: false
+    time: "2026-09-03 10:13"
+    text: |-
+      我有觀察到兩條線 如果太開
+      （乖離過大？
+      反而要等等
+    reply:
+      id: "1544892095913791632"
+      author: Doobe
+      text: 2分k這根算嗎
+      inGroup: false
+quiz:
+  - q: "Shawnnnn 要大家在開盤一小時做什麼？"
+    o:
+      - "觀察什麼週期比較適用"
+      - "不看盤，等一小時後再進場"
+      - "盡量多進幾單抓手感"
+      - "只看日K決定今天多空"
+    a: 0
+    e: "他說不管當天有沒有進單，開盤一小時觀察什麼週期比較好適用。"
+  - q: "連續做對幾單之後，Shawnnnn 提醒什麼？"
+    o:
+      - "趁手氣好加大口數"
+      - "當天就該收手不再交易"
+      - "可以把停損放寬讓獲利跑"
+      - "不要膨脹，還是要做好停損"
+    a: 3
+    e: "Shawnnnn 提醒連續做對不要膨脹，還是要做好停損，不要把獲利一下就輸完。"

@@ -1,0 +1,111 @@
+slug: "1555401041003155517"
+title: 10/02 日夜盤撐壓點位
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 盤勢判讀
+teacher: nick_AJ
+channel: 一般
+date: "2026-10-02"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555401041003155517
+summary: nick_AJ 10/02 照撐壓做單：早盤突破後壓力看793、多空分界看688；15:05更新夜盤撐壓（日盤H2擴張壓力48978、H1 48825、多空交界48653、L1 48495），夜盤果然觸及48978。nick_AJ表示推播機器人夜盤算法怪怪的，夜盤改手動貼點位。
+hidden: false
+messages:
+  - id: "1555401041003155517"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 10:08"
+    text: 今天跟著撐壓做
+  - id: "1555401155692077127"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 10:08"
+    text: 無腦做蠻好的
+  - id: "1555403260897271820"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 10:17"
+    text: 突破惹
+  - id: "1555403365553410169"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 10:17"
+    text: 壓力看793
+  - id: "1555428199993974845"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 11:56"
+    text: 目前可看688 多空分界
+  - id: "1555475886252490763"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 15:05"
+    text: ""
+    images:
+      - src: /img/1555475886252490763-Screenshot_20261002_150514_TradingView.jpg
+        alt: 台指期5分K九大點位表：本盤H3 49155、H2 48978、H1 48825、多空交界48653、L1 48495、跳水位48424
+  - id: "1555475947271102546"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 15:06"
+    text: 更新夜盤撐壓
+  - id: "1555502996006240257"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-02 16:53"
+    text: 48978到了 超扯！
+    reply:
+      id: "1555475886252490763"
+      author: nick_AJ
+      text: ""
+      inGroup: true
+  - id: "1555503179897110600"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-02 16:54"
+    text: 你的怎比機器人準
+    reply:
+      id: "1555475886252490763"
+      author: nick_AJ
+      text: ""
+      inGroup: true
+  - id: "1555503504544759818"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 16:55"
+    text: 機器人夜盤都怪怪的
+  - id: "1555503569409544289"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 16:55"
+    text: 所以夜盤我都手動貼
+  - id: "1555503641962750006"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 16:56"
+    text: 對 但機器人就是我那個推播的
+  - id: "1555503673701048381"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 16:56"
+    text: 暫時不知道為啥怪怪的
+  - id: "1555504386384601109"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 16:59"
+    text: 對 直接突破壓力
+  - id: "1555504424766668872"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 16:59"
+    text: 還好有留多單
+quiz:
+  - q: nick_AJ 說推播機器人在夜盤的撐壓有什麼狀況、他怎麼處理？
+    o:
+      - 夜盤比日盤準，所以只看機器人
+      - 夜盤不需要撐壓，只看日盤點位
+      - 夜盤算法怪怪的，所以夜盤他改手動貼點位
+      - 夜盤點位要自己往上加 100 點修正
+    a: 2
+    e: nick_AJ 說「機器人夜盤都怪怪的，所以夜盤我都手動貼」。

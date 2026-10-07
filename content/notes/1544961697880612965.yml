@@ -1,0 +1,150 @@
+slug: "1544961697880612965"
+title: 下單軟體智慧單(停損停利)與期貨商介面比較
+type: 教學
+topic: 下單工具
+tags:
+  - 下單工具
+  - 停損停利
+teacher: nick_AJ
+channel: 一般
+date: "2026-09-03"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544961697880612965
+summary: nick_AJ 推薦富邦/台新手機下單內建的停損停利智慧單：下單後直接輸入止盈止損點位即可離開畫面；TV 本身沒有內建固定停損點數，需自己寫在策略內（如帝王策略已寫入固定停損與滑價機制）；上班族白天多用手機，每家期貨商有多種軟體要找好用的。
+hidden: true
+messages:
+  - id: "1544961697880612965"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 14:46"
+    text: 你們的下單程式不能馬上設智慧單嗎
+  - id: "1544961798703415378"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 14:46"
+    text: 目前我知道台新跟富邦的可以 應該說比較好用
+  - id: "1544961829850062928"
+    author: ROCH
+    teacher: false
+    time: "2026-09-03 14:46"
+    text: ""
+    images:
+      - src: /img/1544961829850062928-2026-09-03_144628.jpg
+        alt: ROCH 統一期貨電腦版下單介面截圖
+  - id: "1544961870522359888"
+    author: ROCH
+    teacher: false
+    time: "2026-09-03 14:46"
+    text: 我的統一電腦版長左右
+  - id: "1544962185053208666"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 14:48"
+    text: ""
+    images:
+      - src: /img/1544962185053208666-Screenshot_20260903_144759_20.jpg
+        alt: 富邦期貨手機『停損停利』智慧單畫面：輸入止盈45836、止損45821、口數1
+  - id: "1544962195782377482"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 14:48"
+    text: 這個
+  - id: "1544962291643056238"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 14:48"
+    text: 我覺得很好用下單完馬上就把點位打一打就可以離開畫面不管他了
+  - id: "1544962354553552906"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 14:48"
+    text: 用習慣之後沒有這個都很不會下單
+  - id: "1544962770506747925"
+    author: ROCH
+    teacher: false
+    time: "2026-09-03 14:50"
+    text: tv建倉有固定停損點數這個設置嗎·~
+  - id: "1544962890392412162"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 14:50"
+    text: 八弟說的TV是說程式上嗎還是你的下單軟體
+  - id: "1544962947707703297"
+    author: ROCH
+    teacher: false
+    time: "2026-09-03 14:51"
+    text: TV·
+  - id: "1544963017559773224"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 14:51"
+    text: TV可以寫
+  - id: "1544963051701141535"
+    author: ROCH
+    teacher: false
+    time: "2026-09-03 14:51"
+    text: 哈哈哈好像沒內建的
+  - id: "1544963060232360006"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 14:51"
+    text: 像我有把帝王的就是有寫成固定停損
+  - id: "1544963087973752862"
+    author: Jessie
+    teacher: false
+    time: "2026-09-03 14:51"
+    text: 台新期也是這樣嗎
+  - id: "1544963118499897345"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 14:51"
+    text: 還有補上滑價的一些機制
+  - id: "1544963171104591932"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 14:52"
+    text: 對台新也有這個介面
+    reply:
+      id: "1544963087973752862"
+      author: Jessie
+      text: 台新期也是這樣嗎
+      inGroup: true
+  - id: "1544963190260109353"
+    author: Jessie
+    teacher: false
+    time: "2026-09-03 14:52"
+    text: 我在想改電腦下單的話要來找個好用的智慧單程式
+  - id: "1544963501158830132"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 14:53"
+    text: 我反而是電腦下單不知道用哪個程式😂
+  - id: "1544964061316251668"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 14:55"
+    text: 每一間期貨商都有很多下單軟體
+  - id: "1544964081327280158"
+    author: ROCH
+    teacher: false
+    time: "2026-09-03 14:55"
+    text: 才2000多
+  - id: "1544964094480617472"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 14:55"
+    text: 要找到好用的那個
+  - id: "1544964194497986611"
+    author: Jessie
+    teacher: false
+    time: "2026-09-03 14:56"
+    text: 台新跟這個一樣的是要用哪一個appㄚ
+    reply:
+      id: "1544964061316251668"
+      author: nick_AJ
+      text: 每一間期貨商都有很多下單軟體
+      inGroup: true
+  - id: "1544964231584284743"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 14:56"
+    text: 我等等截圖給你喔

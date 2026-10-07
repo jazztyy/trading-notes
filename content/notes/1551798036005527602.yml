@@ -1,0 +1,177 @@
+slug: "1551798036005527602"
+title: EMA200 與雙線（快慢線）判斷多空：Alina 的盤中方法
+type: 教學
+topic: 指標設定
+tags:
+  - 指標設定
+  - 盤勢判讀
+teacher: Alina
+channel: 一般
+date: "2026-09-22"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551798036005527602
+summary: Alina 以5分K觀察兩條均線與 EMA200：兩線下穿EMA200且上不去偏空，上碰藍線試空；兩線貼近EMA200時容易被多空雙巴，不一定做；站上EMA200且開在交界上偏多。Shawn 補充快慢線尚未交叉時進場易被雙巴。
+hidden: false
+messages:
+  - id: "1551798036005527602"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 11:31"
+    text: 5分k在EMA200附近了，我自己如果下穿EMA200就會偏空看
+    images:
+      - src: /img/1551798036005527602-image.jpg
+        alt: 5分K價格在EMA200附近（紅色EMA200線）下穿的示意圖
+  - id: "1551798992973594645"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 11:35"
+    text: 這條是我唯一盤中除了三個點位還會參考的位置 XD 也算多空分水嶺，只是很黏這條線我就不一定會做，因為容易被巴
+    reply:
+      id: "1551798036005527602"
+      author: Alina
+      text: 5分k在EMA200附近了，我自己如果下穿EMA200就會偏空看
+      inGroup: true
+  - id: "1551799106463211530"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 11:35"
+    text: 看看多軍有沒有要守了 XD
+  - id: "1551800170302406770"
+    author: ROCH
+    teacher: false
+    time: "2026-09-22 11:39"
+    text: 我的ema200怎麼跟你的有落差
+  - id: "1552153969827258428"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 11:05"
+    text: 另外我會觀察EMA200(紫色那條)，一直上不去，然後兩條線快下穿了，我就會偏空看
+  - id: "1552154077390045265"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 11:06"
+    text: 但我不會馬上空，因為這附近位置很容易被多空打架巴到
+  - id: "1552154459793264651"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 11:07"
+    text: 或者上去碰藍線就試空
+  - id: "1552154542332846152"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 11:08"
+    text: 點位還是要配合線的走勢判斷
+  - id: "1552154830188056630"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-23 11:09"
+    text: 快線跟慢線才正要準備交叉，現在進比較會被雙巴
+    reply:
+      id: "1552154077390045265"
+      author: Alina
+      text: 但我不會馬上空，因為這附近位置很容易被多空打架巴到
+      inGroup: true
+  - id: "1552232882351640646"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 16:19"
+    text: 目前也都下穿EMA200
+  - id: "1552288973546848286"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 20:02"
+    text: 不過離EMA200下，我就會偏空看
+  - id: "1552289052441452565"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 20:02"
+    text: 除非他慢慢把EMA洗接近，我就會選擇觀察
+  - id: "1554451885308510289"
+    author: Alina
+    teacher: true
+    time: "2026-09-29 19:16"
+    text: 想說開在交界上，然後兩條線也都在EMA200上，應該就是偏多看
+  - id: "1554716320178642955"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 12:47"
+    text: 點位、雙線+EMA200(上穿/下穿)，我自己現在就看這幾個
+  - id: "1554717274374676490"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 12:51"
+    text: 早上都沒有下穿跡象
+  - id: "1554717397187825675"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 12:51"
+    text: 紫色是EMA200
+  - id: "1554717563647299604"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 12:52"
+    text: 加上時間可能清楚點
+  - id: "1554717615610663014"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 12:52"
+    text: 我這是5分k，我最近都做5分
+  - id: "1554718153479692320"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 12:54"
+    text: 下穿怎麼看 每次一堆綠k下來 我都在想要接刀嗎！
+    reply:
+      id: "1554717274374676490"
+      author: Alina
+      text: 早上都沒有下穿跡象
+      inGroup: true
+  - id: "1554718358031835157"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 12:55"
+    text: 還是他是強支撐 先接再設損
+  - id: "1554718419390042164"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 12:55"
+    text: 下穿長這樣
+    images:
+      - src: /img/1554718419390042164-image.jpg
+        alt: 5分K示意：雙線(紅/藍)與紫色EMA200，標有BOS/CHoCH，說明下穿與上穿長相
+  - id: "1554718479691816971"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 12:56"
+    text: 但是兩條線很靠近EMA200我不一定會做
+  - id: "1554718521206902785"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 12:56"
+    text: 很容易八來八去
+  - id: "1554718665608400899"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 12:56"
+    text: 早盤這個還有點距離，而且後面就拉了，我是拉的時候追多
+    reply:
+      id: "1554717563647299604"
+      author: Alina
+      text: 加上時間可能清楚點
+      inGroup: true
+quiz:
+  - q: 價格或兩條線很黏著 EMA200 時，Alina 怎麼處理？
+    o:
+      - 視為即將突破的前兆，提早進場先卡位
+      - 不一定做，因為這附近容易多空打架被巴
+      - 只做順著大週期方向的單
+      - 改用 1 分 K 找精準進場點
+    a: 1
+    e: Alina 說 EMA200 是多空分水嶺，但很黏這條線時容易被巴，所以不一定做。
+  - q: EMA200 一直上不去、兩條線快下穿時，Alina 的做法是？
+    o:
+      - 偏空看但不馬上空，可等上去碰藍線再試空
+      - 偏空看，立刻市價追空，避免錯過行情
+      - 偏多看，等回踩 EMA200 進多
+      - 不判斷方向，等兩條線交叉完成後才看
+    a: 0
+    e: Alina 會偏空看，但這附近容易被多空打架巴到，所以不馬上空，而是上去碰藍線再試空。

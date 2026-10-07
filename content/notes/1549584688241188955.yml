@@ -1,0 +1,211 @@
+slug: "1549584688241188955"
+title: 9/16 結算日台指判讀與 BOS 指標
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 指標設定
+teacher: Alina
+channel: 一般
+date: "2026-09-16"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1549584688241188955
+summary: 結算日缺口與壓力判斷：10月先看45887/850，壓力線下未站穩難判斷，建議趨勢明確再進；討論 BOS（趨勢延續）指標有點用但 Alina 只看支撐壓力色塊；日K連4綠；壓力剩缺口。
+hidden: false
+messages:
+  - id: "1549584688241188955"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 08:56"
+    text: 看10月能不能先到45887
+  - id: "1549584817266368563"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 08:56"
+    text: 我也是看大概850踩穩
+    reply:
+      id: "1549584688241188955"
+      author: Shawnnnn
+      text: 看10月能不能先到45887
+      inGroup: true
+  - id: "1549597153922519081"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 09:45"
+    text: 我也判斷不了，今日壓力線下沒站穩，但現在這個位置也是有一根的可能
+    images:
+      - src: /img/1549597153922519081-image.jpg
+        alt: TV 微台2分K，BOS標註、紅色壓力線與紫色均線帶，價格在壓力線下
+  - id: "1549597443086221425"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 09:47"
+    text: 你看看說完就一根
+    images:
+      - src: /img/1549597443086221425-image.jpg
+        alt: 同組2分K圖後續走勢，價格試圖站上壓力線
+  - id: "1549597566306615297"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 09:47"
+    text: 打架位
+  - id: "1549597743478087722"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 09:48"
+    text: 安全的話我覺得是真的轉折下降途中再做，不然很容易被巴
+  - id: "1549598130905808937"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 09:49"
+    text: 真的跌破這我才會覺得弱
+    images:
+      - src: /img/1549598130905808937-image.jpg
+        alt: 2分K圖，價格在均線上方，藍色水平線45,810為跌破轉弱的支撐
+  - id: "1549598959725715537"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 09:53"
+    text: 819再加一口多
+  - id: "1549603781522751488"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 10:12"
+    text: 好啦，有在努力的感覺哈哈哈
+    images:
+      - src: /img/1549603781522751488-image.jpg
+        alt: 2分K圖，BOS與藍色支撐區，回測後重新站上均線
+  - id: "1549604183001272343"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 10:13"
+    text: 等趨勢明確在進場
+  - id: "1549607744045056010"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 10:27"
+    text: 這種時候信仰就很重要，但我最沒信仰哈哈
+    images:
+      - src: /img/1549607744045056010-image.jpg
+        alt: 2分K圖，價格站上紅色壓力線並轉支撐
+  - id: "1549608527373406349"
+    author: CHI
+    teacher: false
+    time: "2026-09-16 10:31"
+    text: 今天是要回補9/14的大缺口嗎？
+  - id: "1549608634999251115"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 10:31"
+    text: 難道真的利空出盡了嗎~有這麼好預測嗎哈哈
+  - id: "1549608909591945290"
+    author: CHI
+    teacher: false
+    time: "2026-09-16 10:32"
+    text: |-
+      結算日壓低結算劇情改變，
+      結算日拉高回補缺口？
+  - id: "1549617867564130357"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 11:08"
+    text: 看起來走一個漂亮的N
+    images:
+      - src: /img/1549617867564130357-image.jpg
+        alt: 2分K圖，連續多個BOS形成N字上漲，下方多層藍色支撐區
+  - id: "1549618351972556821"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 11:10"
+    text: BOS那個有幫助嗎
+  - id: "1549618813383872553"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 11:11"
+    text: 我覺得還好哈哈
+    reply:
+      id: "1549618351972556821"
+      author: Shawnnnn
+      text: BOS那個有幫助嗎
+      inGroup: true
+  - id: "1549619011539566633"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 11:12"
+    text: 我通常只看支撐壓力色塊
+  - id: "1549619959095754773"
+    author: ROCH
+    teacher: false
+    time: "2026-09-16 11:16"
+    text: 多少有點用啦哈哈哈
+    reply:
+      id: "1549618351972556821"
+      author: Shawnnnn
+      text: BOS那個有幫助嗎
+      inGroup: true
+  - id: "1549620014716555327"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-16 11:16"
+    text: bos是什麼
+  - id: "1549620055069950104"
+    author: ROCH
+    teacher: false
+    time: "2026-09-16 11:16"
+    text: 趨勢延續
+    reply:
+      id: "1549620014716555327"
+      author: 維尼Ni🌻
+      text: bos是什麼
+      inGroup: true
+  - id: "1549620217603297395"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 11:17"
+    text: 是沒錯
+    reply:
+      id: "1549620055069950104"
+      author: ROCH
+      text: 趨勢延續
+      inGroup: true
+  - id: "1549620287044063283"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 11:17"
+    text: 壓力只剩缺口了
+  - id: "1549620469139902565"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 11:18"
+    text: 日k連4綠的確該紅一下，但早上表現讓人很沒信仰哈哈
+    reply:
+      id: "1549619800546742345"
+      author: 維尼Ni🌻
+      text: 可惡 託夢都做多了 我為什麼信仰不夠
+      inGroup: false
+  - id: "1549620675625484309"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 11:19"
+    text: 023追單了
+    reply:
+      id: "1549620500286935122"
+      author: Annahui
+      text: 師父有追上去嗎
+      inGroup: false
+quiz:
+  - q: 價格在當日壓力線下、還沒站穩的「打架位」，Alina 和 Shawnnnn 傾向怎麼做？
+    o:
+      - 在打架位兩邊各掛一張，誰先突破就留誰
+      - 直接在壓力線下放空，壓力線通常會有效
+      - 先重倉做多，賭價格很快會站上壓力線
+      - 等趨勢明確或真的轉折再做，不然很容易被巴
+    a: 3
+    e: Alina 說安全的話是真的轉折下降途中再做，不然很容易被巴；Shawnnnn 也說等趨勢明確再進場。
+  - q: 被問到 BOS 指標有沒有幫助時，Alina 怎麼回答？
+    o:
+      - 覺得還好，她通常只看支撐壓力色塊
+      - 非常有用，她都靠 BOS 決定進場
+      - 只在結算日才會參考 BOS
+      - BOS 可以取代兩線策略
+    a: 0
+    e: Alina 說 BOS「我覺得還好」，她通常只看支撐壓力色塊；ROCH 則說 BOS 是趨勢延續，多少有點用。

@@ -1,0 +1,147 @@
+slug: "1542900946403852309"
+title: 順勢空單實例：方向、停損60點與停利
+type: 教學
+topic: 盤勢判讀
+tags:
+  - 盤勢判讀
+  - 停損停利
+  - 下單工具
+teacher: Shawnnnn
+channel: 一般
+date: "2026-08-28"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1542900946403852309
+summary: 2分K空方趨勢時，若採1小時方法應先找多；Shawnnnn在415做空、停損60點(472)、碰到就走，約50-60點獲利即離場；快接近才掛單、不用智慧單；賣飛不FOMO。
+hidden: false
+messages:
+  - id: "1542900946403852309"
+    author: YOU
+    teacher: false
+    time: "2026-08-28 22:17"
+    text: 請問現在看起來是空方趨勢 你會去做空單 看看嗎 還是等小時k轉空 再進場 (我看小時k好像還撐著.?)
+    reply:
+      id: "1542899727920795760"
+      author: Shawnnnn
+      text: 現在2分K就是空方趨勢了
+      inGroup: false
+  - id: "1542901589612699648"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:20"
+    text: 這一樣要看你是採取什麼方法~要看一小時的話你就先找機會做多不要亂做空
+    reply:
+      id: "1542900946403852309"
+      author: YOU
+      text: 請問現在看起來是空方趨勢 你會去做空單 看看嗎 還是等小時k轉空 再進場 (我看小時k好像還撐著.?)
+      inGroup: true
+  - id: "1542901973458620557"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:21"
+    text: 我剛415做空
+  - id: "1542902332990431303"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:23"
+    text: 究竟會不會停損呢
+  - id: "1542902358076563546"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:23"
+    text: 停損我設60點
+  - id: "1542902448136396895"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:23"
+    text: 472停損
+  - id: "1542902471158923264"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:23"
+    text: 我碰到就走不會眷戀
+  - id: "1542902579699384430"
+    author: YOU
+    teacher: false
+    time: "2026-08-28 22:24"
+    text: 想順便請問一下 因為有時候貼盤那兩條參數線會一直修正 你會大概順勢預測一下修正點位 下去掛單嗎 還是 直接掛 點位 只等k棒過來碰
+  - id: "1542902840295428136"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:25"
+    text: 快接近才會掛
+  - id: "1542902932549148702"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 22:25"
+    text: 現在會設保本嗎
+  - id: "1542902957706711130"
+    author: ROCH
+    teacher: false
+    time: "2026-08-28 22:25"
+    text: 還是一樣472掛著
+  - id: "1542903182194385006"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:26"
+    text: 我沒有掛智慧單 我有單我就是會看著哈哈
+  - id: "1542903748844855346"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:28"
+    text: 像現在有50點獲利有人可以接受就可以閃人
+  - id: "1542903781963071658"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:28"
+    text: 停利點大家也會不一樣
+  - id: "1542904349406134362"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:31"
+    text: 像現在有上彎的Feel就要開始注意
+  - id: "1542904498656125039"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:31"
+    text: 我剛剛60點獲利閃人
+  - id: "1542904607091589202"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:32"
+    text: 像我現在空手就是繼續觀察
+  - id: "1542904633175842846"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:32"
+    text: 現在又開始不明確了
+  - id: "1542904741229502494"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:32"
+    text: 對
+  - id: "1542905152275611840"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:34"
+    text: 如果剛剛真的狂往下我賣飛了也不要FOMO
+  - id: "1542905201411760211"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 22:34"
+    text: 因為兩分鐘趨勢很容易反轉
+quiz:
+  - q: 2分K已轉空方趨勢、但1小時K還撐著，若採用看1小時K的方法，Shawnnnn 建議怎麼做？
+    o:
+      - 跟著2分K馬上做空
+      - 多空都不做，直到兩個週期一致
+      - 改用5分K重新判斷方向
+      - 先找機會做多，不要亂做空
+    a: 3
+    e: Shawnnnn 說要看你採取什麼方法，若看1小時K就先找機會做多，不要亂做空。
+  - q: 空單獲利後 Shawnnnn 賣飛了，行情繼續往下時他的態度是？
+    o:
+      - 不要FOMO，因為兩分鐘趨勢很容易反轉
+      - 立刻追空把賣飛的部分補回來
+      - 改掛智慧單讓下一筆自動抱更久
+      - 檢討停利太早，下次固定抱到200點
+    a: 0
+    e: Shawnnnn 說就算賣飛了也不要FOMO，因為兩分鐘的趨勢很容易反轉。

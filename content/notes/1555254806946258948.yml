@@ -1,0 +1,142 @@
+slug: "1555254806946258948"
+title: 壓力區與移動停利：376-405壓力、保利做法
+type: 教學
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 停損停利
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-02"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555254806946258948
+summary: 目前376-405壓力區，EMA200與均價線在附近；Shawn 見5分長紅K會把停利移到該K低點（保利／套保）；微台與小台點位差異。
+hidden: false
+messages:
+  - id: "1555254806946258948"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:27"
+    text: ""
+    images:
+      - src: /img/1555254806946258948-IMG_3589.jpg
+        alt: K線圖：跳出下降軌道後不要回去
+  - id: "1555254891562143786"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 00:27"
+    text: 有跳出下降的軌道，就別回去了
+  - id: "1555255168956899380"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 00:28"
+    text: 目前376-405壓力
+    images:
+      - src: /img/1555255168956899380-image.jpg
+        alt: K線圖：376-405壓力區
+  - id: "1555255325417021481"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 00:29"
+    text: EMA200跟均價線都差不多在那位置
+  - id: "1555256479207002193"
+    author: Annahui
+    teacher: false
+    time: "2026-10-02 00:33"
+    text: 壓力來了
+    reply:
+      id: "1555255168956899380"
+      author: Shawnnnn
+      text: 目前376-405壓力
+      inGroup: true
+  - id: "1555256590142144635"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 00:34"
+    text: 對準備進到壓力區了
+  - id: "1555256800381763619"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 00:35"
+    text: 目前這根的量沒有很爆還OK
+  - id: "1555257116380368916"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 00:36"
+    text: "@Annahui 如果是我 看到這根5分K長紅K我就會把停利移動到這根低點"
+    images:
+      - src: /img/1555257116380368916-image.jpg
+        alt: 5分長紅K，停利移到該K低點的示意
+  - id: "1555257407058354315"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-02 00:37"
+    text: 保本的意思嗎
+  - id: "1555257622058242160"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 00:38"
+    text: Anna的成本比較遠所以算是套保
+    reply:
+      id: "1555257407058354315"
+      author: 維尼Ni🌻
+      text: 保本的意思嗎
+      inGroup: true
+  - id: "1555257740157517988"
+    author: Annahui
+    teacher: false
+    time: "2026-10-02 00:39"
+    text: 保利啦
+    reply:
+      id: "1555257407058354315"
+      author: 維尼Ni🌻
+      text: 保本的意思嗎
+      inGroup: true
+  - id: "1555257907723898892"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 00:39"
+    text: 就是至少不虧
+  - id: "1555258141132849253"
+    author: Doobe
+    teacher: false
+    time: "2026-10-02 00:40"
+    text: 所以是334
+    reply:
+      id: "1555257116380368916"
+      author: Shawnnnn
+      text: "@Annahui 如果是我 看到這根5分K長紅K我就會把停利移動到這根低點"
+      inGroup: true
+  - id: "1555258225396420651"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 00:40"
+    text: 我是看微台326
+  - id: "1555258246414209095"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 00:41"
+    text: 差不多~
+  - id: "1555258257088716861"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 00:41"
+    text: 你應該是小台
+  - id: "1555258301632225332"
+    author: Doobe
+    teacher: false
+    time: "2026-10-02 00:41"
+    text: 我也是微台
+  - id: "1555258383915950172"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-02 00:41"
+    text: 差不多位置 他還是被橘線壓頭
+quiz:
+  - q: 進到壓力區前看到一根 5 分長紅 K，Shawnnnn 說他會怎麼調整停利？
+    o:
+      - 把停利移到這根長紅 K 的低點
+      - 把停利移到這根長紅 K 的高點
+      - 直接全部出場不等壓力
+      - 把停利改設在 EMA200 下方
+    a: 0
+    e: Shawnnnn 說看到這根 5 分長紅 K 會把停利移到這根低點，對 Anna 來說就是保利。

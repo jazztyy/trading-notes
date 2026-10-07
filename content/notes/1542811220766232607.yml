@@ -1,0 +1,168 @@
+slug: "1542811220766232607"
+title: 肖恩解盤：進場位置、停利與下午盤策略
+type: 分析
+topic: 進場時機
+tags:
+  - 進場時機
+  - 盤勢判讀
+  - 停損停利
+teacher: Shawnnnn
+channel: 圖表分析聊天區
+date: "2026-08-28"
+url: https://discord.com/channels/1542520115562545162/1542744375547920474/1542811220766232607
+summary: 肖恩標出適合進場處（綠圈空、紅圈多）；下午波動小少進場，除非拉一段回踩且量足；下午獲利抓50-60點；碰白線或EMA25才進，也可掛兩者中間價；nick 提到5點保本常被回踩掃掉。
+hidden: false
+messages:
+  - id: "1542811220766232607"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 16:20"
+    text: ""
+    images:
+      - src: /img/1542811220766232607-1787905151340.jpg
+        alt: nick 提供的台指期K線圖請求看進場位置
+  - id: "1542811269114101862"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 16:21"
+    text: 肖恩大可以幫我看看進場位置如何
+  - id: "1542813115467432018"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 16:28"
+    text: 綠色圈做空 紅色圈做多位置，這不完全是我今天的做單位置我圈起來只是適合進單的地方
+    images:
+      - src: /img/1542813115467432018-image.jpg
+        alt: 肖恩標註的進場圈選：綠圈做空、紅圈做多，含白線動態指標
+  - id: "1542813309282033725"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 16:29"
+    text: 有沒有獲利或是虧損就是看你停利點幾點，可以看到幾個可能會吃損的地方就是要走
+  - id: "1542813563255783465"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 16:30"
+    text: 還有下午波動基本上不大我不太會進場，除非拉一段上去有下來，量也還OK我才會進
+  - id: "1542813769808220211"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 16:31"
+    text: 這個意思是不是拉上去下來之後回踩做多
+    reply:
+      id: "1542813563255783465"
+      author: Shawnnnn
+      text: 還有下午波動基本上不大我不太會進場，除非拉一段上去有下來，量也還OK我才會進
+      inGroup: true
+  - id: "1542813813714329600"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 16:31"
+    text: 對~只是雜訊很難濾掉我覺得
+  - id: "1542813842881646633"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-08-28 16:31"
+    text: 白色線是動態指標線嗎？
+    reply:
+      id: "1542813115467432018"
+      author: Shawnnnn
+      text: 綠色圈做空 紅色圈做多位置，這不完全是我今天的做單位置我圈起來只是適合進單的地方
+      inGroup: true
+  - id: "1542813883507539988"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 16:31"
+    text: 對
+  - id: "1542814310559129641"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 16:33"
+    text: 那我想問說比如剛剛下午開盤您也有近一單 那單獲利你會抓多少走呢
+    reply:
+      id: "1542813309282033725"
+      author: Shawnnnn
+      text: 有沒有獲利或是虧損就是看你停利點幾點，可以看到幾個可能會吃損的地方就是要走
+      inGroup: true
+  - id: "1542814413785006160"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 16:33"
+    text: 我大概是進在46430附近
+  - id: "1542814635244130314"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 16:34"
+    text: 因為我常常習慣設定5點保本 就是進場點位+5點 然後很常都會 被回踩點掉
+  - id: "1542814695998627881"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 16:34"
+    text: 然後他就往上又噴了30-50點之類的
+  - id: "1542814827108503642"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 16:35"
+    text: 你是指我圈起來的地方做單嗎
+  - id: "1542814836986085436"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 16:35"
+    text: 這時候我又會思考要不要進去😩 怕進去就被套了
+  - id: "1542814855327645776"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 16:35"
+    text: 對
+    reply:
+      id: "1542814827108503642"
+      author: Shawnnnn
+      text: 你是指我圈起來的地方做單嗎
+      inGroup: true
+  - id: "1542814963532300419"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 16:35"
+    text: 圖面最右邊的黃圈跟紅圈
+    reply:
+      id: "1542813115467432018"
+      author: Shawnnnn
+      text: 綠色圈做空 紅色圈做多位置，這不完全是我今天的做單位置我圈起來只是適合進單的地方
+      inGroup: true
+  - id: "1542815130113413160"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 16:36"
+    text: 那筆進去應該是不會被掃掉，我下午的獲利我都抓個50-60點就很不錯了
+  - id: "1542827651700490360"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-08-28 17:26"
+    text: 上下影線有碰到白色線才進場嗎？沒碰到就不要進去被宰嗎？
+  - id: "1542877695694733312"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 20:45"
+    text: 是的或是EMA25，說明書可以看一下
+  - id: "1542877984879411220"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 20:46"
+    text: 你要掛他們中間的價格也是可以的，只要停損抓好該跑就要跑都沒問題
+quiz:
+  - q: Shawnnnn 對下午盤的操作態度是？
+    o:
+      - 波動不大，除非拉一段又下來、量也OK才進
+      - 下午趨勢最穩定，是他最主要的進場時段
+      - 下午只做空不做多，因為台指容易收低
+      - 下午一律用市價單追突破，抓尾盤行情
+    a: 0
+    e: Shawnnnn 說下午波動基本不大不太進場，除非拉一段上去有下來、量也OK；下午獲利抓50-60點就很不錯。
+  - q: 被問到「影線沒碰到白線就不進場嗎？」時，Shawnnnn 怎麼回答？
+    o:
+      - 不用碰到，方向對就先進，停損抓前低就好
+      - 碰到白線或EMA25才進，或掛兩者中間價
+      - 只能等碰到EMA25才進，白線碰到不算數
+      - 要連續兩根K棒碰到白線，確認支撐才進場
+    a: 1
+    e: Shawnnnn 說要碰到白線或EMA25，掛兩者中間的價格也可以，只要停損抓好該跑就跑。

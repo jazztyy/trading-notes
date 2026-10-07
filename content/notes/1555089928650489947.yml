@@ -1,0 +1,179 @@
+slug: "1555089928650489947"
+title: 個股進場邏輯：框框區間、EMA200、雙線與糾結型態
+type: 分析
+topic: 進場時機
+tags:
+  - 進場時機
+  - 撐壓點位
+teacher: Alina
+channel: 一般
+date: "2026-10-01"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555089928650489947
+summary: Alina 以聯電為例，用「框框」區間找進場位與停損、上穿200踩交界；個股可套用同樣的交界壓力、雙線、EMA200；找均線糾結、季線下彎等待一根表態的角落股，買綠不買紅；成交量需足夠（>1500）。
+hidden: false
+messages:
+  - id: "1555089928650489947"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:32"
+    text: 上穿200踩交界
+  - id: "1555089944953749588"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:32"
+    text: 好完美入場點
+  - id: "1555090057810022543"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:32"
+    text: ""
+    images:
+      - src: /img/1555090057810022543-IMG_3538.jpg
+        alt: 聯電個股K線圖，畫出區間框框與160支撐
+  - id: "1555090094564835329"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:32"
+    text: 原本想說就在這框框裡震盪
+  - id: "1555090126885883975"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:32"
+    text: 160還是要穩
+  - id: "1555090162105716837"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:33"
+    text: 不然還是回到框框
+  - id: "1555090180845600790"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:33"
+    text: 但也算好防守好做
+  - id: "1555091320433803305"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:37"
+    text: 不過個股進場也可以用那個交界壓力邏輯
+  - id: "1555091368970297396"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:37"
+    text: 還有雙線跟EMA200
+  - id: "1555091578660593708"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:38"
+    text: 你可以看那個框框找位置
+    reply:
+      id: "1555091395188891659"
+      author: 維尼Ni🌻
+      text: gpt說154可買，結果我在等149
+      inGroup: false
+  - id: "1555091609404833794"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:38"
+    text: 也好判斷停損
+  - id: "1555091698579939400"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:39"
+    text: 但如果跌去149我覺得就不行哈哈哈哈
+    reply:
+      id: "1555091395188891659"
+      author: 維尼Ni🌻
+      text: gpt說154可買，結果我在等149
+      inGroup: false
+  - id: "1555091776698720307"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:39"
+    text: 要洗好久
+  - id: "1555091851671765043"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:39"
+    text: 等於接近要去補缺口
+  - id: "1555092263464341515"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:41"
+    text: 那種均線糾結、季線下彎需要一根表態的
+  - id: "1555092353868632147"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 13:41"
+    text: 這種必須每天看標的
+    reply:
+      id: "1555092263464341515"
+      author: Alina
+      text: 那種均線糾結、季線下彎需要一根表態的
+      inGroup: true
+  - id: "1555092394477748225"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 13:41"
+    text: 盤後要認真做功課
+  - id: "1555092522663940178"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:42"
+    text: 所以我就買進去蹲
+  - id: "1555092593606402152"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:42"
+    text: 糾結的也防守，跌破直接掰
+    reply:
+      id: "1555092263464341515"
+      author: Alina
+      text: 那種均線糾結、季線下彎需要一根表態的
+      inGroup: true
+  - id: "1555092740797243405"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:43"
+    text: 應該很多這種長相
+  - id: "1555092790835154996"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:43"
+    text: 不求很多根，至少一定會有一根🤣
+  - id: "1555092975892172814"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 13:44"
+    text: 但現在這種盤勢突然一根的中小型很容易點火一天而已
+  - id: "1555093107211640865"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 13:44"
+    text: 最好成交總量有個1500以上吧
+  - id: "1555094331088437251"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:49"
+    text: 買綠可以
+  - id: "1555094355159547955"
+    author: Alina
+    teacher: true
+    time: "2026-10-01 13:49"
+    text: 買紅絕對不行
+quiz:
+  - q: Alina 找均線糾結、季線下彎、等一根表態的股票時，進場有什麼原則？
+    o:
+      - 買紅 K 確認表態再追，跌破季線停損
+      - 分批買在每根紅 K 上，越漲越加碼
+      - 等突破季線才進場，沒突破就不碰
+      - 買綠可以、買紅絕對不行，跌破直接掰
+    a: 3
+    e: Alina 說買進去蹲、糾結的也要防守跌破直接掰，買綠可以、買紅絕對不行。
+  - q: Shawnnnn 為什麼建議這類股票成交總量最好有 1500 以上？
+    o:
+      - 量太小無法用 EMA200 判斷
+      - 現在的盤勢中小型股很容易只點火一天
+      - 量大才有隔日沖抬轎
+      - 融資券才有足夠額度
+    a: 1
+    e: Shawnnnn 說現在這種盤勢中小型股突然一根很容易只點火一天，所以最好成交總量有 1500 以上。

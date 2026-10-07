@@ -1,0 +1,98 @@
+slug: "1542912475744444547"
+title: 兩條線靠近時的離場判斷
+type: 教學
+topic: 盤整震盪
+tags:
+  - 盤整震盪
+  - 停損停利
+teacher: Shawnnnn
+channel: 一般
+date: "2026-08-28"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1542912475744444547
+summary: 若兩條線慢慢靠近，原本有單可先離場，沒單則不進場；收K前30秒可能先跑；最後以40點停損離場(比預設50點少10點)，乖乖停損就是好交易。
+hidden: false
+messages:
+  - id: "1542912475744444547"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:03"
+    text: 現在打到461如果我剛沒單我現在就不會進場
+  - id: "1542912550570561628"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:03"
+    text: 因為兩條線慢慢靠近了
+  - id: "1542912652404203530"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:04"
+    text: 但我剛是假設我前面有單的情況下
+  - id: "1542912670062346311"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 23:04"
+    text: 肖恩大在兩條線糾結的時候不進單嗎
+  - id: "1542912683882324058"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:04"
+    text: 我會再觀察還不會跑
+  - id: "1542912999478657076"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:05"
+    text: 這跟收完還有30秒
+  - id: "1542913045293047928"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:05"
+    text: 我可能就會想先跑了
+  - id: "1542913123823132682"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:05"
+    text: 現在收了一個下引線了
+  - id: "1542913146992459917"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:06"
+    text: 繼續觀察
+  - id: "1542913690775584879"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:08"
+    text: 閃人
+  - id: "1542913732517040158"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:08"
+    text: 停損40點
+  - id: "1542913898410156084"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:08"
+    text: |-
+      會不會等等往上噴?不知道
+      會不會等等往下噴?不知道
+  - id: "1542913988256600165"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 23:09"
+    text: 但對我來說我乖乖停損就是一個好的交易
+quiz:
+  - q: 兩條線慢慢靠近時，Shawnnnn 對「沒單」和「有單」的處理分別是？
+    o:
+      - 沒單就進場搶突破；有單則順勢再加碼一口
+      - 沒單就掛在兩線中間；有單就移到保本
+      - 沒單不進場；有單先觀察，收K前不對就跑
+      - 沒單就反手掛單；有單也直接反手
+    a: 2
+    e: Shawnnnn 說線慢慢靠近，沒單就不會進場；有單時會再觀察，收完前30秒可能就先跑，最後他停損40點離場。
+  - q: 停損40點出場後，Shawnnnn 怎麼看這筆交易？
+    o:
+      - 出場太早，應該等它反彈
+      - 乖乖停損就是一個好的交易
+      - 停損太小，應該設100點
+      - 應該在停損後立刻反手
+    a: 1
+    e: Shawnnnn 說不知道等等會往上或往下噴，但對他來說乖乖停損就是一個好的交易。

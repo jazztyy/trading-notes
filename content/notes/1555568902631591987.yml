@@ -1,0 +1,48 @@
+slug: "1555568902631591987"
+title: 夜盤1分K進多與保本
+type: 分析
+topic: 停損停利
+tags:
+  - 停損停利
+  - 進場時機
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-02"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555568902631591987
+summary: Shawnnnn夜盤看1分K在49096進多（自評進場不算漂亮），之後只要出現一根有利K棒就把停損移到保本。
+hidden: false
+messages:
+  - id: "1555568902631591987"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 21:15"
+    text: 有呀
+  - id: "1555568981203755009"
+    author: ROCH
+    teacher: false
+    time: "2026-10-02 21:15"
+    text: 哪裡！
+  - id: "1555569064229740667"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 21:16"
+    text: 看1分 49096
+  - id: "1555569085314502768"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 21:16"
+    text: 也沒很漂亮
+  - id: "1555569176431693939"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 21:16"
+    text: 等等隨便一根我就保本
+quiz:
+  - q: Shawnnnn 夜盤看 1 分 K 進多後，他打算怎麼處理停損？
+    o:
+      - 停損固定不動，等到目標價再一起處理
+      - 等等出現一根有利的 K 棒就移到保本
+      - 先加碼一口攤平成本，再等反彈出場
+      - 價格一回到進場價附近就直接停損出場
+    a: 1
+    e: Shawnnnn 自評進場不算漂亮，所以「等等隨便一根我就保本」，先把停損移到成本。

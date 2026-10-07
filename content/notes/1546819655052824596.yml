@@ -1,0 +1,119 @@
+slug: "1546819655052824596"
+title: 程式自動下單成本與券商API
+type: 教學
+topic: 程式交易
+tags:
+  - 程式交易
+  - 下單工具
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-08"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1546819655052824596
+summary: Shawn：自動下單租下單機，地端約900/月以下、雲端約2000起；Kai 說自己接永豐金API用自己電腦下單，不必付下單機費，永豐與元大有開API，但邏輯要自寫並先用模擬單。
+hidden: true
+messages:
+  - id: "1546819655052824596"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-08 17:49"
+    text: api要好多錢 我還在籌
+  - id: "1546820486904807464"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 17:52"
+    text: 串自動交易沒啥成本就是看是雲端還是地端
+  - id: "1546820506295074836"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 17:52"
+    text: 雲端比較貴
+  - id: "1546820553409822720"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 17:52"
+    text: 地端最好要有電腦有線網路比較穩
+  - id: "1546821525276069938"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 17:56"
+    text: 租下單機的錢而已
+  - id: "1546821675297931356"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 17:57"
+    text: 沒記錯地端可以900/月以下，雲端要2000起跳/月
+  - id: "1546821756810174556"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 17:57"
+    text: 雲端好處是單子有問題你可以手機處理好的樣子
+  - id: "1546821848627417099"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 17:57"
+    text: 地端網路有問題你就要回到電腦處理網路的問題
+  - id: "1546824184762728449"
+    author: Kai
+    teacher: false
+    time: "2026-09-08 18:07"
+    text: api 自己會接的話就不用付下單機的錢，但邏輯那些就要自己寫，不過現在 ai 很方便～
+  - id: "1546824752486686730"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 18:09"
+    text: 這我還真不知道可以不透過下單機下單
+  - id: "1546824806769360906"
+    author: Kai
+    teacher: false
+    time: "2026-09-08 18:09"
+    text: 有哈哈 我自己就是接永豐金 api 下單，用的就是自己的電腦
+    reply:
+      id: "1546824255751065732"
+      author: ROCH
+      text: 你有經驗嗎~
+      inGroup: false
+  - id: "1546824918962937937"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 18:09"
+    text: 任何一家券商都可以嗎
+  - id: "1546825053524598795"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-08 18:10"
+    text: 所以電腦要不關機讓他跑這樣嗎
+    reply:
+      id: "1546824806769360906"
+      author: Kai
+      text: 有哈哈 我自己就是接永豐金 api 下單，用的就是自己的電腦
+      inGroup: true
+  - id: "1546825116178976858"
+    author: Kai
+    teacher: false
+    time: "2026-09-08 18:10"
+    text: 要看他們有沒有開 api 出來 每個券商的都不同，我目前是看永豐跟元大都有
+  - id: "1546825139885310035"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-08 18:10"
+    text: 無情機器收益穩嗎
+    reply:
+      id: "1546824806769360906"
+      author: Kai
+      text: 有哈哈 我自己就是接永豐金 api 下單，用的就是自己的電腦
+      inGroup: true
+  - id: "1546825357942849546"
+    author: Kai
+    teacher: false
+    time: "2026-09-08 18:11"
+    text: 還不敢直接投太多 因為策略回測還是太多坑哈哈
+    reply:
+      id: "1546825139885310035"
+      author: 維尼Ni🌻
+      text: 無情機器收益穩嗎
+      inGroup: true
+  - id: "1546825384375353389"
+    author: Kai
+    teacher: false
+    time: "2026-09-08 18:11"
+    text: 都先模擬單

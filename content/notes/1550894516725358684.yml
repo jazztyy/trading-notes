@@ -1,0 +1,139 @@
+slug: "1550894516725358684"
+title: 成交量輔助判斷與ATR/ADX、Alina指標優化方向
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 指標設定
+teacher: Alina
+channel: 一般
+date: "2026-09-19"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1550894516725358684
+summary: Alina想在點位指標加入成交量與量均線輔助(帶量上穿交界偏多、下穿偏空，爆量標黃)，但量的定義(多少算多)未定；Shawn指出量縮但振幅大時量能非關鍵，程式交易常用ATR或ADX判斷振幅。
+hidden: false
+messages:
+  - id: "1550894516725358684"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 23:41"
+    text: 我原本是想要再搭配成交量&成交量均線參考，輔助判斷點位趨勢，做一半
+  - id: "1550894809344901121"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 23:42"
+    text: 例如帶量上穿交界就回是多，下穿就是空
+    reply:
+      id: "1550894516725358684"
+      author: Alina
+      text: 我原本是想要再搭配成交量&成交量均線參考，輔助判斷點位趨勢，做一半
+      inGroup: true
+  - id: "1550895510427275306"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 23:45"
+    text: 對，轉強轉弱之類的，另外成交量我還在思考要用多少算多(所以加均線)
+  - id: "1550895943950409771"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-19 23:46"
+    text: OK~成交量就比較難去衡量說你要跟什麼比或是要跟前幾跟去比
+  - id: "1550895995573772400"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-19 23:46"
+    text: 怎樣算多
+  - id: "1550896285396107324"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 23:48"
+    text: 對，目前是長這樣，原本優化是想要均線下半透明，均線上實色，但多少可以定義為爆量(黃色)這個我還在想
+    images:
+      - src: /img/1550896285396107324-image.jpg
+        alt: 成交量柱狀圖加均線，爆量以黃(橘)色標示的優化草稿
+  - id: "1550896415377592403"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 23:48"
+    text: 主要也是想用來判斷點位附近k棒的強弱
+  - id: "1550896451716915424"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 23:48"
+    text: 無量就不用太看
+  - id: "1550896526421659700"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-19 23:49"
+    text: 那你這樣需要用什麼特定週期去看
+  - id: "1550898212821274726"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 23:55"
+    text: 對，就是在想除了點位，還可以增加哪些輔助判斷
+  - id: "1550898267259273238"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 23:56"
+    text: 因為k棒跟量能也是關鍵
+  - id: "1550898366194524202"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-19 23:56"
+    text: 是沒錯，可是有時候量能又不是關鍵
+  - id: "1550898437514465393"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-19 23:56"
+    text: 就像前幾天量縮可是振幅大
+  - id: "1550898739239981117"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 23:57"
+    text: 主要輔助在關鍵位判斷 XD
+  - id: "1550898782927986819"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-19 23:58"
+    text: 所以程式交易很多會用ATR或是ADX去判斷振幅
+  - id: "1550898901106819153"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 23:58"
+    text: 不過目前我主要還是把一日關鍵位抓出來
+  - id: "1550899160654413936"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-19 23:59"
+    text: 就是俗稱的大量位？
+    reply:
+      id: "1550899052466544651"
+      author: Alina
+      text: 光這個就幫助我這個月少了很多冤枉路 XDD
+      inGroup: false
+  - id: "1550899405450911835"
+    author: Alina
+    teacher: true
+    time: "2026-09-20 00:00"
+    text: 對，就是有些大量位的高低位是要尊重一下的 XD
+    reply:
+      id: "1550899160654413936"
+      author: 維尼Ni🌻
+      text: 就是俗稱的大量位？
+      inGroup: true
+quiz:
+  - q: Alina 想在點位指標加入成交量，打算怎麼用？
+    o:
+      - 量縮時進場卡位，量大時代表要出場了
+      - 爆量就一律反向操作
+      - 帶量上穿交界偏多、下穿偏空，無量不用太看
+      - 用成交量取代交界點位，直接判斷多空方向
+    a: 2
+    e: Alina 說「帶量上穿交界就偏多，下穿就是空」，主要用來判斷點位附近 K 棒強弱，無量就不用太看。
+  - q: Shawnnnn 為什麼說量能有時候不是關鍵？
+    o:
+      - 因為台指期成交量大多是程式單灌水，參考價值不高
+      - 因為量縮也可能振幅大，程式常用 ATR 或 ADX 判振幅
+      - 因為量只在開盤第一個小時有意義，盤中可以直接忽略
+      - 因為量能指標都會落後，程式交易多半只看 K 棒型態判斷
+    a: 1
+    e: 他舉前幾天「量縮可是振幅大」為例，說程式交易很多會用 ATR 或 ADX 去判斷振幅。

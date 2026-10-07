@@ -1,0 +1,115 @@
+slug: "1554878830613893207"
+title: Impulse MACD、KD、J 值與多指標複雜度
+type: 分析
+topic: 指標設定
+tags:
+  - 指標設定
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-30"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1554878830613893207
+summary: Impulse MACD 較複雜，常需搭配其他指標或多口數分批停利；KDJ 可只看 J 值，J<0 可試抄底；波段看大級別搭配 MACD、KD；指標不宜疊太多以免打架。
+hidden: false
+messages:
+  - id: "1554878830613893207"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 23:33"
+    text: 我看網路教我用impulse macd的死叉來當出場點
+  - id: "1554879590680236104"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:36"
+    text: impulse macd對我來說更複雜一點，通常他都是要搭配其他指標做使用，或是你是多口數的人可以搭配著使用，例如交叉後你分批停利一些
+  - id: "1554879808075337800"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 23:37"
+    text: 我用來幫助我覆盤而已，但好像也沒屁用，哈哈哈
+    reply:
+      id: "1554879406558674949"
+      author: Shawnnnn
+      text: 你也可以先不用管甚麼是起漲點起跌點沒關係，你可以先單純的看你幾點承受的了
+      inGroup: false
+  - id: "1554880016813396103"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 23:38"
+    text: 拿來配溫開水看是不是同時顯示起漲了
+    reply:
+      id: "1554879590680236104"
+      author: Shawnnnn
+      text: impulse macd對我來說更複雜一點，通常他都是要搭配其他指標做使用，或是你是多口數的人可以搭配著使用，例如交叉後
+      inGroup: true
+  - id: "1554880193573949502"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:38"
+    text: 我也有用過搭配impulse macd
+  - id: "1554880219574304809"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:38"
+    text: 但對我來說太難了
+  - id: "1554880472612344010"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:39"
+    text: KD MACD RSI我都不是很行
+  - id: "1554880843812700414"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:41"
+    text: 我也是，研究後我覺得盤中加這個我會有點不知道怎麼判斷
+    reply:
+      id: "1554880472612344010"
+      author: Shawnnnn
+      text: KD MACD RSI我都不是很行
+      inGroup: true
+  - id: "1554880998624329789"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:41"
+    text: 不過波段看大級別，我會搭著macd、KD
+  - id: "1554883600451772511"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:52"
+    text: KD我有另一個看法有一個是KDJ只要看J值
+  - id: "1554883658395947140"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-30 23:52"
+    text: J值如果小於0可以去試試看抄底
+  - id: "1554883834221174845"
+    author: Alina
+    teacher: true
+    time: "2026-09-30 23:53"
+    text: 如果你策略有固定的指標，可以設觸發提醒，碰到的時候再看有沒有符合你預期進場的樣子
+  - id: "1554883851128545362"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-30 23:53"
+    text: 我以為只要到個位數就能抄
+    reply:
+      id: "1554883658395947140"
+      author: Shawnnnn
+      text: J值如果小於0可以去試試看抄底
+      inGroup: true
+quiz:
+  - q: Shawnnnn 對 KD 的另一個看法是什麼？
+    o:
+      - 只看 K 值與 D 值交叉，金叉就試進場
+      - KD 到個位數就代表超賣，可以去試抄底
+      - KDJ 只看 J 值，J 小於 0 可試抄底
+      - KD 只適合看日線，5 分 K 鈍化太多
+    a: 2
+    e: Shawnnnn 說 KDJ 只要看 J 值，J 小於 0 可以試抄底；維尼原以為到個位數就能抄。
+  - q: Shawnnnn 認為 Impulse MACD 比較適合怎麼用？
+    o:
+      - 單獨當唯一的進出場訊號，交叉就進出
+      - 搭配其他指標，或多口數交叉後分批停利
+      - 只用來判斷大週期趨勢，不拿來進出場
+      - 死叉時直接反手做空，金叉再反手做多
+    a: 1
+    e: Shawnnnn 說 Impulse MACD 通常要搭配其他指標，或多口數的人交叉後分批停利一些。

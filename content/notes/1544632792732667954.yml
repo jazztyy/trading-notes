@@ -1,0 +1,161 @@
+slug: "1544632792732667954"
+title: 不同週期優缺與停損點數
+type: 教學
+topic: 程式交易
+tags:
+  - 程式交易
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-02"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544632792732667954
+summary: 時間週期越短反應越快雜訊越多；1分K吃單多但停損快，5分K單少停損較慢；Shawnnnn停損最高60點或前高，約50-80點，超過80不做；太洗就換週期，不行就不玩或停損停利抓近。
+hidden: true
+messages:
+  - id: "1544632792732667954"
+    author: Annahui
+    teacher: false
+    time: "2026-09-02 16:59"
+    text: |-
+      我剛剛有個想法💡
+      那現在如果比較明顯的空方味道
+      是不是可以改2分K下去介入
+  - id: "1544633421920215060"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 17:01"
+    text: 可以，也可以看1分K搶進場，就像禮拜一1分K比較有進場點位
+    reply:
+      id: "1544632792732667954"
+      author: Annahui
+      text: 我剛剛有個想法💡 那現在如果比較明顯的空方味道 是不是可以改2分K下去介入
+      inGroup: true
+  - id: "1544633516317220904"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-02 17:02"
+    text: 看起來時間週期越短他反應越快對嗎但是反過來說他的雜訊也會比較多
+  - id: "1544633774049075230"
+    author: Annahui
+    teacher: false
+    time: "2026-09-02 17:03"
+    text: 我自己經驗是 就是會被洗
+    reply:
+      id: "1544633516317220904"
+      author: nick_AJ
+      text: 看起來時間週期越短他反應越快對嗎但是反過來說他的雜訊也會比較多
+      inGroup: true
+  - id: "1544634256381317241"
+    author: Alina
+    teacher: true
+    time: "2026-09-02 17:05"
+    text: 我昨天晚上就是看1分2分被洗，不過那時候是震盪盤
+    reply:
+      id: "1544633774049075230"
+      author: Annahui
+      text: 我自己經驗是 就是會被洗
+      inGroup: true
+  - id: "1544635510805233724"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 17:10"
+    text: 各周期都有好壞，1分K比較能夠吃到單，但可能你也會停損的比較快，5分K可能吃到的單不多但停損不會那麼快，而且要搭配盤勢，你看到15分K也一定有15分K在線上穿來穿去的
+    reply:
+      id: "1544633421920215060"
+      author: Shawnnnn
+      text: 可以，也可以看1分K搶進場，就像禮拜一1分K比較有進場點位
+      inGroup: true
+  - id: "1544636694933016576"
+    author: Annahui
+    teacher: false
+    time: "2026-09-02 17:14"
+    text: |-
+      請問如果是不同分K進場
+      停損點點數會有所不同嗎？
+    reply:
+      id: "1544635510805233724"
+      author: Shawnnnn
+      text: 各周期都有好壞，1分K比較能夠吃到單，但可能你也會停損的比較快，5分K可能吃到的單不多但停損不會那麼快，而且要搭配盤勢，
+      inGroup: true
+  - id: "1544636803162574849"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 17:15"
+    text: 我自己都一樣欸最高60點或是抓附近K棒前高
+  - id: "1544636860389916722"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 17:15"
+    text: 但大概50-80點
+  - id: "1544636908771217440"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 17:15"
+    text: 超過80點的話我不會做
+  - id: "1544637409768120371"
+    author: Annahui
+    teacher: false
+    time: "2026-09-02 17:17"
+    text: |-
+      因為我在2分K進出都設40點而已
+      一下就被洗掉
+      剛剛打了7分K
+      點位不太會被洗到
+      就想說是不是要調整停損停利策略 放大一點
+  - id: "1544637484795953202"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 17:17"
+    text: 一分K我剛白線進，事後來看成本絕對不好，還差點損，但是當下就是只能看線做事該走就要走，也許我剛剛進場就會直接下去也許不會
+    images:
+      - src: /img/1544637484795953202-image.jpg
+        alt: 1分K白線進場圖：成本不好差點損
+  - id: "1544637878057967697"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 17:19"
+    text: 其實也沒有說一定欸你復盤看看感覺，還是要看當天盤勢去決定唷
+    reply:
+      id: "1544637409768120371"
+      author: Annahui
+      text: 因為我在2分K進出都設40點而已 一下就被洗掉 剛剛打了7分K 點位不太會被洗到 就想說是不是要調整停損停利策略 放大一
+      inGroup: true
+  - id: "1544637892708540466"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 17:19"
+    text: ""
+    images:
+      - src: /img/1544637892708540466-image.jpg
+        alt: 7分K也很洗的圖
+  - id: "1544637910714949733"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 17:19"
+    text: 7分K也是有很洗的時候唷
+  - id: "1544637984328912952"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 17:19"
+    text: 那如果你覺得很洗你就要換一個周期看
+  - id: "1544638031003385898"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 17:20"
+    text: 那如果換了還是洗怎麼辦?
+  - id: "1544638129389043752"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 17:20"
+    text: |-
+      1.不玩
+      2.停損停利抓近一點
+  - id: "1544638516661588040"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-02 17:22"
+    text: 有時候我也會很急還沒碰白線我就想進場哈哈偶爾手賤想調皮一下都可以，止損設好就OK啦~
+  - id: "1544639267610042399"
+    author: ROCH
+    teacher: false
+    time: "2026-09-02 17:24"
+    text: 重點：停損設好

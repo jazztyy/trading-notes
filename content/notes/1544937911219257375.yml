@@ -1,0 +1,86 @@
+slug: "1544937911219257375"
+title: 13:00殺尾盤：快速下殺後看1分K反彈到白線/藍線做空
+type: 教學
+topic: 進場時機
+tags:
+  - 進場時機
+  - 多週期判斷
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-03"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1544937911219257375
+summary: Shawnnnn：殺得很快時看1分K，等反彈到白線或藍線再做空，但若反彈很兇就不要做；除非能接受1分K上上下下單量多。nick 提到13:02又發動。
+hidden: false
+messages:
+  - id: "1544937911219257375"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 13:11"
+    text: 殺的很快就可以看一下1分K
+  - id: "1544938006983614564"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-03 13:12"
+    text: 搶反彈嗎
+    reply:
+      id: "1544937911219257375"
+      author: Shawnnnn
+      text: 殺的很快就可以看一下1分K
+      inGroup: true
+  - id: "1544938216329846825"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 13:12"
+    text: 不是 反彈到白線或是藍線就做空
+    reply:
+      id: "1544938006983614564"
+      author: nick_AJ
+      text: 搶反彈嗎
+      inGroup: true
+  - id: "1544938247354978304"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 13:13"
+    text: 但是如果上去很兇就不要做
+    images:
+      - src: /img/1544938247354978304-image.jpg
+        alt: 1分K圖，快速下殺後白線、綠線下彎，右側高亮紅K示意反彈碰線做空，漲太兇就不做
+  - id: "1544938253847629905"
+    author: Jessie
+    teacher: false
+    time: "2026-09-03 13:13"
+    text: 復盤12:57那根也剛碰到
+  - id: "1544938295056928778"
+    author: Jessie
+    teacher: false
+    time: "2026-09-03 13:13"
+    text: 很難進
+  - id: "1544938467161538661"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 13:13"
+    text: 那個做不到
+    reply:
+      id: "1544938253847629905"
+      author: Jessie
+      text: 復盤12:57那根也剛碰到
+      inGroup: true
+  - id: "1544938605036830771"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 13:14"
+    text: 除非你願意接受1分K上上下下這樣你交易的單會很多
+  - id: "1544938641472622693"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-03 13:14"
+    text: 但也有機會吃到這種爆擊
+quiz:
+  - q: "殺得很快時，Shawnnnn 看1分K是要做什麼？"
+    o:
+      - 等反彈到白線或藍線做空，但反彈很兇就不做
+      - 搶反彈做多，跌越快反彈越大，但只做一口
+      - 等跌破前低再追空，反彈到線上就先不做
+      - 等1分K黃金交叉再做多，殺太快就不追空
+    a: 0
+    e: "Shawnnnn 說不是搶反彈，是反彈到白線或藍線就做空；但如果上去很兇就不要做。"

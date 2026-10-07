@@ -1,0 +1,99 @@
+slug: "1546698994351345674"
+title: 震盪盤如何操作(兩種情況)
+type: 教學
+topic: 盤整震盪
+tags:
+  - 盤整震盪
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-08"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1546698994351345674
+summary: Shawn：K棒在線上來回穿越時無法照策略做，只能看區間來回做；另一情形仍有進場機會但獲利不能抓趨勢那麼大，掛線上價格短打，並看估計量預估振幅。
+hidden: false
+messages:
+  - id: "1546698994351345674"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-08 09:49"
+    text: 梅振福不知道怎麼進場🤣
+  - id: "1546701244402507806"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 09:58"
+    text: 有兩種情況，一種是K棒在線上一直上下穿，這種情況就沒辦法按照策略做了，你真要做就只能自己看區間來回做；另一種情況是還有一些進場機會但你要知道獲利不能抓的像趨勢出來那麼大
+    reply:
+      id: "1546698994351345674"
+      author: nick_AJ
+      text: 梅振福不知道怎麼進場🤣
+      inGroup: true
+  - id: "1546701468051046480"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 09:59"
+    text: 這是第一種
+    images:
+      - src: /img/1546701468051046480-image.jpg
+        alt: K棒在均線上下來回穿越的震盪情形(示意買賣訊號)
+  - id: "1546701511373881404"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 09:59"
+    text: 這是第二種
+    images:
+      - src: /img/1546701511373881404-image.jpg
+        alt: 仍有進場機會但需縮小獲利目標的情形
+  - id: "1546701798184587264"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 10:00"
+    text: 可以看一下估計量然後預估振福
+  - id: "1546701809249165363"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 10:00"
+    text: ""
+    images:
+      - src: /img/1546701809249165363-image.jpg
+        alt: 當日估計量8744
+  - id: "1546701912865378416"
+    author: ROCH
+    teacher: false
+    time: "2026-09-08 10:01"
+    text: 這是要追的意思嗎
+    reply:
+      id: "1546701511373881404"
+      author: Shawnnnn
+      text: 這是第二種
+      inGroup: true
+  - id: "1546702092281057291"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 10:01"
+    text: 不用追~但就是掛線上的價格就好
+    reply:
+      id: "1546701912865378416"
+      author: ROCH
+      text: 這是要追的意思嗎
+      inGroup: true
+  - id: "1546702105002381444"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-08 10:01"
+    text: 短打
+quiz:
+  - q: K 棒在線上一直上下穿越的震盪情況，Shawnnnn 怎麼說？
+    o:
+      - 沒辦法照策略做，要做只能自己看區間來回
+      - 照樣依策略訊號進場，只是停損放寬一點
+      - 改看更大的週期，等大週期的線再進場
+      - 縮小口數，每個訊號都進場攤平風險
+    a: 0
+    e: Shawnnnn 說這種 K 棒在線上一直上下穿的情況沒辦法按照策略做，要做只能自己看區間來回做。
+  - q: 震盪盤中「還有一些進場機會」的第二種情況，Shawnnnn 建議怎麼做？
+    o:
+      - 看到訊號出來就馬上追價進場，抓趨勢波段
+      - 等線完全展開、趨勢明確後再進場抱長
+      - 不用追，掛線上價格短打，看估計量預估振幅
+      - 改用市價單快進快出，避免掛單掛不到
+    a: 2
+    e: Shawnnnn 說第二種仍可進場但獲利不能抓得像趨勢那麼大，不用追，掛線上價格短打，可看估計量預估振幅。

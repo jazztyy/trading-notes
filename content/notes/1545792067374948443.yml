@@ -1,0 +1,49 @@
+slug: "1545792067374948443"
+title: TradingView 是否需要 Premium 做回測
+type: 提問
+topic: 復盤回測
+tags:
+  - 復盤回測
+  - 指標設定
+teacher: nick_AJ
+channel: 一般
+date: "2026-09-05"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1545792067374948443
+summary: Shawn 問 nick_AJ 的 TV 是否為 Premium；回答是用月付，試用 Premium 時好用很多(回測較方便)，獲利穩定後再升級。
+hidden: true
+messages:
+  - id: "1545792067374948443"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-05 21:45"
+    text: 小島你TV是Premium唷?
+    reply:
+      id: "1545721030369083443"
+      author: nick_AJ
+      text: 認真要說的話 可以把參數拿去不同的月分都回測看看
+      inGroup: false
+  - id: "1545811039831203932"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-05 23:01"
+    text: 不是
+    reply:
+      id: "1545792067374948443"
+      author: Shawnnnn
+      text: 小島你TV是Premium唷?
+      inGroup: true
+  - id: "1545811070311079986"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-05 23:01"
+    text: 所以我就一個月一個月做xd
+  - id: "1545811173394354277"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-05 23:01"
+    text: 之前試用的時候是用Premium沒錯
+  - id: "1545811189047754795"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-05 23:01"
+    text: 好用很多 哈哈哈

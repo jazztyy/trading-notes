@@ -1,0 +1,183 @@
+slug: "1550401481386102789"
+title: 日內交界/壓力/支撐點位算法(Alina公式)與日範圍
+type: 教學
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+teacher: Alina
+channel: 一般
+date: "2026-09-18"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1550401481386102789
+summary: Alina分享日內撐壓算法：交界=(日高+日低+收盤x2)/4，壓力/支撐=交界±0.75x(日高-日低)，只用8:45-13:45日盤數據推算夜盤+隔日日盤；股票也適用。Shawn寫成TradingView腳本，說震幅小時好用、震幅大可參考前幾日交界撐壓。
+hidden: false
+messages:
+  - id: "1550401481386102789"
+    author: Alina
+    teacher: true
+    time: "2026-09-18 15:01"
+    text: 日範圍參考壓力47850、交界47305、撐47004
+  - id: "1550870528439484436"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-19 22:05"
+    text: 打算進去問台指期的撐壓
+  - id: "1550874183834271745"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 22:20"
+    text: |-
+      我自己目前抓的日內撐壓點位算法是
+      交界=(日高點+日低點+收盤x2)/4
+      壓力=交界+0.75x(日高-日低）
+      支撐=交界+0.75x(日高-日低）
+      依據前一個交易日的日盤收盤結果推算
+    reply:
+      id: "1550870528439484436"
+      author: Shawnnnn
+      text: 打算進去問台指期的撐壓
+      inGroup: true
+  - id: "1550874521928466523"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 22:21"
+    text: 不過我也還在測試復盤這點位參考性哈哈哈
+  - id: "1550874607240749087"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 22:22"
+    text: 我也很好奇那些大神怎麼看😆
+    reply:
+      id: "1550870528439484436"
+      author: Shawnnnn
+      text: 打算進去問台指期的撐壓
+      inGroup: true
+  - id: "1550875007624945815"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 22:23"
+    text: 股票的我目前也是用這個算法
+    reply:
+      id: "1550874183834271745"
+      author: Alina
+      text: 我自己目前抓的日內撐壓點位算法是 交界=(日高點+日低點+收盤x2)/4 壓力=交界+0.75x(日高-日低） 支撐=交
+      inGroup: true
+  - id: "1550875729200156683"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-19 22:26"
+    text: 謝謝分享~日高是指15:00~隔天的13:45嗎
+    reply:
+      id: "1550874183834271745"
+      author: Alina
+      text: 我自己目前抓的日內撐壓點位算法是 交界=(日高點+日低點+收盤x2)/4 壓力=交界+0.75x(日高-日低） 支撐=交
+      inGroup: true
+  - id: "1550875873631019043"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 22:27"
+    text: 不是，只看8:45-13:45的，就是純日盤的
+    reply:
+      id: "1550875729200156683"
+      author: Shawnnnn
+      text: 謝謝分享~日高是指15:00~隔天的13:45嗎
+      inGroup: true
+  - id: "1550875907009282170"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 22:27"
+    text: 不是全的那個
+  - id: "1550876094058463445"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 22:27"
+    text: 所以日盤收盤完就會算出夜盤到隔日盤適用的撐壓范圍
+    reply:
+      id: "1550875907009282170"
+      author: Alina
+      text: 不是全的那個
+      inGroup: true
+  - id: "1550884853669437552"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-19 23:02"
+    text: Alina你說的公式方便我寫成腳本嗎
+  - id: "1550885084096233622"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 23:03"
+    text: 當然可以啊～其實我有想寫，但每次下班好累就沒有去用🤣
+    reply:
+      id: "1550884853669437552"
+      author: Shawnnnn
+      text: Alina你說的公式方便我寫成腳本嗎
+      inGroup: true
+  - id: "1550885393895915554"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 23:04"
+    text: 那個是我目前測起來覺得參考價值還可以的🤣
+    reply:
+      id: "1550874183834271745"
+      author: Alina
+      text: 我自己目前抓的日內撐壓點位算法是 交界=(日高點+日低點+收盤x2)/4 壓力=交界+0.75x(日高-日低） 支撐=交
+      inGroup: true
+  - id: "1550890763343106069"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-19 23:26"
+    text: ""
+    images:
+      - src: /img/1550890763343106069-image.jpg
+        alt: TradingView微台1小時圖：腳本畫出壓力47070、交界46580、支撐46089三條階梯虛線
+  - id: "1550891534927405109"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-19 23:29"
+    text: 這個回測看一下在震幅不大的時候蠻好用的，震幅大一點的盤其實把前幾天的交界壓力支撐拿來參考也是不錯
+    reply:
+      id: "1550890763343106069"
+      author: Shawnnnn
+      text: ""
+      inGroup: true
+  - id: "1550891611393622149"
+    author: ROCH
+    teacher: false
+    time: "2026-09-19 23:29"
+    text: 這個是你新弄的指標嗎
+    reply:
+      id: "1550890763343106069"
+      author: Shawnnnn
+      text: ""
+      inGroup: true
+  - id: "1550891726892306463"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-19 23:30"
+    text: 不是這是Alina提供的計算方法我把它寫出腳本而已
+  - id: "1550892288622862347"
+    author: Alina
+    teacher: true
+    time: "2026-09-19 23:32"
+    text: 算起來好像不一樣，目前應該是這個
+    reply:
+      id: "1550401481386102789"
+      author: Alina
+      text: 日範圍參考壓力47850、交界47305、撐47004
+      inGroup: true
+quiz:
+  - q: Alina 的日內撐壓算法，日高、日低、收盤取的是哪段時間的數據？
+    o:
+      - 前一天 15:00 到當天 13:45 的全盤
+      - 只看夜盤 15:00 到隔天 5:00
+      - 只看 8:45-13:45 的純日盤
+      - 最近五個交易日的平均
+    a: 2
+    e: Alina 說「只看 8:45-13:45 的，就是純日盤的」，日盤收盤後就算出夜盤到隔日日盤適用的撐壓。
+  - q: Shawnnnn 把公式寫成腳本回測後，對它的使用時機有什麼心得？
+    o:
+      - 震幅越大越準，盤整時訊號太雜就不要拿來用
+      - 只適合股票，台指期波動太大所以參考性低
+      - 只能在夜盤用，日盤要用前一天的資料重新計算
+      - 震幅不大時好用，震幅大時可參考前幾天的交界撐壓
+    a: 3
+    e: Shawnnnn 說「在震幅不大的時候蠻好用的，震幅大一點的盤其實把前幾天的交界壓力支撐拿來參考也是不錯」。

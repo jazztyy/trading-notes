@@ -1,0 +1,111 @@
+slug: "1555419958551380120"
+title: 5分K轉空時想做多改看15/30分
+type: 提問
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+  - 進場時機
+teacher: Alina
+channel: 一般
+date: "2026-10-02"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555419958551380120
+summary: 宸問5分趨勢往下時進多是否危險，Shawnnnn回答對，想做多可以看15M或30M的白線去掛單；Alina補充可參考推播機器人690多空交界位，進場要抓好防守位，並等5分K收K（11:35）確認。Mikey觀察11:35的5分K沒站上EMA5，多單偏危險。
+hidden: false
+messages:
+  - id: "1555419958551380120"
+    author: 宸
+    teacher: false
+    time: "2026-10-02 11:23"
+    text: 5分趨勢往下了 這時候進多是不是偏危險😂
+  - id: "1555420761639092275"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 11:26"
+    text: 對
+  - id: "1555420878072717353"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 11:27"
+    text: 你想進多可以去看15M或30M去掛
+  - id: "1555420911325151233"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 11:27"
+    text: 參考推播機器人690交界位
+  - id: "1555421103596249149"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 11:28"
+    text: 進就要抓好防守位～
+  - id: "1555421181459570802"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 11:28"
+    text: 知道筍點隨時想做都可以做🤣
+  - id: "1555422569191047200"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 11:33"
+    text: 看35分收k怎麼收了
+  - id: "1555422735256264727"
+    author: 宸
+    teacher: false
+    time: "2026-10-02 11:34"
+    text: 30跟15嗎 還有35的嗎😂
+    reply:
+      id: "1555422569191047200"
+      author: Alina
+      text: 看35分收k怎麼收了
+      inGroup: true
+  - id: "1555422802188836877"
+    author: Alina
+    teacher: true
+    time: "2026-10-02 11:34"
+    text: 不是，5分k的收k
+  - id: "1555423593066664000"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-02 11:38"
+    text: 15分k的白線嗎？我不太懂
+    reply:
+      id: "1555420878072717353"
+      author: Shawnnnn
+      text: 你想進多可以去看15M或30M去掛
+      inGroup: true
+  - id: "1555423783463162019"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-02 11:38"
+    text: 對
+  - id: "1555424150435266582"
+    author: Mikey
+    teacher: false
+    time: "2026-10-02 11:40"
+    text: 11:35的5分k沒站上EMA5，多單感覺危
+  - id: "1555424345688637504"
+    author: 宸
+    teacher: false
+    time: "2026-10-02 11:41"
+    text: 30跟15還是偏多還沒碰到線😂
+  - id: "1555424419520716933"
+    author: 宸
+    teacher: false
+    time: "2026-10-02 11:41"
+    text: 但15的線有慢慢下灣
+quiz:
+  - q: 5 分 K 趨勢往下時還想做多，Shawnnnn 建議怎麼做？
+    o:
+      - 改看 1 分 K 找最低點直接抄底
+      - 直接在 5 分 K 的白線掛多單等
+      - 等 5 分 K 黃金交叉後再追多
+      - 去看 15 分或 30 分的白線掛單
+    a: 3
+    e: Shawnnnn 同意 5 分往下時進多偏危險，想進多可以去看 15M 或 30M（的白線）去掛。
+  - q: 要進場時，Alina 提醒要先做好什麼？
+    o:
+      - 抓好防守位，等 5 分 K 收 K 確認
+      - 先用市價單搶進，再等 5 分 K 設停損
+      - 一次滿倉進場，避免錯過 5 分 K 行情
+      - 只看推播機器人訊號，不用自己設停損
+    a: 0
+    e: Alina 說可參考 690 交界位，進就要抓好防守位，並看 5 分 K（11:35）怎麼收。

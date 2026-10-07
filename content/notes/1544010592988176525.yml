@@ -1,0 +1,160 @@
+slug: "1544010592988176525"
+title: 夜盤盤整復盤與停利分批做法
+type: 分析
+topic: 盤整震盪
+tags:
+  - 盤整震盪
+  - 停損停利
+  - 交易心態
+teacher: nick_AJ
+channel: 圖表分析聊天區
+date: "2026-08-31"
+url: https://discord.com/channels/1542520115562545162/1542744375547920474/1544010592988176525
+summary: nick 夜盤盤整時只在1、2號紅圈後回採才進；肖恩同樣在2號圈做空。停利做法：一口50點停利，另一口設保本；程式不看2分K所以未觸發；不符標準就放棄、克服 FOMO。
+hidden: false
+messages:
+  - id: "1544010592988176525"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-31 23:46"
+    text: 肖恩大晚上好 今天夜盤 一直都很盤整 黃框的地方 我看不出來哪邊能做 就沒做 橘框那邊我也覺得篇混亂 也不敢進場 直到1號紅圈 跟2號紅圈出現 才開始做單
+    images:
+      - src: /img/1544010592988176525-image.jpg
+        alt: 夜盤K線圖，標註黃框/橘框盤整區與1、2號紅圈進場點
+  - id: "1544010710776807476"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-31 23:47"
+    text: 但是一號那根蠻大根的我第一時間沒進場我就也是不敢進了
+  - id: "1544010767693651988"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-31 23:47"
+    text: 2號圈回採後我才進去做單
+  - id: "1544010826921287730"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-31 23:47"
+    text: 您覺得還有那邊有疏漏的嗎
+  - id: "1544025291620487208"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 00:45"
+    text: 不錯唷！我今天也是在你2號圈那地方做空
+  - id: "1544025385858109522"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 00:45"
+    text: 我今天就這一單
+  - id: "1544025899094114344"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-01 00:47"
+    text: 我也是🫡
+  - id: "1544025945298575370"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-01 00:47"
+    text: 但是停利不知道怎麼抓
+  - id: "1544026064920248451"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-01 00:48"
+    text: 先抓一口50點停利了
+  - id: "1544026139729592350"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-01 00:48"
+    text: 然後另一口設定保本中
+  - id: "1544026255756755014"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 00:49"
+    text: 後面23:50 52也還有進場機會
+  - id: "1544026991894986853"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-01 00:52"
+    text: 我這邊有再進場補一口
+    reply:
+      id: "1544026255756755014"
+      author: Shawnnnn
+      text: 後面23:50 52也還有進場機會
+      inGroup: true
+  - id: "1544027057271341164"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-01 00:52"
+    text: 一樣設定保本
+  - id: "1544027472633405611"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 00:53"
+    text: 超讚！體感上有比較不會追高殺低嗎？雖然今天交易次數不會太多但蠻有感覺的
+    reply:
+      id: "1544027104176382053"
+      author: nick_AJ
+      text: 今天晚上就做這兩次
+      inGroup: false
+  - id: "1544027602979786844"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-01 00:54"
+    text: 但是程式一直沒觸發進場 反而在奇怪的地方進場了🤣
+    images:
+      - src: /img/1544027602979786844-Screenshot_20260901_005344_TradingView.jpg
+        alt: 手機2分K圖，回踩v4.6b指標顯示空-白線訊號，藍白線下彎
+  - id: "1544027682029838366"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-01 00:54"
+    text: 就是過程中都多少會有些fomo
+    reply:
+      id: "1544027472633405611"
+      author: Shawnnnn
+      text: 超讚！體感上有比較不會追高殺低嗎？雖然今天交易次數不會太多但蠻有感覺的
+      inGroup: true
+  - id: "1544027786396704900"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-01 00:55"
+    text: 看到跌下去 反彈上來沒跟到之類的
+  - id: "1544027802129403936"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 00:55"
+    text: 程式就不太能看2分了
+    reply:
+      id: "1544027602979786844"
+      author: nick_AJ
+      text: 但是程式一直沒觸發進場 反而在奇怪的地方進場了🤣
+      inGroup: true
+  - id: "1544027841031708792"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 00:55"
+    text: 確實會
+    reply:
+      id: "1544027786396704900"
+      author: nick_AJ
+      text: 看到跌下去 反彈上來沒跟到之類的
+      inGroup: true
+  - id: "1544027919611854918"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-01 00:55"
+    text: 但是就沒有符合進場標準 只能作罷
+  - id: "1544028190627070105"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-01 00:56"
+    text: 心態很正確了
+quiz:
+  - q: 夜盤一直盤整時，nick_AJ 的做法獲得 Shawnnnn 肯定，他是怎麼做的？
+    o:
+      - 看不出方向的盤整區不做，等回踩後才進場
+      - 在盤整區上下緣來回做多做空，賺區間價差
+      - 1號大K棒出現時立刻追進，搶突破第一段
+      - 每次反彈都進場試一口，避免錯過行情
+    a: 0
+    e: nick_AJ 看不出方向的盤整區都沒做，2號圈回踩後才進；看到行情沒跟到但不符標準就作罷，Shawnnnn 說心態很正確。

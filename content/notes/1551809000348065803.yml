@@ -1,0 +1,53 @@
+slug: "1551809000348065803"
+title: 看盤週期基準與進出場
+type: 教學
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+teacher: Alina
+channel: 一般
+date: "2026-09-22"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1551809000348065803
+summary: 語音結論：5分/15分看盤與找進出場，60分看趨勢；30分K看趨勢、5分以下找進場點；5分K沿線（5MA）做多/空，進出場抓5分。
+hidden: true
+messages:
+  - id: "1551809000348065803"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 12:14"
+    text: 他昨天應該說貼著線多
+  - id: "1551809202354126919"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 12:15"
+    text: 今天看起來是貼著5ma往下
+  - id: "1551809446022357115"
+    author: Alina
+    teacher: true
+    time: "2026-09-22 12:16"
+    text: 抓進出場都看5分，15分還60分看趨勢
+  - id: "1551810607983104033"
+    author: Kai
+    teacher: false
+    time: "2026-09-22 12:21"
+    text: 週期基準：5 分／15 分看盤，60 分看趨勢 上次語音的結論是這個
+  - id: "1551813952940548097"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-22 12:34"
+    text: 一小時收起來就很漂亮
+  - id: "1551838793278034002"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-22 14:13"
+    text: 確實 用一小時看的話
+    reply:
+      id: "1551813952940548097"
+      author: Shawnnnn
+      text: 一小時收起來就很漂亮
+      inGroup: true
+  - id: "1551838818209112067"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-22 14:13"
+    text: 是很完美的回踩

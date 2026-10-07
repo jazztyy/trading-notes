@@ -1,0 +1,126 @@
+slug: "1555146991812616233"
+title: 右側交易：突破後等回踩再進，不追第3根
+type: 教學
+topic: 進場時機
+tags:
+  - 進場時機
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-01"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1555146991812616233
+summary: Shawn 屬右側交易，不是突破就追，一定等回踩；趨勢轉變後的回踩進場；2分K掛白線；日K歷史上連跌5根較少；停利看量與盤感。
+hidden: false
+messages:
+  - id: "1555146991812616233"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 17:18"
+    text: 師傅屬於右側交易，我們每次死都是抄底
+  - id: "1555147344876540035"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:20"
+    text: 但我不是突破就追 我都是一定等回踩才會進
+    reply:
+      id: "1555146991812616233"
+      author: 維尼Ni🌻
+      text: 師傅屬於右側交易，我們每次死都是抄底
+      inGroup: true
+  - id: "1555147806853828661"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 17:22"
+    text: 這樣一大段都撿的到嗎 像早上400發到600
+    reply:
+      id: "1555147344876540035"
+      author: Shawnnnn
+      text: 但我不是突破就追 我都是一定等回踩才會進
+      inGroup: true
+  - id: "1555148349806608425"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 17:24"
+    text: 48400直接一路噴到48600
+  - id: "1555148521261506600"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:25"
+    text: 看你捏不捏的住，事後看一定是可以
+    images:
+      - src: /img/1555148521261506600-image.jpg
+        alt: 5分K圖：藍圈標示從48400噴到48600的回踩進場點
+  - id: "1555149118727520267"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 17:27"
+    text: 2分k的藍圈點嗎 是幾點幾分的，我倒回去查48382...欸 我是48380逃走的 超哭，我366接
+    reply:
+      id: "1555148521261506600"
+      author: Shawnnnn
+      text: 看你捏不捏的住，事後看一定是可以
+      inGroup: true
+  - id: "1555149206702788680"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:27"
+    text: 這是5分K
+  - id: "1555149248222470206"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:27"
+    text: 我都是用你想要用的5分K給你看
+  - id: "1555149279667032146"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:28"
+    text: 我自己是用2分K
+  - id: "1555149760594317352"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:29"
+    text: 兩分k的我今天進場點位早上有分享給你看
+    images:
+      - src: /img/1555149760594317352-image.jpg
+        alt: 2分K進場點位圖，趨勢轉變後回踩掛白線
+  - id: "1555149844484587573"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:30"
+    text: 我就是掛白線
+  - id: "1555150172772900955"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-01 17:31"
+    text: 趨勢轉變後的回踩，看到了，所以不會追在第3根之類的
+    reply:
+      id: "1555149760594317352"
+      author: Shawnnnn
+      text: 兩分k的我今天進場點位早上有分享給你看
+      inGroup: true
+  - id: "1555150505989382186"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:32"
+    text: 對我不會追在第3根，你說的追第3根應該是別人跟你分享的
+  - id: "1555150677209124905"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-01 17:33"
+    text: 我只有說過日K歷史上連跌5根的比較少
+quiz:
+  - q: Shawnnnn 雖然屬於右側交易，他對「突破」的進場方式是？
+    o:
+      - 突破當下立刻市價追進，避免錯過行情
+      - 突破後連續第 3 根 K 棒再追進確認
+      - 等日 K 連跌 5 根後才開始找多單
+      - 不是突破就追，一定等回踩才進場
+    a: 3
+    e: Shawnnnn 說「我不是突破就追，我都是一定等回踩才會進」，也澄清自己不會追在第 3 根。
+  - q: 依 Shawnnnn 自己的做法，趨勢轉變後的回踩他用什麼週期、掛在哪裡？
+    o:
+      - 用 2 分 K，掛在白線
+      - 用 5 分 K，掛在藍線
+      - 用 15 分 K，掛在均價線
+      - 用 1 分 K，掛在前低
+    a: 0
+    e: Shawnnnn 說給維尼看的是 5 分 K，他自己是用 2 分 K，趨勢轉變後回踩「就是掛白線」。

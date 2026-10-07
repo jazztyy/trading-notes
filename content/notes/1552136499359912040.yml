@@ -1,0 +1,350 @@
+slug: "1552136499359912040"
+title: 9大點位的實戰：交界位試單、跳水位低接、測試次數
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 進場時機
+  - 停損停利
+teacher: Alina
+channel: 一般
+date: "2026-09-23"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1552136499359912040
+summary: Alina/維尼：到交界位通常先彈約100點，第一次測最敢試，越測越弱要小心；不帶量下穿代表多方仍撐，穿交界後連兩根仍跌或下一根帶量下跌就停損。掛支撐/跳水位低接（如47996、48038、47950）有成交並反彈，需先設好下一支撐停損。
+hidden: false
+messages:
+  - id: "1552136499359912040"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-23 09:56"
+    text: 昨天和今天，是不是在Alina算得那個交界位到就会先彈個100點
+  - id: "1552137457460314113"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-23 10:00"
+    text: 看測幾次會破 昨天是3次？昨天我沒算
+  - id: "1552148757901082635"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-23 10:45"
+    text: 測第二次了！又彈
+  - id: "1552148791464038434"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 10:45"
+    text: 我通常是觀察這位置反應
+    reply:
+      id: "1552137457460314113"
+      author: 維尼Ni🌻
+      text: 看測幾次會破 昨天是3次？昨天我沒算
+      inGroup: true
+  - id: "1552148862431666187"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 10:45"
+    text: 只要不要帶量下穿，就表示多軍還有撐
+  - id: "1552148880467034123"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 10:45"
+    text: 測幾次沒有一定
+  - id: "1552148902503776322"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-23 10:45"
+    text: 彈得沒第一次有力
+  - id: "1552149435981631570"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 10:47"
+    text: 不過我有時候會在交界位試單
+  - id: "1552149457066532905"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 10:47"
+    text: 風險好抓
+  - id: "1552151177141952523"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 10:54"
+    text: 對，如果按現在盤勢是短空長多，我就會試多
+    reply:
+      id: "1552149682031955971"
+      author: 維尼Ni🌻
+      text: 試多單嗎
+      inGroup: false
+  - id: "1552151243458220094"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 10:54"
+    text: 點位掛在交界位
+    images:
+      - src: /img/1552151243458220094-image.jpg
+        alt: Alina 的5分K交界位掛單示意圖（局部，含BOS標記）
+  - id: "1552151437310697493"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 10:55"
+    text: 但如果穿交界下出現兩跟還是下跌，我就會停損
+  - id: "1552151508936556618"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 10:55"
+    text: 或者下一根也是帶量下跌
+  - id: "1552151659931508807"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 10:56"
+    text: 有時候會騙線
+    reply:
+      id: "1552151437310697493"
+      author: Alina
+      text: 但如果穿交界下出現兩跟還是下跌，我就會停損
+      inGroup: true
+  - id: "1552151693431414886"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 10:56"
+    text: 但至少這個位置我比較有把握
+  - id: "1552151744564301916"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 10:56"
+    text: 目前看起來都有要守
+    reply:
+      id: "1552151243458220094"
+      author: Alina
+      text: 點位掛在交界位
+      inGroup: true
+  - id: "1552152849012625471"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 11:01"
+    text: 不過我不喜歡關鍵位測太多次
+  - id: "1552152970991378443"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 11:01"
+    text: 越測越弱就要小心跌破了
+  - id: "1552153085382492235"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 11:02"
+    text: 通常第一次測我會最敢試
+  - id: "1552160407052099728"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-23 11:31"
+    text: 第三次直接再下100點了
+    reply:
+      id: "1552153085382492235"
+      author: Alina
+      text: 通常第一次測我會最敢試
+      inGroup: true
+  - id: "1552160722644115600"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-23 11:32"
+    text: 以後我掛交界撿一下，昨天和今天都驗證了
+  - id: "1552160873773138071"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 11:33"
+    text: 越彈越弱，測太多次很容易就掰
+    reply:
+      id: "1552160407052099728"
+      author: 維尼Ni🌻
+      text: 第三次直接再下100點了
+      inGroup: true
+  - id: "1552160914885705810"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 11:33"
+    text: 所以我不喜歡關鍵點位一直測
+  - id: "1552160967142547499"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 11:33"
+    text: 雖然有另一派說法是越測越穩 XD
+  - id: "1552162232542961736"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-23 11:38"
+    text: 越測越穩是向上嘎空時越嘎越兇😆
+    reply:
+      id: "1552160967142547499"
+      author: Alina
+      text: 雖然有另一派說法是越測越穩 XD
+      inGroup: true
+  - id: "1552164126426398761"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 11:46"
+    text: 對，所以方向從上從下來的也有差XD
+  - id: "1552164290167967765"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 11:46"
+    text: 點位另一方面主要也是讓自己好抓筍
+  - id: "1552183656888533033"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 13:03"
+    text: 空軍幫多軍上香了
+  - id: "1552183748760571988"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 13:04"
+    text: 交界變壓力
+  - id: "1552231992668717107"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 16:15"
+    text: 這種盤我也會掛支撐試看看
+  - id: "1552232038231183394"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 16:15"
+    text: 邏輯上碰到會彈一下
+  - id: "1552232406608777317"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-23 16:17"
+    text: 夜盤被交界壓著打 下去阿！
+  - id: "1552232553232994368"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 16:17"
+    text: 對，交界下偏空看
+  - id: "1552232780937699419"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 16:18"
+    text: 不過下面看起也有一關一關撐，所以就觀察看看反應~
+  - id: "1552284713857851433"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 19:45"
+    text: 點位我都會試單欸，然後看裸k還有量
+  - id: "1552284807004688435"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 19:45"
+    text: 點位進對我來說好抓筍
+  - id: "1552285025997692971"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 19:46"
+    text: 像我就已經掛了48038哈哈
+  - id: "1552285953781927937"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 19:50"
+    text: 大級別如果偏多，我就會更願意試支撐位多單XD
+  - id: "1552286003740418159"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 19:50"
+    text: 對
+  - id: "1552286056819195905"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 19:50"
+    text: 穩一點就是看在那個位階的反應
+  - id: "1552287497067831369"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 19:56"
+    text: 像女神說的180
+  - id: "1552287611257888899"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 19:56"
+    text: 如果碰支撐沒有強彈，那就可能再往下
+  - id: "1552287767931781133"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 19:57"
+    text: 我覺得設好智慧單滿重要 XD
+  - id: "1552287809535217826"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 19:57"
+    text: 至少保利或者停損
+  - id: "1552287836168790092"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 19:57"
+    text: 不要損失太多本金
+  - id: "1552320383787601922"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-23 22:07"
+    text: 是不是要去47994蹲點了
+  - id: "1552320920482218035"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 22:09"
+    text: 50平最後一口，觀察等低接了
+  - id: "1552321303401467956"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 22:10"
+    text: 不過H真的滿強的
+  - id: "1552321677550166169"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-09-23 22:12"
+    text: 哇操47996接到了
+  - id: "1552321850191650897"
+    author: nick_AJ
+    teacher: true
+    time: "2026-09-23 22:12"
+    text: 但是要注意先設好下個支撐停損XDD
+  - id: "1552321873356922951"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 22:12"
+    text: 對
+  - id: "1552321905502064672"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 22:13"
+    text: 有點位就比較好抓筍
+  - id: "1552328447274000649"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 22:39"
+    text: 掛一個950試試
+  - id: "1552330868767457403"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 22:48"
+    text: 對，我就是看他一直插就買多一口微
+  - id: "1552340466819792978"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 23:26"
+    text: 如果回交界就太漂亮了但應該有難度
+  - id: "1552340511161974906"
+    author: Alina
+    teacher: true
+    time: "2026-09-23 23:26"
+    text: 大家都進步了超棒！
+quiz:
+  - q: 關鍵位被反覆測試時，Alina 的看法是？
+    o:
+      - 越測越穩，測越多次越敢進
+      - 測幾次都一樣，只看當下有沒有帶量
+      - 第三次測試最安全，前兩次先觀察
+      - 越測越弱要小心跌破，第一次測最敢試
+    a: 3
+    e: Alina 不喜歡關鍵位測太多次，越彈越弱容易破，通常第一次測最敢試；「越測越穩」是另一派說法。
+  - q: Alina 在交界位試多單後，什麼情況會停損？
+    o:
+      - 跌破交界一點點就立刻停損，不管有沒有帶量
+      - 穿交界後連兩根仍跌，或下一根帶量下跌
+      - 等跌到下一個跳水位才停損，中間波動不理
+      - 收盤沒站回交界就停損，或盤中跌破前低時
+    a: 1
+    e: Alina 說穿交界下出現兩根還是下跌就停損，或下一根也是帶量下跌；不帶量下穿表示多軍還有撐。

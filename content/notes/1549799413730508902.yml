@@ -1,0 +1,190 @@
+slug: "1549799413730508902"
+title: 9/16 夜盤：月均線壓力、反手空與停損設定
+type: 分析
+topic: 盤勢判讀
+tags:
+  - 盤勢判讀
+  - 停損停利
+teacher: Shawnnnn
+channel: 一般
+date: "2026-09-16"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1549799413730508902
+summary: 夜盤到壓力、月均線到站，Shawnnnn 反手空並設630停損；Alina 想600空500補，觀察60分K 46674與插針區的撐壓轉換；夜盤收高日盤才好出貨。
+hidden: false
+messages:
+  - id: "1549799413730508902"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 23:09"
+    text: 到壓力囉
+  - id: "1549799429954084945"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 23:09"
+    text: 剛剛看參數30分kTP3了
+  - id: "1549799673559130164"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 23:10"
+    text: 月均線到站
+    images:
+      - src: /img/1549799673559130164-image.jpg
+        alt: 2分K圖，快速上漲碰到月均線（淺紫虛線）
+  - id: "1549800079148449892"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 23:12"
+    text: 反手空一個
+    images:
+      - src: /img/1549800079148449892-image.jpg
+        alt: 成交回報：賣出微型台指10，成交均價46,600（反手空）
+  - id: "1549800366445568102"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 23:13"
+    text: 設630停損哈哈哈
+  - id: "1549800400159252481"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 23:13"
+    text: 這個盤那麼強不能開玩笑
+  - id: "1549800594640736319"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 23:14"
+    text: 對，就吃個回測看看
+    reply:
+      id: "1549800400159252481"
+      author: Shawnnnn
+      text: 這個盤那麼強不能開玩笑
+      inGroup: true
+  - id: "1549801236633624587"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 23:16"
+    text: 但是那兩根量能感覺也不好跌破
+    reply:
+      id: "1549801028076044453"
+      author: Alina
+      text: 我剛剛想說空這500補，賭一個回踩哈哈哈
+      inGroup: false
+  - id: "1549803549796343829"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 23:26"
+    text: 我現在也都會把Alina喊得點位在TV劃線起來當參考
+  - id: "1549804367417188395"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 23:29"
+    text: 感覺要空要日盤看看🤔夜盤收高，日盤就好出貨
+  - id: "1549804410446553089"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 23:29"
+    text: 插針位可以賭一下哈哈哈
+    reply:
+      id: "1549804282365349971"
+      author: Shawnnnn
+      text: 然後我掛一口跌停看兩點會不會到(?
+      inGroup: false
+  - id: "1549805495689281678"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 23:33"
+    text: 我原本是想600空500補，看500有沒有穩
+  - id: "1549806328837439558"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 23:37"
+    text: ""
+    images:
+      - src: /img/1549806328837439558-IMG_2826.jpg
+        alt: 券商App小台近全60分K，46,674附近，含MA、KD、MACD
+  - id: "1549806492830531626"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 23:37"
+    text: 這區間觀察看看，很多針
+    reply:
+      id: "1549806328837439558"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1549806518877163624"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 23:37"
+    text: 看看撐壓轉換
+  - id: "1549806618353598591"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 23:38"
+    text: 46674嗎
+    reply:
+      id: "1549806492830531626"
+      author: Alina
+      text: 這區間觀察看看，很多針
+      inGroup: true
+  - id: "1549806837535346732"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 23:39"
+    text: 對，目前60分k看起來是
+  - id: "1549806906179190927"
+    author: Alina
+    teacher: true
+    time: "2026-09-16 23:39"
+    text: 大概那位置
+  - id: "1549809403467661512"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-16 23:49"
+    text: ""
+    images:
+      - src: /img/1549809403467661512-image.jpg
+        alt: 成交回報：微型台指106 買進1口，46,520
+  - id: "1549814798462484626"
+    author: CHI
+    teacher: false
+    time: "2026-09-17 00:10"
+    text: |-
+      一小時11.那根上影線
+      Shawnnnn哥 你覺得會突破嗎
+  - id: "1549815375980667003"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-17 00:12"
+    text: 那邊壓力大大耶
+  - id: "1549815712455852095"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-09-17 00:14"
+    text: 等兩點吧~
+  - id: "1549961045207023647"
+    author: Alina
+    teacher: true
+    time: "2026-09-17 09:51"
+    text: 確認是不是有效轉支撐
+    reply:
+      id: "1549806328837439558"
+      author: Alina
+      text: ""
+      inGroup: true
+quiz:
+  - q: 夜盤急漲時，Shawnnnn 反手空一口的依據是什麼？
+    o:
+      - KD 高檔鈍化，MACD 翻綠
+      - 成交量突然萎縮，判斷多方力竭
+      - 價格到壓力、碰到月均線
+      - 選擇權未平倉顯示上方賣壓重
+    a: 2
+    e: 他先說「到壓力囉」，再貼圖說「月均線到站」，才反手空，並且因為盤很強把停損設得很近。
+  - q: Alina 為什麼覺得要空的話等日盤再看比較好？
+    o:
+      - 夜盤收高的話，日盤才好出貨
+      - 夜盤量小，停損容易被掃
+      - 日盤有法人進場，方向比較明確
+      - 夜盤只能做多，日盤才適合做空
+    a: 0
+    e: Alina 說「感覺要空要日盤看看，夜盤收高，日盤就好出貨」；同時她也觀察 60 分 K 插針區的撐壓轉換。

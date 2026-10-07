@@ -1,0 +1,211 @@
+slug: "1542578783750463588"
+title: 移動止盈與分批停利
+type: 教學
+topic: 停損停利
+tags:
+  - 停損停利
+  - 資金與風險
+teacher: Shawnnnn
+channel: 一般
+date: "2026-08-28"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1542578783750463588
+summary: Shawnnnn說明多空來回做一個月約12000點，成本拉開後可放著讓獲利跑，停利方式因人而異並一定停損；帝王策略為4口分層停利(150/330/600點，第4口抱到反手)；以150點為例示範進場點。
+hidden: false
+messages:
+  - id: "1542578783750463588"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 00:57"
+    text: 然後一定要停損
+  - id: "1542578808983527504"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 00:57"
+    text: 不然會很慘
+  - id: "1542579085098615006"
+    author: YOU
+    teacher: false
+    time: "2026-08-28 00:58"
+    text: 12000點是因為 成本點位拉開了 所以放飛看看嗎 移動止盈位子這樣嗎
+  - id: "1542579215332024401"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 00:59"
+    text: 對就是可能你進場開始噴，成本很好就捏著
+    reply:
+      id: "1542579085098615006"
+      author: YOU
+      text: 12000點是因為 成本點位拉開了 所以放飛看看嗎 移動止盈位子這樣嗎
+      inGroup: true
+  - id: "1542579402859225208"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 00:59"
+    text: S大一次做幾口呢
+  - id: "1542579423591530606"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 00:59"
+    text: ""
+    images:
+      - src: /img/1542579423591530606-image.jpg
+        alt: TradingView圖：Shawnnnn示範進場後獲利約150點的位置
+  - id: "1542579468206346382"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 01:00"
+    text: 就以現在來看
+  - id: "1542579550028963890"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 01:00"
+    text: 剛剛進場現在賺了150點我覺得已經拉出去了我就放著
+  - id: "1542579606077448192"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 01:00"
+    text: 但如果你滿足了那就停利也OK
+  - id: "1542579638763786340"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 01:00"
+    text: 停利方式百百種你舒服就好
+  - id: "1542579762617393292"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 01:01"
+    text: 不是XDDDD是來回做一個月12000點
+    reply:
+      id: "1542579393010995250"
+      author: Jessie
+      text: 37000-49000嗎🥹太強了吧
+      inGroup: false
+  - id: "1542579811141296178"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 01:01"
+    text: 做多做空做多做空
+  - id: "1542579831395319892"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 01:01"
+    text: |-
+      第1口 → 150 點  出場
+      第2口 → 330 點  出場
+      第3口 → 600 點  出場
+      第4口 → 無停利，抱到反手訊號
+  - id: "1542579863293272096"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 01:01"
+    text: 一開始先1口微台
+    reply:
+      id: "1542579402859225208"
+      author: nick_AJ
+      text: S大一次做幾口呢
+      inGroup: true
+  - id: "1542579891952951516"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 01:01"
+    text: 上面這是帝王策略的停利模式
+  - id: "1542579966972264519"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 01:02"
+    text: 先說這個是帝王的策略方式，我這邊是純手打
+    reply:
+      id: "1542579831395319892"
+      author: nick_AJ
+      text: 第1口 → 150 點 出場 第2口 → 330 點 出場 第3口 → 600 點 出場 第4口 → 無停利，抱到反手訊
+      inGroup: true
+  - id: "1542579995224842371"
+    author: Jessie
+    teacher: false
+    time: "2026-08-28 01:02"
+    text: 原來 我以為一口抱到底哈哈哈
+    reply:
+      id: "1542579762617393292"
+      author: Shawnnnn
+      text: 不是XDDDD是來回做一個月12000點
+      inGroup: true
+  - id: "1542580350612676639"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 01:03"
+    text: 論交易的單數，不論口數我一天大概25筆
+  - id: "1542580563905609848"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 01:04"
+    text: 哇 這樣你賺賠比一定很好
+  - id: "1542580631517667328"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 01:04"
+    text: 這如果有操作到真的很舒服吧
+    images:
+      - src: /img/1542580631517667328-image.jpg
+        alt: TradingView K線圖：Shawnnnn說明順利操作的一段行情
+  - id: "1542580738220892161"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 01:05"
+    text: 沒再看賺賠比，我不對就跑了
+    reply:
+      id: "1542580563905609848"
+      author: nick_AJ
+      text: 哇 這樣你賺賠比一定很好
+      inGroup: true
+  - id: "1542581008438661320"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 01:06"
+    text: 這一段你是挑在哪一根進場呢
+    reply:
+      id: "1542580631517667328"
+      author: Shawnnnn
+      text: 這如果有操作到真的很舒服吧
+      inGroup: true
+  - id: "1542581076000776263"
+    author: nick_AJ
+    teacher: true
+    time: "2026-08-28 01:06"
+    text: 突然跳一根
+  - id: "1542581077716242513"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 01:06"
+    text: 這邊呀
+    reply:
+      id: "1542579423591530606"
+      author: Shawnnnn
+      text: ""
+      inGroup: true
+  - id: "1542581214999744522"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 01:07"
+    text: 盤整跳一根不要急呀你看說明書就知道怎麼進場了
+  - id: "1542581317215199383"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-28 01:07"
+    text: 但有時候就是會一直噴上去那真的沒轍了
+quiz:
+  - q: 進場後成本已經拉開、獲利約150點時，Shawnnnn 怎麼處理這張單？
+    o:
+      - 立刻全部停利出場，避免150點獲利回吐
+      - 趁成本拉開加碼第二口，把部位放大
+      - 已經拉出去就先放著，滿足停利也可以
+      - 把停損移到進場價保本，之後就不再管它
+    a: 2
+    e: Shawnnnn 說賺了150點覺得已經拉出去就放著，但如果你滿足了停利也OK，停利方式你舒服就好。
+  - q: 盤整中突然跳出一根大K棒時，Shawnnnn 建議怎麼做？
+    o:
+      - 立刻市價追進，避免錯過這段行情
+      - 不要急，照說明書的方式等進場點
+      - 反向操作，賭它很快會回到盤整區
+      - 改看1小時K確認方向後再追價
+    a: 1
+    e: Shawnnnn 說盤整跳一根不要急，看說明書就知道怎麼進場；雖然有時會一直噴上去，那也沒轍。

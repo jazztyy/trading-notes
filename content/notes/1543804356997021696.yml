@@ -1,0 +1,156 @@
+slug: "1543804356997021696"
+title: 1小時K與多週期搭配、進出場週期
+type: 教學
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+  - 盤勢判讀
+teacher: Shawnnnn
+channel: 一般
+date: "2026-08-31"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1543804356997021696
+summary: 1小時K為空方趨勢時，回到綠線或白線視為反彈結束；新手建議用1小時看趨勢、2分/5分做單邊單；進場什麼週期出場也用同週期；週期越大支撐越強；空手不做逆勢多。
+hidden: false
+messages:
+  - id: "1543804356997021696"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-31 10:07"
+    text: 提醒:現在一小時K就是空方趨勢，如果有回到綠線或白線你可以視為反彈差不多結束，或是要開始震盪了
+  - id: "1543804370079187017"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-31 10:07"
+    text: ""
+    images:
+      - src: /img/1543804370079187017-image.jpg
+        alt: 1小時K空方趨勢圖
+  - id: "1543804497610940426"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-31 10:07"
+    text: 新手就是可以用1小時搭配著看
+  - id: "1543804619367522457"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-31 10:08"
+    text: 不一定要進單XD有時候觀察也是一種練習
+  - id: "1543812122050437150"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-31 10:38"
+    text: 日線也可以觀察
+    images:
+      - src: /img/1543812122050437150-image.jpg
+        alt: 日K碰白線附近
+  - id: "1543812180258848819"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-31 10:38"
+    text: 現在也是碰到白線附近
+  - id: "1543812251595710464"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-31 10:38"
+    text: 是否今天早盤就會開始在這震盪了
+  - id: "1543844357013241876"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-08-31 12:46"
+    text: 是指上面時間從2分調成1小時來看嗎？我怕我搞錯
+    reply:
+      id: "1543804356997021696"
+      author: Shawnnnn
+      text: 提醒:現在一小時K就是空方趨勢，如果有回到綠線或白線你可以視為反彈差不多結束，或是要開始震盪了
+      inGroup: true
+  - id: "1543844468577411254"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-08-31 12:46"
+    text: 慧根不夠，我先問清楚
+    images:
+      - src: /img/1543844468577411254-Screenshot_20260831_124510_TradingView.jpg
+        alt: 手機TV截圖：確認是否把週期切到1小時
+  - id: "1543845548212224001"
+    author: ROCH
+    teacher: false
+    time: "2026-08-31 12:51"
+    text: 素的
+  - id: "1543870741760442369"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-31 14:31"
+    text: |-
+      但要記得如果你還不太知道怎麼進出場，你一開始就是什麼週期進去什麼週期出來。5分K進就5分K出
+      厲害一點的可以一小時進5分K出我只是舉例可以去做搭配而已。
+      週期越大的線一定越有支撐，這不管套用在一般的平均線還是布林還是什麼技術指標都是一樣道理
+  - id: "1543871492629069865"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-31 14:34"
+    text: ""
+    reply:
+      id: "1543804370079187017"
+      author: Shawnnnn
+      text: ""
+      inGroup: true
+    images:
+      - src: /img/1543871492629069865-5C080FB4-D2A1-44E7-AD32-574E166B978A.jpg
+        alt: K線圖：紅圈處多單保利或上車的疑問
+  - id: "1543882788086751353"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-08-31 15:19"
+    text: 像這個紅圈表示先多單下車保利？還是上多車？我好混亂
+    reply:
+      id: "1543871492629069865"
+      author: Shawnnnn
+      text: ""
+      inGroup: true
+  - id: "1543891256935976980"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-31 15:52"
+    text: 空手的話絕對不是上多車🤣有單的話就看你要不要先收錢離場觀望
+    reply:
+      id: "1543882788086751353"
+      author: 維尼Ni🌻
+      text: 像這個紅圈表示先多單下車保利？還是上多車？我好混亂
+      inGroup: true
+  - id: "1543893288749375508"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-08-31 16:00"
+    text: 因為趨勢是向下的對吧，所以空手不上多車
+    reply:
+      id: "1543891256935976980"
+      author: Shawnnnn
+      text: 空手的話絕對不是上多車🤣有單的話就看你要不要先收錢離場觀望
+      inGroup: true
+  - id: "1543909198809665536"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-08-31 17:03"
+    text: 對，取決於你怎麼融會貫通各週期，彈性很大所以建議你可以一小時看趨勢2分、5分做單邊趨勢的單
+    reply:
+      id: "1543893288749375508"
+      author: 維尼Ni🌻
+      text: 因為趨勢是向下的對吧，所以空手不上多車
+      inGroup: true
+quiz:
+  - q: 還不太會進出場時，Shawnnnn 建議進出場週期怎麼搭配？
+    o:
+      - 什麼週期進就什麼週期出，如5分K進5分K出
+      - 一律用1小時K進場，再用1分K找點出場
+      - 用2分K進場、日線出場，讓獲利奔跑
+      - 進出場週期無所謂，看當下盤感決定就好
+    a: 0
+    e: Shawnnnn 說還不熟就什麼週期進去什麼週期出來；厲害一點才做一小時進、5分K出這類搭配。
+  - q: 1小時K是空方趨勢、價格反彈到紅圈處時，空手的人該怎麼做？依 Shawnnnn 的說法？
+    o:
+      - 上多車搶這段反彈，停損設在前低下方
+      - 先多空各一口對沖，等方向出來再平倉
+      - 有多單就加碼攤平，空手則等突破再追
+      - 空手絕不上多車；有單可先收錢離場觀望
+    a: 3
+    e: Shawnnnn 說空手的話絕對不是上多車，有單就看要不要先收錢離場觀望，因為大趨勢向下。
