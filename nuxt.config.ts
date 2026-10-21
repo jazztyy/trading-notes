@@ -19,7 +19,7 @@ export default defineNuxtConfig({
       htmlAttrs: { lang: 'zh-Hant' },
       title: '交易講義',
       meta: [
-        { name: 'description', content: 'AV帝王-TV樂園 Discord 討論整理：主題講義與複習。' },
+        { name: 'description', content: 'Discord 交易群組的討論整理：台指期交易理論、講義與複習。' },
         { name: 'robots', content: 'noindex' },
       ],
       link: [

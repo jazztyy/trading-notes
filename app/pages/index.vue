@@ -36,7 +36,7 @@ const latestDate = computed(() => notes.value.at(-1)?.date ?? '')
 
     <main class="mx-auto flex max-w-[960px] flex-col gap-8 px-4 pt-7 pb-16">
       <header class="flex flex-col gap-2">
-        <h1 class="text-h1 leading-tight font-bold text-highlighted">AV帝王-TV樂園 交易講義</h1>
+        <h1 class="text-h1 leading-tight font-bold text-highlighted">交易講義</h1>
         <p class="text-body text-muted">
           {{ meta.teachers.join('、') }} 在 Discord 的教學、問答與盤勢看法，依主題整理成 {{ concepts.length }} 個理論，
           原始對話 {{ notes.length }} 組放在各理論底下當補充，更新到 <span class="font-mono">{{ latestDate }}</span>。
