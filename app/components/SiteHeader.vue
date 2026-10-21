@@ -4,7 +4,7 @@
 const route = useRoute()
 
 const NAV = [
-  { label: '主題', to: '/', match: (p: string) => p === '/' || p.startsWith('/t/') || p.startsWith('/n/') },
+  { label: '主題', to: '/', match: (p: string) => p === '/' || p.startsWith('/t/') || p.startsWith('/c/') || p.startsWith('/n/') },
   { label: '複習', to: '/review', match: (p: string) => p.startsWith('/review') },
   { label: '筆記', to: '/memos', match: (p: string) => p.startsWith('/memos') },
   { label: '搜尋', to: '/search', match: (p: string) => p.startsWith('/search') },

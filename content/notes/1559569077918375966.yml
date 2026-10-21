@@ -1,0 +1,101 @@
+slug: "1559569077918375966"
+title: 黃金交叉與多週期趨勢一致
+type: 教學
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+  - 指標設定
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-13"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559569077918375966
+summary: 學員問雙線快穿過 EMA200 是不是就要黃金交叉，Alina 說要真正穿過才算（像 2 分 K 雙線向上穿過 EMA200），而大級別都下穿 EMA200 時，大級別 EMA200 的位置就是壓力。Shawnnnn 複習「大週期看趨勢、小週期看進場位置」：當時 30M、1H、4H 是下跌趨勢中的反彈，日 K 只是回檔；各週期看起來很混亂就代表在震盪，30M、1H、4H、日 K 同方向時才比較好做。
+hidden: false
+messages:
+  - id: "1559569077918375966"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-13 22:10"
+    text: ""
+    images:
+      - src: /img/1559569077918375966-image.jpg
+        alt: 台指期 2 分 K：白線、藍線雙線向上穿過橘色 EMA200，形成黃金交叉
+  - id: "1559576503463841803"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-13 22:40"
+    text: 當溫開水兩線都快穿過EMA200時 表示快變黃金交叉了嗎
+  - id: "1559576616621973677"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 22:40"
+    text: 穿過才是黃金交叉喔
+  - id: "1559576752068763759"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 22:41"
+    text: 像這個2分
+    reply:
+      id: "1559569077918375966"
+      author: nick_AJ
+      text: ""
+      inGroup: true
+  - id: "1559577063298441348"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 22:42"
+    text: 但像今天很多大級別的都下穿200，我就會大概看一下大級別EMA200在什麼位置
+  - id: "1559577072748208149"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-13 22:42"
+    text: |-
+      再複習一次
+      大週期看趨勢；小週期看進場位置
+    reply:
+      id: "1559576503463841803"
+      author: 維尼Ni🌻
+      text: 當溫開水兩線都快穿過EMA200時 表示快變黃金交叉了嗎
+      inGroup: true
+  - id: "1559577087218811002"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 22:42"
+    text: 就會是壓力
+  - id: "1559577738480980008"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-13 22:45"
+    text: 30M、1hr、4hr目前來看都是下跌趨勢只是反彈，但日K來看就是回檔，如果你會覺得很混亂那就代表現在是震盪，如果30M、1hr、4hr、日K都是同一方向那就代表會好做一點
+  - id: "1559579420266860696"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 22:51"
+    text: 看趨勢用大級別～
+  - id: "1559579481155313745"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 22:52"
+    text: 複習一下哈哈哈
+    reply:
+      id: "1559577072748208149"
+      author: Shawnnnn
+      text: 再複習一次 大週期看趨勢；小週期看進場位置
+      inGroup: true
+quiz:
+  - q: 雙線快要穿過 EMA200 時，依 Alina 的說法算不算黃金交叉？
+    o:
+      - 不算，要真正穿過才算，像 2 分K 那樣穿過
+      - 算，雙線靠近 EMA200 就可以提前佈局做多
+      - 算，只要其中一條線先穿過就已經成立了
+      - 不算，要等日K 也黃金交叉才算數成立
+    a: 0
+    e: Alina 說穿過才是黃金交叉，並以 2 分K 雙線向上穿過 EMA200 為例；大級別都下穿 200 時，大級別 EMA200 的位置就是壓力。
+  - q: Shawnnnn 說各週期看起來很混亂代表什麼？什麼時候比較好做？
+    o:
+      - 代表快要大漲，只要看 1 分K 找進場就好做
+      - 代表趨勢反轉，以最小週期的方向為準才好做
+      - 代表在震盪，30M、1H、4H、日K 同方向才好做
+      - 代表指標失靈，換成看量價關係判斷才好做
+    a: 2
+    e: Shawnnnn 說大週期看趨勢、小週期看進場位置；各週期很混亂就代表在震盪，30M、1H、4H、日K 都同一方向時才比較好做。

@@ -1,0 +1,169 @@
+slug: "1559959225747247255"
+title: 看線辦事：順勢紀律與破戒檢討
+type: 教學
+topic: 盤勢判讀
+tags:
+  - 交易心態
+  - 復盤回測
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-15"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559959225747247255
+summary: 大跌後大家一起檢討。Shawnnnn 貼出 30 分 K 參數的空單一路抱到底，坦言自己抱不了這麼久；他這個月本來要照自己的線只做順勢，盤中卻破戒逆勢做多，也承認自己逆勢勝率很低。Alina 的結論是看線辦事、不要聽太多雜訊，回頭看線和盤況其實早就是空頭長相，只是之前暴漲暴跌被軋怕、凹怕了；她說下個週期只當順勢仔，月底結算績效、檢討 11 月怎麼做。nick_AJ 和 Kai 提醒，參數就擺在眼前，很多人還是喜歡自己摸頭猜底，等於在享受賭博的快感。
+hidden: false
+messages:
+  - id: "1559959225747247255"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-15 00:01"
+    text: 我還真沒辦法抱這麼久
+    images:
+      - src: /img/1559959225747247255-image.jpg
+        alt: 微台 30 分 K：策略在下降趨勢線附近出 Short 訊號後一路抱單，價格跌到下方綠色支撐區仍沒有出場
+  - id: "1559959662143606825"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-15 00:02"
+    text: 這指標好像挺準的
+    reply:
+      id: "1559959225747247255"
+      author: Shawnnnn
+      text: 我還真沒辦法抱這麼久
+      inGroup: true
+  - id: "1560139205789880372"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 11:56"
+    text: 11月只當順勢仔🤣
+  - id: "1560145188683387012"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-15 12:19"
+    text: 我破戒了剛逆勢多
+  - id: "1560145547879391303"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-15 12:21"
+    text: 我不是 我逆勢勝率很低
+    reply:
+      id: "1560145317075222579"
+      author: Mikey
+      text: 轉折之王
+      inGroup: false
+  - id: "1560164659804381235"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 13:37"
+    text: 下個週期我只當順勢仔
+  - id: "1560206550314778675"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 16:23"
+    text: 結論還是看線辦事
+  - id: "1560206581038190663"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 16:23"
+    text: 不要太多雜訊
+  - id: "1560206688869548063"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 16:24"
+    text: 回頭看線看盤況的確都是空頭長相 XD
+  - id: "1560206754195701841"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 16:24"
+    text: 只是暴漲暴跌前面嘎怕凹怕 XD
+  - id: "1560233539180691560"
+    author: Kai
+    teacher: false
+    time: "2026-10-15 18:11"
+    text: 但大家都不相信參數亂做 笑死
+    reply:
+      id: "1560233389691371581"
+      author: nick_AJ
+      text: 開玩笑我們那個回測程試單勝利隨便也超過50%
+      inGroup: false
+  - id: "1560233655605923844"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-15 18:11"
+    text: 對 明明有最厲害的機器人在前面
+    reply:
+      id: "1560233539180691560"
+      author: Kai
+      text: 但大家都不相信參數亂做 笑死
+      inGroup: true
+  - id: "1560233668964782112"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-15 18:11"
+    text: 沒人要看🤣
+  - id: "1560233725571235902"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 18:11"
+    text: 我說我10月要遵守
+  - id: "1560233740834316311"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 18:11"
+    text: 都沒有🤣
+  - id: "1560233744990867489"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-15 18:11"
+    text: 還是喜歡自己摸頭猜底
+  - id: "1560233791497445477"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-15 18:12"
+    text: 享受那個賭博的快感😂
+  - id: "1560233956903882834"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-15 18:12"
+    text: 我是這個月要按照自己的線做順勢今天破戒🤣
+  - id: "1560234065746071575"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 18:13"
+    text: 師父還是師父，果然比較有紀律🤣
+  - id: "1560234095118655489"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-15 18:13"
+    text: 今天破戒了
+  - id: "1560234118015615037"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-15 18:13"
+    text: 沒紀律
+  - id: "1560234150651363440"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 18:13"
+    text: 這個月月底我再來結算績效🤣
+  - id: "1560234199095578715"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 18:13"
+    text: 檢討一下我11月怎麼做
+quiz:
+  - q: 大跌後檢討時，Alina 得出的結論是什麼？
+    o:
+      - 大跌時線容易失準，要改看消息面判斷
+      - 暴漲暴跌行情要敢逆勢接刀，報酬才大
+      - 看線辦事、少聽雜訊，線早就是空頭長相
+      - 線和盤況互相矛盾時，就應該空手觀望
+    a: 2
+    e: Alina 的結論是看線辦事、不要太多雜訊，回頭看線和盤況早就是空頭長相，只是之前暴漲暴跌被軋怕、凹怕了。
+  - q: nick_AJ 和 Kai 認為很多人有參數可看卻還是做不好，問題出在哪？
+    o:
+      - 參數勝率不到五成，所以大家不敢照著做
+      - 不相信眼前的參數，喜歡自己摸頭猜底
+      - 參數太多太複雜，新手來不及照著下單
+      - 照參數做但停損設太緊，常常被洗出場
+    a: 1
+    e: Kai 說大家都不相信參數亂做，nick_AJ 也說明明有好用的工具卻沒人看，還是喜歡自己摸頭猜底、享受賭博的快感；回測勝率其實超過 50%。

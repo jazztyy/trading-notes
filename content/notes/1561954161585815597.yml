@@ -1,0 +1,148 @@
+slug: "1561954161585815597"
+title: 當日斐波 0.618 回撤與白線穿 EMA 訊號
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 盤勢判讀
+  - 指標設定
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-20"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1561954161585815597
+summary: 10/20 午盤急殺，Shawnnnn 用當天低點 46222 到高點 46917 拉斐波，指出已經回到 0.618（46487）「夠深了」，46476 不能再破；後來跌到 0.786（46371）也有反應，再觀察。Alina 則看開盤價 46464 能不能守住，反彈要先站回紅色那條線（約 46613），46500 也要站上去，不然會被壓著走空方行情。tawpas 問 Shawnnnn 圖上的進出場標記是什麼，他說那只是白線穿過 EMA 時顯示的 BUY 或 SELL。
+hidden: false
+messages:
+  - id: "1561954161585815597"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 12:08"
+    text: 現在這裡關鍵
+  - id: "1561954665019613207"
+    author: Annahui
+    teacher: false
+    time: "2026-10-20 12:10"
+    text: 守500嗎
+    reply:
+      id: "1561954161585815597"
+      author: Shawnnnn
+      text: 現在這裡關鍵
+      inGroup: true
+  - id: "1561954705012297811"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 12:10"
+    text: 476不能再破了
+  - id: "1561954898491346945"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 12:11"
+    text: 守開盤價
+  - id: "1561954982687674388"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 12:11"
+    text: ""
+    images:
+      - src: /img/1561954982687674388-image.jpg
+        alt: 微台 1 分 K 用當日低 46222 到高 46917 拉斐波，價格回到 0.618（46487）；BUY/SELL 是白線穿越 EMA 的標記
+  - id: "1561955012043870269"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 12:11"
+    text: 到今天的0.618位置
+  - id: "1561955024509214732"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 12:11"
+    text: 夠深了
+  - id: "1561955230084628491"
+    author: Annahui
+    teacher: false
+    time: "2026-10-20 12:12"
+    text: 這好遠啊
+    reply:
+      id: "1561954898491346945"
+      author: Alina
+      text: 守開盤價
+      inGroup: true
+  - id: "1561955431553830995"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 12:13"
+    text: "464"
+    reply:
+      id: "1561955230084628491"
+      author: Annahui
+      text: 這好遠啊
+      inGroup: true
+  - id: "1561958877904371785"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 12:26"
+    text: 肖恩哥你那個進出場的那個是什麼
+    reply:
+      id: "1561954982687674388"
+      author: Shawnnnn
+      text: ""
+      inGroup: true
+  - id: "1561959088328282164"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 12:27"
+    text: 他那個就只是白線穿過EMA顯示出buy or sell而已
+  - id: "1561961590583066624"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 12:37"
+    text: 看能不能站回去線上
+    images:
+      - src: /img/1561961590583066624-image.jpg
+        alt: 5 分 K 跌破交界位後，紅色均線（約 46613）壓在上方，Alina 要看能不能站回去
+  - id: "1561961893285855285"
+    author: Annahui
+    teacher: false
+    time: "2026-10-20 12:38"
+    text: 613那條嗎
+  - id: "1561962086043754678"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 12:39"
+    text: 對，至少先紅色那條，500還是要上去
+    reply:
+      id: "1561961893285855285"
+      author: Annahui
+      text: 613那條嗎
+      inGroup: true
+  - id: "1561962458397151315"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 12:41"
+    text: 看起來又要被紅色那條壓制走空方行情
+  - id: "1561963874993840150"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 12:46"
+    text: 0.786也有反應一下再觀察看看
+    reply:
+      id: "1561963286914797680"
+      author: tawpas
+      text: 差500點了
+      inGroup: false
+quiz:
+  - q: 10/20 午盤急殺時，Shawnnnn 怎麼判斷回檔已經「夠深了」？
+    o:
+      - 用前一天高低點拉斐波，回到 0.5 就算夠深
+      - 用當天低點到高點拉斐波，回到 0.618 算夠深
+      - 用波段起漲點到當天高點拉斐波，跌破 0.382
+      - 看價格跌回開盤價附近，開盤價就是最深位置
+    a: 1
+    e: Shawnnnn 用當日低點到高點拉斐波，指出已經回到今天的 0.618 位置「夠深了」；守開盤價是 Alina 另外看的點。
+  - q: Shawnnnn 圖上出現的 BUY、SELL 標記代表什麼？
+    o:
+      - 斐波回撤到 0.618 時自動跳出的提示
+      - 撐壓點位機器人算出來的進出場建議價位
+      - 價格穿過 EMA200 時顯示的多空切換
+      - 白線穿過 EMA 時顯示的買賣訊號
+    a: 3
+    e: Shawnnnn 說那只是白線穿過 EMA 時顯示出 BUY 或 SELL 而已。

@@ -1,0 +1,86 @@
+slug: "1562289437239676948"
+title: 抓日盤高低點做區間震盪
+type: 分析
+topic: 盤整震盪
+tags:
+  - 盤整震盪
+  - 撐壓點位
+teacher: Alina
+channel: 一般
+date: "2026-10-21"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1562289437239676948
+summary: Alina 用當天日盤第一根的高點和低點框出區間：不破低就可能震盪到中午，等往上或往下突破再跟。她自己做的話會守日盤那根的低點（當天 46953）。
+hidden: false
+messages:
+  - id: "1562289437239676948"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:20"
+    text: 不要破低就可能區間震盪到中午，破了就...
+    images:
+      - src: /img/1562289437239676948-image.jpg
+        alt: 台指期 5分K 在 EQH（約 47250）與今日壓力 46953 之間震盪，接近區間下緣
+  - id: "1562289483834073162"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:20"
+    text: 我是希望區間震盪往上攻啦
+  - id: "1562290116901208105"
+    author: Annahui
+    teacher: false
+    time: "2026-10-21 10:23"
+    text: 破46953哦 這個怎麼跳啊
+    reply:
+      id: "1562289437239676948"
+      author: Alina
+      text: 不要破低就可能區間震盪到中午，破了就...
+      inGroup: true
+  - id: "1562290317170974794"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:23"
+    text: 今天日盤那根低點
+    reply:
+      id: "1562290116901208105"
+      author: Annahui
+      text: 破46953哦 這個怎麼跳啊
+      inGroup: true
+  - id: "1562290359134986281"
+    author: Annahui
+    teacher: false
+    time: "2026-10-21 10:24"
+    text: 哦哦
+  - id: "1562290448775647243"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:24"
+    text: 如果我做我自己是守這個
+    reply:
+      id: "1562290317170974794"
+      author: Alina
+      text: 今天日盤那根低點
+      inGroup: true
+  - id: "1562290794616848459"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:25"
+    text: 就抓日盤高+低區間震盪
+    reply:
+      id: "1562290359134986281"
+      author: Annahui
+      text: 哦哦
+      inGroup: true
+  - id: "1562290841215565895"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:26"
+    text: 看往上往下突破
+quiz:
+  - q: 10/21 早盤進入震盪，Alina 怎麼框出區間、決定方向？
+    o:
+      - 用前一天夜盤的高低點框區間，突破就反向做
+      - 用日盤那根的高低點框區間，等突破再跟進
+      - 用 5 分 K EMA200 上下 50 點框區間來回做
+      - 用斐波 0.382 和 0.618 框區間，碰到就進場
+    a: 1
+    e: Alina 說抓日盤高點加低點做區間震盪，看往上還往下突破；不破低就可能震盪到中午，她自己做會守日盤那根的低點。

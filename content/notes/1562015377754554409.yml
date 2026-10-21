@@ -1,0 +1,109 @@
+slug: "1562015377754554409"
+title: 碰白線進場，交界近好防守
+type: 分析
+topic: 進場時機
+tags:
+  - 進場時機
+  - 停損停利
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-20"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1562015377754554409
+summary: 10/20 夜盤 Alina 在 46400 附近進一口微台多單，Shawnnnn 也跟進，他的進場點剛好是 1 分 K 出現 BUY 後、拉回碰到白線的位置。Alina 說她是看線進場：5 分 K 雙線交叉，而且離交界很近，停損距離短、好防守；但如果遲遲站不上交界，她就會出場。後來價格被 5 分 K 的 60 均線壓下來，Shawnnnn 提醒 46384 要守。
+hidden: false
+messages:
+  - id: "1562015377754554409"
+    author: 宸
+    teacher: false
+    time: "2026-10-20 16:11"
+    text: 剛開盤看以為有戲 多了一口 我也需要安慰
+  - id: "1562017650433851423"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 16:20"
+    text: 加入你，多一口微🤣
+    reply:
+      id: "1562015377754554409"
+      author: 宸
+      text: 剛開盤看以為有戲 多了一口 我也需要安慰
+      inGroup: true
+  - id: "1562017669404692553"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 16:20"
+    text: 希望站上交界
+  - id: "1562017833351647235"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 16:21"
+    text: 400跟上
+  - id: "1562021566697574422"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 16:36"
+    text: 我是看到Alina的Call訊
+  - id: "1562021904104300654"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 16:37"
+    text: 這邊也剛好碰白線就進去
+    images:
+      - src: /img/1562021904104300654-image.jpg
+        alt: Shawnnnn 的 1 分 K：BUY 訊號後拉回碰白線（藍圈）進場，之後往上
+  - id: "1562021951139086337"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 16:37"
+    text: 對，我是看線的 XD
+    reply:
+      id: "1562021904104300654"
+      author: Shawnnnn
+      text: 這邊也剛好碰白線就進去
+      inGroup: true
+  - id: "1562022035134218281"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 16:37"
+    text: 5分交叉，交界近
+  - id: "1562022050141306901"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 16:37"
+    text: 好防守哈哈
+  - id: "1562024332862029825"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 16:47"
+    text: 真的是會沒耐心欸
+  - id: "1562024421416239195"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 16:47"
+    text: 再不上去交界我就要走了
+  - id: "1562024455230980150"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 16:47"
+    text: 被5/60壓下來
+  - id: "1562024876079058985"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 16:49"
+    text: 384要守
+quiz:
+  - q: 10/20 夜盤 Alina 進一口微台多單，她的依據是什麼？
+    o:
+      - 5 分雙線交叉，離交界近，停損好防守
+      - 1 分 K 出現 BUY 訊號，價格直接追進去
+      - 跌到斐波 0.618 位置，回撤夠深可以接
+      - 5 分 60 均線往上彎，代表空方力道轉弱
+    a: 0
+    e: Alina 說她是看線進場：5 分雙線交叉、離交界近，好防守；但遲遲站不上交界她就會走。
+  - q: Shawnnnn 跟進這筆多單時，進場點是怎麼抓的？
+    o:
+      - 等價格站上交界後，回測交界不破再進
+      - 1 分 K 出現 BUY 後，拉回碰到白線就進
+      - 等 5 分雙線黃金交叉確認後，市價追進
+      - 掛在 5 分 60 均線上，碰到就自動成交
+    a: 1
+    e: Shawnnnn 說他是 1 分 K 出現 BUY 訊號後，剛好拉回碰白線就進去。

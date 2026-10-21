@@ -1,0 +1,145 @@
+slug: "1562104504407822346"
+title: 大壓區看日K插針密集處
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 多週期判斷
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-20"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1562104504407822346
+summary: 夜盤急拉衝過盤中說的 46900 壓力。Alina 說真正的大壓是日K插針很多的地方，例如 47400-47500。Shawnnnn 標出 15分K 長均線下彎處的壓力，以及 30分K 的 47043-47166 壓力區。nick_AJ 把壓力一層層往上排：46953、47247、47573，提醒上攻沒力的話很快會被壓回去。
+hidden: false
+messages:
+  - id: "1562104504407822346"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 22:05"
+    text: ""
+    images:
+      - src: /img/1562104504407822346-image.jpg
+        alt: 微台 15分K：Shawnnnn 圈出前高與下彎長均線（46671-46811）形成的壓力
+  - id: "1562104516072185927"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 22:05"
+    text: 現在壓力
+  - id: "1562105346460491807"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 22:08"
+    text: 這週請去大壓區！然後就可以滾下去了
+  - id: "1562105395797958877"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 22:09"
+    text: 大壓在哪裡
+  - id: "1562105773792956429"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 22:10"
+    text: 46849-47091
+    reply:
+      id: "1562105395797958877"
+      author: tawpas
+      text: 大壓在哪裡
+      inGroup: true
+  - id: "1562110169826201663"
+    author: Annahui
+    teacher: false
+    time: "2026-10-20 22:28"
+    text: 下午說900也變成大壓 😂
+  - id: "1562110197311217678"
+    author: Annahui
+    teacher: false
+    time: "2026-10-20 22:28"
+    text: 結果
+  - id: "1562110224834498591"
+    author: Annahui
+    teacher: false
+    time: "2026-10-20 22:28"
+    text: 灌過去
+  - id: "1562110235886362674"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 22:28"
+    text: ""
+    images:
+      - src: /img/1562110235886362674-IMG_5039.jpg
+        alt: 3分K 一路拉到今日壓力 46953，1-15分K 轉偏多，1小時以上仍偏空
+  - id: "1562110340970446939"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 22:28"
+    text: 最大還是日k插針很多的地方
+    reply:
+      id: "1562110169826201663"
+      author: Annahui
+      text: 下午說900也變成大壓 😂
+      inGroup: true
+  - id: "1562110346636955682"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 22:28"
+    text: 47043-47166壓力
+  - id: "1562111388674166954"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 22:32"
+    text: 這是W嗎
+    images:
+      - src: /img/1562111388674166954-image.jpg
+        alt: 30分K 走出 W 底，上方 47043-47165 綠框是壓力區
+  - id: "1562111684443644075"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 22:34"
+    text: 大壓區壓力真的很大
+  - id: "1562114670251221013"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-20 22:46"
+    text: 剛過 46953 後面還有47247
+  - id: "1562114773112463472"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 22:46"
+    text: 然後400-500那也是日k插針一堆的地方
+    reply:
+      id: "1562114670251221013"
+      author: nick_AJ
+      text: 剛過 46953 後面還有47247
+      inGroup: true
+  - id: "1562114782977327107"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-20 22:46"
+    text: 沒力的話感覺很快會被押回去了
+  - id: "1562114866154836112"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-20 22:46"
+    text: 247後面是573
+    reply:
+      id: "1562114773112463472"
+      author: Alina
+      text: 然後400-500那也是日k插針一堆的地方
+      inGroup: true
+quiz:
+  - q: 夜盤急拉衝過盤中說的壓力後，Alina 認為真正的大壓看哪裡？
+    o:
+      - 日 K 插針很多、密集出現上影線的地方
+      - 盤中撐壓點位機器人算出的當日壓力
+      - 5 分 K EMA200 和交界位重疊的地方
+      - 前一天夜盤的最高點，也就是前高位置
+    a: 0
+    e: Alina 說最大的壓力還是日 K 插針很多的地方，例如 47400-47500 那一帶。
+  - q: Shawnnnn 在 15 分 K 圈出的壓力，是依據什麼？
+    o:
+      - 斐波 0.618 回撤和整數關卡的重疊處
+      - 前高和往下彎的長均線形成的壓力區
+      - 成交量最大的價位和當日開盤價附近
+      - 交界位和 EMA200 黃金交叉的位置
+    a: 1
+    e: Shawnnnn 在 15 分 K 圈出前高與下彎長均線形成的壓力，另外也標了 30 分 K W 底上方的壓力區。

@@ -52,6 +52,33 @@ export default defineContentConfig({
       }),
     }),
 
+    // 理論：同一個觀念的整理。content/concepts/{slug}.yml，手動維護（新的組由 agent 依 ../prompts/concept.md 歸進來）
+    // 每組沒隱藏的討論都屬於剛好一個理論，當作它的出處；討論的 topic 要和理論的 topic 一樣
+    concepts: defineCollection({
+      type: 'data',
+      source: 'concepts/*.yml',
+      schema: z.object({
+        slug: z.string(), // = 檔名，英文小寫加連字號，網址 /c/{slug}
+        title: z.string(),
+        topic: z.string(), // 必須是 topics.yml 的 name
+        order: z.number().int(), // 在主題裡的順序（由基礎到進階）
+        summary: z.string(), // 一兩句講完這個理論
+        // 說明：分段，每段一個小標題，內文是段落（text）和條列（items），可以附當時的 TV 截圖（figures）
+        sections: z.array(z.object({
+          heading: z.string(),
+          text: z.array(z.string()).default([]),
+          items: z.array(z.string()).default([]),
+          figures: z.array(z.object({
+            src: z.string(), // 討論裡的圖片路徑，例：/img/123-image.jpg
+            caption: z.string(), // 這張圖要看什麼
+            from: z.string(), // 出自哪組討論（slug，必須在 notes 裡）
+          })).default([]),
+        })),
+        cautions: z.array(z.string()).default([]), // 注意：容易犯的錯
+        notes: z.array(z.string()), // 出處：屬於這個理論的討論 slug，依時間由舊到新
+      }),
+    }),
+
     // 主題的順序與說明
     topics: defineCollection({
       type: 'data',

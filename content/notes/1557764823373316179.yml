@@ -1,0 +1,367 @@
+slug: "1557764823373316179"
+title: 斐波那契0.5與0.618預掛接多
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 進場時機
+  - 停損停利
+teacher: Alina
+channel: 一般
+date: "2026-10-08"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1557764823373316179
+summary: Alina 參考斐波那契回撤位置，在 0.618 與 0.5 預掛多單，空單則掛 48622、48550 分批平倉；結果一次回測到位，0.618 的 48443 成交，後來反彈近千點。Shawnnnn 提醒空單來得急走得也快，適合拚爆擊但要記得平。10/13 再回測時，Alina 把 0.618 當守位戰，加一口多；若 0.5 也沒守好，下一關看 0.382（48133），再破就看 48000，盤中跌破開盤價她先全平多單觀察。
+hidden: false
+messages:
+  - id: "1557764823373316179"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 22:41"
+    text: 原本想說回測到664，看來多軍還是有在努力
+    reply:
+      id: "1556511277269127209"
+      author: Shawnnnn
+      text: 那Q姊有一部份策略就是用匪波
+      inGroup: false
+  - id: "1557765376115351715"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-08 22:43"
+    text: 664其實也不會很遠耶
+  - id: "1557765447573700681"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 22:43"
+    text: 對啊，我原本空單目標
+    reply:
+      id: "1557765376115351715"
+      author: Shawnnnn
+      text: 664其實也不會很遠耶
+      inGroup: true
+  - id: "1557765558231896118"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 22:44"
+    text: 但後來看起來下不去，最後800平
+  - id: "1557787298760753183"
+    author: Alina
+    teacher: true
+    time: "2026-10-09 00:10"
+    text: 比0.382還深欸
+    reply:
+      id: "1556511277269127209"
+      author: Shawnnnn
+      text: 那Q姊有一部份策略就是用匪波
+      inGroup: false
+  - id: "1557819785184809002"
+    author: Alina
+    teacher: true
+    time: "2026-10-09 02:19"
+    text: 竟然也把0.618測完了
+    reply:
+      id: "1556511277269127209"
+      author: Shawnnnn
+      text: 那Q姊有一部份策略就是用匪波
+      inGroup: false
+  - id: "1557819954433228924"
+    author: Alina
+    teacher: true
+    time: "2026-10-09 02:20"
+    text: 還以為不會到，接到多了
+  - id: "1557820060658176161"
+    author: 宸
+    teacher: false
+    time: "2026-10-09 02:20"
+    text: 多在4XX嗎
+  - id: "1557820097744080987"
+    author: Alina
+    teacher: true
+    time: "2026-10-09 02:20"
+    text: "443"
+  - id: "1557820280364073101"
+    author: Alina
+    teacher: true
+    time: "2026-10-09 02:21"
+    text: 空單掛單平622、550
+  - id: "1557820362895528108"
+    author: Alina
+    teacher: true
+    time: "2026-10-09 02:21"
+    text: 然後掛了0.618的位置以為不會到欸
+  - id: "1557820436908220440"
+    author: Alina
+    teacher: true
+    time: "2026-10-09 02:22"
+    text: 0.5也有掛
+    reply:
+      id: "1556511277269127209"
+      author: Shawnnnn
+      text: 那Q姊有一部份策略就是用匪波
+      inGroup: false
+  - id: "1559008200412369049"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 09:01"
+    text: 這 XD
+    reply:
+      id: "1557820097744080987"
+      author: Alina
+      text: "443"
+      inGroup: true
+  - id: "1559008306167812198"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 09:02"
+    text: 0.618跟0.5位置我都有掛
+    reply:
+      id: "1556511277269127209"
+      author: Shawnnnn
+      text: 那Q姊有一部份策略就是用匪波
+      inGroup: false
+  - id: "1559008467983794177"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 09:03"
+    text: 好險空單有掛平
+  - id: "1559008596673699901"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 09:03"
+    text: 那時還遺憾平太早，現在想想真是明智 XD
+    reply:
+      id: "1559008467983794177"
+      author: Alina
+      text: 好險空單有掛平
+      inGroup: true
+  - id: "1559008908360552470"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 09:04"
+    text: 不知道還有沒有機會再回踩這欸，我還沒撿滿欸 XD
+    reply:
+      id: "1556511277269127209"
+      author: Shawnnnn
+      text: 那Q姊有一部份策略就是用匪波
+      inGroup: false
+  - id: "1559009130277245070"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 09:05"
+    text: 測那麼深的位置一次就好了吧(???
+    reply:
+      id: "1559008908360552470"
+      author: Alina
+      text: 不知道還有沒有機會再回踩這欸，我還沒撿滿欸 XD
+      inGroup: true
+  - id: "1559009193636143217"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 09:05"
+    text: 真得下去會很醜餒
+  - id: "1559009248107700346"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 09:06"
+    text: 也是，那上禮拜也算是一次到位
+  - id: "1559011082494803969"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 09:13"
+    text: 做空都來的很急走得也快
+  - id: "1559011112832208978"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 09:13"
+    text: 跟颱風一樣
+  - id: "1559011160500473857"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 09:13"
+    text: 對，所以上週六百多五百多就趕快平了 XD
+    reply:
+      id: "1559011082494803969"
+      author: Shawnnnn
+      text: 做空都來的很急走得也快
+      inGroup: true
+  - id: "1559011190204670024"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 09:13"
+    text: 我沒想到還更下去我傻眼 XD
+  - id: "1559011234152579103"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 09:14"
+    text: 做空比較好拚爆擊
+  - id: "1559011305833234545"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 09:14"
+    text: 掛一個樂透還成交 XD
+    reply:
+      id: "1559011190204670024"
+      author: Alina
+      text: 我沒想到還更下去我傻眼 XD
+      inGroup: true
+  - id: "1559054638114799698"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 12:06"
+    text: Q姐的0.618位置也快吃一千點
+    reply:
+      id: "1556511277269127209"
+      author: Shawnnnn
+      text: 那Q姊有一部份策略就是用匪波
+      inGroup: false
+  - id: "1559054791618072597"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 12:07"
+    text: 上禮拜以為不會成交
+  - id: "1559054813755342879"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 12:07"
+    text: 平完空單掛開心的
+  - id: "1559054840724856833"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 12:07"
+    text: 誰知道一次回測到位
+  - id: "1559054928947970111"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 12:07"
+    text: 如果0.5也成交就真的開心🥳
+  - id: "1559367879185399901"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 08:51"
+    text: 再回來看一下這張
+    reply:
+      id: "1556511277269127209"
+      author: Shawnnnn
+      text: 那Q姊有一部份策略就是用匪波
+      inGroup: false
+  - id: "1559371159756349501"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 09:04"
+    text: 還是0.618守位戰喔
+    reply:
+      id: "1556511277269127209"
+      author: Shawnnnn
+      text: 那Q姊有一部份策略就是用匪波
+      inGroup: false
+  - id: "1559371251183652928"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 09:04"
+    text: 0.382就48133 XD
+    reply:
+      id: "1559369443157745708"
+      author: Doobe
+      text: 回踩了？
+      inGroup: false
+  - id: "1559372049762488371"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 09:07"
+    text: 還真不小心烏鴉嘴欸
+    reply:
+      id: "1559008908360552470"
+      author: Alina
+      text: 不知道還有沒有機會再回踩這欸，我還沒撿滿欸 XD
+      inGroup: true
+  - id: "1559372127289872445"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 09:08"
+    text: 我補了
+  - id: "1559374721588404317"
+    author: Doobe
+    teacher: false
+    time: "2026-10-13 09:18"
+    text: 48443不知道怎麼算的
+    reply:
+      id: "1559373167082872948"
+      author: Alina
+      text: Q姐還是有料 XD
+      inGroup: false
+  - id: "1559374794292461649"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 09:18"
+    text: 斐波唷
+  - id: "1559374851691516049"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 09:18"
+    text: 我上禮拜有買到443
+  - id: "1559374993018589186"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 09:19"
+    text: 昨天遠月空對鎖，剛剛600回補空，又補了420一口多
+  - id: "1559375061834530861"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 09:19"
+    text: 賭守0.618位置
+  - id: "1559379430160470034"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 09:37"
+    text: 多單全平觀察看看了，跌破開盤價不喜歡
+  - id: "1559385441679966263"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 10:01"
+    text: 我覺得可以觀察這個
+    reply:
+      id: "1556511277269127209"
+      author: Shawnnnn
+      text: 那Q姊有一部份策略就是用匪波
+      inGroup: false
+  - id: "1559385847759904900"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 10:02"
+    text: 如果0.5也沒守好下關就0.382了
+  - id: "1559386125833994263"
+    author: Annahui
+    teacher: false
+    time: "2026-10-13 10:03"
+    text: 48133嗎
+    reply:
+      id: "1559385441679966263"
+      author: Alina
+      text: 我覺得可以觀察這個
+      inGroup: true
+  - id: "1559386213729968141"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 10:04"
+    text: 對
+  - id: "1559386295246135408"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 10:04"
+    text: 如果這也沒有守好48000再見
+quiz:
+  - q: Alina 這次預掛多單的位置是依據什麼決定的？
+    o:
+      - 斐波那契回撤的 0.618 和 0.5 位置
+      - 5 分K 的 EMA200 和前一波低點
+      - 聰明錢指標畫出的藍色支撐區塊
+      - 日K 缺口下緣和月線所在的位置
+    a: 0
+    e: Alina 參考斐波那契回撤，在 0.618 和 0.5 的位置都有預掛多單，結果 0.618 一次回測到位成交。
+  - q: Shawnnnn 說「做空都來的很急走得也快」，Alina 的空單是怎麼處理的？
+    o:
+      - 抱到 0.618 位置再一次全平，吃滿整段跌幅
+      - 不掛平倉單，改用移動停損讓獲利自己跑
+      - 事先掛好平倉單分批平，不去貪更深的目標
+      - 先轉成對鎖，等反彈確認之後再決定平不平
+    a: 2
+    e: Alina 空單事先掛單分批平倉，事後說「好險空單有掛平」；Shawnnnn 也提醒空單來得急走得快，有獲利要記得平。

@@ -1,0 +1,135 @@
+slug: "1562263834238910559"
+title: 跳空開高等現貨開盤回測
+type: 分析
+topic: 撐壓點位
+tags:
+  - 進場時機
+  - 盤勢判讀
+  - 撐壓點位
+teacher: Alina
+channel: 一般
+date: "2026-10-21"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1562263834238910559
+summary: 結算日期貨跳空開高。Alina 判斷是跌深反彈：8:45 開盤先小空，等 9:00 現貨開盤往下回測時回補，再反手看走向，因為跳太遠容易回測，跳空開盤正是好空點。她也用 30分K 的 200MA 當壓制；佈局方面，近月過 47422 後往缺口一格一格分批下 12 月微台空單，11 月合約則做短進短出。
+hidden: false
+messages:
+  - id: "1562263834238910559"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 08:38"
+    text: 跌深反彈我覺得
+  - id: "1562264233067028483"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 08:40"
+    text: 近月如果開始過47422以上，看狀況我應該陸續下12的微台空單
+  - id: "1562264309915193476"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 08:40"
+    text: 11月還是留著做短進短出
+  - id: "1562264468954685562"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 08:41"
+    text: 往上到缺口慢慢一坎一坎下
+    reply:
+      id: "1562264233067028483"
+      author: Alina
+      text: 近月如果開始過47422以上，看狀況我應該陸續下12的微台空單
+      inGroup: true
+  - id: "1562264530820796517"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 08:41"
+    text: 今天應該多方趨勢
+  - id: "1562268185292578899"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 08:56"
+    text: 開盤小空等9:00回補 XD
+  - id: "1562268218050084937"
+    author: ChengHsun
+    teacher: false
+    time: "2026-10-21 08:56"
+    text: 開那麼高，也很難進多單了
+  - id: "1562268635819679777"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 08:57"
+    text: 9:00現貨開應該會往下回測才對，因為有點跳太遠了
+    reply:
+      id: "1562268218050084937"
+      author: ChengHsun
+      text: 開那麼高，也很難進多單了
+      inGroup: true
+  - id: "1562277547390279783"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 09:33"
+    text: 我也只有把握開盤進這個，然後回補反手看他走去哪 XD
+    reply:
+      id: "1562268185292578899"
+      author: Alina
+      text: 開盤小空等9:00回補 XD
+      inGroup: true
+  - id: "1562277624263348245"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 09:33"
+    text: 我也怕現貨A轉
+  - id: "1562278627989528576"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 09:37"
+    text: 30分的200ma還是壓制中
+    images:
+      - src: /img/1562278627989528576-image.jpg
+        alt: 台指期 30分K：跳空開高後碰到紫色 200MA（約 47250）壓回，下方今日壓力 46953
+  - id: "1562281092420083937"
+    author: Annahui
+    teacher: false
+    time: "2026-10-21 09:47"
+    text: 這邊也遇壓
+    reply:
+      id: "1562278627989528576"
+      author: Alina
+      text: 30分的200ma還是壓制中
+      inGroup: true
+  - id: "1562285790346743809"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:05"
+    text: 但如果突破開盤高應該會衝一下
+    reply:
+      id: "1562285376381526057"
+      author: tawpas
+      text: 今天開盤好像有
+      inGroup: false
+  - id: "1562288587989581967"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:17"
+    text: 早上補過一次了
+  - id: "1562289029909844029"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:18"
+    text: 不然跳空開盤好空點
+quiz:
+  - q: 結算日期貨跳空開高，Alina 判斷是跌深反彈，她開盤怎麼做？
+    o:
+      - 開盤直接追多，因為今天應該是多方趨勢
+      - 開盤小空，等 9:00 現貨開盤回測時回補
+      - 開盤先觀望，等站上 30 分 200MA 再做多
+      - 開盤小多，等 9:00 現貨開盤上衝時停利
+    a: 1
+    e: Alina 說 9:00 現貨開盤應該會往下回測，因為跳太遠了，所以開盤小空等 9:00 回補，再反手看走向；跳空開盤正是好空點。
+  - q: Alina 這天對 11 月和 12 月合約的分工是？
+    o:
+      - 11 月分批佈空單抱波段，12 月只做短進短出
+      - 11 月和 12 月同時佈空，口數各分一半控管
+      - 12 月往缺口一格一格分批空，11 月做短進短出
+      - 12 月一次空滿等缺口，11 月反手做多來對沖
+    a: 2
+    e: Alina 說近月過 47422 後，往上到缺口一坎一坎陸續下 12 月微台空單，11 月還是留著做短進短出，符合她近月短衝、遠月做趨勢的原則。

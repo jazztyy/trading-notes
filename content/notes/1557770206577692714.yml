@@ -1,0 +1,142 @@
+slug: "1557770206577692714"
+title: 反彈至EMA200先減碼一口
+type: 教學
+topic: 停損停利
+tags:
+  - 停損停利
+  - 資金與風險
+teacher: Alina
+channel: 一般
+date: "2026-10-08"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1557770206577692714
+summary: Alina：口數多時，反彈到 EMA200 會先出一口、剩下的觀察，因為這位置通常會被壓頭（Shawnnnn 補充：尤其是跌很深的時候），之後再看支撐決定去留；雙線還沒交叉就先看能不能站穩支撐，沒站穩 49276 下週回測機率大。Shawnnnn 自己看 49028 附近有沒有站穩，沒有就出場；Mikey 想跟著他停損時，他提醒自己還沒損是因為單子仍是正的，停損要看自己的成本。
+hidden: false
+messages:
+  - id: "1557770206577692714"
+    author: Doobe
+    teacher: false
+    time: "2026-10-08 23:02"
+    text: 多單要續抱嗎？
+  - id: "1557770520941035654"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-08 23:03"
+    text: 我自己看49028那附近有沒有站穩沒有的話我就要滾了
+    reply:
+      id: "1557770206577692714"
+      author: Doobe
+      text: 多單要續抱嗎？
+      inGroup: true
+  - id: "1557770720417816699"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 23:04"
+    text: 這裡壓力很大，應該要衝幾次才會過
+    reply:
+      id: "1557770322147680318"
+      author: Doobe
+      text: 剛剛200多沒出啊啊啊
+      inGroup: false
+  - id: "1557771890662314064"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 23:09"
+    text: ""
+    images:
+      - src: /img/1557771890662314064-IMG_4553.jpg
+        alt: 小台 5 分K：反彈碰到紫色 EMA200（約 49216）被壓回，回到今日支撐 49032 附近
+  - id: "1557771944739344535"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 23:09"
+    text: 如果口數多，我會在EMA200出一口
+  - id: "1557771972002447431"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 23:09"
+    text: 然後剩的觀察
+  - id: "1557772037190324246"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 23:09"
+    text: 通常這位置都會被壓頭
+    reply:
+      id: "1557771944739344535"
+      author: Alina
+      text: 如果口數多，我會在EMA200出一口
+      inGroup: true
+  - id: "1557772080634667040"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 23:10"
+    text: 再來就是看支撐決定
+  - id: "1557772107239260203"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-08 23:10"
+    text: 尤其跌很深的
+    reply:
+      id: "1557772037190324246"
+      author: Alina
+      text: 通常這位置都會被壓頭
+      inGroup: true
+  - id: "1557772200633958414"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 23:10"
+    text: 另外我認為沒有碰到276穩，下週回測機率也是大
+  - id: "1557772499322675311"
+    author: Mikey
+    teacher: false
+    time: "2026-10-08 23:11"
+    text: 肖恩出的時候可以說一聲嗎？
+    reply:
+      id: "1557770520941035654"
+      author: Shawnnnn
+      text: 我自己看49028那附近有沒有站穩沒有的話我就要滾了
+      inGroup: true
+  - id: "1557772523704422535"
+    author: Mikey
+    teacher: false
+    time: "2026-10-08 23:11"
+    text: 我跟著停損
+  - id: "1557772599193247787"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-08 23:12"
+    text: 你想損就要損我是因為還是正的
+  - id: "1557773137230303333"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 23:14"
+    text: 雙線還沒交叉
+  - id: "1557773154099667057"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 23:14"
+    text: ""
+    images:
+      - src: /img/1557773154099667057-IMG_4554.jpg
+        alt: 小台 5 分K：價格在今日支撐 49068 附近，紅藍雙線還沒交叉
+  - id: "1557773181069172919"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 23:14"
+    text: 看看能不能站支撐
+quiz:
+  - q: 口數多的時候，Alina 遇到反彈到 EMA200 會怎麼處理？
+    o:
+      - 先出一口、剩下觀察，因為這位置通常會被壓頭
+      - 全部續抱，因為站上 EMA200 代表會繼續往上走
+      - 再加碼一口，因為碰到 EMA200 是突破的訊號
+      - 全部平倉，因為反彈到 EMA200 就是當天高點
+    a: 0
+    e: Alina 說口數多時會在 EMA200 先出一口、剩下的觀察，因為這位置通常會被壓頭（Shawnnnn 補充尤其跌很深的時候），之後再看支撐決定去留。
+  - q: Mikey 說要跟著 Shawnnnn 一起停損，Shawnnnn 怎麼回應？
+    o:
+      - 可以跟著他出，因為他看的點位比較準確
+      - 先別停損，凹到成本附近再出就不會虧錢
+      - 自己還沒損是因為單子還是正的，要看自己成本
+      - 改用移動停利，等反彈到 EMA200 再一起出
+    a: 2
+    e: Shawnnnn 說「你想損就要損，我是因為還是正的」，他的單子還有獲利所以能等，停損要依自己的成本決定，不能跟別人的出場點。

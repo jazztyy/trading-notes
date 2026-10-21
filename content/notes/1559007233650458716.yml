@@ -1,0 +1,132 @@
+slug: "1559007233650458716"
+title: 上升結構未破壞順勢做多
+type: 分析
+topic: 盤勢判讀
+tags:
+  - 盤勢判讀
+  - 多週期判斷
+teacher: Alina
+channel: 一般
+date: "2026-10-12"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559007233650458716
+summary: 10/12 開盤直接開在 5 分 EMA200 之上，Shawnnnn 認為多單可以安心、先去補缺口（微台缺口 49337）；Alina 判斷當天應順勢做多、回踩加單，就算空也只是短空，並附日線說明走勢漂亮。Shawnnnn 指出上升結構完全沒被破壞，不該堅持做空，49300 站穩可以繼續攻。
+hidden: false
+messages:
+  - id: "1559007233650458716"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 08:58"
+    text: 哇!! 直在開在5分EMA200上
+  - id: "1559010530948026380"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 09:11"
+    text: 晚點要出差開車，看來多單可以先安心捏
+  - id: "1559010818635341847"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 09:12"
+    text: 應該是沒問題
+    reply:
+      id: "1559010530948026380"
+      author: Alina
+      text: 晚點要出差開車，看來多單可以先安心捏
+      inGroup: true
+  - id: "1559010862981841047"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 09:12"
+    text: 先補缺口吧
+  - id: "1559010877733339258"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 09:12"
+    text: 對，的確做多比做空好捏
+  - id: "1559017663244669069"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 09:39"
+    text: OTC翻紅
+  - id: "1559017776209985588"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 09:40"
+    text: 台指也有可能翻紅囉~
+  - id: "1559017850595704894"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 09:40"
+    text: 微台缺口49337
+  - id: "1559059361945620542"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 12:25"
+    text: 今天順勢應該做多回踩加單
+    images:
+      - src: /img/1559059361945620542-IMG_4748.jpg
+        alt: 小台 5 分K：開盤急拉後多次 BOS 創高，回踩藍色支撐區與均線，是順勢回踩加單的位置
+  - id: "1559066590010413109"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 12:54"
+    text: 對，我也覺得很快🤣 我甚至還覺得今天會開低
+    reply:
+      id: "1559066470238134383"
+      author: 宸
+      text: 我也覺得不會輸 只是沒想到這麼快回去哈哈
+      inGroup: false
+  - id: "1559066663012274248"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 12:54"
+    text: 結果直接開在5分EMA200位置
+  - id: "1559067412786057259"
+    author: Doobe
+    teacher: false
+    time: "2026-10-12 12:57"
+    text: 不知道為什麼盤勢強也是空
+  - id: "1559068531897798719"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 13:01"
+    text: 今天這個線型空應該也是短空
+    reply:
+      id: "1559067412786057259"
+      author: Doobe
+      text: 不知道為什麼盤勢強也是空
+      inGroup: true
+  - id: "1559073075977392190"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 13:19"
+    text: 今天上升結構完全沒被破壞掉H大怎麼堅持要空😂
+  - id: "1559078013876834344"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 13:39"
+    text: 日線看起來很漂亮
+    images:
+      - src: /img/1559078013876834344-IMG_4756.jpg
+        alt: 小台日線：創高 50265 後短暫拉回，均線多頭排列仍向上
+  - id: "1559107507618717779"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 15:36"
+    text: 300站穩應該可以繼續攻
+quiz:
+  - q: 當天直接開在 5 分 EMA200 之上，Alina 認為該怎麼操作？
+    o:
+      - 開高容易回補，先短空等回到 EMA200 再接多
+      - 順勢做多、回踩加單，就算要空也只是短空
+      - 方向還不明，先觀望等 2 分K 雙線展開再說
+      - 多空都不做，等 OTC 和台指都翻紅才進場
+    a: 1
+    e: Alina 說當天順勢應該做多、回踩加單，有人問為什麼盤勢強還在空，她回這線型空也只是短空。
+  - q: 有人堅持做空，Shawnnnn 覺得不妥的理由是什麼？
+    o:
+      - 當天成交量太小，空單很難有足夠的獲利空間
+      - 日K 乖離已經修正完，回測的機率已經很低了
+      - 當天的上升結構完全沒被破壞，不該逆勢空
+      - 5 分K 雙線剛黃金交叉，空單停損會抓太遠
+    a: 2
+    e: Shawnnnn 說當天上升結構完全沒被破壞，不懂為什麼要堅持空；他也提到站穩 49300 可以繼續攻。

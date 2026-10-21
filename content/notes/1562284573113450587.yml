@@ -1,0 +1,83 @@
+slug: "1562284573113450587"
+title: 多口部位分價位掛單出場
+type: 教學
+topic: 停損停利
+tags:
+  - 停損停利
+  - 交易心態
+teacher: Alina
+channel: 一般
+date: "2026-10-21"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1562284573113450587
+summary: 學員想把多口部位一次掛在單一高價平倉。Alina 建議把掛單打散到不同價位分批出，避免多口一起抱上抱下：漲上去沒賣到會 FOMO，下跌沒賣也會 FOMO。
+hidden: false
+messages:
+  - id: "1562284573113450587"
+    author: tawpas
+    teacher: false
+    time: "2026-10-21 10:01"
+    text: 我掛285會不會太貪心
+  - id: "1562284774498893905"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:01"
+    text: 你一次平完 ?
+  - id: "1562284813417848904"
+    author: tawpas
+    teacher: false
+    time: "2026-10-21 10:02"
+    text: 對啊
+  - id: "1562284838910820395"
+    author: tawpas
+    teacher: false
+    time: "2026-10-21 10:02"
+    text: 會剩兩口11月的
+  - id: "1562284943042682922"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:02"
+    text: 想說多口你可以分開掛阿 XD
+  - id: "1562284981001130027"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:02"
+    text: 分散各個價位
+  - id: "1562285829727199233"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:06"
+    text: 所以我想說你很多口你可以打散 XD
+  - id: "1562285848538513610"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:06"
+    text: 各個價位
+  - id: "1562285895665852477"
+    author: tawpas
+    teacher: false
+    time: "2026-10-21 10:06"
+    text: 我先平一半好了
+  - id: "1562285920076701738"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:06"
+    text: 才不會多口抱上抱下
+  - id: "1562285941706457120"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:06"
+    text: 然後長上去又fomo
+  - id: "1562285984878698509"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 10:06"
+    text: 下跌沒賣也fomo
+quiz:
+  - q: tawpas 想把多口部位一次掛在單一價位平倉，Alina 建議怎麼做？
+    o:
+      - 全部掛在更高的價位，耐心等它漲上去
+      - 先全部平掉，等回檔再重新進場加碼
+      - 打散掛在不同價位，分批出場比較好
+      - 留一口抱波段，其餘全部用市價出場
+    a: 2
+    e: Alina 建議多口分散掛在各個價位，才不會多口一起抱上抱下；漲上去沒賣到會 FOMO，下跌沒賣也會 FOMO。

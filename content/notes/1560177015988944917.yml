@@ -1,0 +1,168 @@
+slug: "1560177015988944917"
+title: 急跌後抄底：看小分 K 雙線轉多
+type: 提問
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+  - 進場時機
+  - 交易心態
+teacher: Alina
+channel: 一般
+date: "2026-10-15"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1560177015988944917
+summary: 10/15 急跌後，Alina 先看 1 分 K 轉強：多週期趨勢表上只有 1 分 K 翻成偏多、5 分到 4 小時仍偏空；15 分 K 守住日 K 上升趨勢線，雖然中間 5 分 K 一度跌破。之後 1 分 K 上穿，她等 2 分 K 跟上、先站穩多空交界。Doobe 看到 KD 從 48400 一路低檔鈍化，想抄底又不知道怎麼辦；Kai 提醒低點鈍化之後也可能繼續鈍化。Alina 建議要做多就用小分 K 的雙線判斷進出，至少心裡有依據。Shawnnnn 檢討這種大波動行情本來應該看更小的週期去做，但「害怕被軋的心大於信任指標的心」，最後就不敢做。
+hidden: false
+messages:
+  - id: "1560177015988944917"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-15 14:26"
+    text: 日K上升趨勢線給我守住
+  - id: "1560210574678171758"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 16:39"
+    text: 加油，1分好轉了
+    images:
+      - src: /img/1560210574678171758-image.jpg
+        alt: 小台 1 分 K：止跌後雙線翻多，趨勢表只有 1 分 K 轉偏多，5 分到 4 小時仍偏空，今日交界位 47133
+  - id: "1560210607305658369"
+    author: 宸
+    teacher: false
+    time: "2026-10-15 16:39"
+    text: 怎麼突然這麼v
+  - id: "1560210729565560933"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 16:40"
+    text: 15分有守好日k上升趨勢線 ?
+    reply:
+      id: "1560210607305658369"
+      author: 宸
+      text: 怎麼突然這麼v
+      inGroup: true
+  - id: "1560210784917782560"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 16:40"
+    text: 雖然中間5分一度跌破
+  - id: "1560211108688822375"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 16:41"
+    text: 多軍血已經可憐到只能先看1分哈哈
+    reply:
+      id: "1560210574678171758"
+      author: Alina
+      text: 加油，1分好轉了
+      inGroup: true
+  - id: "1560219335375462451"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 17:14"
+    text: 1分上穿了，2分加油，交界先穩
+  - id: "1560222664717504593"
+    author: Doobe
+    teacher: false
+    time: "2026-10-15 17:27"
+    text: 說低點鈍化
+  - id: "1560222737321168910"
+    author: Doobe
+    teacher: false
+    time: "2026-10-15 17:28"
+    text: 但我看48400也在低點鈍化
+  - id: "1560222811417739384"
+    author: Doobe
+    teacher: false
+    time: "2026-10-15 17:28"
+    text: ""
+    images:
+      - src: /img/1560222811417739384-IMG_3866.jpg
+        alt: 台指 K 線：價格沿均線一路下跌，KD 從 48400 附近就一直低檔鈍化
+  - id: "1560222846930649200"
+    author: Doobe
+    teacher: false
+    time: "2026-10-15 17:28"
+    text: 48400-現在都是啊
+  - id: "1560223040476811370"
+    author: Doobe
+    teacher: false
+    time: "2026-10-15 17:29"
+    text: 怎麼辦
+  - id: "1560223248090800159"
+    author: Kai
+    teacher: false
+    time: "2026-10-15 17:30"
+    text: 低點鈍化後面也有可能繼續鈍化的 ＸＤＤ
+  - id: "1560223317984813087"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 17:30"
+    text: 如果你要做多就看小分K的線判斷進出🤣
+    reply:
+      id: "1560223040476811370"
+      author: Doobe
+      text: 怎麼辦
+      inGroup: true
+  - id: "1560223360523182102"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 17:30"
+    text: 至少心理比較有個依據
+  - id: "1560223426369556561"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 17:30"
+    text: 小分k的雙線是多的樣子沒錯
+  - id: "1560223691843964929"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 17:31"
+    text: 因為這個的確是
+    reply:
+      id: "1560223248090800159"
+      author: Kai
+      text: 低點鈍化後面也有可能繼續鈍化的 ＸＤＤ
+      inGroup: true
+  - id: "1560223694553485377"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-15 17:31"
+    text: 這也是我要檢討的，這種大波動行情應該要看更小的去做哈哈哈
+    reply:
+      id: "1560223426369556561"
+      author: Alina
+      text: 小分k的雙線是多的樣子沒錯
+      inGroup: true
+  - id: "1560223774664691744"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-15 17:32"
+    text: 害怕被嘎的心>信任指標的心
+  - id: "1560223821368270929"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-15 17:32"
+    text: 就不敢做了
+  - id: "1560223938271907902"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 17:32"
+    text: 你我皆凡人~
+quiz:
+  - q: Doobe 看到 KD 一路低檔鈍化、想抄底又沒把握，Alina 建議怎麼做？
+    o:
+      - 等 KD 脫離鈍化、黃金交叉後再進多
+      - 要做多就用小分 K 的雙線判斷進出
+      - 低檔鈍化就是見底訊號，可分批買進
+      - 改看日 K 的 KD，日線轉強才可抄底
+    a: 1
+    e: Alina 建議要做多就看小分 K 的雙線判斷進出，至少心裡有依據；Kai 也提醒低點鈍化之後可能繼續鈍化，不能當成見底訊號。
+  - q: Shawnnnn 檢討這種大波動行情，他說自己最後不敢做的原因是什麼？
+    o:
+      - 大波動時指標容易失真，所以不敢相信
+      - 當時沒有盤前規劃，臨時不知怎麼下手
+      - 怕被軋的心大過信任指標，所以不敢做
+      - 資金都還卡在空單上，沒有餘力去做多
+    a: 2
+    e: Shawnnnn 說這種大波動應該看更小的週期去做，但「害怕被軋的心 > 信任指標的心」，最後就不敢做了。

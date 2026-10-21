@@ -1,0 +1,123 @@
+slug: "1562076145732554863"
+title: 季線支撐不追空，等合理反彈
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 進場時機
+teacher: Alina
+channel: 一般
+date: "2026-10-20"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1562076145732554863
+summary: 台指跌到季線附近（約 46230）卡住，Alina 說季線不守就會溜滑梯，但在這個位置追空容易被反彈打到，等於在賭方向，不如等更低的位置接反彈單。後來她在季線附近回補空單並反手做多，之後出現了季線該有的大反彈；有學員空在最低點，就是空在季線上。
+hidden: false
+messages:
+  - id: "1562076145732554863"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 20:12"
+    text: 我是空了，但卡著應該是季線
+  - id: "1562076182940356689"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 20:13"
+    text: 季線不守就溜滑梯了
+  - id: "1562076284207497257"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 20:13"
+    text: "230"
+    reply:
+      id: "1562076182940356689"
+      author: Alina
+      text: 季線不守就溜滑梯了
+      inGroup: true
+  - id: "1562076745056788561"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 20:15"
+    text: 不過我覺得這個位子偏危險
+  - id: "1562076788014846056"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 20:15"
+    text: 被扒的機率
+  - id: "1562076846747689003"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 20:15"
+    text: 感覺在賭方向
+  - id: "1562076949436833895"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 20:16"
+    text: 看誰贏
+  - id: "1562077044530225296"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 20:16"
+    text: 畢竟我內心覺得還沒有像樣的反彈🤣
+  - id: "1562077064901955687"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 20:16"
+    text: 但我看線是做空了
+  - id: "1562078157354303559"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 20:20"
+    text: 只是我覺得這位置追空感覺危險🤣還不如下地獄搶低接反彈單
+  - id: "1562083159007567955"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 20:40"
+    text: 季線終於要救了嗎
+  - id: "1562095687649206354"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 21:30"
+    text: 我這邊補完反手了🤣 騎車停紅綠燈一瞬間
+    reply:
+      id: "1562083159007567955"
+      author: Alina
+      text: 季線終於要救了嗎
+      inGroup: true
+  - id: "1562105135704965152"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 22:08"
+    text: 不過終於有季線比較合理的反彈
+  - id: "1562105183830282372"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 22:08"
+    text: 前面兩根真的無語
+  - id: "1562110924389621821"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 22:31"
+    text: 這才是季線該有的反彈
+  - id: "1562110943083761777"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 22:31"
+    text: 前幾天真的問號
+  - id: "1562117854684516393"
+    author: Doobe
+    teacher: false
+    time: "2026-10-20 22:58"
+    text: 空在最低不知道在想什麼
+  - id: "1562118789359739023"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 23:02"
+    text: 你空在季線那裡了
+quiz:
+  - q: 台指跌到季線附近卡住時，Alina 為什麼覺得在這裡追空很危險？
+    o:
+      - 季線附近容易被反彈打到，等於賭方向
+      - 季線是長期多空線，跌到這裡一定會反轉
+      - 季線附近量能不足，空單容易成交不了
+      - 季線下方沒有支撐，停損會設得非常遠
+    a: 0
+    e: Alina 說季線不守會溜滑梯，但這個位置追空被扒的機率高、感覺在賭方向，不如等更低的位置搶低接反彈單；後來季線果然出現大反彈。

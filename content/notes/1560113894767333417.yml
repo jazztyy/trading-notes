@@ -1,0 +1,137 @@
+slug: "1560113894767333417"
+title: 缺口 47404 失守，回到日 K 舊箱型
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 盤勢判讀
+teacher: Alina
+channel: 一般
+date: "2026-10-15"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1560113894767333417
+summary: Alina 認為 10/15 一定要守住 47404：這是 6/23 跳空缺口那根 K 棒的低點，當初這個缺口壓力攻了好多次才突破，守不住就會跌回下方的舊整理框，上面變成魔王大壓。Shawnnnn 補充，跌下去測試後收針站回也算漂亮的走法。盤中一度收回 47404 以上，後來又跌破，Alina 改看框內震盪：反彈到框框上緣（約 47000）是壓力，下方的季線、半年線都可能去摸。
+hidden: false
+messages:
+  - id: "1560113894767333417"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 10:15"
+    text: 我覺得今天一定要回去404以上(約左缺口)，不然恐怖的狠
+  - id: "1560114004305645659"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 10:16"
+    text: "47404"
+  - id: "1560115575961690123"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 10:22"
+    text: 這個位置沒守，就又會回到魔王大壓，滾回原本下面的框了
+    reply:
+      id: "1560114004305645659"
+      author: Alina
+      text: "47404"
+      inGroup: true
+  - id: "1560146684757942386"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 12:25"
+    text: 守好404拜託了 XDDD
+  - id: "1560146797828116501"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-15 12:26"
+    text: 404哪一條
+  - id: "1560147286393233408"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 12:28"
+    text: 這根低點
+    images:
+      - src: /img/1560147286393233408-IMG_4850.jpg
+        alt: 台指日 K：6/23 那根跳空 K 棒低點 47404 就是缺口位置，10/15 盤中跌回缺口附近
+  - id: "1560147313760927775"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 12:28"
+    text: 跳空缺口
+  - id: "1560147480245444609"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-15 12:29"
+    text: 原來~我沒看到那麼遠
+  - id: "1560147629151621141"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 12:29"
+    text: 這個缺口壓力攻了好多次才上
+  - id: "1560147709846102078"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 12:30"
+    text: 沒守就要回到下面框框了🥲
+  - id: "1560147848220119111"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-15 12:30"
+    text: 那這樣下去測試收針上來也是算漂亮
+  - id: "1560149620519338035"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 12:37"
+    text: 看起來可以喔!! 回去404以上!!!!
+  - id: "1560149645685030995"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 12:37"
+    text: 不要破框拜託!!!
+  - id: "1560220392684265643"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 17:18"
+    text: 要求不多到框框上緣就好，然後就可以滾去季線了🤣
+    images:
+      - src: /img/1560220392684265643-IMG_4862.jpg
+        alt: 小台日 K：紅框標出約 45100～47070 的舊整理區間，指數已跌回框框上緣
+  - id: "1560231705799827540"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 18:03"
+    text: 碰個上緣就給我滾去季線🤣
+    reply:
+      id: "1560220392684265643"
+      author: Alina
+      text: 要求不多到框框上緣就好，然後就可以滾去季線了🤣
+      inGroup: true
+  - id: "1560307365352443955"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 23:04"
+    text: 我覺得大概就這匡震盪了
+  - id: "1560307411066167378"
+    author: Alina
+    teacher: true
+    time: "2026-10-15 23:04"
+    text: 季線半年線都去摸一摸好了
+    reply:
+      id: "1560307286185091132"
+      author: Alina
+      text: ""
+      inGroup: true
+quiz:
+  - q: Alina 認為 47404 一定要守住，理由是什麼？
+    o:
+      - 是 4 小時 200MA 所在，跌破就由撐轉壓
+      - 是 10 月月 K 開盤價，跌破本月就翻黑
+      - 是日 K 上升趨勢線，跌破代表趨勢反轉
+      - 是 6/23 跳空缺口低點，當初攻多次才過
+    a: 3
+    e: 47404 是 6/23 跳空 K 棒的低點，這個缺口壓力當初攻了好多次才突破；守不住就會滾回下面的舊框，上方變成魔王大壓。
+  - q: 價格跌回 47404 附近時，Shawnnnn 認為怎樣的走法也算漂亮？
+    o:
+      - 跌下去測試後收針站回
+      - 直接跌破後回測不過再續跌
+      - 一直在上方橫盤不碰到線
+      - 跳空開低後一路拉回缺口
+    a: 0
+    e: Shawnnnn 說跌下去測試、收針站回上來也算漂亮，重點是收回位置之上，而不是完全不能碰。

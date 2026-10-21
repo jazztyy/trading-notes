@@ -1,0 +1,216 @@
+slug: "1559917444372496435"
+title: 月K開盤價支撐與先落袋
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 停損停利
+  - 多週期判斷
+teacher: Alina
+channel: 一般
+date: "2026-10-14"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559917444372496435
+summary: nick_AJ 問空單要在哪平，Alina 參考月 K 開盤價（10 月開在 48322），認為 320 要守：掛 325 平一口，387 站上就閃。後來價格在跳水位 380 附近沒有跳水，5 分 K 有一根貫穿、勉強算站上，她覺得等這根 5 分 K 收完風險太大，不想抱上抱下，就先落袋，打算拉上去再空；她也用等幅框判斷跌幅已經滿足、該反彈了。
+hidden: false
+messages:
+  - id: "1559917444372496435"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 21:15"
+    text: 艾琳娜這個空單的話妳會再那邊平呢
+  - id: "1559917714368241777"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 21:16"
+    text: "320"
+  - id: "1559917741648126026"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 21:16"
+    text: 不知道會不會到
+  - id: "1559921799825985612"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 21:32"
+    text: 我剛剛邏輯是這個，看月k開盤價
+    images:
+      - src: /img/1559921799825985612-IMG_4823.jpg
+        alt: 小台月 K：10 月開盤 48322、高點 50265，價格回落到月開盤價附近
+  - id: "1559922141355319419"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 21:33"
+    text: 所以覺得320要守
+  - id: "1559928630635921499"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 21:59"
+    text: 跑了嗎
+    reply:
+      id: "1559924933461672129"
+      author: Alina
+      text: 有點想平了哈哈
+      inGroup: false
+  - id: "1559928661631565926"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 21:59"
+    text: 還沒
+  - id: "1559928678308122705"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 21:59"
+    text: 想跑了 但是看到跳水位到了
+  - id: "1559928712969846887"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 21:59"
+    text: 理智讓我等
+  - id: "1559928760747425825"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 21:59"
+    text: 387站上我就閃
+  - id: "1559928825016619221"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 22:00"
+    text: 325掛一口平
+  - id: "1559928831555412101"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 22:00"
+    text: 目前就看387吧
+  - id: "1559928834864971938"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 22:00"
+    text: 看反應
+  - id: "1559930540356931646"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 22:07"
+    text: 我平了🤣
+  - id: "1559930589128433676"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 22:07"
+    text: 有下來再接
+  - id: "1559930849787514910"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 22:08"
+    text: 雖然我覺得會再下🤣
+    images:
+      - src: /img/1559930849787514910-IMG_4824.jpg
+        alt: 小台 5 分 K：急跌到今日支撐 48387 附近，1 分到 4 小時全偏空
+  - id: "1559930904330117253"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 22:08"
+    text: 但感覺等這根5分風險好大
+  - id: "1559930913142603809"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 22:08"
+    text: 先出了
+  - id: "1559930939856134288"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 22:08"
+    text: 跟著大神走
+  - id: "1559930962274680883"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 22:08"
+    text: 主要是380沒下去
+  - id: "1559930980431691908"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 22:08"
+    text: 對
+  - id: "1559930999880810557"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 22:08"
+    text: 不跳水
+  - id: "1559931039617654877"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 22:09"
+    text: 那根貫穿免強算站上
+    reply:
+      id: "1559930849787514910"
+      author: Alina
+      text: 雖然我覺得會再下🤣
+      inGroup: true
+  - id: "1559931070550642739"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 22:09"
+    text: 感覺就是再繼續搭跳水台
+  - id: "1559931093078253661"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 22:09"
+    text: 對
+  - id: "1559931108563488908"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 22:09"
+    text: 等上去再空
+  - id: "1559931112149487627"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 22:09"
+    text: 或是搭樓梯往上爬
+  - id: "1559931146576601172"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 22:09"
+    text: 不想抱上抱下
+  - id: "1559931177270517831"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 22:09"
+    text: 先落袋
+  - id: "1559932266241589310"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 22:13"
+    text: ""
+    images:
+      - src: /img/1559932266241589310-IMG_4825.jpg
+        alt: 台指分時：等幅框，第一段 49000→48700，下一段等幅跌到約 48335 已滿足
+  - id: "1559932368519700582"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 22:14"
+    text: 這個指的是滿足當日振幅了嗎
+    reply:
+      id: "1559932266241589310"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1559932419044413542"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 22:14"
+    text: 不然又破筐了欸
+quiz:
+  - q: Alina 判斷空單停利位 320 會有支撐、要守住，參考的是什麼？
+    o:
+      - 今日交界位和 EMA200 重疊處
+      - 前一天日 K 的最低點位置
+      - 10 月月 K 的開盤價位置
+      - 上升趨勢線往下延伸的位置
+    a: 2
+    e: Alina 說她的邏輯是看月 K 開盤價，10 月開在 48322，所以認為 320 要守。
+  - q: 價格在 380 附近沒跳水、5 分 K 勉強站上時，Alina 為什麼先平掉空單？
+    o:
+      - 等這根 5 分 K 收完風險太大，不想抱上抱下
+      - 判斷空方趨勢已經結束，準備反手做多單
+      - 月 K 開盤價已被跌破，停利目標已經達成
+      - 4 小時 K 已經轉偏多，多週期方向翻轉了
+    a: 0
+    e: Alina 雖然覺得還會再下，但認為等這根 5 分 K 收完風險太大、不想抱上抱下，就先落袋，打算拉上去再空。

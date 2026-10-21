@@ -1,0 +1,126 @@
+slug: "1561292100333604986"
+title: 重傷凹單：反彈減碼、先降槓桿
+type: 教學
+topic: 資金與風險
+tags:
+  - 資金與風險
+  - 交易心態
+teacher: Alina
+channel: 一般
+date: "2026-10-18"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1561292100333604986
+summary: tawpas 在高點加碼多單，跌了 4000 點還在凹。Alina 的建議是：下一次反彈是給你逃命的，不是讓你抱多發大財，反彈就先減碼；現在要先降槓桿、保住本金，不要在這個時間點賭身家，或賣掉股票去凹期貨。先空手，等真正的低點支撐出現再買。
+hidden: false
+messages:
+  - id: "1561292100333604986"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 16:17"
+    text: 這次有反彈上去你要減碼了吧
+  - id: "1561292135158906881"
+    author: tawpas
+    teacher: false
+    time: "2026-10-18 16:17"
+    text: 會反彈嗎
+  - id: "1561292152561078315"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 16:17"
+    text: 對啊
+  - id: "1561292459525275672"
+    author: tawpas
+    teacher: false
+    time: "2026-10-18 16:18"
+    text: 上禮拜真的應該要改空的
+  - id: "1561301452302065727"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 16:54"
+    text: 你只要記得下一反彈是給你逃命的，不是給你抱多發大財的
+  - id: "1561302326353068104"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 16:58"
+    text: 哈哈哈高點加碼你真的很勇
+  - id: "1561302409962197143"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 16:58"
+    text: 先保本
+  - id: "1561302433009770547"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 16:58"
+    text: 再歐印
+  - id: "1561304342236102761"
+    author: tawpas
+    teacher: false
+    time: "2026-10-18 17:06"
+    text: 跌段約5500點
+  - id: "1561304372774834240"
+    author: tawpas
+    teacher: false
+    time: "2026-10-18 17:06"
+    text: 都4000點了才要損
+  - id: "1561304597748781057"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:07"
+    text: 你空手好了 XD 手癢就買正2
+  - id: "1561304653012934698"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:07"
+    text: 等到真的低點支撐在買
+  - id: "1561304663569997925"
+    author: tawpas
+    teacher: false
+    time: "2026-10-18 17:07"
+    text: 還是我真的跟他拼了…
+  - id: "1561304697992777801"
+    author: tawpas
+    teacher: false
+    time: "2026-10-18 17:07"
+    text: 賭身家
+  - id: "1561304752388579409"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:07"
+    text: 要確定欸，這個時間點賭身家好嗎
+  - id: "1561305084544028734"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:08"
+    text: 出清凹期貨，怎麼感覺都是提早畢業的氛圍
+    reply:
+      id: "1561304882575835187"
+      author: tawpas
+      text: 就是股票出清啊
+      inGroup: false
+  - id: "1561305127099433005"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:09"
+    text: 現在不是要先降槓嗎 XD
+  - id: "1561305386101768284"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:10"
+    text: 反彈先減碼
+quiz:
+  - q: tawpas 的多單重傷還在凹，Alina 說下一次反彈該怎麼看待？
+    o:
+      - 是攤平的好機會，可以趁反彈加碼
+      - 代表底部已經到了，可以繼續抱多
+      - 要等站回前高再出，才能少賠一些
+      - 是給你逃命的，反彈就先減碼出場
+    a: 3
+    e: Alina 說「下一個反彈是給你逃命的，不是給你抱多發大財的」，反彈要先減碼。
+  - q: tawpas 想出清股票去凹期貨、賭身家，Alina 的建議是什麼？
+    o:
+      - 可以凹，但要先把停損設在前低下方
+      - 先降槓桿、空手，等真正的低點支撐再買
+      - 賣股票補保證金沒問題，只要不再加碼
+      - 改成反手做空，把虧損從空單賺回來
+    a: 1
+    e: Alina 說現在不是要先降槓桿嗎，這個時間點不該賭身家；先保本、空手，等真的低點支撐出現再買。

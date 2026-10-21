@@ -1,0 +1,248 @@
+slug: "1560464622538985544"
+title: 多週期 EMA200 疊加今日壓力的大壓區試空
+type: 分析
+topic: 撐壓點位
+tags:
+  - 多週期判斷
+  - 撐壓點位
+  - 進場時機
+teacher: Alina
+channel: 一般
+date: "2026-10-16"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1560464622538985544
+summary: Alina 認為 47400–47500 一帶是大壓區：10 分 K 的 EMA200 剛好和今日壓力 47589 重疊，壓力很大，突破後才看 15 分 EMA200（約 47800）。下方的 5 分 EMA200 是支撐，要有紅 K 向下貫穿才空。她在壓力位只掛一口微台試空（589，之後分批補掛 587／687／787）。價格卡在 5 分 EMA200、K 棒貼線又帶量反彈時，她不追空，先空手等真正的上漲或下跌趨勢再切入，並認為壓力區才是比較好的試單位置。
+hidden: false
+messages:
+  - id: "1560464622538985544"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 09:29"
+    text: 那邊大壓區
+  - id: "1560474875729158291"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 10:10"
+    text: 目前這裡大壓區
+  - id: "1560474928535441499"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 10:10"
+    text: 不過感覺上面那隻無形的手很重
+  - id: "1560489057136672789"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:06"
+    text: 我今天偏忙，所以只掛589一口微
+  - id: "1560489098349650021"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:06"
+    text: 想說有上去再加
+  - id: "1560489265362636883"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:07"
+    text: 我覺得四百多到五百這區間大壓區，沒那麼容易過
+  - id: "1560489368005902428"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:07"
+    text: 我指的是頭也不回往上的那種
+    reply:
+      id: "1560489265362636883"
+      author: Alina
+      text: 我覺得四百多到五百這區間大壓區，沒那麼容易過
+      inGroup: true
+  - id: "1560490005879595020"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:10"
+    text: 不然那跟紅色向下貫穿我一定空(我的漲是綠，跌是紅)
+    images:
+      - src: /img/1560490005879595020-image.jpg
+        alt: 小台 2 分 K：碰今日壓力 47589 後回落，價格停在紫色 EMA200 上方，Alina 表示紅 K 向下貫穿就空
+  - id: "1560490264001253481"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:11"
+    text: 對，今天同事請假沒空看，想說掛一口微在那個位置
+    reply:
+      id: "1560490168564191274"
+      author: 維尼Ni🌻
+      text: 47589鴨嘛
+      inGroup: false
+  - id: "1560490328614637621"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:11"
+    text: 然後往上我就再加空哈哈哈
+  - id: "1560490939926061056"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:13"
+    text: 10分的EMA200剛好跟今日壓位置重疊壓力大 XD 過了我就看15的200大概再47800 (我覺得了不起就到這了 XD)
+    images:
+      - src: /img/1560490939926061056-image.jpg
+        alt: 小台 10 分 K：紫色 EMA200 和今日壓力 47589 重疊，價格上攻後被壓回
+  - id: "1560491755391029349"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:17"
+    text: 對阿，好煩喔XD 害我很想追空
+  - id: "1560491794381148292"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:17"
+    text: 但我怕拉尾
+  - id: "1560491852296101951"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:17"
+    text: 雖然現在現貨看起來有軟掉
+  - id: "1560492066763579472"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:18"
+    text: 但這個位置尷尬欸，下去反彈上來
+    images:
+      - src: /img/1560492066763579472-image.jpg
+        alt: 小台 5 分 K：價格回落到紫色 5 分 EMA200 附近止跌，位置尷尬、不宜追空
+  - id: "1560492152029585511"
+    author: Annahui
+    teacher: false
+    time: "2026-10-16 11:18"
+    text: 下面那條線是啥啊
+  - id: "1560492217897058325"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:18"
+    text: 5分的EMA200
+    reply:
+      id: "1560492066763579472"
+      author: Alina
+      text: 但這個位置尷尬欸，下去反彈上來
+      inGroup: true
+  - id: "1560492324654420041"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:19"
+    text: 而且早上那幾跟上去算有量
+  - id: "1560492536810709074"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:20"
+    text: 空手不硬做好了
+  - id: "1560492589218533431"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:20"
+    text: 反正真的到下跌或上漲趨勢再切入
+  - id: "1560493459381551246"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:23"
+    text: 那我再掛一個587、687、787微 🤣
+  - id: "1560493890920779807"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:25"
+    text: 這是再跟我說400應該勇敢嗎🤣
+    images:
+      - src: /img/1560493890920779807-image.jpg
+        alt: 小台 5 分 K 加多週期趨勢表：1／2／5 分偏空，價格跌破 5 分 EMA200 往今日交界位 47133 下殺
+  - id: "1560493952455549151"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:25"
+    text: 氣死，再補一個487🤪
+  - id: "1560499314311045160"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:47"
+    text: 下穿前的掙扎嗎
+    images:
+      - src: /img/1560499314311045160-image.jpg
+        alt: 小台 5 分 K：價格反彈回 EMA200 上方掙扎，趨勢表為短週期偏空、15／30 分盤整、日週偏多
+  - id: "1560499769074384907"
+    author: Annahui
+    teacher: false
+    time: "2026-10-16 11:48"
+    text: 這是可以空嗎 哈哈哈
+    reply:
+      id: "1560499314311045160"
+      author: Alina
+      text: 下穿前的掙扎嗎
+      inGroup: true
+  - id: "1560500026114048082"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:49"
+    text: 沒，這位置我不敢哈哈哈
+  - id: "1560500306490556436"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:51"
+    text: 然後很貼，我會多看幾根
+    images:
+      - src: /img/1560500306490556436-image.jpg
+        alt: 小台 5 分 K：K 棒緊貼均線和 EMA200，Alina 會多看幾根再決定
+  - id: "1560500376904409179"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:51"
+    text: 這裡高手區我不會做 XD
+  - id: "1560500506047021096"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:51"
+    text: 而且有量
+    images:
+      - src: /img/1560500506047021096-image.jpg
+        alt: 小台 5 分 K：帶量站回均線，30 分轉偏多，這個位置不追空
+  - id: "1560500717272174714"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:52"
+    text: 我甚至猶豫這個要不要撤哈哈哈
+    reply:
+      id: "1560493952455549151"
+      author: Alina
+      text: 氣死，再補一個487🤪
+      inGroup: true
+  - id: "1560500870351814738"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:53"
+    text: 但我覺得大壓區沒那麼容易再也不回頭才對
+  - id: "1560501157489545297"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:54"
+    text: 好，487先拉掉XD 我怕芷期笑我487
+  - id: "1560501393448640605"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 11:55"
+    text: 壓力那邊我覺得是比較好試單的位置
+    reply:
+      id: "1560500506047021096"
+      author: Alina
+      text: 而且有量
+      inGroup: true
+quiz:
+  - q: Alina 為什麼認為今日壓力 47589 一帶是大壓區？
+    o:
+      - 5 分 K 的 EMA200 和今日交界位重疊
+      - 10 分 K 的 EMA200 和今日壓力重疊
+      - 前一天的高點剛好落在今日壓力附近
+      - 15 分 K 的 EMA200 已經由撐轉成壓力
+    a: 1
+    e: Alina 說 10 分 K 的 EMA200 剛好和今日壓力重疊、壓力很大，過了才看 15 分 EMA200（約 47800）。
+  - q: 價格回到 5 分 EMA200 附近、K 棒貼線又帶量反彈時，Alina 怎麼處理？
+    o:
+      - 不追空，空手等真正的趨勢出來再切入
+      - 貼線代表快跌破了，提前在線上方追空
+      - 帶量代表多方轉強，馬上反手追多單
+      - 在 EMA200 上方掛多單，等回測再成交
+    a: 0
+    e: Alina 覺得這個位置尷尬、貼線又有量，她不敢做，選擇空手不硬做，等真的出現上漲或下跌趨勢再切入；壓力區才是比較好的試單位置。

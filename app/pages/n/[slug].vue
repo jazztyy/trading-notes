@@ -1,6 +1,6 @@
 <script setup lang="ts">
-// /n/{slug}：一組討論。上面是重點與我的學習紀錄，下面是原始對話；最下面是同主題的上一組／下一組。
-// 打開就記成已讀（已經是待複習或已懂就不動）。
+// /n/{slug}：一組討論，是某個理論的補充。上面是所屬理論、重點與我的學習紀錄，下面是原始對話；
+// 最下面是同一個理論的上一組／下一組。打開就記成已讀（已經是待複習或已懂就不動）。
 const route = useRoute()
 const slug = String(route.params.slug)
 
@@ -8,11 +8,16 @@ const { data: note } = await useNote(slug)
 if (!note.value) throw createError({ statusCode: 404, statusMessage: '找不到這組討論', fatal: true })
 
 const { data: notes } = await useAllNotes()
+const { data: concepts } = await useConcepts()
 const { data: meta } = await useTopics()
 
 useSeoMeta({ title: `${note.value.title}・交易講義` })
 
-const siblings = computed(() => notes.value.filter(n => n.topic === note.value?.topic))
+/** 這組是哪個理論的補充 */
+const concept = computed(() => concepts.value.find(c => c.notes.includes(slug)))
+const siblings = computed(() =>
+  (concept.value?.notes ?? []).map(id => notes.value.find(n => n.slug === id)).filter(n => !!n),
+)
 const index = computed(() => siblings.value.findIndex(n => n.slug === slug))
 const prev = computed(() => siblings.value[index.value - 1])
 const next = computed(() => siblings.value[index.value + 1])
@@ -30,9 +35,13 @@ onMounted(() => study.markRead(slug))
 
     <main class="mx-auto flex max-w-[760px] flex-col gap-5 px-4 pt-6 pb-16">
       <nav aria-label="位置" class="flex items-center gap-1.5 text-ui text-muted">
-        <NuxtLink :to="topicPath(note.topic)" class="transition-colors hover:text-highlighted">{{ note.topic }}</NuxtLink>
-        <span aria-hidden="true" class="text-dimmed">›</span>
-        <span class="font-mono">{{ index + 1 }} / {{ siblings.length }}</span>
+        <NuxtLink :to="topicPath(note.topic)" class="shrink-0 transition-colors hover:text-highlighted">{{ note.topic }}</NuxtLink>
+        <template v-if="concept">
+          <span aria-hidden="true" class="text-dimmed">›</span>
+          <NuxtLink :to="conceptPath(concept.slug)" class="min-w-0 truncate transition-colors hover:text-highlighted">{{ concept.title }}</NuxtLink>
+          <span aria-hidden="true" class="text-dimmed">›</span>
+          <span class="shrink-0 font-mono">{{ index + 1 }} / {{ siblings.length }}</span>
+        </template>
       </nav>
 
       <header class="flex flex-col gap-2.5">
@@ -62,6 +71,15 @@ onMounted(() => study.markRead(slug))
         </div>
       </header>
 
+      <NuxtLink
+        v-if="concept"
+        :to="conceptPath(concept.slug)"
+        class="flex flex-col gap-0.5 rounded-card border border-default bg-elevated px-4 py-3 transition-colors hover:border-secondary/70 hover:bg-accented"
+      >
+        <span class="text-meta text-muted">這組是這個理論的補充</span>
+        <span class="text-body font-bold text-highlighted">{{ concept.title }} <span class="text-secondary">→</span></span>
+      </NuxtLink>
+
       <section aria-label="重點" class="rounded-card border border-primary/40 bg-primary-soft p-4">
         <h2 class="mb-1 text-ui font-bold text-primary">重點</h2>
         <p class="text-body leading-relaxed text-highlighted">{{ note.summary }}</p>
@@ -74,7 +92,7 @@ onMounted(() => study.markRead(slug))
         <NoteMessages :messages="note.messages" />
       </section>
 
-      <nav aria-label="同主題的其他討論" class="mt-4 grid gap-3 border-t border-default pt-5 sm:grid-cols-2">
+      <nav aria-label="同一個理論的其他討論" class="mt-4 grid gap-3 border-t border-default pt-5 sm:grid-cols-2">
         <NuxtLink
           v-if="prev"
           :to="`/n/${prev.slug}`"

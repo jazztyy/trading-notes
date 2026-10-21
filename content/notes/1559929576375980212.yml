@@ -1,0 +1,82 @@
+slug: "1559929576375980212"
+title: 沿雙線回踩順勢做空
+type: 教學
+topic: 進場時機
+tags:
+  - 進場時機
+  - 指標設定
+teacher: nick_AJ
+channel: 一般
+date: "2026-10-14"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559929576375980212
+summary: nick_AJ 分享 3 分 K：白線下穿橘線，而且 1 分到 4 小時的趨勢表全部偏空，他是等價格回踩到壓力框（約 48560）才進空，並提醒現在都偏空，做多只能做短多；之後持續跟著線走，用 Shawnnnn 的指標判斷，價格反彈到約 501 還可以接著空。
+hidden: false
+messages:
+  - id: "1559929576375980212"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 22:03"
+    text: ""
+    images:
+      - src: /img/1559929576375980212-Screenshot_20261014_220256_TradingView.jpg
+        alt: 台指期 3 分 K：白線在橘線下方，價格回踩紫色壓力框 48560 時出現做空三角，趨勢表 1 分到 4 小時全偏空
+  - id: "1559929626229477389"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 22:03"
+    text: 還是要注意做短多喔
+  - id: "1559929649570516992"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 22:03"
+    text: 目前都偏空
+  - id: "1559931347227902053"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 22:10"
+    text: 上去大概501那邊可以接著空
+  - id: "1559931381662883911"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 22:10"
+    text: 使用老大的指標的話
+  - id: "1559931481059500125"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 22:10"
+    text: 剛剛這單我是回踩上才空的
+    reply:
+      id: "1559929576375980212"
+      author: nick_AJ
+      text: ""
+      inGroup: true
+  - id: "1559932221987758140"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 22:13"
+    text: ""
+    images:
+      - src: /img/1559932221987758140-Screenshot_20261014_221335_TradingView.jpg
+        alt: 台指期 3 分 K：價格持續沿白線、橘線往下走，反彈沒有站上線
+  - id: "1559932242925457452"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 22:13"
+    text: 目前持續跟著線走
+quiz:
+  - q: 白線下穿橘線、多週期全偏空時，nick_AJ 這筆 3 分 K 空單是怎麼進場的？
+    o:
+      - 白線一下穿橘線，就立刻市價進空
+      - 等價格跌破前低確認後，再追空
+      - 等 1 分 K 也出空訊號，再分批進空
+      - 等價格回踩到上方壓力框，才進空
+    a: 3
+    e: nick_AJ 說「剛剛這單我是回踩上才空的」，是等價格回踩到壓力框才進場，不是一交叉就追。
+  - q: 趨勢表 1 分到 4 小時全部偏空時，nick_AJ 對做多的提醒是什麼？
+    o:
+      - 目前都偏空，要做多也只能做短多
+      - 偏空時完全不能做多，只能等翻轉
+      - 可以做多，但要改看 4 小時的支撐
+      - 跌深可以左側分批買多，停損放寬
+    a: 0
+    e: nick_AJ 提醒目前都偏空，要做多的話只能做短多、要特別注意，並沒有說完全不能做或可以左側攤平。

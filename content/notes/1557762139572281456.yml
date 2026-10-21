@@ -1,0 +1,182 @@
+slug: "1557762139572281456"
+title: 5分EMA200與60分20MA壓力重疊
+type: 分析
+topic: 撐壓點位
+tags:
+  - 多週期判斷
+  - 撐壓點位
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-08"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1557762139572281456
+summary: Alina 指出 5 分 EMA200 在 49225，希望站穩卻被壓下；Shawnnnn 說要站穩 5 分 200MA 才能去補缺口，但缺口處同時有 60 分K的 20MA，壓力很大。Alina 表示現在離停損點太遠不追，等回踩再進；Shawnnnn 提醒看大週期，日K乖離很大，拉回休息很正常，兩人看法一致。Shawnnnn 也提到空單往往來得又急又快，所以有人偏好做空。
+hidden: false
+messages:
+  - id: "1557762139572281456"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 22:30"
+    text: 讚喔，5分ema200是225，希望穿越站穩😎
+  - id: "1557762209461837957"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 22:30"
+    text: 剛剛被壓下來了
+    reply:
+      id: "1557762139572281456"
+      author: Alina
+      text: 讚喔，5分ema200是225，希望穿越站穩😎
+      inGroup: true
+  - id: "1557762706365222995"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-08 22:32"
+    text: 現在是希望站穩5K 200MA去補缺口
+  - id: "1557762753849065615"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-08 22:33"
+    text: 但缺口壓力很大因為60K的20MA也在那
+  - id: "1557762789269839933"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 22:33"
+    text: 現在這個位置抓筍很遠我不會判斷🤣
+    reply:
+      id: "1557762396314017894"
+      author: Annahui
+      text: 可以追嗎 現在 😆
+      inGroup: false
+  - id: "1557762837718245387"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 22:33"
+    text: 等回踩進
+  - id: "1557762867099344907"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 22:33"
+    text: 沒錯
+    reply:
+      id: "1557762753849065615"
+      author: Shawnnnn
+      text: 但缺口壓力很大因為60K的20MA也在那
+      inGroup: true
+  - id: "1557762944823988235"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 22:33"
+    text: 所以都被壓著
+    reply:
+      id: "1557762753849065615"
+      author: Shawnnnn
+      text: 但缺口壓力很大因為60K的20MA也在那
+      inGroup: true
+  - id: "1557763242682617961"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-08 22:34"
+    text: 可以拉到這樣已經很猛了~休息一下希望等等再往上哈哈哈哈
+  - id: "1557763364040605827"
+    author: Annahui
+    teacher: false
+    time: "2026-10-08 22:35"
+    text: 真的 下午那空方氣勢 嚇爛
+    reply:
+      id: "1557763242682617961"
+      author: Shawnnnn
+      text: 可以拉到這樣已經很猛了~休息一下希望等等再往上哈哈哈哈
+      inGroup: true
+  - id: "1557763574288351377"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 22:36"
+    text: 正常回測～
+    reply:
+      id: "1557763364040605827"
+      author: Annahui
+      text: 真的 下午那空方氣勢 嚇爛
+      inGroup: true
+  - id: "1557763589404622972"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-08 22:36"
+    text: 不過看大週期就很正常~你看日K乖離很大耶
+    reply:
+      id: "1557763364040605827"
+      author: Annahui
+      text: 真的 下午那空方氣勢 嚇爛
+      inGroup: true
+  - id: "1557763589845295245"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 22:36"
+    text: ""
+    images:
+      - src: /img/1557763589845295245-IMG_4551.jpg
+        alt: 小台日K：創高 50265 後拉回，與均線乖離仍大
+  - id: "1557763615040471184"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 22:36"
+    text: 日k看起來合理點了
+  - id: "1557763668710531123"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-08 22:36"
+    text: 看法一致
+    reply:
+      id: "1557763615040471184"
+      author: Alina
+      text: 日k看起來合理點了
+      inGroup: true
+  - id: "1557763700113285273"
+    author: Alina
+    teacher: true
+    time: "2026-10-08 22:36"
+    text: 直接往上我就看不懂🤣
+  - id: "1557763855797714967"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-08 22:37"
+    text: 回來休息很正常唷
+    images:
+      - src: /img/1557763855797714967-image.jpg
+        alt: 微台日K：價格拉回靠近白色短均線（約 48822），說明回來休息很正常
+  - id: "1557764255854633051"
+    author: Annahui
+    teacher: false
+    time: "2026-10-08 22:39"
+    text: 只是速度太快
+    reply:
+      id: "1557763855797714967"
+      author: Shawnnnn
+      text: 回來休息很正常唷
+      inGroup: true
+  - id: "1557764593005363283"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-08 22:40"
+    text: 有人喜歡玩空就是因為空單都會來的又急又快獲利非常迅速
+    reply:
+      id: "1557764255854633051"
+      author: Annahui
+      text: 只是速度太快
+      inGroup: true
+quiz:
+  - q: Shawnnnn 為什麼說往上補缺口的壓力很大？
+    o:
+      - 缺口位置剛好是前一天的最高點，套牢賣壓重
+      - 日K 已經連漲多天，量能明顯開始萎縮
+      - 5 分K 已經跌破 EMA200，短線轉為偏空
+      - 缺口位置同時有 60 分K 的 20MA 壓著
+    a: 3
+    e: Shawnnnn 說要站穩 5 分 200MA 才能去補缺口，但缺口那裡還有 60 分K 的 20MA，所以壓力很大，Alina 也同意「所以都被壓著」。
+  - q: 有人問現在能不能追多，Alina 的做法是什麼？
+    o:
+      - 先小口追進，跌破 5 分 EMA200 再停損出場
+      - 改看 1 分K，找到 EMA 黃金交叉就追進
+      - 等站上缺口、突破 60 分 20MA 才追多
+      - 這位置離停損點太遠不判斷，等回踩再進
+    a: 3
+    e: Alina 說現在這個位置停損抓得很遠、她不會判斷，所以等回踩再進，不在離停損很遠的地方追。

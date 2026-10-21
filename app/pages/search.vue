@@ -1,11 +1,12 @@
 <script setup lang="ts">
-// /search：搜尋標題、重點、對話內文與圖說。多個關鍵字用空白分開，全部符合才算。
+// /search：搜尋理論（標題、重點、說明、圖說、注意）與討論（標題、重點、對話內文與圖說）。多個關鍵字用空白分開，全部符合才算。
 // 關鍵字同步到網址 ?q=，方便分享或回上一頁。
-import type { Note } from '~/types/note'
+import type { Concept, Note } from '~/types/note'
 
 useSeoMeta({ title: '搜尋・交易講義' })
 
 const { data: notes } = await useAllNotesFull()
+const { data: concepts } = await useConcepts()
 
 const router = useRouter()
 const q = ref('')
@@ -27,6 +28,18 @@ const textOf = (n: Note) =>
     .toLowerCase()
 
 const index = computed(() => notes.value.map(n => ({ note: n, text: textOf(n) })))
+
+const conceptText = (c: Concept) =>
+  [c.title, c.summary, ...c.sections.flatMap(s => [s.heading, ...s.text, ...s.items, ...s.figures.map(f => f.caption)]), ...c.cautions]
+    .join('\n')
+    .toLowerCase()
+
+const conceptIndex = computed(() => concepts.value.map(c => ({ concept: c, text: conceptText(c) })))
+
+const conceptResults = computed(() => {
+  if (!terms.value.length) return []
+  return conceptIndex.value.filter(x => terms.value.every(t => x.text.includes(t))).map(x => x.concept)
+})
 
 /** 對話裡符合關鍵字的訊息，最多 2 則 */
 const hitsOf = (n: Note) =>
@@ -86,7 +99,25 @@ const SUGGEST = ['EMA', '停損', '前高', '開盤', '2分K', '動態指標', '
       </div>
 
       <template v-else>
-        <p class="text-ui text-muted" aria-live="polite">找到 {{ results.length }} 組</p>
+        <p class="text-ui text-muted" aria-live="polite">找到 {{ conceptResults.length }} 個理論、{{ results.length }} 組討論</p>
+
+        <section v-if="conceptResults.length" aria-label="理論" class="flex flex-col gap-3">
+          <h2 class="text-title font-bold text-highlighted">理論</h2>
+          <ul class="flex flex-col gap-3">
+            <li v-for="c in conceptResults" :key="c.slug">
+              <NuxtLink
+                :to="conceptPath(c.slug)"
+                class="flex flex-col gap-1.5 rounded-card border border-primary/40 bg-elevated p-4 transition-colors hover:border-secondary/70 hover:bg-accented"
+              >
+                <span class="text-meta text-muted">{{ c.topic }} · 理論</span>
+                <span class="text-title leading-snug font-bold text-highlighted">{{ c.title }}</span>
+                <span class="line-clamp-2 text-body-sm text-toned">{{ c.summary }}</span>
+              </NuxtLink>
+            </li>
+          </ul>
+        </section>
+
+        <h2 v-if="conceptResults.length && results.length" class="text-title font-bold text-highlighted">討論</h2>
 
         <ul class="flex flex-col gap-3">
           <li v-for="r in results" :key="r.note.slug" class="flex flex-col gap-1.5">

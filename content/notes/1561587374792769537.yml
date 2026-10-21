@@ -1,0 +1,171 @@
+slug: "1561587374792769537"
+title: 跳空缺口高機率回補，補完做多較踏實
+type: 分析
+topic: 撐壓點位
+tags:
+  - 盤勢判讀
+  - 撐壓點位
+teacher: Alina
+channel: 一般
+date: "2026-10-19"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1561587374792769537
+summary: 10/19 日盤留下跳空缺口，Alina 提醒這種跳空很有機會回補，加上還沒完全轉多，所以先不追多；夜盤她也判斷往上 47100 頂多，往下會去補缺口（約 46125）。10/20 早盤一開果然直接下殺補缺，Alina 說趕在現貨開盤前補完也 OK，接著看能不能站回支撐；現貨開盤前 15 分鐘測低可以接受，前提是要 V 回來，不能一路往下。10/20 夜盤開盤又跳空往上，Doobe 擔心要回補，Alina 和 Shawnnnn 指出缺口已經補了，Alina 說補完缺口再做多比較踏實。
+hidden: false
+messages:
+  - id: "1561587374792769537"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 11:50"
+    text: 但今天有跳空缺口
+    reply:
+      id: "1561581250471395409"
+      author: Alina
+      text: 至少插針了
+      inGroup: false
+  - id: "1561587521740079207"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 11:51"
+    text: 這種跳空都有高機率補缺的可能🙂
+  - id: "1561587563058298993"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 11:51"
+    text: 加上還沒完全轉多
+  - id: "1561647998457483296"
+    author: tawpas
+    teacher: false
+    time: "2026-10-19 15:51"
+    text: 日盤又要白漲了嗎
+  - id: "1561649623649751110"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 15:58"
+    text: 看起來是滿有可能去補今天跳空的缺口
+    reply:
+      id: "1561647998457483296"
+      author: tawpas
+      text: 日盤又要白漲了嗎
+      inGroup: true
+  - id: "1561649816700985396"
+    author: Doobe
+    teacher: false
+    time: "2026-10-19 15:58"
+    text: "46125"
+  - id: "1561661436999110677"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 16:45"
+    text: 反正我往上我覺得47100了不起了
+  - id: "1561661448642625637"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 16:45"
+    text: 往下補缺口
+  - id: "1561901238726172744"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 08:37"
+    text: 反正最後都要下去補缺口，許願開在200ma之上
+  - id: "1561903476349341707"
+    author: Doobe
+    teacher: false
+    time: "2026-10-20 08:46"
+    text: 要去補缺口吧
+  - id: "1561903724547285078"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 08:47"
+    text: 對，直接去補
+    reply:
+      id: "1561903476349341707"
+      author: Doobe
+      text: 要去補缺口吧
+      inGroup: true
+  - id: "1561904436454891604"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 08:50"
+    text: 現貨開盤前補完缺也OK啦
+  - id: "1561904548321431714"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 08:51"
+    text: 看等等有沒有站回去支撐
+  - id: "1561905763348389961"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 08:55"
+    text: 看起來等等還是有機會往上攻的
+  - id: "1561906173861699687"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 08:57"
+    text: 我也覺得有機會，前15往下測
+  - id: "1561906220158427177"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 08:57"
+    text: 比9點下地獄好
+  - id: "1561917588714422376"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 09:42"
+    text: 所以現貨開盤前15分測低也還ok
+  - id: "1561917640203829269"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 09:43"
+    text: 前提要v回來不要下地獄
+    reply:
+      id: "1561917588714422376"
+      author: Alina
+      text: 所以現貨開盤前15分測低也還ok
+      inGroup: true
+  - id: "1562022209805885441"
+    author: Doobe
+    teacher: false
+    time: "2026-10-20 16:38"
+    text: 但是剛剛開盤又是直接跳空上去，感覺又要回補耶
+  - id: "1562022317251498005"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 16:39"
+    text: 剛剛跳空缺口補了
+    reply:
+      id: "1562022209805885441"
+      author: Doobe
+      text: 但是剛剛開盤又是直接跳空上去，感覺又要回補耶
+      inGroup: true
+  - id: "1562022341054300311"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 16:39"
+    text: 回補了呀
+    reply:
+      id: "1562022209805885441"
+      author: Doobe
+      text: 但是剛剛開盤又是直接跳空上去，感覺又要回補耶
+      inGroup: true
+  - id: "1562022385517985823"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 16:39"
+    text: 補了多比較踏實
+quiz:
+  - q: 10/19 日盤留下跳空缺口時，Alina 為什麼先不追多？
+    o:
+      - 跳空後常會量縮整理，要等量放大再追多
+      - 跳空高機率會回補，加上還沒完全轉多
+      - 缺口上方就是 200MA 壓力，突破前不追
+      - 日盤跳空多半是假突破，夜盤會整段回吐
+    a: 1
+    e: Alina 說這種跳空都有高機率補缺的可能，加上盤勢還沒完全轉多，所以先等回補。
+  - q: Alina 認為現貨開盤前 15 分鐘往下測低，在什麼前提下還可以接受？
+    o:
+      - 測低時量要縮，量一放大就代表會續跌
+      - 測低不能跌破前一天夜盤的最低點才算
+      - 測完要 V 回來，不能一路往下殺下去
+      - 要在 9 點前先把缺口補完才可以接受
+    a: 2
+    e: Alina 說現貨開盤前 15 分測低也還 OK，前提是要 V 回來、不要一路下地獄；比起 9 點才往下殺好。

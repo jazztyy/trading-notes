@@ -1,0 +1,131 @@
+slug: "1562031173205753907"
+title: 日K連跌天數與下檔目標判斷
+type: 分析
+topic: 盤勢判讀
+tags:
+  - 盤勢判讀
+  - 撐壓點位
+  - 交易心態
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-20"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1562031173205753907
+summary: 台指日K連三根大綠棒時，Shawnnnn 提醒日K很少連續跌超過四根，但這種跌法會讓人殺漲殺跌、很不舒服；下檔目標可看日K長均線聚集的 42840-43809 區，Alina 認為跌到 42000 已是極致。Shawnnnn 也說漲跌本來就不需要原因，都是人性推出來的價格。
+hidden: false
+messages:
+  - id: "1562031173205753907"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 17:14"
+    text: 老實說
+  - id: "1562031192407023657"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 17:14"
+    text: 我真的不知道在跌什麼
+  - id: "1562031369838796831"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 17:14"
+    text: 市場上漲跌本來就不需要原因都是人性推出來的價格
+  - id: "1562031795367837748"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 17:16"
+    text: ""
+    images:
+      - src: /img/1562031795367837748-image.jpg
+        alt: 台指期日K連三根長黑跌破均線，右上趨勢表 5分K、30分K、1小時全部偏空
+  - id: "1562031814653124670"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 17:16"
+    text: 第三天大綠棒了欸
+  - id: "1562031826795757633"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 17:16"
+    text: 還要幾天
+  - id: "1562031955028090943"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 17:17"
+    text: 現在還不夠絕望阿
+  - id: "1562031986481299479"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 17:17"
+    text: 殺到絕望為止
+  - id: "1562032126583640158"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 17:18"
+    text: 到45200嗎
+  - id: "1562032160662224967"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 17:18"
+    text: 39000吧
+  - id: "1562032566343569438"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 17:19"
+    text: 這邊也有可能
+    reply:
+      id: "1562032100813701120"
+      author: tawpas
+      text: ""
+      inGroup: true
+    images:
+      - src: /img/1562032566343569438-image.jpg
+        alt: 微台日K：Shawnnnn 圈出下方長均線聚集的 42840-43809 區，當作可能的下檔目標
+  - id: "1562032681825345547"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 17:20"
+    text: 不過到42就很極致了我覺得
+  - id: "1562033312111792209"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 17:22"
+    text: 日K比較少連續跌超過四根
+    reply:
+      id: "1562031814653124670"
+      author: tawpas
+      text: 第三天大綠棒了欸
+      inGroup: true
+  - id: "1562033623324958790"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 17:23"
+    text: 只是這樣你就會很不舒服殺漲殺漲
+    images:
+      - src: /img/1562033623324958790-image.jpg
+        alt: 日K連續黑K往下殺，貼近 45745 附近的支撐線
+  - id: "1562033916368396350"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 17:25"
+    text: 我也是這麼想的
+    reply:
+      id: "1562033312111792209"
+      author: Shawnnnn
+      text: 日K比較少連續跌超過四根
+      inGroup: true
+quiz:
+  - q: 台指日 K 連三根大綠棒時，Shawnnnn 提醒了什麼觀察？
+    o:
+      - 日 K 連跌三根後一定會出現長紅反彈
+      - 日 K 比較少連續跌超過四根，但會很難受
+      - 日 K 連跌超過三根就代表趨勢已經反轉
+      - 日 K 連跌時要等第五根止跌才可以進場
+    a: 1
+    e: Shawnnnn 說日 K 比較少連續跌超過四根，只是這種跌法會讓人很不舒服、容易殺漲殺跌。
+  - q: Shawnnnn 判斷下檔可能目標時，參考的是什麼？
+    o:
+      - 日 K 下方長均線聚集的區域
+      - 撐壓點位機器人算出的最低點
+      - 當天低點到高點拉斐波的 0.786
+      - 前一波起漲點，也就是波段最低價
+    a: 0
+    e: Shawnnnn 在日 K 圈出下方長均線聚集的 42840-43809 區，當作可能的下檔目標。

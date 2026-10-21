@@ -1,0 +1,207 @@
+slug: "1561915340739321857"
+title: 10 分 EMA200 壓制，5 分守交界等黃金交叉
+type: 分析
+topic: 指標設定
+tags:
+  - 多週期判斷
+  - 指標設定
+  - 盤勢判讀
+teacher: Alina
+channel: 一般
+date: "2026-10-20"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1561915340739321857
+summary: 10/20 早盤急拉，Shawnnnn 提醒 5 分 K 已經連續 6 根紅 K，要小心。Alina 指出上方還有 10 分 K 的 EMA200 壓著，5 分 K 雙線也只是擦邊，沒有漂亮的黃金交叉。她認為只要 5 分 K 先守住 EMA200（交界）就還有機會，Shawnnnn 也說收在 46652 之上還有機會。之後回測守住、走出 N 字，雙線黃金交叉上穿，而且在交界之上，接下來要先過 47000 大壓並站穩，才看下一階。Shawnnnn 另外標出 15 分 K 在 46883～47025 有一段壓力區。維尼發現自己 10 分 K 的 200 線和大家的不一樣，原來是設成 SMA，要改用 EMA。
+hidden: false
+messages:
+  - id: "1561915340739321857"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 09:33"
+    text: 200ma壓力中
+  - id: "1561917144998871093"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 09:41"
+    text: 守200ma雙線快上穿走簡單行情😆
+  - id: "1561918880249675789"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 09:48"
+    text: 5分K連續6根了
+  - id: "1561918897391927387"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 09:48"
+    text: 小心
+  - id: "1561919417649070183"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 09:50"
+    text: 10分200ma壓制
+    reply:
+      id: "1561918880249675789"
+      author: Shawnnnn
+      text: 5分K連續6根了
+      inGroup: true
+    images:
+      - src: /img/1561919417649070183-image.jpg
+        alt: 小台 10 分 K 開盤急殺後拉回，被上方紫色 EMA200（46859）壓住
+  - id: "1561919857409400863"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-20 09:51"
+    text: 不給黃金交叉耶
+  - id: "1561919955853643809"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 09:52"
+    text: 對不對，5分感覺想給擦邊
+    reply:
+      id: "1561919857409400863"
+      author: nick_AJ
+      text: 不給黃金交叉耶
+      inGroup: true
+  - id: "1561920062800269364"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 09:52"
+    text: 很醜的很貼的那種
+    reply:
+      id: "1561919955853643809"
+      author: Alina
+      text: 對不對，5分感覺想給擦邊
+      inGroup: true
+  - id: "1561920397920964709"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 09:54"
+    text: 不過5分200ma先守好應該還ok
+  - id: "1561924331829727375"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 10:09"
+    text: 收再652還有機會
+  - id: "1561924652819808367"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 10:10"
+    text: 看起來還是有機會
+    images:
+      - src: /img/1561924652819808367-image.jpg
+        alt: 5 分 K 拉回到交界位 46714 和 EMA200 附近打架，出現偏空標籤
+  - id: "1561924750652211242"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 10:11"
+    text: 打架中
+  - id: "1561925673927315507"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 10:14"
+    text: 有喔，有守，還有希望 XD
+  - id: "1561925839291940967"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 10:15"
+    text: 走N就漂亮!!
+    images:
+      - src: /img/1561925839291940967-image.jpg
+        alt: 5 分 K 回測交界位守住後收紅，Alina 期待走 N 字
+  - id: "1561926009425494138"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 10:16"
+    text: 守住200ma然後上穿!!
+  - id: "1561926057383170089"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 10:16"
+    text: 來個黃金交叉
+  - id: "1561926783534768151"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 10:19"
+    text: 壓力很大的地方
+    images:
+      - src: /img/1561926783534768151-image.jpg
+        alt: Shawnnnn 標的微台 15 分 K 壓力區 46883～47025（前高密集區）
+  - id: "1561933921724272650"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 10:47"
+    text: 多方走的還算漂亮，後面不要烙屎就好 XD
+    images:
+      - src: /img/1561933921724272650-image.jpg
+        alt: 5 分 K 守住交界位，雙線準備黃金交叉上穿，價格在交界之上
+  - id: "1561933968947937412"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 10:47"
+    text: 雙線要黃金交叉上穿了
+  - id: "1561934034706104443"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 10:48"
+    text: 而且交界之上
+  - id: "1561934120370704445"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 10:48"
+    text: 先過大壓站穩47，就可以往下一階看了
+  - id: "1561934690922008667"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 10:50"
+    text: 目前還在被這個10分200壓制
+    reply:
+      id: "1561919417649070183"
+      author: Alina
+      text: 10分200ma壓制
+      inGroup: true
+  - id: "1561938943044354064"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-20 11:07"
+    text: 我的200ma怎麼已經下去了 白線上穿了
+    reply:
+      id: "1561919417649070183"
+      author: Alina
+      text: 10分200ma壓制
+      inGroup: true
+  - id: "1561939114809360415"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 11:08"
+    text: 幾分 ?
+    reply:
+      id: "1561938943044354064"
+      author: 維尼Ni🌻
+      text: 我的200ma怎麼已經下去了 白線上穿了
+      inGroup: true
+  - id: "1561939200163582024"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-20 11:08"
+    text: 10分的 那我重設
+  - id: "1561939789609959508"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-20 11:11"
+    text: 原來我一直設錯 設sma...
+quiz:
+  - q: 10/20 早盤急拉時，Alina 為什麼還不急著看多？
+    o:
+      - 5 分 K 已經連續 6 根紅 K，漲多一定會回檔
+      - 上方有 10 分 EMA200 壓著，5 分雙線只擦邊
+      - 價格還在 15 分 K 壓力區下方，量也還不夠
+      - 撐壓機器人顯示偏空標籤，還沒轉成偏多
+    a: 1
+    e: Alina 指出 10 分 K 的 EMA200 還在上方壓制，5 分 K 雙線也只是很貼的擦邊，沒有漂亮的黃金交叉；要先守住 5 分 EMA200 再上穿才漂亮。
+  - q: 維尼的 10 分 K 200 線和大家不一樣，原因是什麼？
+    o:
+      - 他把 200 線設在 5 分 K，週期看錯了
+      - 他用的是 McGinley 動態指標，不是均線
+      - 他把均線長度設成 25，不是 200
+      - 他把 200 線設成 SMA，應該要用 EMA
+    a: 3
+    e: 維尼發現自己一直設錯成 SMA，大家用的是 EMA200，兩者位置不同。

@@ -1,0 +1,92 @@
+slug: "1562116212404519004"
+title: 少看外部資訊，只能相信自己
+type: 教學
+topic: 交易心態
+tags:
+  - 交易心態
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-20"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1562116212404519004
+summary: 有學員本來自己做有賺，看了外面的資訊後又回吐。Shawnnnn 說如果自己做會賺，連這個群組都不要看，因為每個地方都有多軍也有空軍，最後只能相信自己。他也提醒做交易永遠都痛苦：空手痛苦、賣飛也痛苦。
+hidden: false
+messages:
+  - id: "1562116212404519004"
+    author: JJ
+    teacher: false
+    time: "2026-10-20 22:52"
+    text: 我今天也是雙巴的好心累
+  - id: "1562116257346748527"
+    author: JJ
+    teacher: false
+    time: "2026-10-20 22:52"
+    text: 本來自己做有小賺
+  - id: "1562116301068042358"
+    author: JJ
+    teacher: false
+    time: "2026-10-20 22:52"
+    text: 後面看資訊又回吐了
+  - id: "1562116340758749265"
+    author: ROCH
+    teacher: false
+    time: "2026-10-20 22:52"
+    text: 少看資訊XD
+  - id: "1562116382575824907"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 22:52"
+    text: 對
+    reply:
+      id: "1562116301068042358"
+      author: JJ
+      text: 後面看資訊又回吐了
+      inGroup: true
+  - id: "1562116427790422108"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 22:52"
+    text: 如果你自己做會賺 連這群組都不要看
+  - id: "1562116459033796649"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 22:53"
+    text: 是真的
+  - id: "1562116533755322439"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 22:53"
+    text: 因為你在每個地方多軍都有空軍也有
+  - id: "1562116641217581150"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 22:53"
+    text: 你只能相信自己 最後也是只有相信自己
+  - id: "1562116722415112257"
+    author: 宸
+    teacher: false
+    time: "2026-10-20 22:54"
+    text: 空手也很痛苦
+  - id: "1562116828761825511"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 22:54"
+    text: 賣飛也很痛苦
+    reply:
+      id: "1562116722415112257"
+      author: 宸
+      text: 空手也很痛苦
+      inGroup: true
+  - id: "1562116872802013266"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 22:54"
+    text: 做交易永遠都痛苦
+quiz:
+  - q: JJ 自己做有賺、看了外面資訊又回吐，Shawnnnn 給的建議和理由是？
+    o:
+      - 多看幾個群互相比對，找出最準的來源再跟
+      - 只跟這個群的訊號，外面的資訊都不要理會
+      - 自己做會賺就連這群都別看，最後只能信自己
+      - 資訊照看，但只在空手時看，有單就關掉
+    a: 2
+    e: Shawnnnn 說如果自己做會賺，連這個群組都不要看，因為每個地方都有多軍也有空軍，最後只能相信自己。

@@ -1,0 +1,105 @@
+slug: "1559825442783895614"
+title: 防守上升趨勢線、實體K跌破出場
+type: 分析
+topic: 撐壓點位
+tags:
+  - 停損停利
+  - 撐壓點位
+teacher: Alina
+channel: 一般
+date: "2026-10-14"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559825442783895614
+summary: 10/14 Alina 在小台 30 分 K 畫出藍色上升趨勢線（加上聰明錢藍框與交界位 48862），做多就防守這條藍線，出現實體 K 跌破才出場；nick_AJ 補充當時雙線正要往下交叉，但也可能 V 轉，位置很曖昧。之後價格沿著上升通道走，Alina 打算漲到通道上緣（接近今日壓力 49212）再考慮做空。
+hidden: false
+messages:
+  - id: "1559825442783895614"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 15:09"
+    text: ""
+    images:
+      - src: /img/1559825442783895614-image.jpg
+        alt: 小台 30 分 K：藍色上升趨勢線加上聰明錢藍框，價格回測到交界位 48862 附近
+  - id: "1559826011829309471"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 15:11"
+    text: 目前有點尷尬 好像正要去交叉往下穿 但也有可能v一個迴轉往上
+  - id: "1559826046721724519"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 15:11"
+    text: 對
+  - id: "1559826130729439287"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 15:12"
+    text: 曖昧不明中
+  - id: "1559826746109599754"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 15:14"
+    text: 來一下讓我平倉&加入多軍
+    images:
+      - src: /img/1559826746109599754-image.jpg
+        alt: 小台 5 分 K：價格回落到藍色上升趨勢線與聰明錢區上緣
+  - id: "1559827528271528027"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 15:17"
+    text: 我做多可能就防守這條藍線
+    reply:
+      id: "1559825442783895614"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1559828841852051478"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 15:22"
+    text: 加入了
+  - id: "1559829256530296867"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 15:24"
+    text: 我守這根藍線出現實體k跌破我就出場 XD
+    reply:
+      id: "1559825442783895614"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1559832959346016266"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 15:39"
+    text: 如果按照這通道乖乖走，到上面再來空哈哈哈
+    images:
+      - src: /img/1559832959346016266-image.jpg
+        alt: 小台 30 分 K：上升通道，下緣有支撐，上緣接近今日壓力 49212
+  - id: "1559833260392058893"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 15:40"
+    text: 摸一下壓力線也好 XD
+    reply:
+      id: "1559832959346016266"
+      author: Alina
+      text: 如果按照這通道乖乖走，到上面再來空哈哈哈
+      inGroup: true
+quiz:
+  - q: Alina 做多時防守藍色上升趨勢線，她設定的出場條件是什麼？
+    o:
+      - 價格一碰到藍線，就先減碼一半
+      - 出現實體 K 跌破藍線才出場
+      - 盤中插針跌破藍線就立刻出場
+      - 跌破藍線後等反彈回測再出場
+    a: 1
+    e: Alina 說「守這根藍線，出現實體 K 跌破就出場」；碰線或插針不算，要 K 棒實體收到線下才離場。
+  - q: 如果價格乖乖沿著上升通道走，Alina 打算怎麼做？
+    o:
+      - 在通道中間先空，賺回落到下緣的空間
+      - 跌破通道下緣後再追空，目標看前低
+      - 漲到通道上緣、接近今日壓力再來空
+      - 續抱多單，等突破通道上緣再加碼
+    a: 2
+    e: Alina 說照通道走的話「到上面再來空」，也就是等到通道上緣、摸到壓力線附近再考慮做空。

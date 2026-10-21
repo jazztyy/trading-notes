@@ -1,0 +1,78 @@
+slug: "1562045760080580690"
+title: 反彈目標看日K 5MA
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 停損停利
+teacher: Alina
+channel: 一般
+date: "2026-10-20"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1562045760080580690
+summary: 短線看起來要往上交叉時，Alina 建議反彈目標先看日K 5MA（當天近月約 46740、遠月約 46922），超過的部分就當撿到；最好再搭配撐壓點位換算出場價。
+hidden: false
+messages:
+  - id: "1562045760080580690"
+    author: Doobe
+    teacher: false
+    time: "2026-10-20 18:12"
+    text: 看起來真的往上的感覺
+  - id: "1562045985486798919"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 18:13"
+    text: 希望一路往上到49000
+  - id: "1562045990393872435"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 18:13"
+    text: 往上交叉感
+    reply:
+      id: "1562045760080580690"
+      author: Doobe
+      text: 看起來真的往上的感覺
+      inGroup: true
+  - id: "1562046788066607175"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 18:16"
+    text: 應該到日k 5ma差不多，其他就當作撿到
+    reply:
+      id: "1562045985486798919"
+      author: tawpas
+      text: 希望一路往上到49000
+      inGroup: true
+  - id: "1562046927733006347"
+    author: 宸
+    teacher: false
+    time: "2026-10-20 18:16"
+    text: 大概多少 我先掛單XD
+  - id: "1562047025925595169"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 18:17"
+    text: 但奢望476再來一次XD
+  - id: "1562047177767919649"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 18:17"
+    text: 日k 5ma46740(近)、46922(遠)
+    reply:
+      id: "1562046927733006347"
+      author: 宸
+      text: 大概多少 我先掛單XD
+      inGroup: true
+  - id: "1562047232319037452"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 18:18"
+    text: 不過我覺得搭配撐壓點位換算好點 XD
+quiz:
+  - q: 短線往上交叉時，Alina 建議反彈目標先看哪裡？
+    o:
+      - 日 K 5MA，超過的部分當撿到，再搭配撐壓點位
+      - 5 分 K EMA200，站上後再看前一天的高點位置
+      - 當天低點到高點斐波 0.618，到了就全部出場
+      - 日 K 季線，反彈沒到季線之前都先抱著不出
+    a: 0
+    e: Alina 說反彈應該到日 K 5MA 差不多，其他就當作撿到；不過她覺得搭配撐壓點位換算出場價會更好。

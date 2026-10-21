@@ -1,0 +1,124 @@
+slug: "1561303186302574716"
+title: 日 K 斐波 0.382 後的反彈預期
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 盤勢判讀
+teacher: Alina
+channel: 一般
+date: "2026-10-18"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1561303186302574716
+summary: Alina 用日 K 斐波（39439→50265）指出，價格已經直接測到 0.382（46129），結算前應該會先反彈一下再往下。反彈站不上 0.236（47710），到 47XXX 就差不多了，而且一次比一次弱。她也提到，那根大黑 K 跌破上升趨勢線、往下灌破前波低點時，訊號其實已經很明顯，只是被月初漲勢矇眼。如果週一向下跳空，她反而偏短多看。
+hidden: false
+messages:
+  - id: "1561303186302574716"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:01"
+    text: 日K已經直接測到0.382
+    images:
+      - src: /img/1561303186302574716-image.jpg
+        alt: 小台日 K 斐波（39439–50265）：大黑 K 跌破上升趨勢線（紫線），收在 0.382（46129），上方 0.236 為 47710
+  - id: "1561303234562363533"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:01"
+    text: 結算前應該要彈一下
+  - id: "1561303252039897099"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:01"
+    text: 然後再往下
+  - id: "1561303331907964969"
+    author: tawpas
+    teacher: false
+    time: "2026-10-18 17:02"
+    text: 那一大根是故意破上升趨勢的嗎
+  - id: "1561303340514549895"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:02"
+    text: 直接往下灌破前波段低點我是就真的看不懂
+  - id: "1561303371733016617"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:02"
+    text: 對阿
+    reply:
+      id: "1561303331907964969"
+      author: tawpas
+      text: 那一大根是故意破上升趨勢的嗎
+      inGroup: true
+  - id: "1561303720871067730"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:03"
+    text: 其實跌破就很明顯了，但一直被月初的上漲的氣勢矇眼
+    reply:
+      id: "1561303331907964969"
+      author: tawpas
+      text: 那一大根是故意破上升趨勢的嗎
+      inGroup: true
+  - id: "1561303810222063708"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:03"
+    text: 往上都站不上0.236 (47710)
+    reply:
+      id: "1561303186302574716"
+      author: Alina
+      text: 日K已經直接測到0.382
+      inGroup: true
+  - id: "1561305485385269373"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:10"
+    text: 有到47XXX就差不多了
+    reply:
+      id: "1561303186302574716"
+      author: Alina
+      text: 日K已經直接測到0.382
+      inGroup: true
+  - id: "1561305548551626815"
+    author: tawpas
+    teacher: false
+    time: "2026-10-18 17:10"
+    text: 真的真的會彈嗎
+  - id: "1561305668084826213"
+    author: tawpas
+    teacher: false
+    time: "2026-10-18 17:11"
+    text: 那假設明天跳空向下怎麼辦
+  - id: "1561305698631942215"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:11"
+    text: 要吧，只是力道越來越弱
+  - id: "1561305765044822118"
+    author: Alina
+    teacher: true
+    time: "2026-10-18 17:11"
+    text: 我反而覺得向下跳空短多 XD
+    reply:
+      id: "1561305668084826213"
+      author: tawpas
+      text: 那假設明天跳空向下怎麼辦
+      inGroup: true
+quiz:
+  - q: 日 K 直接測到斐波 0.382 後，Alina 預期接下來怎麼走？
+    o:
+      - 結算前先反彈，站不上 0.236 再往下
+      - 0.382 守不住，會直接跌到 0.618
+      - 站穩 0.382 後，就會一路漲回前高
+      - 先在 0.382 橫盤，等結算後才表態
+    a: 0
+    e: Alina 說結算前應該會彈一下再往下，往上站不上 0.236，到 47XXX 就差不多了，而且力道一次比一次弱。
+  - q: 回頭看那根跌破上升趨勢線的大黑 K，Alina 怎麼檢討？
+    o:
+      - 那根是主力故意洗盤，之後一定會拉回
+      - 單根黑 K 跌破不算數，要等週 K 確認
+      - 那根成交量太小不可信，當時不必理會
+      - 跌破時訊號就很明顯，只是被漲勢矇眼
+    a: 3
+    e: Alina 說其實跌破就很明顯了，但她一直被月初上漲的氣勢矇眼，沒有照訊號做。

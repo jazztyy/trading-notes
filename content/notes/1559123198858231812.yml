@@ -1,0 +1,191 @@
+slug: "1559123198858231812"
+title: 以5分EMA200作為多單停損
+type: 教學
+topic: 停損停利
+tags:
+  - 停損停利
+  - 多週期判斷
+teacher: Alina
+channel: 一般
+date: "2026-10-12"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559123198858231812
+summary: Shawnnnn 說現在進多他會守 49200，但他成本本來就低於現價，隨口說的停損對他不痛不癢，每個人成本不同不應照抄。Alina 在多空交界 49283 進多一口、守 5 分 EMA200；她觀察 2 分完全糾結、3 分掃過 EMA、5 分還在觀察，沒有下穿不敢空；之後在 49200 加一口攤均價，條件是 5 分出現實體K下穿 EMA200 就出場。nick_AJ 333 進場、跌破 279 就停損。最後 5 分下穿 EMA200，白橘線翻空。
+hidden: false
+messages:
+  - id: "1559123198858231812"
+    author: Doobe
+    teacher: false
+    time: "2026-10-12 16:38"
+    text: "@Shawnnnn 師父你怎麼看？現在能進多嗎"
+  - id: "1559128951689838615"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 17:01"
+    text: 我現在跟他一樣看多欸哈哈哈
+    reply:
+      id: "1559123198858231812"
+      author: Doobe
+      text: "@Shawnnnn 師父你怎麼看？現在能進多嗎"
+      inGroup: true
+  - id: "1559129064705630460"
+    author: Doobe
+    teacher: false
+    time: "2026-10-12 17:02"
+    text: 他剛剛350進300已損
+  - id: "1559129133978488904"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 17:02"
+    text: 現在進我會守200吧
+  - id: "1559129171500736553"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 17:02"
+    text: 但我本來就有單唷
+  - id: "1559131740050825313"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 17:12"
+    text: 而且我成本本來就低於現在的價格，現在隨便說一個停損對我來說都不痛不癢，應該是要損一起損要賺一起賺？
+  - id: "1559133707896623114"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 17:20"
+    text: 我做多有進一口在交界283，我守5分EMA200跌破
+    images:
+      - src: /img/1559133707896623114-image.jpg
+        alt: 小台 5 分K：價格回到今日交界位 49283 附近，下方紫線 EMA200 約 49191，Alina 在此進多、以 EMA200 為停損
+  - id: "1559135248221081601"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 17:26"
+    text: 剛剛也進一口在333結果 也是跌破279我就走惹
+    reply:
+      id: "1559133707896623114"
+      author: Alina
+      text: 我做多有進一口在交界283，我守5分EMA200跌破
+      inGroup: true
+  - id: "1559149112224387134"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 18:21"
+    text: 現在只能觀察等方向了，雖然我剛剛多單還在捏
+  - id: "1559149152456278017"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 18:22"
+    text: 但也是有成本低底單在
+  - id: "1559149489426792532"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 18:23"
+    text: 兩分是完全糾結，三分掃過EMA、五分還在觀察
+    images:
+      - src: /img/1559149489426792532-image.jpg
+        alt: 小台 3 分K：價格掃過紅藍均線、貼近紫色 EMA200，趨勢表 5 分偏空、30 分偏多
+  - id: "1559149499283284041"
+    author: 宸
+    teacher: false
+    time: "2026-10-12 18:23"
+    text: 空了兩口微300
+  - id: "1559149660545753088"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 18:24"
+    text: 兩分超糾結
+    images:
+      - src: /img/1559149660545753088-image.jpg
+        alt: 小台 2 分K：紅藍均線與 EMA200 完全糾結，方向不明
+  - id: "1559149876812582965"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 18:24"
+    text: 沒有下穿我不敢空哈哈哈
+    reply:
+      id: "1559149499283284041"
+      author: 宸
+      text: 空了兩口微300
+      inGroup: true
+  - id: "1559186367097864223"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 20:49"
+    text: 我多我支持🤣
+    reply:
+      id: "1559184851154903091"
+      author: "99"
+      text: 但很想看他被嘎上去
+      inGroup: false
+  - id: "1559186572686131241"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 20:50"
+    text: 我200還有加一口🤣
+  - id: "1559186599500324965"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 20:50"
+    text: 但是好洗
+  - id: "1559186628709195817"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 20:51"
+    text: 短單想閃了
+  - id: "1559186874239684778"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 20:51"
+    text: 反正五分出現實體k下穿EMA200我就閃
+    images:
+      - src: /img/1559186874239684778-IMG_4770.jpg
+        alt: 小台 5 分K：價格在今日交界位與 EMA200（約 49218）附近震盪，各週期多為偏盤整
+  - id: "1559186959790772335"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 20:52"
+    text: 我283還沒走🤣
+    reply:
+      id: "1559186697051447408"
+      author: Doobe
+      text: 也有70點了
+      inGroup: false
+  - id: "1559186993223827597"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 20:52"
+    text: 攤一下均價用
+  - id: "1559205255923896443"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 22:05"
+    text: 不過五分已經下穿EMA200了
+  - id: "1559205623911157883"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 22:06"
+    text: ""
+    images:
+      - src: /img/1559205623911157883-Screenshot_20261012_220604_TradingView.jpg
+        alt: 台指 5 分K：白線與橘線翻空，帶量長黑跌破藍色 EMA200（約 49204）
+  - id: "1559205644941140060"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 22:06"
+    text: 有點那個味
+quiz:
+  - q: Shawnnnn 說現在進多他會守 49200，但他提醒為什麼不該照抄他的停損？
+    o:
+      - 他的成本本來就低於現價，隨口說的停損對他不痛不癢
+      - 他用的是 1 分K，週期不同，停損位置不適合別人用
+      - 他當天只是試單一口，停損本來就會抓得比較寬鬆
+      - 他之後會在 49200 再加碼攤平，所以停損位置會變
+    a: 0
+    e: Shawnnnn 說他本來就有單、成本低於現價，現在說一個停損對他不痛不癢，大家成本不同，不該一起損一起賺。
+  - q: Alina 在多空交界進的多單，停損條件是什麼？
+    o:
+      - 2 分K 雙線糾結時就先出場，等方向明確再進
+      - 跌破進場價 30 點就停損，不論均線位置如何
+      - 3 分K 價格掃過 EMA 就出場，不等 5 分K 確認
+      - 5 分K 出現實體K下穿 EMA200 就出場
+    a: 3
+    e: Alina 守 5 分 EMA200，說「五分出現實體K下穿 EMA200 我就閃」；同理在還沒下穿前她也不敢空。

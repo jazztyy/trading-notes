@@ -1,0 +1,170 @@
+slug: "1559054483550633985"
+title: 黃金交叉後沿線做多與停損設定
+type: 提問
+topic: 指標設定
+tags:
+  - 進場時機
+  - 停損停利
+  - 多週期判斷
+teacher: nick_AJ
+channel: 一般
+date: "2026-10-12"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559054483550633985
+summary: Mikey 問 Shawnnnn 為何 9:19 在 49138 進多，Shawnnnn 說單純看線辦事，當天看 1 分K。nick_AJ 分享用帝王指標 3 分K：早上等白線黃金交叉、也觀察藍色 EMA200 與下方線的交會，之後沿線做多；回踩時再用 5 分K看一兩根確認，停損設在前面不遠的交叉點附近，就算被騙也賠不多。Alina 也認同黃金交叉後沿路做。
+hidden: false
+messages:
+  - id: "1559054483550633985"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 12:05"
+    text: 今天一樣跟著老大的指標的話 我看是3分K很漂亮
+  - id: "1559054518476480584"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 12:06"
+    text: 一路沿著線往上走
+  - id: "1559078351132434593"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 13:40"
+    text: 9:19 49138
+  - id: "1559079082300280833"
+    author: Mikey
+    teacher: false
+    time: "2026-10-12 13:43"
+    text: 想問為什麼那時候會判斷要進多🙋
+    reply:
+      id: "1559078351132434593"
+      author: Shawnnnn
+      text: 9:19 49138
+      inGroup: true
+  - id: "1559079134171500555"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 13:43"
+    text: 單純看線辦事
+    reply:
+      id: "1559079082300280833"
+      author: Mikey
+      text: 想問為什麼那時候會判斷要進多🙋
+      inGroup: true
+  - id: "1559079304892252171"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-12 13:44"
+    text: 今天我是看1分K
+  - id: "1559079373385240579"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 13:44"
+    text: 今天線很漂亮
+    reply:
+      id: "1559079082300280833"
+      author: Mikey
+      text: 想問為什麼那時候會判斷要進多🙋
+      inGroup: true
+  - id: "1559079592210333736"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 13:45"
+    text: ""
+    images:
+      - src: /img/1559079592210333736-Screenshot_20261012_134527_TradingView.jpg
+        alt: 台指 3 分K（帝王策略）：白線上穿橘線後「多-白線 +1」進場，沿線上行、回踩出現綠色三角，下方藍線為 EMA200
+  - id: "1559079633453064293"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 13:45"
+    text: 沿著線走 剛剛跳樓的不算🤣
+  - id: "1559079999984640122"
+    author: Alina
+    teacher: true
+    time: "2026-10-12 13:47"
+    text: 真的，黃金交叉後沿路做，超讚
+    reply:
+      id: "1559079633453064293"
+      author: nick_AJ
+      text: 沿著線走 剛剛跳樓的不算🤣
+      inGroup: true
+  - id: "1559080149557710890"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 13:47"
+    text: 對 早上我就是再等他黃金交叉
+    reply:
+      id: "1559079999984640122"
+      author: Alina
+      text: 真的，黃金交叉後沿路做，超讚
+      inGroup: true
+  - id: "1559080268080615446"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 13:48"
+    text: 使用艾琳娜判斷法+肖恩策略🤔 感覺勝率應該是真的高
+  - id: "1559083279074730118"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-12 14:00"
+    text: 藍線是ema200嗎
+    reply:
+      id: "1559079592210333736"
+      author: nick_AJ
+      text: ""
+      inGroup: true
+  - id: "1559085041416409139"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 14:07"
+    text: 對 早上一直在等它
+    reply:
+      id: "1559083279074730118"
+      author: 維尼Ni🌻
+      text: 藍線是ema200嗎
+      inGroup: true
+  - id: "1559085069472112733"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 14:07"
+    text: 跟下面的交接
+  - id: "1559085199571157014"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-12 14:07"
+    text: 然後回踩到金線你就進多嗎
+  - id: "1559086648833347605"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 14:13"
+    text: 然後可能再看個一兩根
+  - id: "1559086675005546557"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 14:13"
+    text: 用五分K
+  - id: "1559086853322317917"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 14:14"
+    text: 然後就設定好停損 反正就設定前面不遠的交叉地點附近
+  - id: "1559086898155356261"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-12 14:14"
+    text: 估計就算被騙也不會賠太多點
+quiz:
+  - q: nick_AJ 用帝王指標看 3 分K，早上是在等什麼訊號才沿線做多？
+    o:
+      - 等價格跌到 EMA200 下方，再出現長下影線
+      - 等聰明錢指標的紅色壓力區被帶量突破才進
+      - 等 1 分K 連續三根紅K，確認多方動能出來
+      - 等白線黃金交叉，並觀察藍色 EMA200 的交會
+    a: 3
+    e: nick_AJ 說早上他就是在等白線黃金交叉，也在等藍色 EMA200 跟下面的線交接，之後一路沿線做多；Alina 也認同黃金交叉後沿路做。
+  - q: 回踩時要進多，nick_AJ 怎麼確認和設停損？
+    o:
+      - 看 1 分K 收紅就進，停損固定抓 60-70 點
+      - 不另外確認直接進，停損放在當天開盤價下方
+      - 用 5 分K 再看一兩根，停損設在前面不遠的交叉點
+      - 等 15 分K 收紅再進，停損設在前一天的最低點
+    a: 2
+    e: nick_AJ 說回踩後再用 5 分K 看一兩根確認，停損設在前面不遠的交叉點附近，就算被騙也不會賠太多點。

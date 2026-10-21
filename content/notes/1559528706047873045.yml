@@ -1,0 +1,51 @@
+slug: "1559528706047873045"
+title: 小上升趨勢線與橫盤震盪
+type: 分析
+topic: 撐壓點位
+tags:
+  - 盤整震盪
+  - 撐壓點位
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-13"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559528706047873045
+summary: Shawnnnn 在微台 30 分 K 把低點連成一條小上升趨勢線，說只要有守住就別害怕；之後有學員問是不是跌破了，他說確實破了，但現在是橫盤震盪，所以不會太擔心。
+hidden: false
+messages:
+  - id: "1559528706047873045"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-13 19:30"
+    text: 小小的上升趨勢線有守住別害怕
+    images:
+      - src: /img/1559528706047873045-IMG_1217.jpg
+        alt: 微台 30 分 K：低點連成藍色小上升趨勢線，價格回測沒有跌破
+  - id: "1559551283302760569"
+    author: Annahui
+    teacher: false
+    time: "2026-10-13 21:00"
+    text: 現在是不是破了
+    reply:
+      id: "1559528706047873045"
+      author: Shawnnnn
+      text: 小小的上升趨勢線有守住別害怕
+      inGroup: true
+  - id: "1559551298137759815"
+    author: Annahui
+    teacher: false
+    time: "2026-10-13 21:00"
+    text: 🫣 🫣 🫣
+  - id: "1559551597279711325"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-13 21:01"
+    text: 是破了沒錯但是他現在是橫盤震盪所以我不會太擔心
+quiz:
+  - q: 小上升趨勢線被跌破後，Shawnnnn 為什麼說不會太擔心？
+    o:
+      - 因為 5 分K 還站在 EMA200 之上，多方沒轉弱
+      - 因為當時是橫盤震盪，破線不代表轉成空頭
+      - 因為成交量很小，跌破只是假跌破會再拉回
+      - 因為下方還有缺口支撐，跌到那裡就會反彈
+    a: 1
+    e: Shawnnnn 承認趨勢線確實破了，但他說當時是橫盤震盪，所以不會太擔心。

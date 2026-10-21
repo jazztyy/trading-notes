@@ -1,0 +1,137 @@
+slug: "1559557341559398541"
+title: 各週期 EMA200 當壓力參考
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 多週期判斷
+teacher: Alina
+channel: 一般
+date: "2026-10-13"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559557341559398541
+summary: Alina 把各週期的 EMA200 當壓力：5 分 K 的 200 已經降到 666 附近，845-883 有 1 小時和十幾分 K 的 200 壓著，所以壓力很重；2 分 K 站上 200 而且帶量往上衝。她說 1 小時的 200 壓力比較強，衝過 800 站穩後下一關就看它（約 48885），只要不回踩太深都還行；凌晨反彈也正好碰到 1 小時 EMA200 的壓力。
+hidden: false
+messages:
+  - id: "1559557341559398541"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 21:24"
+    text: ""
+    images:
+      - src: /img/1559557341559398541-IMG_4785.jpg
+        alt: 小台 5 分 K：紫色 EMA200 已經降到 48666，上方還有今日壓力 48807
+  - id: "1559557419422588950"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 21:24"
+    text: 200那條已經洗到666的位置了
+  - id: "1559557567884304446"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 21:24"
+    text: 感覺頭很重
+    reply:
+      id: "1559557341559398541"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1559558669337624608"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 21:29"
+    text: 看起來845-883壓力應該挺重，有1小時跟十幾分k的200壓著
+  - id: "1559560591201411235"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 21:37"
+    text: 2分上200k，衝
+  - id: "1559561218815950961"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 21:39"
+    text: 這
+    reply:
+      id: "1559558669337624608"
+      author: Alina
+      text: 看起來845-883壓力應該挺重，有1小時跟十幾分k的200壓著
+      inGroup: true
+  - id: "1559561548257829026"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 21:40"
+    text: 我先看八百多這裡的反應
+    reply:
+      id: "1559558669337624608"
+      author: Alina
+      text: 看起來845-883壓力應該挺重，有1小時跟十幾分k的200壓著
+      inGroup: true
+  - id: "1559562339190181958"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 21:43"
+    text: 200壓力線參考，一小時的應該比較🦆
+    images:
+      - src: /img/1559562339190181958-IMG_4793.jpg
+        alt: 小台 10 分 K：帶量長紅衝向今日壓力 48807，上方 EMA200 約 48842
+      - src: /img/1559562339190181958-IMG_4792.jpg
+        alt: 小台 1 小時 K：EMA200 約 48885，壓在今日壓力 48807 上方
+  - id: "1559569400204623934"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 22:12"
+    text: 衝破800穩下一關看這
+    reply:
+      id: "1559562339190181958"
+      author: Alina
+      text: 200壓力線參考，一小時的應該比較🦆
+      inGroup: true
+  - id: "1559570321936486491"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-13 22:15"
+    text: 到壓力國然下來一點
+    reply:
+      id: "1559562339190181958"
+      author: Alina
+      text: 200壓力線參考，一小時的應該比較🦆
+      inGroup: true
+  - id: "1559570464223920299"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 22:16"
+    text: 對，只要不回踩太深都還行
+  - id: "1559604931692986388"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 00:33"
+    text: 壓力請站穩
+  - id: "1559605110437580860"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 00:33"
+    text: ""
+    images:
+      - src: /img/1559605110437580860-IMG_4802.jpg
+        alt: 小台 1 小時 K：凌晨反彈長紅碰到 EMA200（48881）壓力
+  - id: "1559605177772675255"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 00:34"
+    text: 1小時200ma壓力了
+quiz:
+  - q: Alina 為什麼認為 845-883 這一帶的壓力很重？
+    o:
+      - 那裡是前一天的高點，上方有大量套牢賣壓
+      - 那裡是聰明錢指標的紅色區塊，空方都在那等
+      - 那裡是斐波那契 0.618 位置，通常會反轉向下
+      - 那裡有 1 小時和十幾分K 的 EMA200 一起壓著
+    a: 3
+    e: Alina 說 845-883 有 1 小時跟十幾分K 的 200 壓著，所以壓力應該挺重，她先看那裡的反應。
+  - q: 拿各週期 EMA200 當壓力參考時，Alina 認為哪一條的壓力比較強？
+    o:
+      - 2 分K 的 EMA200，因為反應最快最靈敏
+      - 5 分K 的 EMA200，因為最常被大家使用
+      - 1 小時 K 的 EMA200，衝過後下一關就看它
+      - 10 分K 的 EMA200，因為最接近現在價格
+    a: 2
+    e: Alina 說 200 壓力線參考，1 小時的比較強，衝破 800 站穩後下一關就看它；凌晨反彈也正好碰到 1 小時 EMA200 的壓力。

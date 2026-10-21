@@ -1,6 +1,6 @@
-// 讀取內容的共用入口：講義（notes）與主題（topics）。所有頁面和元件都透過這裡查詢，不要直接呼叫 queryCollection。
+// 讀取內容的共用入口：講義（notes）、理論（concepts）與主題（topics）。所有頁面和元件都透過這裡查詢，不要直接呼叫 queryCollection。
 // 靜態輸出時這些查詢在建置階段執行，結果存進頁面 payload，瀏覽器端不需要資料庫。
-import type { Note, NoteSummary, NoteWithQuiz, Topic } from '~/types/note'
+import type { Concept, Note, NoteSummary, NoteWithQuiz, Topic } from '~/types/note'
 
 const SUMMARY_FIELDS = ['slug', 'title', 'type', 'topic', 'tags', 'teacher', 'channel', 'date', 'url', 'summary'] as const
 
@@ -43,5 +43,30 @@ export const useTopics = () =>
     return { topics: (item?.topics ?? []) as Topic[], teachers: (item?.teachers ?? []) as string[] }
   }, { default: () => ({ topics: [] as Topic[], teachers: [] as string[] }) })
 
+/** Nuxt Content 不會替巢狀欄位補預設值，沒寫的 text／items／figures 讀出來是 undefined，這裡補成空陣列 */
+const normalizeConcept = (c: Concept): Concept => ({
+  ...c,
+  cautions: c.cautions ?? [],
+  sections: (c.sections ?? []).map(s => ({ heading: s.heading, text: s.text ?? [], items: s.items ?? [], figures: s.figures ?? [] })),
+})
+
+/** 所有理論，依主題（topics.yml 的順序）再依 order */
+export const useConcepts = () =>
+  useAsyncData('concepts', async () => {
+    const [items, meta] = await Promise.all([queryCollection('concepts').all(), queryCollection('topics').first()])
+    const topicIndex = (name: string) => (meta?.topics ?? []).findIndex(t => t.name === name)
+    return (items as unknown as Concept[]).map(normalizeConcept).sort((a, b) => topicIndex(a.topic) - topicIndex(b.topic) || a.order - b.order)
+  }, { default: () => [] as Concept[] })
+
+/** 單一理論 */
+export const useConcept = (slug: string) =>
+  useAsyncData(`concept:${slug}`, async () => {
+    const item = await queryCollection('concepts').where('slug', '=', slug).first()
+    return item ? normalizeConcept(item as unknown as Concept) : null
+  })
+
 /** 主題頁網址 */
 export const topicPath = (name: string) => `/t/${encodeURIComponent(name)}`
+
+/** 理論頁網址 */
+export const conceptPath = (slug: string) => `/c/${slug}`

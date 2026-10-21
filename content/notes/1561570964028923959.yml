@@ -1,0 +1,232 @@
+slug: "1561570964028923959"
+title: 回測 EMA200 不破做多、實體 K 收上才算站上
+type: 分析
+topic: 進場時機
+tags:
+  - 進場時機
+  - 盤勢判讀
+teacher: Alina
+channel: 一般
+date: "2026-10-19"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1561570964028923959
+summary: 10/19 Alina 用 5 分 K 的 EMA200（交界）判斷多空。價格在下方時 EMA200 先當壓力，碰到不算站上，要看站上那根 K 棒的實體和量。傍晚走出 W 底，EMA200 約 46728 先壓住，等到上穿交界的 K 棒出現才確認，之後拉出長紅。晚上 21:40 一根長黑回測 EMA200 後撐住，Alina 判斷是誘空、這種長相要進多，並說「在 200ma 做比較安全」；Kai 也指出 19:35 有一模一樣的回測 200ma 沒破、之後上漲。接著她要 5 分 K 收在 EMA200 之上、守住交界，實體 K 穿上 200 才算數，最後帶量站回。
+hidden: false
+messages:
+  - id: "1561570964028923959"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 10:45"
+    text: 今天真的很軟欸，到現在還沒站上5分的200ma
+  - id: "1561573268698173643"
+    author: 宸
+    teacher: false
+    time: "2026-10-19 10:54"
+    text: 站上空?XD
+  - id: "1561573350654877821"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 10:54"
+    text: 要看站上的k棒跟量🤣
+  - id: "1561573368342253639"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 10:55"
+    text: 現在瘋瘋的
+  - id: "1561573421446594663"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 10:55"
+    text: 有時候突然一根
+  - id: "1561671453873799301"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 17:24"
+    text: 感覺走一個W
+    images:
+      - src: /img/1561671453873799301-image.jpg
+        alt: 小台 5 分 K 傍晚打出 W 底，價格還在紫色 EMA200 與交界位 46714 下方
+  - id: "1561671640092381265"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 17:25"
+    text: 5分200ma約728
+    reply:
+      id: "1561671453873799301"
+      author: Alina
+      text: 感覺走一個W
+      inGroup: true
+  - id: "1561671691145580545"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 17:25"
+    text: 這邊應該會先壓，再看有沒有站上
+  - id: "1561673502048784497"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 17:32"
+    text: 200ma穿過，這W就滿漂亮
+  - id: "1561673919860183062"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 17:34"
+    text: 先站上714，再看820那左右
+    reply:
+      id: "1561672877223452745"
+      author: Annahui
+      text: 感覺要去測46800啦
+      inGroup: false
+  - id: "1561678144472354907"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 17:51"
+    text: 那根不錯欸，上穿接界的k棒
+  - id: "1561690291826729021"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 18:39"
+    text: ""
+    images:
+      - src: /img/1561690291826729021-IMG_4998.jpg
+        alt: W 底完成後長紅突破，站上紫色 EMA200 與交界位 46713
+  - id: "1561690307639255041"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 18:39"
+    text: 很w
+  - id: "1561735677459042434"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 21:40"
+    text: ""
+    images:
+      - src: /img/1561735677459042434-IMG_5001.jpg
+        alt: 21:39 帶量長黑一路打回 EMA200（約 46768）附近
+  - id: "1561735804819341446"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 21:40"
+    text: 長的真像日k，慢慢上去，三根打回去原點🤣
+  - id: "1561735943608606892"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 21:41"
+    text: 看起來會彈
+  - id: "1561735998965153883"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 21:41"
+    text: 200ma撐住🙂
+  - id: "1561736211662639105"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 21:42"
+    text: 覺得誘空長相
+  - id: "1561736606828863631"
+    author: Kai
+    teacher: false
+    time: "2026-10-19 21:43"
+    text: 剛剛 19:35 的沒做到 這個進看看
+  - id: "1561736675825164300"
+    author: 宸
+    teacher: false
+    time: "2026-10-19 21:43"
+    text: 進了兩口780微
+  - id: "1561736698629726321"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 21:44"
+    text: 多嗎？這長相要進多
+  - id: "1561736878820958268"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 21:44"
+    text: 果然
+    images:
+      - src: /img/1561736878820958268-IMG_5002.jpg
+        alt: 21:44 下影線測 EMA200 沒破就收回，印證誘空
+  - id: "1561737210502451322"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 21:46"
+    text: 200ma做安全啦
+    reply:
+      id: "1561736675825164300"
+      author: 宸
+      text: 進了兩口780微
+      inGroup: true
+  - id: "1561737259873734817"
+    author: Kai
+    teacher: false
+    time: "2026-10-19 21:46"
+    text: 對 剛剛 19:35 有一樣的 測 200ma 沒破上去了
+    reply:
+      id: "1561736698629726321"
+      author: Alina
+      text: 多嗎？這長相要進多
+      inGroup: true
+    images:
+      - src: /img/1561737259873734817-image.jpg
+        alt: Kai 的 19:35 範例：K 棒回測均線（紅圈）沒跌破，之後往上走
+  - id: "1561739866939719811"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 21:56"
+    text: 看這根5分收不收的好
+  - id: "1561739990361178295"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 21:57"
+    text: 要收200ma上
+  - id: "1561741999483265076"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 22:05"
+    text: 守交界
+  - id: "1561742236763426872"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 22:06"
+    text: 這根要穿過200ma
+  - id: "1561742542960070666"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 22:07"
+    text: ""
+    images:
+      - src: /img/1561742542960070666-IMG_5004.jpg
+        alt: 22:06 跌破後下影線刺到交界位附近，綠 K 收回紫色 EMA200 之上
+  - id: "1561742697662783622"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 22:07"
+    text: 實k穿上200還行
+  - id: "1561744944987635734"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 22:16"
+    text: 今天都在甩人喔，甩多軍騙空軍
+  - id: "1561745468109750413"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 22:18"
+    text: 走得ok欸，也有量
+    images:
+      - src: /img/1561745468109750413-IMG_5005.jpg
+        alt: 22:18 連續紅 K 帶量站回 EMA200 和雙線之上，逼近夜盤高點
+quiz:
+  - q: 價格從下方碰到 5 分 K 的 EMA200 時，Alina 怎麼判斷算不算站上？
+    o:
+      - 盤中只要一碰到 EMA200，就算站上了
+      - 連續三根 K 棒都在線上，才算站上
+      - 看站上那根 K 棒的實體收上和量能
+      - 等 15 分 K 也站上 EMA200 才算數
+    a: 2
+    e: Alina 說價格在下方時 EMA200 會先壓，要看站上的 K 棒和量；之後也強調要實體 K 收在 200ma 之上才算數。
+  - q: 21:40 一根長黑回測 5 分 EMA200 後撐住，Alina 怎麼判斷？
+    o:
+      - 回測沒破是誘空長相，這裡要進多
+      - 長黑帶量代表空方轉強，應該追空
+      - 方向不明，先等 EMA200 跌破再說
+      - 等 K 棒站回前高確認後，才進多單
+    a: 0
+    e: Alina 說 200ma 撐住、覺得是誘空長相，這種長相要進多，在 200ma 做比較安全；Kai 也指出 19:35 有一樣的回測沒破後上漲。

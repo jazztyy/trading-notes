@@ -10,7 +10,8 @@
     "typecheck": "nuxt typecheck",
     "postinstall": "nuxt prepare",
     "check": "node scripts/check-content.mjs",
-    "quiz-todo": "node scripts/quiz-todo.mjs"
+    "quiz-todo": "node scripts/quiz-todo.mjs",
+    "concept-todo": "node scripts/concept-todo.mjs"
   },
   "dependencies": {
     "@nuxt/content": "^3.16.1",

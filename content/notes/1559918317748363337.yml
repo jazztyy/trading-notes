@@ -1,0 +1,68 @@
+slug: "1559918317748363337"
+title: 空方趨勢中不急著波段做多
+type: 提問
+topic: 盤勢判讀
+tags:
+  - 盤勢判讀
+  - 資金與風險
+teacher: nick_AJ
+channel: 一般
+date: "2026-10-14"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559918317748363337
+summary: Jessie 問想做波段的話現在買多好不好，宸說除非能左側一直往下補低，不然趨勢偏空時先不要；nick_AJ 同意，目前還沒看到翻轉訊號，除非資金多到能無限加倉才沒差。
+hidden: false
+messages:
+  - id: "1559918317748363337"
+    author: Jessie
+    teacher: false
+    time: "2026-10-14 21:18"
+    text: 認真要波段看的話
+  - id: "1559918381346324511"
+    author: Jessie
+    teacher: false
+    time: "2026-10-14 21:18"
+    text: 現在買多是不是不太好
+  - id: "1559918465236603011"
+    author: Jessie
+    teacher: false
+    time: "2026-10-14 21:19"
+    text: 我好想買多
+  - id: "1559918478130151456"
+    author: 宸
+    teacher: false
+    time: "2026-10-14 21:19"
+    text: 除非你左側 可以一直補低
+  - id: "1559918539660337173"
+    author: 宸
+    teacher: false
+    time: "2026-10-14 21:19"
+    text: 不然趨勢空方感覺先不要
+  - id: "1559918580051480608"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 21:19"
+    text: 對
+    reply:
+      id: "1559918539660337173"
+      author: 宸
+      text: 不然趨勢空方感覺先不要
+      inGroup: true
+  - id: "1559918605682999418"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 21:19"
+    text: 暫時還沒看到翻轉的時候
+  - id: "1559918642513191107"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-14 21:19"
+    text: 當然可以無限加倉的話就沒差
+quiz:
+  - q: 趨勢偏空時 Jessie 想波段買多，宸和 nick_AJ 的看法是什麼？
+    o:
+      - 可以先買一口試單，跌破前低再停損出場
+      - 先不要，除非能左側一路補低或無限加倉
+      - 等跌到月 K 開盤價附近再分批往下買進
+      - 改用小台買多，口數小就不怕趨勢偏空
+    a: 1
+    e: 宸說除非左側可以一直補低，不然趨勢偏空先不要；nick_AJ 同意，還沒看到翻轉訊號，除非能無限加倉才沒差。

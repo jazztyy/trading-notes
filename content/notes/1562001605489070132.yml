@@ -1,0 +1,111 @@
+slug: "1562001605489070132"
+title: 進場前先規劃停損，別懷疑「真的會跌嗎」
+type: 教學
+topic: 停損停利
+tags:
+  - 停損停利
+  - 交易心態
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-20"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1562001605489070132
+summary: Shawnnnn 要 tawpas 答應下次進場前先規劃好停損點位，而不是進場前問大家意見，因為 100 個人會給 100 種意見。tawpas 說他每次不停損，都是因為懷疑「真的會跌下去嗎？」Kai 回答不一定，也可能噴上去，但停損就是要設，不然會無限循環。Shawnnnn 指出那是手上有單才會這樣想；想撿便宜時又會希望它再跌一點，結果常常等不到時機。他坦言自己波段看不遠，只看大概的壓力支撐做短單，認清自己的缺點不是壞事。
+hidden: false
+messages:
+  - id: "1562001605489070132"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 15:16"
+    text: 沒人說得準 答應我下次進場就先規劃好停損點位好嗎
+  - id: "1562001628901548045"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 15:16"
+    text: 好
+  - id: "1562001662435139625"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 15:16"
+    text: 下次進場前先問大家意見
+  - id: "1562001755787755550"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 15:17"
+    text: 那100個人給你意見怎辦
+  - id: "1562007959188406303"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 15:41"
+    text: 我波段爛到有剩，我只會看大概壓力支撐然後逆勢一下
+  - id: "1562008766856298499"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 15:45"
+    text: 其實我每次不停損的原因都是疑問
+  - id: "1562008786116542495"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 15:45"
+    text: 真的會下去嗎
+  - id: "1562008803338092665"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 15:45"
+    text: 現在有這麼差嗎
+  - id: "1562008835051487364"
+    author: Kai
+    teacher: false
+    time: "2026-10-20 15:45"
+    text: 不一定啊 也可能噴上去 但你停損就是要設啊 不然就會無限循環 ＸＤ
+    reply:
+      id: "1562008716566601759"
+      author: tawpas
+      text: 是真的會去嗎
+      inGroup: false
+  - id: "1562009007777120387"
+    author: Kai
+    teacher: false
+    time: "2026-10-20 15:46"
+    text: 你當時也沒想到會噴到 50000 然後現在 46000 XD
+    reply:
+      id: "1562008803338092665"
+      author: tawpas
+      text: 現在有這麼差嗎
+      inGroup: true
+  - id: "1562009013456076813"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 15:46"
+    text: 那是你有單的狀況下會這麼想，你想要撿便宜你就會希望他再下去一點，但有時候一樣就是等不到時機點
+  - id: "1562009165940002819"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 15:46"
+    text: 我就是沒能力看那麼遠所以我才做短單🤣
+  - id: "1562009188144521327"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 15:46"
+    text: 認清自己的缺點
+  - id: "1562009203340611635"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 15:46"
+    text: 不是壞事
+quiz:
+  - q: Shawnnnn 要 tawpas 答應下次進場前先做什麼？
+    o:
+      - 先在群裡問大家意見，多數同意再進
+      - 先規劃好停損點位，再按計畫進場
+      - 先看日 K 方向，只做順大趨勢的單
+      - 先用一口試單，確定方向對了再加碼
+    a: 1
+    e: Shawnnnn 說沒人說得準，要 tawpas 進場前先規劃好停損點位；問大家意見的話，100 個人會給 100 種意見。
+  - q: Shawnnnn 說自己為什麼做短單？
+    o:
+      - 短單手續費成本低，長期下來比較划算
+      - 短單不用留倉，假日比較能夠安心休息
+      - 波段看不遠，只看大概壓力支撐做短單
+      - 短單勝率比較高，比波段更容易累積獲利
+    a: 2
+    e: Shawnnnn 說自己沒能力看那麼遠，只會看大概的壓力支撐，所以做短單；認清自己的缺點不是壞事。

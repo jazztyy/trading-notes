@@ -1,0 +1,257 @@
+slug: "1560653990436540507"
+title: 復盤：EMA200 站不上卻猜底的教訓
+type: 教學
+topic: 指標設定
+tags:
+  - 復盤回測
+  - 進場時機
+  - 停損停利
+teacher: Alina
+channel: 一般
+date: "2026-10-16"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1560653990436540507
+summary: Alina 復盤 10/16 夜盤：5 分 K 兩次碰 200ma（EMA200）都站不上，支撐也沒守住，她卻一直主觀猜反彈。正確做法是第一次壓回 200ma 時就停損多單，之後十字 K 再向下就該空；跌破支撐（例如 47200）開始下穿時進空，停損放在重新站回支撐，反轉就停損。她提醒要回歸看線辦事、撇除雜訊；方向不明時可以先對鎖，方向明確再加碼。
+hidden: false
+messages:
+  - id: "1560653990436540507"
+    author: Kai
+    teacher: false
+    time: "2026-10-16 22:01"
+    text: 真的要乖乖照線做事 自己那麼多主觀意識幹嘛 氣死 ＸＤ
+  - id: "1560654117356175381"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 22:02"
+    text: 該出不出🙂
+  - id: "1560654337804603514"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 22:03"
+    text: 明明各項指標就是空🤣 短多短到自己錢包被攻擊
+    reply:
+      id: "1560654117356175381"
+      author: Alina
+      text: 該出不出🙂
+      inGroup: true
+  - id: "1560654554310254684"
+    author: Kai
+    teacher: false
+    time: "2026-10-16 22:04"
+    text: 我也是 明明就看到壓力過不去被壓下來 我還不出在幹嘛 今天就兩次了 ＸＤＤ
+  - id: "1560654808128557147"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 22:05"
+    text: 所以回歸看線辦事🤣 撇除雜訊
+  - id: "1560654957185732672"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 22:05"
+    text: 不然交界空下來也是四百多點
+  - id: "1560655025179725888"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 22:05"
+    text: 我剛剛來來回回的全部都被主力拿走了
+  - id: "1560676762583568506"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:32"
+    text: 哎…復盤回去看，真的是檢討我自己🤣
+  - id: "1560677336687317153"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:34"
+    text: 其實空點有，只是主觀一直覺得反彈🤣
+  - id: "1560677395714015264"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:34"
+    text: 但其實也有彈啦，只是沒有到預期
+  - id: "1560677442186780735"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:34"
+    text: 自己也知道400-500大壓區
+  - id: "1560677591265058837"
+    author: Annahui
+    teacher: false
+    time: "2026-10-16 23:35"
+    text: 真的47200破掉 我就好想空
+    reply:
+      id: "1560676964317274113"
+      author: Alina
+      text: 後面開始看線做
+      inGroup: false
+  - id: "1560677692716621935"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:35"
+    text: 那裡開始下穿
+  - id: "1560677710391410829"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:36"
+    text: 真的應該空
+  - id: "1560677739000762399"
+    author: Annahui
+    teacher: false
+    time: "2026-10-16 23:36"
+    text: 五分K線都彎到不行
+  - id: "1560677761142489140"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:36"
+    text: 就反轉停損就好了🤣
+  - id: "1560677817887498332"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:36"
+    text: 今天被「反彈」整個影響判斷
+  - id: "1560677858773311683"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:36"
+    text: 一直想摸底哈哈哈
+  - id: "1560679253098373202"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:42"
+    text: 這邊過不了應該就要空了，真是的～～～
+    reply:
+      id: "1560677442186780735"
+      author: Alina
+      text: 自己也知道400-500大壓區
+      inGroup: true
+  - id: "1560679858994946160"
+    author: Annahui
+    teacher: false
+    time: "2026-10-16 23:44"
+    text: |-
+      我剛空了 防守60點
+      800多還有彈 怕回去是反彈
+    reply:
+      id: "1560679244059902053"
+      author: Doobe
+      text: 上來800啊
+      inGroup: false
+  - id: "1560680016248049725"
+    author: Annahui
+    teacher: false
+    time: "2026-10-16 23:45"
+    text: 跟著五分K 貼線
+  - id: "1560680115548061767"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:45"
+    text: 800可以
+  - id: "1560680159961678027"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:45"
+    text: 防守就站上支撐
+  - id: "1560680206094569506"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:45"
+    text: 好判斷
+  - id: "1560680381425131614"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:46"
+    text: 明明200ma沒過支撐沒過一直猜底🤣
+  - id: "1560680468305674323"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:46"
+    text: 我應該要空支撐的可惡哈哈哈
+  - id: "1560680528682680421"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:47"
+    text: 這裡也好防守
+    reply:
+      id: "1560680468305674323"
+      author: Alina
+      text: 我應該要空支撐的可惡哈哈哈
+      inGroup: true
+  - id: "1560680557245898945"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 23:47"
+    text: 好位置我都在猜底🤣
+  - id: "1560705375836180483"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 01:25"
+    text: 我覺得現在都不要接多
+  - id: "1560707224912011456"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 01:33"
+    text: 越看越覺得今天其實超好做🤣
+  - id: "1560707670221263058"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 01:35"
+    text: 怎麼沒想著對鎖🤣可惡
+  - id: "1560707704723349547"
+    author: Kai
+    teacher: false
+    time: "2026-10-17 01:35"
+    text: 我回去看那根 47323 那邊 200ma 沒過被壓 我沒做就算了還沒停損多單 真的快氣死哈哈
+  - id: "1560707707747573925"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 01:35"
+    text: 方向明確再加
+  - id: "1560707765561852016"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 01:35"
+    text: 是不是
+    reply:
+      id: "1560707704723349547"
+      author: Kai
+      text: 我回去看那根 47323 那邊 200ma 沒過被壓 我沒做就算了還沒停損多單 真的快氣死哈哈
+      inGroup: true
+  - id: "1560707827247349953"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 01:35"
+    text: 明明訊號很明確
+  - id: "1560708394191691867"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 01:37"
+    text: ""
+    images:
+      - src: /img/1560708394191691867-IMG_4928.jpg
+        alt: 小台 5 分 K：價格兩度上攻紫色 EMA200（紅圈）都站不上，隨後長黑跌破，1 分到 4 小時轉為偏空
+  - id: "1560708785780035758"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 01:39"
+    text: 200ma都站不上，第一個壓回k多就要筍，後面十字後向下就該空
+    reply:
+      id: "1560708394191691867"
+      author: Alina
+      text: ""
+      inGroup: true
+quiz:
+  - q: Alina 復盤時說，5 分 K 碰 200ma 一直站不上，正確做法應該是什麼？
+    o:
+      - 等第三次測試 200ma，站不上再停損多單
+      - 跌到前低支撐附近，再加碼多單攤平成本
+      - 第一次壓回就停損多單，十字後向下就空
+      - 改看 15 分 K，確認也站不上才停損出場
+    a: 2
+    e: Alina 說「200ma 都站不上，第一個壓回 K 多就要停損，後面十字後向下就該空」，她當時卻一直主觀猜底。
+  - q: 跌破支撐、開始下穿時進空，Alina 建議停損怎麼設？
+    o:
+      - 價格重新站回支撐就停損
+      - 進場價往上固定抓 60 點
+      - 反彈碰到 5 分 EMA200 時
+      - 前一個高點再往上 50 點
+    a: 0
+    e: Annahui 說她空單防守 60 點，Alina 回「防守就站上支撐，好判斷」，也就是反轉站回支撐就停損。

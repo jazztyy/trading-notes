@@ -1,0 +1,94 @@
+slug: "1559862471823724645"
+title: 交界位與 EMA200 重疊的加碼點
+type: 教學
+topic: 撐壓點位
+tags:
+  - 進場時機
+  - 撐壓點位
+teacher: Alina
+channel: 一般
+date: "2026-10-14"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559862471823724645
+summary: 學員猶豫要不要加碼時，Alina 指出剛剛回測的交界位（約 860）是漂亮的加碼位：價格下跌沒有貫穿交界，而且剛好也是 5 分 K EMA200 的位置，兩者重疊等於雙重支撐；她判斷接下來會區間震盪到數據公布。
+hidden: false
+messages:
+  - id: "1559862471823724645"
+    author: Annahui
+    teacher: false
+    time: "2026-10-14 17:36"
+    text: 現在這位置好猶豫要不要加碼
+    reply:
+      id: "1559859934567469078"
+      author: Doobe
+      text: 我空單被騙下車啊
+      inGroup: false
+  - id: "1559862802443796500"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 17:37"
+    text: 剛剛交界位是加碼漂亮位
+    images:
+      - src: /img/1559862802443796500-image.jpg
+        alt: 小台 3 分 K：價格回測今日交界位 48862 沒有貫穿就反彈
+  - id: "1559863081759150101"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 17:38"
+    text: 下跌沒貫穿交界
+    reply:
+      id: "1559862802443796500"
+      author: Alina
+      text: 剛剛交界位是加碼漂亮位
+      inGroup: true
+  - id: "1559863228513656843"
+    author: Annahui
+    teacher: false
+    time: "2026-10-14 17:39"
+    text: 900嗎
+    reply:
+      id: "1559862802443796500"
+      author: Alina
+      text: 剛剛交界位是加碼漂亮位
+      inGroup: true
+  - id: "1559863301771362328"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 17:39"
+    text: "860"
+  - id: "1559863602662346753"
+    author: Annahui
+    teacher: false
+    time: "2026-10-14 17:41"
+    text: 一瞬間而已
+    reply:
+      id: "1559863301771362328"
+      author: Alina
+      text: "860"
+      inGroup: true
+  - id: "1559863607574143070"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 17:41"
+    text: 也大概5分的200ma位置
+    images:
+      - src: /img/1559863607574143070-image.jpg
+        alt: 小台 5 分 K：交界位 48862 和 EMA200（約 48867）重疊，形成雙重支撐
+  - id: "1559863683805487127"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 17:41"
+    text: 重疊雙重加持 XD
+  - id: "1559864170046951435"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 17:43"
+    text: 感覺區間震盪來回晃到數據
+quiz:
+  - q: Alina 為什麼說剛剛回測的交界位是漂亮的加碼位？
+    o:
+      - 價格跌破交界後馬上站回，代表剛剛是假跌破
+      - 交界位原本是壓力，突破後已經轉成支撐
+      - 沒貫穿交界，又和 5 分 EMA200 重疊
+      - 30 分 K 雙線剛黃金交叉，交界位在線上方
+    a: 2
+    e: Alina 指出價格下跌沒有貫穿交界位，而且那裡大概也是 5 分 K 的 EMA200，兩者重疊是雙重支撐。

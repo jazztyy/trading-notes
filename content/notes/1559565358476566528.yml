@@ -1,0 +1,132 @@
+slug: "1559565358476566528"
+title: 突破下降趨勢線回踩才轉多
+type: 教學
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 盤勢判讀
+teacher: Alina
+channel: 一般
+date: "2026-10-13"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559565358476566528
+summary: Alina 在 60 分 K 畫出綠色下降趨勢線，說多方要拿回局勢，必須突破這條線，突破後回踩站穩才算，不然都只是反彈；線的位置大約參考 60 分 K 的上布林（當時 49187，布林會移動）。隔天 Shawnnnn 指出價格反彈到 1 小時下降趨勢線，Alina 也提醒多軍再快樂，這裡的壓力還是很大。
+hidden: false
+messages:
+  - id: "1559565358476566528"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 21:55"
+    text: ""
+    images:
+      - src: /img/1559565358476566528-IMG_4794.jpg
+        alt: 台指 60 分 K：綠色下降趨勢線連接 50117 以來的高點，上布林 49186，K 棒仍在線下
+  - id: "1559565431230955584"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 21:56"
+    text: 怎麼看都壓力很大
+  - id: "1559578360978350156"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 22:47"
+    text: 多方局勢要拿回來要突破過綠線，過完回踩穩才是拿回多方局勢，不然都是反彈喔
+    reply:
+      id: "1559565358476566528"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1559578581787480168"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-13 22:48"
+    text: 綠線是哪條
+    reply:
+      id: "1559578360978350156"
+      author: Alina
+      text: 多方局勢要拿回來要突破過綠線，過完回踩穩才是拿回多方局勢，不然都是反彈喔
+      inGroup: true
+  - id: "1559578772351750225"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 22:49"
+    text: 下降趨勢線，大概參考上布林就是49187
+  - id: "1559579279094980611"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-13 22:51"
+    text: 60分k嗎？我看5分是48911
+    reply:
+      id: "1559578772351750225"
+      author: Alina
+      text: 下降趨勢線，大概參考上布林就是49187
+      inGroup: true
+  - id: "1559579385399611468"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 22:51"
+    text: 60分喔
+  - id: "1559579540463034390"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-13 22:52"
+    text: 60分k看上布林站穩才轉多 好的
+  - id: "1559579964418957486"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 22:53"
+    text: 布林會動🤣 你大概記這點位
+    reply:
+      id: "1559578772351750225"
+      author: Alina
+      text: 下降趨勢線，大概參考上布林就是49187
+      inGroup: true
+  - id: "1559740071219826740"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 09:30"
+    text: 雖然現在多軍很快樂，還是要注意一下 XD
+    reply:
+      id: "1559565358476566528"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1559747970734362705"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-14 10:01"
+    text: 到下降趨勢線了
+  - id: "1559748180466344008"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-14 10:02"
+    text: ""
+    images:
+      - src: /img/1559748180466344008-image.jpg
+        alt: 微台 1 小時 K：反彈長紅碰到藍色下降趨勢線，下方是缺口 48933
+  - id: "1559804107261476958"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 13:44"
+    text: 看起來壓力還是很大
+    reply:
+      id: "1559565358476566528"
+      author: Alina
+      text: ""
+      inGroup: true
+quiz:
+  - q: Alina 說多方要拿回局勢，需要滿足什麼條件？
+    o:
+      - 碰到綠色下降趨勢線就算，碰到即可接多
+      - 突破綠色下降趨勢線後回踩站穩，否則只是反彈
+      - 5 分K 連續三根紅K 收在布林中軌之上就算
+      - 跌到 60 分K 下布林出現止跌K棒就算轉多
+    a: 1
+    e: Alina 說要突破過綠線、過完回踩穩才是拿回多方局勢，不然都只是反彈。
+  - q: 這條下降趨勢線的位置，Alina 說大概可以參考什麼？
+    o:
+      - 60 分K 的上布林，但布林會動要記點位
+      - 5 分K 的 EMA200，會隨價格一起移動
+      - 日K 的月線位置，每天收盤後再更新一次
+      - 1 小時 K 的前高連線，畫好之後就不用改
+    a: 0
+    e: Alina 說下降趨勢線大概參考 60 分K 的上布林（當時約 49187），並提醒布林會動，大概記這個點位就好。

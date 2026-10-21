@@ -1,0 +1,106 @@
+slug: "1562096531946082357"
+title: 每月設獲利目標，克制過度交易
+type: 教學
+topic: 交易心態
+tags:
+  - 交易心態
+  - 資金與風險
+teacher: Alina
+channel: 一般
+date: "2026-10-20"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1562096531946082357
+summary: Alina 說手感不好的日子就停手，自己每個月都設獲利目標，達標就克制下單，避免硬交易；之前的虧損她花了幾個月才打回來。Shawnnnn 也說多做真的會多錯，尤其連續好幾單都不順的時候。
+hidden: false
+messages:
+  - id: "1562096531946082357"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 21:33"
+    text: 不過我覺得如果今天手感不好，可以停手🤣
+  - id: "1562096617463615539"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 21:34"
+    text: 我今天結算一下我這個損益
+  - id: "1562096664536420413"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 21:34"
+    text: 我這幾天都在浪費我打的彈珠🤣
+  - id: "1562096734073782435"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 21:34"
+    text: 馬上克制我的手指
+    reply:
+      id: "1562096664536420413"
+      author: Alina
+      text: 我這幾天都在浪費我打的彈珠🤣
+      inGroup: true
+  - id: "1562096796375982143"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 21:34"
+    text: 我每個月有給自己設獲利目標的🤣
+  - id: "1562096963946680371"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 21:35"
+    text: 我以前也會欸
+    reply:
+      id: "1562096796375982143"
+      author: Alina
+      text: 我每個月有給自己設獲利目標的🤣
+      inGroup: true
+  - id: "1562097119827857519"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 21:36"
+    text: 這可以克制我不要硬交易🤣雖然仍會手癢
+    reply:
+      id: "1562096963946680371"
+      author: Shawnnnn
+      text: 我以前也會欸
+      inGroup: true
+  - id: "1562097171572989973"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 21:36"
+    text: 好不容易把賠的都打回來了
+  - id: "1562097175746584652"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 21:36"
+    text: 一定會 而且多做真的會多錯
+  - id: "1562097202292072490"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 21:36"
+    text: 花了我幾個月
+  - id: "1562097270252634113"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 21:36"
+    text: 對，尤其好幾單的都不行的時候
+    reply:
+      id: "1562097175746584652"
+      author: Shawnnnn
+      text: 一定會 而且多做真的會多錯
+      inGroup: true
+quiz:
+  - q: Alina 每個月替自己設獲利目標，主要用意是什麼？
+    o:
+      - 督促自己每天都要下單，才追得上目標
+      - 達標後可以放大口數，把獲利再滾上去
+      - 達標就克制下單，避免手癢硬交易
+      - 沒達標就延長交易時間，月底前補足
+    a: 2
+    e: Alina 說每月設獲利目標可以克制自己不要硬交易，雖然仍會手癢；她之前的虧損花了幾個月才打回來。
+  - q: 手感不好、連續好幾單都不順的時候，Alina 和 Shawnnnn 怎麼看？
+    o:
+      - 可以停手，因為多做真的會多錯
+      - 要加大口數，一兩單就能把虧損賺回
+      - 改換別的時間週期，重新找進場訊號
+      - 縮小停損繼續做，等手感慢慢回來
+    a: 0
+    e: Alina 說手感不好可以停手；Shawnnnn 說多做真的會多錯，Alina 補充尤其好幾單都不行的時候。

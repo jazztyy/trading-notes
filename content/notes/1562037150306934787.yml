@@ -1,0 +1,78 @@
+slug: "1562037150306934787"
+title: 30分K看訊號、5分K找進場位置
+type: 提問
+topic: 多週期判斷
+tags:
+  - 多週期判斷
+  - 進場時機
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-20"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1562037150306934787
+summary: 有學員剛照 5分K 做多就被打下來。Shawnnnn 提醒參數不能只看 5分K 就進場，要用 30分K 的參數訊號決定方向，5分K 只用來找進場位置。
+hidden: false
+messages:
+  - id: "1562037150306934787"
+    author: 宸
+    teacher: false
+    time: "2026-10-20 17:37"
+    text: 5分K剛進多就又被打下去 好可憐
+  - id: "1562038186534764605"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 17:42"
+    text: 你都看五分K參數進去?
+    reply:
+      id: "1562037150306934787"
+      author: 宸
+      text: 5分K剛進多就又被打下去 好可憐
+      inGroup: true
+  - id: "1562038244923941025"
+    author: 宸
+    teacher: false
+    time: "2026-10-20 17:42"
+    text: 沒阿 我只是現在剛好看到
+  - id: "1562038267082313790"
+    author: 宸
+    teacher: false
+    time: "2026-10-20 17:42"
+    text: 他剛上去就跳下去
+  - id: "1562038398783463445"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 17:42"
+    text: 喔喔那就好
+  - id: "1562038446296539187"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 17:43"
+    text: 想說不能看5分進去
+  - id: "1562039978383642685"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-20 17:49"
+    text: 那要看什麼比較好
+    reply:
+      id: "1562038446296539187"
+      author: Shawnnnn
+      text: 想說不能看5分進去
+      inGroup: true
+  - id: "1562040097962983545"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-20 17:49"
+    text: 30分的參數訊號5分看進場位置阿
+    reply:
+      id: "1562039978383642685"
+      author: 維尼Ni🌻
+      text: 那要看什麼比較好
+      inGroup: true
+quiz:
+  - q: 依 Shawnnnn 的做法，30 分 K 和 5 分 K 各自負責什麼？
+    o:
+      - 30 分看參數訊號定方向，5 分找進場位置
+      - 5 分看參數訊號定方向，30 分找出場位置
+      - 30 分和 5 分訊號同時出現才可以進場
+      - 30 分只用來畫撐壓，5 分訊號出來就進
+    a: 0
+    e: Shawnnnn 說不能只看 5 分 K 參數就進去，要看 30 分的參數訊號，5 分 K 用來看進場位置。

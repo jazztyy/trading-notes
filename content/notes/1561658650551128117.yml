@@ -1,0 +1,253 @@
+slug: "1561658650551128117"
+title: 近月做短衝、遠月做趨勢空單
+type: 提問
+topic: 資金與風險
+tags:
+  - 資金與風險
+teacher: Alina
+channel: 一般
+date: "2026-10-19"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1561658650551128117
+summary: JJ 的 10 月空單和 11 月多單都被套，想等反彈全力佈 11 月空單。Alina 建議 10、11 月都卡的話可以改做 12 月（只是比較吃保證金）；10 月剩沒幾天，如果部位不打算減碼停損，就轉倉到 12 月。沒有要抱波段的話，差別只是開在不同月份，但遠月流動性比較差。她的原則是「近月做短衝、遠月做趨勢」，短衝需要流動性。不過最佳解還是找好位置減碼保本，不然也沒有保證金可以加倉。她不玩選擇權，用近遠月和小台、微台搭配。實際操作上，她順勢短沖看 10 月近月，要加空或佈空單就改用遠月，例如 10/20 收盤後計畫在 5 分 K EMA200 附近慢慢佈遠月空單，比較安全。
+hidden: false
+messages:
+  - id: "1561658650551128117"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 16:33"
+    text: 後面如果拉上去加空我會空遠月喔，比較安全點
+  - id: "1561667595436957799"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 17:09"
+    text: 或者平了上去空遠月也OK
+  - id: "1561778565039661067"
+    author: JJ
+    teacher: false
+    time: "2026-10-20 00:30"
+    text: |-
+      我11月多單還卡在天上
+      也在找低點攤平🫣
+  - id: "1561778721680265227"
+    author: JJ
+    teacher: false
+    time: "2026-10-20 00:31"
+    text: |-
+      然後又卡了10月空單
+      46750
+      我真的黑白做
+  - id: "1561779482166169632"
+    author: JJ
+    teacher: false
+    time: "2026-10-20 00:34"
+    text: |-
+      如果能來45800出掉反手多
+      再47300全力佈空
+      這是最美的劇本…
+  - id: "1561780893624832112"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:39"
+    text: 近月嗎
+    reply:
+      id: "1561779482166169632"
+      author: JJ
+      text: 如果能來45800出掉反手多 再47300全力佈空 這是最美的劇本…
+      inGroup: true
+  - id: "1561780976864993457"
+    author: JJ
+    teacher: false
+    time: "2026-10-20 00:40"
+    text: 應該是全力佈11月空
+  - id: "1561781457436024843"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:41"
+    text: 10、11都卡，那12月？但很吃保證金就是了
+  - id: "1561781580782117065"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:42"
+    text: 46750空也還好，沒很嘎
+    reply:
+      id: "1561778721680265227"
+      author: JJ
+      text: 然後又卡了10月空單 46750 我真的黑白做
+      inGroup: true
+  - id: "1561781729486704673"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:43"
+    text: 不然你就轉倉做12月
+  - id: "1561781749686603840"
+    author: JJ
+    teacher: false
+    time: "2026-10-20 00:43"
+    text: 11月卡最多
+  - id: "1561781772998672436"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:43"
+    text: 反正10月剩沒幾天
+  - id: "1561781794624372818"
+    author: JJ
+    teacher: false
+    time: "2026-10-20 00:43"
+    text: 轉12月空？
+  - id: "1561781903361581107"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:43"
+    text: 假設你現在部位都沒有要減碼停損的話
+  - id: "1561781923322265722"
+    author: JJ
+    teacher: false
+    time: "2026-10-20 00:43"
+    text: 但12月感覺會上5萬🤪
+  - id: "1561781991458742314"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:44"
+    text: 你要抱波段嗎
+    reply:
+      id: "1561781923322265722"
+      author: JJ
+      text: 但12月感覺會上5萬🤪
+      inGroup: true
+  - id: "1561782064297148630"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:44"
+    text: 沒有要抱波段我覺得沒差🤣
+  - id: "1561782149244387530"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:44"
+    text: 就是開在不同倉位而已，只是遠月流動性比較差
+  - id: "1561782219947643026"
+    author: JJ
+    teacher: false
+    time: "2026-10-20 00:44"
+    text: |-
+      我都不是抱波段
+      都是被嘎才抱著🤪
+  - id: "1561782300486672508"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:45"
+    text: 那我覺得這個就不影響🤣
+    reply:
+      id: "1561781923322265722"
+      author: JJ
+      text: 但12月感覺會上5萬🤪
+      inGroup: true
+  - id: "1561782353586552993"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:45"
+    text: 除非你被套到12月
+  - id: "1561782676355031182"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:46"
+    text: 近月做短衝、遠月做趨勢
+  - id: "1561782727219347628"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:46"
+    text: 短衝要有流動性
+  - id: "1561782930005696513"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:47"
+    text: 不過如果有好位置減碼才是最佳解啦
+  - id: "1561782952344428638"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:47"
+    text: 保本
+  - id: "1561783000557949101"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:48"
+    text: 不然你要加倉也不夠保證金
+  - id: "1561783139586809918"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:48"
+    text: 還是他有什麼選擇權避險建議(?)
+    reply:
+      id: "1561778957739892757"
+      author: JJ
+      text: H大有跟我說最佳解 但不知道能不能來
+      inGroup: false
+  - id: "1561783225603330122"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:48"
+    text: 對沖減損
+  - id: "1561783358688731328"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:49"
+    text: 我自己是不會玩選擇權🤣我都近遠月小台微台搭
+  - id: "1561979687809458278"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 13:49"
+    text: 可能200ma附近我就慢慢佈空單了(遠月)
+    images:
+      - src: /img/1561979687809458278-image.jpg
+        alt: 10/20 收盤的 5 分 K：價格在紫色 EMA200（46683）下方，Alina 打算反彈到 EMA200 附近慢慢佈遠月空單
+  - id: "1561997617939091518"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 15:00"
+    text: 直接開在200ma
+    reply:
+      id: "1561979687809458278"
+      author: Alina
+      text: 可能200ma附近我就慢慢佈空單了(遠月)
+      inGroup: true
+  - id: "1562004617288482877"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 15:28"
+    text: 突然想到剛剛應該空遠月 XD
+    reply:
+      id: "1562003300138749955"
+      author: Annahui
+      text: 等空 復仇
+      inGroup: false
+  - id: "1562004650943709218"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 15:28"
+    text: 可惡卡結算腦袋打結
+  - id: "1562022813345517621"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 16:40"
+    text: 我看10月，順勢短沖
+  - id: "1562022849651146836"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 16:41"
+    text: 但如果空單我會做遠月
+quiz:
+  - q: Alina 用近月、遠月分工的原則是什麼？
+    o:
+      - 近月做短衝、遠月做趨勢，因為短衝需要流動性
+      - 近月做趨勢、遠月做短衝，因為遠月波動比較大
+      - 近月做多、遠月做空，兩邊對沖可以降低風險
+      - 近月只做小台、遠月只做大台，分開控管保證金
+    a: 0
+    e: Alina 說「近月做短衝、遠月做趨勢」，短衝要有流動性，而遠月流動性比較差；所以她順勢短沖看近月，佈空單則用遠月。
+  - q: JJ 的 10 月、11 月單都被套，Alina 認為最佳解是什麼？
+    o:
+      - 全部轉倉到 12 月，繼續抱到解套為止
+      - 用選擇權做對沖，先把虧損鎖住再說
+      - 趁低點再加碼攤平，把成本拉近市價
+      - 找好位置減碼保本，不然也沒保證金加倉
+    a: 3
+    e: Alina 雖然提了轉倉 12 月，但說有好位置減碼保本才是最佳解，不然要加倉也不夠保證金；她自己不玩選擇權。

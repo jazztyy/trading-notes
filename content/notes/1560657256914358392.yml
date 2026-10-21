@@ -1,0 +1,160 @@
+slug: "1560657256914358392"
+title: 斐波回撤判斷急殺後的支撐
+type: 分析
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 盤勢判讀
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-16"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1560657256914358392
+summary: 夜盤急殺後，Shawnnnn 用斐波量 30 分 K 的漲段，價格回踩到 0.786（46706），沒守住就看季線；Alina 補充 5 分 K 低檔插很多針，下跌力道正在變弱。改用日 K 斐波量，不管從哪個低點拉，都已回測到 0.382／0.236（約 46569）。Alina 認為要守住 0.382 再看反彈狀況，0.382 適合試短多；但這個支撐剛測過，再測只會越來越弱，不要在那裡硬接。
+hidden: false
+messages:
+  - id: "1560657256914358392"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 22:14"
+    text: ""
+    images:
+      - src: /img/1560657256914358392-IMG_4911.jpg
+        alt: 小台 5 分 K：1 分到 4 小時全數偏空，急殺到今日支撐約 46870，低檔連續插針
+  - id: "1560657271376318524"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 22:14"
+    text: 但插很多針
+  - id: "1560657571793207447"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 22:16"
+    text: 下跌力道有變弱喔
+  - id: "1560662261423542404"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-16 22:34"
+    text: 用斐波看就是有回踩深度的0.786
+    images:
+      - src: /img/1560662261423542404-image.jpg
+        alt: 微台 30 分 K 斐波（46455→47630）：價格回踩到 0.786（46706）附近
+  - id: "1560662403861975061"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 22:35"
+    text: 沒守就會去四百了
+  - id: "1560662575488700497"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-16 22:35"
+    text: 沒守就看季線吧?
+  - id: "1560662607965331548"
+    author: Alina
+    teacher: true
+    time: "2026-10-16 22:36"
+    text: 對
+    reply:
+      id: "1560662575488700497"
+      author: Shawnnnn
+      text: 沒守就看季線吧?
+      inGroup: true
+  - id: "1560687250830921779"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-17 00:13"
+    text: 日K斐波來看不管拉哪一個1or2低點都回測到0.382&0.236了
+    images:
+      - src: /img/1560687250830921779-image.jpg
+        alt: 微台日 K 斐波：兩組低點拉到 50264，價格回測 0.382（46569），另標 15M+30M+1H 三週期共振壓力 46945–46949
+  - id: "1560688352003493999"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-17 00:18"
+    text: "@Alina 怎看哈哈哈"
+    reply:
+      id: "1560687250830921779"
+      author: Shawnnnn
+      text: 日K斐波來看不管拉哪一個1or2低點都回測到0.382&0.236了
+      inGroup: true
+  - id: "1560688854552416296"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 00:20"
+    text: 應該守0.382然後看反彈狀況
+    reply:
+      id: "1560688352003493999"
+      author: Shawnnnn
+      text: "@Alina 怎看哈哈哈"
+      inGroup: true
+  - id: "1560689024564461702"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 00:20"
+    text: 夜盤直接下灌到下一階我覺得偏扯
+  - id: "1560689275652022353"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 00:21"
+    text: 0.382適合試短多
+  - id: "1560689411539214458"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-17 00:22"
+    text: 好的46569
+  - id: "1560689488987037907"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 00:22"
+    text: 你…別衝動
+    reply:
+      id: "1560689411539214458"
+      author: 維尼Ni🌻
+      text: 好的46569
+      inGroup: true
+  - id: "1560689553679978598"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 00:23"
+    text: 剛剛去過了
+    reply:
+      id: "1560689411539214458"
+      author: 維尼Ni🌻
+      text: 好的46569
+      inGroup: true
+  - id: "1560689609816670359"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 00:23"
+    text: 下一次再測會越來越弱🤣
+  - id: "1560689728427134987"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 00:23"
+    text: 而且昨天是不是也去過
+  - id: "1560690426464182295"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-17 00:26"
+    text: 昨天46455強彈就一去不回頭
+    reply:
+      id: "1560689728427134987"
+      author: Alina
+      text: 而且昨天是不是也去過
+      inGroup: true
+quiz:
+  - q: 夜盤急殺後，Alina 從哪個跡象判斷下跌力道變弱了？
+    o:
+      - 趨勢表從 1 分到 4 小時全部翻多
+      - 5 分 K 低檔連續插了很多根針
+      - 成交量明顯放大，出現止跌長紅 K
+      - KD 在低檔出現黃金交叉的訊號
+    a: 1
+    e: Alina 指出 5 分 K 低檔插很多針，所以說下跌力道有變弱；當時趨勢表其實還是全數偏空。
+  - q: 維尼想在日 K 斐波 0.382 附近接多，Alina 為什麼勸她別衝動？
+    o:
+      - 0.382 回撤太淺，至少要等 0.618 才接
+      - 日 K 斐波參考性低，應該改看 30 分 K
+      - 季線還在下方，要等跌到季線再來接
+      - 這個支撐剛剛測過，再測會越來越弱
+    a: 3
+    e: Alina 說價格剛剛才去過 0.382，前一天也測過，下一次再測只會越來越弱，所以別在那裡硬接。

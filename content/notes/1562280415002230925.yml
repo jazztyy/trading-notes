@@ -1,0 +1,67 @@
+slug: "1562280415002230925"
+title: 結算日當月合約13:30收盤
+type: 提問
+topic: 盤勢判讀
+tags:
+  - 資金與風險
+teacher: Shawnnnn
+channel: 一般
+date: "2026-10-21"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1562280415002230925
+summary: 大家討論結算日幾點前要平倉，Alina 以為是 13:45。Shawnnnn 糾正：結算日當月合約 13:30 就停止交易，他以前忘記平倉，結果單子動不了。
+hidden: false
+messages:
+  - id: "1562280415002230925"
+    author: Annahui
+    teacher: false
+    time: "2026-10-21 09:44"
+    text: 小孩哥出現了
+  - id: "1562280457498792098"
+    author: Annahui
+    teacher: false
+    time: "2026-10-21 09:44"
+    text: 要平倉了嗎
+  - id: "1562280760671604757"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 09:45"
+    text: 應該13:45平倉吧
+  - id: "1562281441730236467"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-21 09:48"
+    text: 結算日當月的1330就會平了哈哈哈
+    reply:
+      id: "1562280760671604757"
+      author: Alina
+      text: 應該13:45平倉吧
+      inGroup: true
+  - id: "1562281515247730711"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 09:48"
+    text: 是嗎 XD
+    reply:
+      id: "1562281441730236467"
+      author: Shawnnnn
+      text: 結算日當月的1330就會平了哈哈哈
+      inGroup: true
+  - id: "1562281549171531828"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 09:49"
+    text: 長知識
+  - id: "1562281752049877013"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-21 09:49"
+    text: 對因為好久以前我有忘記平想說怎麼動不了了哈哈哈
+quiz:
+  - q: 依 Shawnnnn 的說法，結算日當月合約什麼時候就停止交易？
+    o:
+      - "13:45 收盤，跟平常日盤一樣"
+      - "13:30 就停止交易，要先平倉"
+      - "12:00 中午前就停止交易"
+      - "夜盤 05:00 收盤才停止交易"
+    a: 1
+    e: Shawnnnn 糾正 Alina 以為的 13:45，說結算日當月合約 13:30 就會平了；他以前忘記平倉，結果單子動不了。

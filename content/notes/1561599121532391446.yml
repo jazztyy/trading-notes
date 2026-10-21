@@ -1,0 +1,156 @@
+slug: "1561599121532391446"
+title: 別猜盤勢背後原因，看線辦事
+type: 提問
+topic: 交易心態
+tags:
+  - 交易心態
+  - 盤整震盪
+teacher: Alina
+channel: 一般
+date: "2026-10-19"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1561599121532391446
+summary: 維尼貼出別人的問題：「高點和回測低點都出現在夜盤，如果哪天日盤跌破夜盤低點該怎麼辦？」Alina 的理解是夜盤負責回測支撐、日盤防守，日盤要是跌破夜盤低就代表慣性改變，可能觸發程式單。但她認為當下一步一步看線辦事就好，不要想太多；Shawnnnn 也說「要猜猜不完，只會讓自己更焦慮」。Alina 補充想太多會讓出場判斷的雜訊變多，回頭看線其實都告訴你該怎麼做。震盪盤可以學女神日內結清，每一筆獨立分開，過了就過了。
+hidden: false
+messages:
+  - id: "1561599177065111665"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-19 12:37"
+    text: 有高手能解釋嗎？
+  - id: "1561599754494812203"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 12:39"
+    text: 沒量沒實質支撐(?)
+  - id: "1561599861860597891"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 12:40"
+    text: 日盤還有現貨影響加權
+  - id: "1561600349398114407"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-19 12:42"
+    text: 我也看不懂他要說啥哈哈
+  - id: "1561600522614472725"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 12:42"
+    text: 假設日盤都有防守夜盤低，如果日破夜盤低則慣性打破？一起下地獄？
+  - id: "1561600673416618056"
+    author: Kai
+    teacher: false
+    time: "2026-10-19 12:43"
+    text: 夜盤程式單比較多 可能會引起連鎖效應導致超跌超漲？ 猜的
+  - id: "1561600777493942434"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-19 12:43"
+    text: 意思是還會在日盤測一次夜盤低嗎？我我不懂..
+  - id: "1561600939641544837"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 12:44"
+    text: 對，夜盤幫忙回測低支撐，日盤守，但如果日盤不守，慣性改變，可能觸發程式單🤔
+    reply:
+      id: "1561600673416618056"
+      author: Kai
+      text: 夜盤程式單比較多 可能會引起連鎖效應導致超跌超漲？ 猜的
+      inGroup: true
+  - id: "1561601287978754049"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 12:46"
+    text: 但我覺得還是當下一步一步看就好🤣
+  - id: "1561601353887785004"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 12:46"
+    text: 看線辦事不要想那麼多
+  - id: "1561601473870299159"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-19 12:46"
+    text: 正解
+    reply:
+      id: "1561601353887785004"
+      author: Alina
+      text: 看線辦事不要想那麼多
+      inGroup: true
+  - id: "1561601594708066465"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-19 12:47"
+    text: 要猜猜不完只會讓自己更焦慮上禮拜我就陷入焦慮的情緒
+  - id: "1561601623195787385"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 12:47"
+    text: 沒錯
+  - id: "1561601682490654721"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 12:47"
+    text: 然後出場判斷的雜訊也會變多
+  - id: "1561601876930203770"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 12:48"
+    text: 回過頭來，其實線都有告訴你該怎麼做🤣
+  - id: "1561603904712605707"
+    author: 宸
+    teacher: false
+    time: "2026-10-19 12:56"
+    text: 焦慮到做夢真的就很焦慮了
+    reply:
+      id: "1561601594708066465"
+      author: Shawnnnn
+      text: 要猜猜不完只會讓自己更焦慮上禮拜我就陷入焦慮的情緒
+      inGroup: true
+  - id: "1561603963042664530"
+    author: 宸
+    teacher: false
+    time: "2026-10-19 12:56"
+    text: 最近不留倉就比較沒那麼誇張
+  - id: "1561604024854126644"
+    author: 宸
+    teacher: false
+    time: "2026-10-19 12:56"
+    text: 至少假日都比較心安
+  - id: "1561604079715614721"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 12:57"
+    text: 對，震盪盤可能要像女神那樣日內結掉
+    reply:
+      id: "1561603963042664530"
+      author: 宸
+      text: 最近不留倉就比較沒那麼誇張
+      inGroup: true
+  - id: "1561604115350560839"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 12:57"
+    text: 每一筆都獨立分開
+  - id: "1561604209776926754"
+    author: Alina
+    teacher: true
+    time: "2026-10-19 12:57"
+    text: 過了就過了
+quiz:
+  - q: 有人問「日盤要是跌破夜盤低點該怎麼辦」，Alina 和 Shawnnnn 的態度是？
+    o:
+      - 先預想好各種劇本，事先決定每種情況怎麼做
+      - 當下一步一步看線辦事，猜太多只會更焦慮
+      - 跌破夜盤低就代表程式單啟動，要立刻反手空
+      - 夜盤低點沒有實質支撐，日盤不用特別理會它
+    a: 1
+    e: Alina 說當下一步一步看、看線辦事不要想太多，Shawnnnn 也說要猜猜不完只會更焦慮；Alina 補充想太多會讓出場判斷的雜訊變多。
+  - q: 震盪盤時，Alina 建議怎麼處理部位？
+    o:
+      - 留一口底倉過夜，其餘部位日內出場
+      - 拉長到 15 分 K 操作，減少被來回洗
+      - 停損放寬一點，等震盪結束後再加碼
+      - 像女神一樣日內結清，每筆獨立分開
+    a: 3
+    e: Alina 說震盪盤可能要像女神那樣日內結掉，每一筆都獨立分開，過了就過了。

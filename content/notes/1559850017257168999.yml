@@ -1,0 +1,221 @@
+slug: "1559850017257168999"
+title: 破線轉空與數據前空手
+type: 分析
+topic: 盤勢判讀
+tags:
+  - 盤勢判讀
+  - 交易心態
+  - 資金與風險
+teacher: Alina
+channel: 一般
+date: "2026-10-14"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559850017257168999
+summary: CPI 前 Kai 建議會怕就先出幾口，或設自己能接受的移動停利點。19:01 價格跌破上升趨勢線與交界位，Alina 轉空；看 30 分 K 時 K 棒只是插針進聰明錢藍框，還沒真正跌穿，Shawnnnn 說是漂亮的針，但空方仍強。Alina 和 Shawnnnn 最後選擇空手不賭：位置卡在中間不好判斷，數據公布後的爆拉或爆跌比較有空間做，她打算數據拉高就空、殺低就多。
+hidden: false
+messages:
+  - id: "1559850017257168999"
+    author: Annahui
+    teacher: false
+    time: "2026-10-14 16:47"
+    text: 好猶豫要不要放
+  - id: "1559850066146234369"
+    author: Annahui
+    teacher: false
+    time: "2026-10-14 16:47"
+    text: 大家都放嗎
+  - id: "1559852124266041416"
+    author: Kai
+    teacher: false
+    time: "2026-10-14 16:55"
+    text: 你說放到 CPI 嗎 會怕的話可以先出幾口 不然就是設個自己可以接受的移動停利點 我自己是這樣
+    reply:
+      id: "1559850017257168999"
+      author: Annahui
+      text: 好猶豫要不要放
+      inGroup: true
+  - id: "1559883786311962665"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:01"
+    text: 加入空軍
+  - id: "1559883854393647225"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:01"
+    text: 破線了
+    images:
+      - src: /img/1559883854393647225-image.jpg
+        alt: 小台 5 分 K：長黑跌破藍色上升趨勢線與交界位 48862，1、2、5 分 K 轉偏空
+  - id: "1559884459040440403"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:03"
+    text: 搞不好數據出來拉一個大根的
+  - id: "1559884523167023117"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:04"
+    text: 先在去測一下低
+  - id: "1559887792404824095"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:17"
+    text: 我看一下30分
+  - id: "1559887830245838849"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:17"
+    text: 我想加空欸笑死
+  - id: "1559887890870444104"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:17"
+    text: ""
+    images:
+      - src: /img/1559887890870444104-image.jpg
+        alt: 30 分 K 局部：K 棒插針進聰明錢藍框後又收回
+  - id: "1559888532565401661"
+    author: Mikey
+    teacher: false
+    time: "2026-10-14 19:20"
+    text: 聰明錢30分k的撐被打穿，不過15分k的撐看起來有在撐🤔
+    reply:
+      id: "1559887890870444104"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1559888766330601523"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:21"
+    text: 30分還沒穿，剛剛好插針
+    reply:
+      id: "1559887890870444104"
+      author: Alina
+      text: ""
+      inGroup: true
+  - id: "1559889051195277353"
+    author: Mikey
+    teacher: false
+    time: "2026-10-14 19:22"
+    text: 嗯嗯，應該說現在這支k整個吃進去藍框的撐裡面了
+    reply:
+      id: "1559888766330601523"
+      author: Alina
+      text: 30分還沒穿，剛剛好插針
+      inGroup: true
+  - id: "1559889061353889793"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-14 19:22"
+    text: 很漂亮的針
+    reply:
+      id: "1559888766330601523"
+      author: Alina
+      text: 30分還沒穿，剛剛好插針
+      inGroup: true
+  - id: "1559889080622391437"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:22"
+    text: 對
+    reply:
+      id: "1559889051195277353"
+      author: Mikey
+      text: 嗯嗯，應該說現在這支k整個吃進去藍框的撐裡面了
+      inGroup: true
+  - id: "1559889133072158773"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-14 19:22"
+    text: 只是現在空方太強
+  - id: "1559889239330525225"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:22"
+    text: 所以我現在沒靈感空手了
+    reply:
+      id: "1559889061353889793"
+      author: Shawnnnn
+      text: 很漂亮的針
+      inGroup: true
+  - id: "1559889448794071054"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-14 19:23"
+    text: 目前沒單了~
+    reply:
+      id: "1559889376190926900"
+      author: nick_AJ
+      text: 老大也是多單嗎
+      inGroup: false
+  - id: "1559889474811465769"
+    author: Shawnnnn
+    teacher: true
+    time: "2026-10-14 19:23"
+    text: 不想賭
+  - id: "1559889507015327816"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:23"
+    text: 我想等數據了
+  - id: "1559889522588647515"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:24"
+    text: 拉高我就空
+  - id: "1559889549688180768"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:24"
+    text: 拉低我就多哈哈哈
+  - id: "1559889582328123528"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:24"
+    text: 現在夾在中間
+  - id: "1559889593359274016"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:24"
+    text: 有點難判斷
+  - id: "1559889836461137984"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:25"
+    text: 數據那種爆拉爆跌比較有空間做
+  - id: "1559889850516250648"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:25"
+    text: 現在感覺賭方向
+  - id: "1559890991434178580"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:29"
+    text: 不過的確已經跌破上升的框了
+    images:
+      - src: /img/1559890991434178580-image.jpg
+        alt: 小台 1 小時 K：價格跌破上升通道下緣
+  - id: "1559891352526004227"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 19:31"
+    text: 但現在這尷尬位置，所以等數據來爆拉或爆跌再吃豆腐
+quiz:
+  - q: 學員猶豫要不要把單子留到 CPI 公布，Kai 的建議是什麼？
+    o:
+      - 數據前全部平倉，等公布後再重新進場
+      - 先加碼，數據方向對了才有大波段可吃
+      - 掛一口反向單對鎖，數據出來後再解開
+      - 會怕就先出幾口，或設能接受的移動停利
+    a: 3
+    e: Kai 說會怕的話可以先出幾口，不然就設個自己可以接受的移動停利點，並不是要全部平倉或加碼賭方向。
+  - q: CPI 前 Alina 和 Shawnnnn 最後選擇空手，主要理由是什麼？
+    o:
+      - 位置夾在中間難判斷，數據爆拉爆跌才有空間
+      - 30 分 K 已跌穿聰明錢藍框，空方已經確立
+      - 盤中波動太小，進出的手續費會吃掉獲利
+      - 1 小時 K 仍在上升通道內，多空方向不明
+    a: 0
+    e: Alina 說現在夾在中間、像在賭方向，數據公布後的爆拉爆跌比較有空間做；30 分 K 其實只是插針沒跌穿，1 小時 K 也已跌破上升框。

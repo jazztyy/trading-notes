@@ -1,0 +1,187 @@
+slug: "1561785390195544206"
+title: EMA200 當分 K 多空分水嶺搭配雙線
+type: 提問
+topic: 指標設定
+tags:
+  - 指標設定
+  - 盤勢判讀
+teacher: Alina
+channel: 一般
+date: "2026-10-20"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1561785390195544206
+summary: Annahui 問 Alina 的「雙線＋EMA200」是不是把 Shawnnnn 的 EMA25 改成 200。Alina 說不是，是另外多加一條 EMA200：在 TradingView 搜尋 EMA，選第一個 Exponential moving average，長度改成 200。EMA200 可以當分 K 的多空分水嶺，價格跌破它、雙線又下穿，就是走空方。tawpas 問怎麼知道多空界線在哪、多單跌破點位該不該停損，Alina 答用雙線判斷：EMA200 是多空分水嶺，雙線在上方上穿就做多、在下方下穿就做空，再搭配撐壓點位機器人算出的點位參考。維尼補充雙線就是 Shawnnnn 分享的那套。
+hidden: false
+messages:
+  - id: "1561785390195544206"
+    author: Annahui
+    teacher: false
+    time: "2026-10-20 00:57"
+    text: 這個是直接把尚恩的ema25改成200嗎
+    reply:
+      id: "1561785222268457062"
+      author: Alina
+      text: 我覺得雙線ema200+撐🦆已經很好用了😆
+      inGroup: false
+  - id: "1561785563638530079"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 00:58"
+    text: 不是，多加一條ema200
+    reply:
+      id: "1561785390195544206"
+      author: Annahui
+      text: 這個是直接把尚恩的ema25改成200嗎
+      inGroup: true
+  - id: "1561785759013277848"
+    author: Annahui
+    teacher: false
+    time: "2026-10-20 00:59"
+    text: 請問技術指標要用哪個呀
+    reply:
+      id: "1561785563638530079"
+      author: Alina
+      text: 不是，多加一條ema200
+      inGroup: true
+  - id: "1561786047162228766"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 01:00"
+    text: 第一個ema，然後改200
+    reply:
+      id: "1561785759013277848"
+      author: Annahui
+      text: 請問技術指標要用哪個呀
+      inGroup: true
+    images:
+      - src: /img/1561786047162228766-IMG_5009.jpg
+        alt: TradingView 搜尋 EMA，選第一個 Exponential moving average，再把長度改成 200
+  - id: "1561787549385629818"
+    author: Annahui
+    teacher: false
+    time: "2026-10-20 01:06"
+    text: 剛下去打到就彈 好好用
+  - id: "1561787587067256924"
+    author: Annahui
+    teacher: false
+    time: "2026-10-20 01:06"
+    text: 我之前都憑感覺
+  - id: "1561787690964230156"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 01:06"
+    text: 200ma可視為分k的多空分水嶺
+    reply:
+      id: "1561787587067256924"
+      author: Annahui
+      text: 我之前都憑感覺
+      inGroup: true
+  - id: "1561787808790749255"
+    author: Annahui
+    teacher: false
+    time: "2026-10-20 01:07"
+    text: 像現在 5分K又往下測800
+  - id: "1561787890797908079"
+    author: Annahui
+    teacher: false
+    time: "2026-10-20 01:07"
+    text: 破下去就700見 這樣嗎
+  - id: "1561788006027890880"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 01:07"
+    text: 對，然後如果雙線下穿，就是走空方了
+  - id: "1561788013518786741"
+    author: Annahui
+    teacher: false
+    time: "2026-10-20 01:07"
+    text: ema 802
+  - id: "1561791465871642666"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 01:21"
+    text: 我的意思是說怎麼知道多空界線是哪一個
+  - id: "1561791731379212341"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 01:22"
+    text: 那假設我在46770多 往下破到236我該走嗎 還是繼續往下看到45907
+  - id: "1561791791660011561"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 01:22"
+    text: 有點不太懂這要怎麼止損🤣
+  - id: "1561791855962882161"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 01:23"
+    text: 你看線好了
+    reply:
+      id: "1561791791660011561"
+      author: tawpas
+      text: 有點不太懂這要怎麼止損🤣
+      inGroup: true
+  - id: "1561791887063515277"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 01:23"
+    text: 用雙線🤣
+  - id: "1561792299648811079"
+    author: Alina
+    teacher: true
+    time: "2026-10-20 01:25"
+    text: 然後ema200多空分水嶺，雙線上穿在上多，下穿在下空，再搭配撐壓點位機器人算出來的點位參考
+  - id: "1561794782647418951"
+    author: tawpas
+    teacher: false
+    time: "2026-10-20 01:34"
+    text: 雙線是哪兩條🤣
+    reply:
+      id: "1561791887063515277"
+      author: Alina
+      text: 用雙線🤣
+      inGroup: true
+  - id: "1561796770089144352"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-20 01:42"
+    text: 溫開水兩線那個
+    reply:
+      id: "1561794782647418951"
+      author: tawpas
+      text: 雙線是哪兩條🤣
+      inGroup: true
+  - id: "1561797013937586206"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-20 01:43"
+    text: ""
+    reply:
+      id: "1561794782647418951"
+      author: tawpas
+      text: 雙線是哪兩條🤣
+      inGroup: true
+    images:
+      - src: /img/1561797013937586206-20261020_014328.jpg
+        alt: Shawnnnn 分享的雙線設定講義：加入 McGinley 動態指標，長度設 6（白線）
+  - id: "1561797043570085900"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-20 01:43"
+    text: 這個 肖恩分享的
+quiz:
+  - q: Alina 說的「雙線＋EMA200」，EMA200 要怎麼設？
+    o:
+      - 把 Shawnnnn 雙線裡的 EMA25 長度改成 200
+      - 把雙線裡的 McGinley 白線長度改成 200
+      - 另外多加一條 EMA，長度設成 200
+      - 另外加一條 SMA，長度設成 200 即可
+    a: 2
+    e: Alina 說不是把 EMA25 改成 200，而是多加一條 EMA200：TradingView 搜尋 EMA 選第一個 Exponential moving average，長度改 200。
+  - q: 依 Alina 的說法，EMA200 和雙線要怎麼搭配判斷多空？
+    o:
+      - 雙線在 EMA200 上方上穿做多，在下方下穿做空
+      - 價格碰到 EMA200 就反向進場，雙線只看出場
+      - 雙線下穿就做空，不必管價格在 EMA200 哪一側
+      - EMA200 往上彎就做多，雙線交叉只是雜訊參考
+    a: 0
+    e: Alina 說 EMA200 是分 K 的多空分水嶺，雙線上穿在上做多、下穿在下做空，再搭配撐壓點位機器人的點位參考。

@@ -1,0 +1,93 @@
+slug: "1562263872344162326"
+title: 結算日勝率低，沒把握就不做
+type: 教學
+topic: 盤勢判讀
+tags:
+  - 交易心態
+  - 資金與風險
+teacher: Alina
+channel: 一般
+date: "2026-10-21"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1562263872344162326
+summary: Alina 說結算日常是她下單錯亂、勝率最低、最容易被雙巴的日子，因為近遠月價差會讓判斷打結。沒把握就不用進單，不如看莊家表演，等價格到點位再做。
+hidden: false
+messages:
+  - id: "1562263872344162326"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 08:38"
+    text: 今天結算又是我下單錯亂日
+  - id: "1562263946612834435"
+    author: wenwen0128.
+    teacher: false
+    time: "2026-10-21 08:39"
+    text: 我結算也很容易上頭欸
+  - id: "1562263972307017769"
+    author: wenwen0128.
+    teacher: false
+    time: "2026-10-21 08:39"
+    text: 今天還是不要亂按好了
+  - id: "1562276753605529622"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 09:30"
+    text: 沒把握我覺得不用進單 XD
+  - id: "1562276792159576136"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 09:30"
+    text: 結算日
+  - id: "1562324410172711014"
+    author: wenwen0128.
+    teacher: false
+    time: "2026-10-21 12:39"
+    text: 注意近月跟次月價差哦
+  - id: "1562326130382475285"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 12:46"
+    text: 不知道，結算通常是我勝率最低的時候XD
+  - id: "1562327327344435291"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 12:51"
+    text: 但講真的結算我常被巴
+  - id: "1562327417937334293"
+    author: Annahui
+    teacher: false
+    time: "2026-10-21 12:51"
+    text: 我也是
+  - id: "1562327443522588763"
+    author: Kai
+    teacher: false
+    time: "2026-10-21 12:51"
+    text: 綁手不做
+  - id: "1562327482542334033"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 12:51"
+    text: 還不如看莊家表演
+  - id: "1562327505480847413"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 12:51"
+    text: 然後有到點位在做
+  - id: "1562327630571642973"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 12:52"
+    text: 但因為結算近遠月價差
+  - id: "1562327716739420261"
+    author: Alina
+    teacher: true
+    time: "2026-10-21 12:52"
+    text: 我腦袋會打結
+quiz:
+  - q: 結算日常被雙巴，Alina 建議怎麼面對？
+    o:
+      - 改做遠月合約，避開近月結算的波動
+      - 縮小口數照常交易，把停損設得更緊
+      - 沒把握就不進單，等價格到點位再做
+      - 只做結算前最後一小時的順勢單
+    a: 2
+    e: Alina 說結算日是她勝率最低、常被巴的時候，因為近遠月價差會讓腦袋打結；沒把握就不用進單，不如看莊家表演，有到點位再做。

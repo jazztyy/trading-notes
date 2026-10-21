@@ -1,0 +1,157 @@
+slug: "1559444548525101098"
+title: 200T 就是 EMA200 與大級別下穿
+type: 提問
+topic: 指標設定
+tags:
+  - 指標設定
+  - 多週期判斷
+teacher: Alina
+channel: 一般
+date: "2026-10-13"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559444548525101098
+summary: Doobe 問別人 60 分 K 設的 35T／200T 怎麼看，Alina 認為 200T 就是她 TV 上設的 EMA200；當天 60 分 K 出現下穿 EMA200 的跡象，4 小時也很危險（藍色區是聰明錢支撐）。35T 出自一份均線運用檔案：價格急跌到 35 週線或 200 週線附近會有長線買盤撐住，Alina 已把檔案放到資料分享區，並說目前「雙線 + EMA200 + 支撐壓力」就很好用。
+hidden: false
+messages:
+  - id: "1559444548525101098"
+    author: Doobe
+    teacher: false
+    time: "2026-10-13 13:55"
+    text: 他都買200t
+  - id: "1559445119248375829"
+    author: Doobe
+    teacher: false
+    time: "2026-10-13 13:58"
+    text: 60分k設35-200t
+  - id: "1559448777411264575"
+    author: 宸
+    teacher: false
+    time: "2026-10-13 14:12"
+    text: t不就是各分K的ma的意思嗎
+  - id: "1559448889130745957"
+    author: 宸
+    teacher: false
+    time: "2026-10-13 14:13"
+    text: |-
+      日線->ma均線 
+      分K->t 均線?
+  - id: "1559452130346274827"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 14:26"
+    text: 他都買60分k 200T嗎 ?
+    reply:
+      id: "1559444548525101098"
+      author: Doobe
+      text: 他都買200t
+      inGroup: true
+  - id: "1559453595341033573"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 14:31"
+    text: 如果我沒理解錯應該就是我TV設定的EMA200
+  - id: "1559453637560762431"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-13 14:32"
+    text: 感覺是一樣的
+  - id: "1559453708675190856"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 14:32"
+    text: 60分今天出現下穿跡象
+    images:
+      - src: /img/1559453708675190856-image.jpg
+        alt: 小台 1 小時 K：紅藍雙線往下壓，K 棒跌破紫色 EMA200，接近下方藍色聰明錢支撐
+  - id: "1559453737708290059"
+    author: nick_AJ
+    teacher: true
+    time: "2026-10-13 14:32"
+    text: 但35T就比較特別
+  - id: "1559453772747505726"
+    author: 宸
+    teacher: false
+    time: "2026-10-13 14:32"
+    text: 真的 為什麼是35
+  - id: "1559453934312103987"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 14:33"
+    text: 4小時看起來也危險
+    images:
+      - src: /img/1559453934312103987-image.jpg
+        alt: 小台 4 小時 K：價格回到藍色聰明錢支撐區，趨勢表顯示 1 分到 4 小時都偏空、日與週線偏多
+  - id: "1559455658145882145"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 14:40"
+    text: 我忘記我在哪看過還聽過，我找找
+    reply:
+      id: "1559453737708290059"
+      author: nick_AJ
+      text: 但35T就比較特別
+      inGroup: true
+  - id: "1559455723962761216"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 14:40"
+    text: ""
+    images:
+      - src: /img/1559455723962761216-image.jpg
+        alt: 均線檔案摘錄：股價急跌到 35 週線或 200 週線附近是長線買盤抵抗的強支撐區
+  - id: "1559455778543247393"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-13 14:40"
+    text: 藍色是聰明錢支撐嗎
+    reply:
+      id: "1559453934312103987"
+      author: Alina
+      text: 4小時看起來也危險
+      inGroup: true
+  - id: "1559455868955660290"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 14:40"
+    text: 對
+    reply:
+      id: "1559455778543247393"
+      author: 維尼Ni🌻
+      text: 藍色是聰明錢支撐嗎
+      inGroup: true
+  - id: "1559456220732071969"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 14:42"
+    text: 我有一個忘記來源的均線運用檔案 XD 我放去資料分享區好了
+    reply:
+      id: "1559455658145882145"
+      author: Alina
+      text: 我忘記我在哪看過還聽過，我找找
+      inGroup: true
+  - id: "1559457834578612286"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 14:48"
+    text: 放了，只是內容漏漏長，我自己也沒完全看完吸收哈哈哈
+  - id: "1559460489484828705"
+    author: Alina
+    teacher: true
+    time: "2026-10-13 14:59"
+    text: 不過我覺得現在雙線+EMA200+支撐壓力就滿好用 XD
+quiz:
+  - q: 有人在 60 分K 設「200T」，Alina 認為 200T 指的是什麼？
+    o:
+      - 60 分K 上 200 根的成交量均線
+      - 聰明錢指標畫出的藍色支撐區塊
+      - 換算到日線上的 200 日簡單均線
+      - 就是她 TV 上設的 EMA200
+    a: 3
+    e: Alina 說如果沒理解錯，200T 就是她 TV 設定的 EMA200，nick_AJ 也覺得是一樣的。
+  - q: 依 Alina 分享的均線檔案，35 週線、200 週線附近有什麼意義？
+    o:
+      - 價格突破這兩條線，代表短線將出現急漲
+      - 這兩條線交叉時，就是長線多空翻轉的訊號
+      - 價格急跌到附近時，會有長線買盤撐住
+      - 價格跌破這兩條線，就該全數停損出場
+    a: 2
+    e: 檔案摘錄說股價急跌到 35 週線或 200 週線附近，是長線買盤抵抗的強支撐區；Alina 也說目前用「雙線 + EMA200 + 支撐壓力」就很好用。

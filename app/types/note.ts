@@ -68,5 +68,37 @@ export interface Topic {
   desc: string
 }
 
+/** 理論說明裡的一張 TV 截圖 */
+export interface ConceptFigure {
+  src: string
+  /** 這張圖要看什麼 */
+  caption: string
+  /** 出自哪組討論（slug） */
+  from: string
+}
+
+/** 理論說明的一段 */
+export interface ConceptSection {
+  heading: string
+  text: string[]
+  items: string[]
+  figures: ConceptFigure[]
+}
+
+/** 理論：同一個觀念的整理，底下的討論是它的出處 */
+export interface Concept {
+  /** = 檔名，網址 /c/{slug} */
+  slug: string
+  title: string
+  topic: string
+  /** 在主題裡的順序 */
+  order: number
+  summary: string
+  sections: ConceptSection[]
+  cautions: string[]
+  /** 屬於這個理論的討論 slug，依時間由舊到新 */
+  notes: string[]
+}
+
 /** 學習狀態：已讀、待複習、已懂；沒有紀錄就是未讀 */
 export type StudyStatus = 'read' | 'review' | 'known'

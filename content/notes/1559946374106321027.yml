@@ -1,0 +1,156 @@
+slug: "1559946374106321027"
+title: 月線支撐接多與智慧單停損
+type: 提問
+topic: 撐壓點位
+tags:
+  - 撐壓點位
+  - 停損停利
+teacher: Alina
+channel: 一般
+date: "2026-10-14"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1559946374106321027
+summary: 10/14 夜盤 Alina 在 48280 回補空單並翻多，理由是月線在 48288 附近（她習慣掛整數）。維尼以為月線在 47850，Alina 解釋月線就是日 K 的 20MA，每過一個交易日都會往前滾動，所以才有扣抵值；月線要尊重，實體 K 棒跌破就很難看。因為盤勢太恐怖，她這次設了智慧單（平常不設），後來跌破就自動停損出場，避開了後面的大跌。
+hidden: false
+messages:
+  - id: "1559946374106321027"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:09"
+    text: 我補囉
+  - id: "1559946440053104712"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:10"
+    text: "280"
+  - id: "1559947161146494999"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:13"
+    text: 補&多
+    reply:
+      id: "1559946440053104712"
+      author: Alina
+      text: "280"
+      inGroup: true
+  - id: "1559947231174332477"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:13"
+    text: 還是拜託站回支撐387
+  - id: "1559947576642371606"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-14 23:14"
+    text: 你怎麼抓到280多能這麼彈得
+  - id: "1559947645609320490"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:15"
+    text: 月線附近
+    reply:
+      id: "1559947576642371606"
+      author: 維尼Ni🌻
+      text: 你怎麼抓到280多能這麼彈得
+      inGroup: true
+  - id: "1559947686185144331"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:15"
+    text: 288那
+  - id: "1559947724302979145"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:15"
+    text: 我喜歡買整數🤣
+  - id: "1559947766224916530"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-14 23:15"
+    text: 我以為月線是47850
+  - id: "1559947848169037855"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:15"
+    text: 他會變呀
+  - id: "1559947965802618893"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:16"
+    text: 日子在過，你平均20交易日會滾動的
+  - id: "1559948014397956119"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:16"
+    text: 所以才有那個什麼扣抵值
+  - id: "1559948279238762549"
+    author: 維尼Ni🌻
+    teacher: false
+    time: "2026-10-14 23:17"
+    text: 日k的20T嗎？
+  - id: "1559948361975595049"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:17"
+    text: 對
+  - id: "1559948505181855835"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:18"
+    text: 月線要尊重
+  - id: "1559948666729529425"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:19"
+    text: 實體破線就真的好難看
+  - id: "1559950054989500427"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:24"
+    text: 設個智慧單好了，真恐怖
+  - id: "1559950154604220467"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:24"
+    text: 洗完澡再看看倉位在不在🤣
+  - id: "1559955195117568034"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:45"
+    text: 倉位不見了哈哈
+  - id: "1559955258455761017"
+    author: Kai
+    teacher: false
+    time: "2026-10-14 23:45"
+    text: 好在你有設智慧單 ＸＤ
+  - id: "1559955458155094027"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:46"
+    text: 真的，不然一般我都不設
+    reply:
+      id: "1559955258455761017"
+      author: Kai
+      text: 好在你有設智慧單 ＸＤ
+      inGroup: true
+  - id: "1559955505114382478"
+    author: Alina
+    teacher: true
+    time: "2026-10-14 23:46"
+    text: 今天理智告訴我不設會後悔🤣
+quiz:
+  - q: 維尼以為月線在 47850，Alina 怎麼解釋月線的位置為什麼會變？
+    o:
+      - 月線是月 K 開盤價，每個月初會重新設定
+      - 月線是日 K 的 20MA，會隨交易日往前滾動
+      - 月線是週 K 的 20MA，每週結算後才會更新
+      - 月線是 60 日均線，大約每一季調整一次
+    a: 1
+    e: Alina 說月線就是日 K 的 20MA，日子在過、20 個交易日的平均會一直滾動，所以才有扣抵值。
+  - q: Alina 這次翻多後，為什麼特別設了智慧單？
+    o:
+      - 她每一筆單都固定會設智慧單當停損
+      - 夜盤流動性比較差，限價單容易不成交
+      - 月線已被實體 K 跌破，要先鎖住獲利
+      - 盤勢太恐怖，理智告訴她不設會後悔
+    a: 3
+    e: Alina 說一般她都不設智慧單，這次是盤勢太恐怖、覺得不設會後悔，結果跌破時自動停損，避開了後面的大跌。

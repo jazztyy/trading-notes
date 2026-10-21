@@ -1,0 +1,149 @@
+slug: "1560888966327177288"
+title: 大級別反轉別逆勢摸底、減少雜訊
+type: 教學
+topic: 盤勢判讀
+tags:
+  - 交易心態
+  - 復盤回測
+  - 多週期判斷
+teacher: Alina
+channel: 一般
+date: "2026-10-17"
+url: https://discord.com/channels/1542520115562545162/1542520116078583921/1560888966327177288
+summary: Alina 週末復盤：日 K 這種大級別已經在反轉，小級別其實只是搶短多，她心裡卻一直掛著往上的短多目標，被月初漲勢和反彈預期「鬼遮眼」，逆勢摸底。其實均線和撐壓訊號都很清楚，5 分 K 走簡單行情時就該順勢做。她的檢討有三點：減少雜訊（Threads、別人的目標價都會干擾判斷）；策略定好的「上去放空單替現貨避險」要確實執行；下單前先想賺賠比，往上只差幾百點，往下卻不只。
+hidden: false
+messages:
+  - id: "1560888966327177288"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:35"
+    text: 我今天復盤完後發現真的是鬼遮眼🫣
+  - id: "1560889949728022610"
+    author: Mikey
+    teacher: false
+    time: "2026-10-17 13:39"
+    text: |-
+      但也這次跌沒有特別的理由吧
+      空也很怕隨時被嘎回去
+  - id: "1560890003645661286"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:39"
+    text: 對，而且空通常是又急又快
+    reply:
+      id: "1560889881318785025"
+      author: Doobe
+      text: 怎麼上怎麼下
+      inGroup: false
+  - id: "1560890055449378889"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:39"
+    text: 但又被月初那波限制腦袋
+  - id: "1560890120696111127"
+    author: Doobe
+    teacher: false
+    time: "2026-10-17 13:40"
+    text: 一直盯5分k、30分k會盲目欸
+  - id: "1560890133094334719"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:40"
+    text: 所以想太多果然不行，雜訊太多
+  - id: "1560890229861253223"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:40"
+    text: 回歸看線順勢🤣 不要想太多
+  - id: "1560890448879423589"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:41"
+    text: 明明大級別都在反轉，小級別就是搶短多，但心裡一直往上短多的目標🤣
+  - id: "1560890542689099817"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:41"
+    text: 其實線跟支撐壓力訊號很清楚🥹
+  - id: "1560890619096862801"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:42"
+    text: 5分簡單行情應該勇敢做下去🤣
+  - id: "1560890733953818627"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:42"
+    text: 逆勢摸底摸到遮眼了
+    reply:
+      id: "1560890619096862801"
+      author: Alina
+      text: 5分簡單行情應該勇敢做下去🤣
+      inGroup: true
+  - id: "1560891151672807475"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:44"
+    text: 而且明明自己說策略上去放空單跟現貨避險🌚 結果空單有放但抱不住🤡
+  - id: "1560891228906586154"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:44"
+    text: 策略執行半吊子🤣
+  - id: "1560891380245594196"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:45"
+    text: 如果按策略反轉就反轉，現貨活著就好🤣 現在沒有空單避險氣死
+    reply:
+      id: "1560890909443362897"
+      author: Doobe
+      text: 因為一直有要反轉的感覺
+      inGroup: false
+  - id: "1560891491793117216"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:45"
+    text: 我要減少雜訊🤣
+  - id: "1560892690558623745"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:50"
+    text: 我自己滑脆那些也會影響
+  - id: "1560893215500935221"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:52"
+    text: 可能還有叔叔的目標價哈哈哈
+  - id: "1560893252956061697"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:52"
+    text: 仔細想想賺賠比
+  - id: "1560893305187999895"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:52"
+    text: 往上差幾百點
+  - id: "1560893326972948481"
+    author: Alina
+    teacher: true
+    time: "2026-10-17 13:52"
+    text: 往下不止🤣
+quiz:
+  - q: Alina 週末復盤，檢討自己在日 K 大級別已經反轉時犯了什麼錯？
+    o:
+      - 太早順勢放空，被短線反彈軋出場
+      - 只看日 K 不看小週期，錯過進場點
+      - 心裡一直掛著往上目標，逆勢摸底
+      - 停損設得太寬，單筆虧損超出預期
+    a: 2
+    e: Alina 說大級別都在反轉、小級別只是搶短多，她心裡卻一直想著往上的短多目標，結果逆勢摸底「鬼遮眼」。
+  - q: Alina 提醒下單前要先想賺賠比，她當時對做多的評估是什麼？
+    o:
+      - 往上空間比往下大，所以適合做多
+      - 往上只差幾百點，往下空間卻不只
+      - 上下空間差不多，所以先空手觀望
+      - 往下已經跌夠深，摸底賺賠比很高
+    a: 1
+    e: Alina 說仔細想想賺賠比，往上只差幾百點、往下卻不只，逆勢摸底並不划算。
